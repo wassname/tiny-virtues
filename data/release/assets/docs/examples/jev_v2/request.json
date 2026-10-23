@@ -1,0 +1,1400 @@
+{
+  "model": "typesafe/jev-1.14",
+  "state": {
+    "layout_scope": "Each question judges ONLY its OWN named agent and whole story, using the single shared source_led_teaching rubric. Shared examples are demonstrations, not evaluation stories. Do not judge another question's agent or story.",
+    "judging_task": "You are doing a moral labelling task. Each question names a moral tradition and one of its principles (a virtue or vice) with that tradition's own description, or asks for the tradition's overall verdict. Judge the act of the agent named in \"agent\", in the story, by that tradition's own standards, which often differ from modern common sense and from what the story's author says. If the story gives its author's or narrator's verdict or argues for one, or you recognise the story, do not adopt that view: judge the act as written. ... marks cut text and [brackets] mark words an editor added. Read the agent's most likely motive from the act, any stated reason, their role and the setting.",
+    "source_led_teaching": {
+      "tradition": "confucian",
+      "item": "Wisdom",
+      "scope": "Mencius (Legge 1875) on 智, which Legge renders 'knowledge': the feeling of approving and disapproving, its fruit in knowing and keeping the core family duties, and knowing what matters most. The grouping into five constants is a later primer's.",
+      "segments": [
+        {
+          "quote": "\"... when men suddenly see a child about to fall into a well, they will all experience a feeling of alarm and distress. ... That feeling of distress is the principle of benevolence ; the feeling of shame and dislike is the principle of righteousness ; the feeling of modesty and complaisance is the principle of propriety ; and **the feeling of approving and disapproving is the principle of knowledge.** Men have these four principles just as they have their four limbs.",
+          "citation": "Mencius 2A6, tr. Legge (1875)"
+        },
+        {
+          "context": "Legge's note on his own translation, not Mencius:",
+          "quote": "\"Principle\" in par. 5, is the right translation of the original term, meaning \"the beginning,\" as the end of a clue, &c. ... \"Knowledge\" is the only term with which I am not satisfied. Would \"wisdom\" be a better word",
+          "citation": "Legge, note on Mencius 2A6 (1875)"
+        },
+        {
+          "quote": "let us know to give them all their development and completion, and the issue will be like that of a fire which has begun to burn ... let them be denied that development, and they will not suffice for a man to serve his parents with.",
+          "citation": "Mencius 2A6, tr. Legge (1875)"
+        },
+        {
+          "quote": "Mencius said, \"The richest fruit of benevolence is this, — the service of one's parents. The richest fruit of righteousness is this, — the service of one's elder brother. **The richest fruit of wisdom is this, — the knowing those two things and not departing from them.**",
+          "citation": "Mencius 4A27, tr. Legge (1875)"
+        },
+        {
+          "quote": "Mencius said, \" The wise embrace all knowledge, but they are most earnest about what they ought to be most concerned about. ... [Even] the knowledge of Yaou and Shun did not extend to everything, but they were earnest about what first concerned them.",
+          "citation": "Mencius 7A46, tr. Legge (1875)"
+        },
+        {
+          "context": "After the case of someone who cannot keep the three years' mourning yet is particular about three or five months' mourning:",
+          "quote": "such things illustrate what I say about not knowing what is most to be attended to.",
+          "citation": "Mencius 7A46, tr. Legge (1875)"
+        },
+        {
+          "explanation": "Here wisdom begins as moral approving and disapproving, not stored information. It bears fruit in recognising the core family duties and not abandoning them, and in knowing what matters most. Mencius does not condemn broad knowledge; what fails is getting priorities wrong."
+        }
+      ],
+      "limits": "Mencius gives four beginnings; the five-constants grouping and 'good faith' are later. Legge's preference for 'wisdom' is a translator's note. Mencius does not say how to rate a single act against an undeveloped beginning.",
+      "example_scale": "Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.",
+      "opus_labelled_stories": [
+        {
+          "agent": "Shên Tao",
+          "story": "Selected act or disposition (quoted from the passage):\nConsequently, Shên Tao discarded all knowledge and self-interest and became a fatalist. ... Passivity was his guiding principle. \"For,\" said he, \"we can only know that we know nothing, and a little knowledge is a dangerous thing. ... \"Move when pushed, come when dragged. Be like a whirling gale, like a feather in the wind, like a mill-stone going round. The mill-stone as an existence is perfectly harmless. In motion or at rest it does no more than is required, and cannot therefore incur blame. ... \"For a clod cannot be without TAO,\"\n\nContext from the same passage:\nBut TAO is comprehensive.\"",
+          "reason": "Becoming an inert thing that neither approves nor disapproves deliberately denies the beginning of wisdom its development. This is clear conflict.",
+          "evidence_level": "Some evidence that the conduct conflicts with this virtue."
+        },
+        {
+          "agent": "Confucius",
+          "story": "Selected act or disposition (quoted from the passage):\nexercised great caution",
+          "reason": "Saving his greatest caution for sacrificial fasting, war and sickness shows earnestness about what most needs attention, which is Mencius's priority wisdom.",
+          "evidence_level": "Some evidence that the conduct shows this virtue."
+        },
+        {
+          "agent": "the third set of recluses and brahmins",
+          "story": "Selected act or disposition (quoted from the passage):\na third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.\n\nContext from the same passage:\nThe crop typifies the five pleasures of sense; the trapper stands for Mara, the Evil One; the trapper’s people are Mara’s train; and the deer represent recluses and brahmins.",
+          "reason": "Mencius's wisdom is moral approving and disapproving, and knowing what matters most. Taking up cosmological questions instead of the central task could count as misplaced priorities, but only by inference. Family duties are not involved, and Mencius does not condemn broad knowledge.",
+          "evidence_level": "Neither direction is established by the described conduct."
+        },
+        {
+          "agent": "The happy man",
+          "story": "Selected act or disposition (quoted from the passage):\nhe is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.",
+          "reason": "Reason 'recommending' his affairs is loosely a kind of approving. But Mencian wisdom bears fruit in the parent and elder-brother duties and in correct priorities, and the passage addresses neither.",
+          "evidence_level": "Neither direction is established by the described conduct."
+        },
+        {
+          "agent": "one of the sophists",
+          "story": "Selected act or disposition (quoted from the passage):\nwhen the man was wild with rage\n\nContext from the same passage:\nDo you not know that Diogenes pointed out one of the sophists in this way by stretching out his middle finger?",
+          "reason": "If he is enraged over reputation (inference), that would show misplaced earnestness. But Mencius ties wisdom to moral approving and disapproving and to core family duties, and neither is at stake here.",
+          "evidence_level": "Neither direction is established by the described conduct."
+        },
+        {
+          "agent": "Achan",
+          "story": "Selected act or disposition (quoted from the passage):\ncoveted a golden weight from the camp of the Philistines, and stole it",
+          "reason": "Putting gold above what is right suggests his priorities are misordered. Mencius's anchors are not directly engaged.",
+          "evidence_level": "Some evidence that the conduct conflicts with this virtue."
+        }
+      ]
+    }
+  },
+  "questions": {
+    "s03dfb4ff9091c54c_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Anaximander",
+        "story": "Selected act or disposition (quoted from the passage):\nAnaximander, however, was more sophisticated and thought that the arche was something he called the apeiron, often translated as “infinite” or “limitless.” He proposed the very modern idea that the fundamental substance, which we cannot sense directly, gives rise to the sort of stuff we do sense, like the four elements. And those, in turn, make possible everyday objects like mountains, trees, and human beings. Moreover, when something dies or is otherwise destroyed, its constituent parts are recycled into the apeiron.\n\nFull passage:\nTwo of Thales’s students, Anaximander and Anaximenes, also from Miletus (in modern western Turkey), proposed alternative hypotheses about the basic nature of the world. For Anaximenes, the arche—the unified principle underlying everything—was air, another of the classical four elements (together with water, fire, and earth). Anaximander, however, was more sophisticated and thought that the arche was something he called the apeiron, often translated as “infinite” or “limitless.” He proposed the very modern idea that the fundamental substance, which we cannot sense directly, gives rise to the sort of stuff we do sense, like the four elements. And those, in turn, make possible everyday objects like mountains, trees, and human beings. Moreover, when something dies or is otherwise destroyed, its constituent parts are recycled into the apeiron. Invoking Anaximander in the context of quantum mechanics, physicist Max Born said that we could think of elementary particles and their quantum states as manifestations of an underlying substance, which he proposed calling apeiron.\n\nSupplementary source context — Massimo Pigliucci, modern qualification of the pre-Socratics’ speculative explanations:\nThis indicates that the pre-Socratics understood the basic principle of science: Not only must our conclusions be backed by reasoned arguments, but those arguments need to be grounded in empirical evidence. And therein lies the limitation of their approach: In the sixth century BCE, and for a long time after that, humans simply did not have sufficient technical means to gather compelling empirical evidence for their speculations about the nature of reality, which is why their explanations seem so simplistic to us moderns. We benefit from the scientific revolution that began in the seventeenth century—almost two and a half millennia after Thales.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s106c8d8d3858db89_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Thales",
+        "story": "Selected act or disposition (quoted from the passage):\nThales says that it [the nature of things] is water…. [Thales’s] supposition may have arisen from the observation…that the nurture of all creatures is moist, and that warmth itself is generated from moisture and lives by it; and that from which all things come to be is their first principle…. Besides this, another reason for the supposition would be that the semina of all things have a moist nature.\n\nFull passage:\nThales says that it [the nature of things] is water…. [Thales’s] supposition may have arisen from the observation…that the nurture of all creatures is moist, and that warmth itself is generated from moisture and lives by it; and that from which all things come to be is their first principle…. Besides this, another reason for the supposition would be that the semina of all things have a moist nature.\n\nSupplementary source context — Massimo Pigliucci, modern introduction identifying Aristotle’s reconstruction as conjectural:\nThe pre-Socratics were very much ahead of their times, because they often ran into problems answering Caley’s question: How do you know that? For instance, why did Thales think that water is the arche? We don’t have any direct evidence from the man himself, but we have a passage from Aristotle (384–322 BCE) where he speculates about how Thales reached that particular conclusion:\n\nSupplementary source context — Massimo Pigliucci, modern assessment following the Aristotle quotation, not Aristotle’s verdict:\nThis indicates that the pre-Socratics understood the basic principle of science: Not only must our conclusions be backed by reasoned arguments, but those arguments need to be grounded in empirical evidence. And therein lies the limitation of their approach: In the sixth century BCE, and for a long time after that, humans simply did not have sufficient technical means to gather compelling empirical evidence for their speculations about the nature of reality, which is why their explanations seem so simplistic to us moderns. We benefit from the scientific revolution that began in the seventeenth century—almost two and a half millennia after Thales.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sf508b5f2df8e4f0a_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Socrates",
+        "story": "Selected act or disposition (quoted from the passage):\nSocrates was the first who brought down philosophy from the heavens, placed it in cities, introduced it into families, and obliged it to examine into life and morals, and good and evil.\n\nFull passage:\nSocrates was the first who brought down philosophy from the heavens, placed it in cities, introduced it into families, and obliged it to examine into life and morals, and good and evil.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s781c3faacafdf74a_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Socrates",
+        "story": "Selected act or disposition (quoted from the passage):\nsince it appeared better to the Athenians to condemn me ... I therefore thought it better to sit here, and more just to remain and submit to the punishment which they have ordered.\n\nFull passage:\nHaving once heard a person reading from a book, written, as he said, by Anaxagoras, and which said that it is intelligence that sets in order and is the cause of all things…I [Socrates] was delighted to think I had found in Anaxagoras a preceptor who would instruct me in the causes of things…. From this wonderful hope, however, my friend, I was speedily thrown down, when, as I advanced and read over his works…he [Anaxagoras] appeared to me to be very like one who should say that…[the] reason I am now sitting here, [is] because my body is composed of bones and sinews and that the bones are hard, and have joints separate from each other…and ten thousand other things of the kind, omitting to mention the real causes, that since it appeared better to the Athenians to condemn me, I therefore thought it better to sit here, and more just to remain and submit to the punishment which they have ordered.\n\nSupplementary source context — Massimo Pigliucci, modern explanation of the quotation from Plato’s Phaedo:\nSocrates is saying that Anaxagoras and other pre-Socratics were looking at human behavior in the wrong way. They were using what today we would call a reductionist approach, explaining things exclusively with reference to their elementary constituents. What Socrates says Anaxagoras is doing is, in a sense, not wrong. It is the case that Socrates’s ability to sit is made possible by the fine structure of his bones, sinews, and all the rest. But that’s irrelevant when explaining why Socrates is sitting in prison in Athens, awaiting his death. The reason for that is to be found in the fact that the Athenians condemned him for impiety and corruption of the youth, and that although he thought the verdict was unjust, he decided to submit to it on the basis that we don’t get to pick and choose when to obey the law.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sf9c0964d792fd42e_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "modern scientists and science popularizers",
+        "story": "Selected act or disposition (quoted from the passage):\nToo many modern scientists and science popularizers think that what is really going on with human behavior is to be found at the level of the brain (if they are neuroscientists), or the level of DNA (if they are molecular biologists), or the level of quarks (if they are physicists).\n\nFull passage:\nWe still have not learned the lesson imparted here by Socrates. Too many modern scientists and science popularizers think that what is really going on with human behavior is to be found at the level of the brain (if they are neuroscientists), or the level of DNA (if they are molecular biologists), or the level of quarks (if they are physicists). In fact, all those levels contribute to our understanding of human behavior, but in a lot of cases when we ask “Why is this guy doing that?” we are concerned with his motivations and the sociocultural and historical background in which he happens to exist. We simply don’t get that information if we look at brains, molecules, or subatomic particles.\n\nIf this is true, then it turns out that “How do you know that?” also requires the pertinent level of analysis to be specified, which depends on the particular question being asked. If we wish to know why Socrates is sitting in an Athenian cell awaiting his hemlock, the most informative levels of analysis are social and ethical, not anatomical.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s7014fd2ad8e61b67_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Euthyphro",
+        "story": "Selected act or disposition (quoted from the passage):\na pompous priest named Euthyphro, who is absolutely convinced that whatever he does is “pious”—that is, in agreement with the will of the gods.\n\nFull passage:\nI mentioned the Socratic method, but what is it? Perhaps the best way to answer that question is to see it in action. Here is a bit from one of my favorite dialogues featuring Socrates at work, the Euthyphro by Plato. Let me set the scene. Socrates is on his way to the Athenian court, to which he has been summoned to answer the charges that eventually will lead to his trial and execution. Along the way, he meets a pompous priest named Euthyphro, who is absolutely convinced that whatever he does is “pious”—that is, in agreement with the will of the gods. Intrigued, Socrates begins an exploration, with the grudging help of Euthyphro, of the apparently intertwined concepts of piety and what is loved by the gods. After a while, it becomes clear that Euthyphro has no idea what he’s talking about.\n\nSupplementary source context — Plato, Euthyphro, embedded dialogue quoted by Massimo Pigliucci:\nSocrates. The point which I should first wish to understand is whether the pious or holy is beloved by the gods because it is holy, or holy because it is beloved of the gods.\n\nEuthyphro. I do not understand your meaning, Socrates….\n\nSocrates. What do you say of piety, Euthyphro: is not piety, according to your definition, loved by all the gods?\n\nEuthyphro. Yes.\n\nSocrates. Because it is pious or holy, or for some other reason?\n\nEuthyphro. No, that is the reason.\n\nSocrates. It is loved because it is holy, not holy because it is loved?\n\nEuthyphro. Yes.\n\nSocrates. And that which is dear to the gods is loved by them, and is in a state to be loved by them because it is loved by them?\n\nEuthyphro. Certainly.\n\nSocrates. Then that which is dear to the gods, Euthyphro, is not holy, nor is that which is holy loved by the gods, as you affirm; but they are two different things….\n\nThen we must begin again and ask, What is piety? That is an enquiry which I shall never be weary of pursuing as far as in me lies; and I entreat you not to scorn me, but to apply your mind to the utmost, and tell me the truth.\n\nEuthyphro. Another time, Socrates; for I am in a hurry, and must go now.[8]\n\nSupplementary source context — Massimo Pigliucci, modern explanation of Plato’s Euthyphro:\nBy the end of the exchange, Euthyphro beats the hastiest retreat in the history of philosophical dialogues. But the meat of it—and of the Socratic method itself—is that Socrates keeps probing Euthyphro, gradually showing that his interlocutor doesn’t know what he thinks he knows. Notice that the dialogue ends in what the Greeks called aporia, loosely meaning “confusion.” Socrates doesn’t provide the answer to the fundamental question of whether something is beloved by the gods because it is holy, or holy because it is beloved of the gods. Indeed, he professes not to know anything, and it is precisely this awareness of his own ignorance that made him, according to the oracle at Delphi, the wisest man in Greece.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s6ef8453d73bfcdaf_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Socrates",
+        "story": "Selected act or disposition (quoted from the passage):\nThen we must begin again and ask, What is piety? That is an enquiry which I shall never be weary of pursuing as far as in me lies; and I entreat you not to scorn me, but to apply your mind to the utmost, and tell me the truth.\n\nFull passage:\nSocrates. Then that which is dear to the gods, Euthyphro, is not holy, nor is that which is holy loved by the gods, as you affirm; but they are two different things….\n\nThen we must begin again and ask, What is piety? That is an enquiry which I shall never be weary of pursuing as far as in me lies; and I entreat you not to scorn me, but to apply your mind to the utmost, and tell me the truth.\n\nEuthyphro. Another time, Socrates; for I am in a hurry, and must go now.\n\nSupplementary source context — Massimo Pigliucci, modern explanation of Plato’s Euthyphro:\nBy the end of the exchange, Euthyphro beats the hastiest retreat in the history of philosophical dialogues. But the meat of it—and of the Socratic method itself—is that Socrates keeps probing Euthyphro, gradually showing that his interlocutor doesn’t know what he thinks he knows. Notice that the dialogue ends in what the Greeks called aporia, loosely meaning “confusion.” Socrates doesn’t provide the answer to the fundamental question of whether something is beloved by the gods because it is holy, or holy because it is beloved of the gods. Indeed, he professes not to know anything, and it is precisely this awareness of his own ignorance that made him, according to the oracle at Delphi, the wisest man in Greece.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sde6d234eb88e5a2f_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Euthyphro",
+        "story": "Selected act or disposition (quoted from the passage):\nAnother time, Socrates; for I am in a hurry, and must go now.\n\nFull passage:\nSocrates. Then that which is dear to the gods, Euthyphro, is not holy, nor is that which is holy loved by the gods, as you affirm; but they are two different things….\n\nThen we must begin again and ask, What is piety? That is an enquiry which I shall never be weary of pursuing as far as in me lies; and I entreat you not to scorn me, but to apply your mind to the utmost, and tell me the truth.\n\nEuthyphro. Another time, Socrates; for I am in a hurry, and must go now.\n\nSupplementary source context — Massimo Pigliucci, modern explanation of Plato’s Euthyphro:\nBy the end of the exchange, Euthyphro beats the hastiest retreat in the history of philosophical dialogues. But the meat of it—and of the Socratic method itself—is that Socrates keeps probing Euthyphro, gradually showing that his interlocutor doesn’t know what he thinks he knows. Notice that the dialogue ends in what the Greeks called aporia, loosely meaning “confusion.” Socrates doesn’t provide the answer to the fundamental question of whether something is beloved by the gods because it is holy, or holy because it is beloved of the gods. Indeed, he professes not to know anything, and it is precisely this awareness of his own ignorance that made him, according to the oracle at Delphi, the wisest man in Greece.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sa176d65431c7b9b7_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Zeno",
+        "story": "Selected act or disposition (quoted from the passage):\nZeno professed to illustrate [the Stoic theory of knowledge] by a piece of action; for when he stretched out his fingers, and showed the palm of his hand, “Perception,” said he, “is a thing like this.” Then, when he had a little closed his fingers, “Assent is like this.” Afterwards, when he had completely closed his hand, and held forth his fist, that, he said, was comprehension. From which simile he also gave that state a name which it had not before, and called it katalepsis. But when he brought his left hand against his right, and with it took a firm and tight hold of his fist, knowledge, he said, was of that character; and that was what none but a wise man possessed.\n\nFull passage:\nZeno professed to illustrate [the Stoic theory of knowledge] by a piece of action; for when he stretched out his fingers, and showed the palm of his hand, “Perception,” said he, “is a thing like this.” Then, when he had a little closed his fingers, “Assent is like this.” Afterwards, when he had completely closed his hand, and held forth his fist, that, he said, was comprehension. From which simile he also gave that state a name which it had not before, and called it katalepsis. But when he brought his left hand against his right, and with it took a firm and tight hold of his fist, knowledge, he said, was of that character; and that was what none but a wise man possessed.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sa24f29bb9e61abda_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the person considering pizza",
+        "story": "Selected act or disposition (quoted from the passage):\n“I better not eat the pizza, because it’s not a healthy food”\n\nFull passage:\nAssent, however, is something that only human beings are capable of. It’s a cognitive process that lets us move from a preliminary, immediate assessment of things (like “Why is there pizza in my refrigerator if it’s not a healthy food?”) to a hopefully correct judgment about those things (along the lines of “I better not eat the pizza, because it’s not a healthy food”).",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "se92da3f4dd47a0e8_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the observer",
+        "story": "Selected act or disposition (quoted from the passage):\nConversely, if it turns out that it was my brother’s doppelgänger across the street, then my impression was false, akataleptic (without grasping the truth), despite the fact that I was strongly inclined to accept it (after all, how can I be wrong about my own brother?).\n\nFull passage:\nAccording to the Stoics, some impressions are undeniably veridical—they reflect reality and bear the mark of truth—while others are not. For instance, if I [the observer] am certain that I’m seeing my brother across the street, and it really turns out to be my brother, then I’m having an undeniably veridical impression, which Zeno called kataleptic, from the Greek word for “grasping.” I am, in a sense, firmly grasping the truth. Conversely, if it turns out that it was my brother’s doppelgänger across the street, then my impression was false, akataleptic (without grasping the truth), despite the fact that I was strongly inclined to accept it (after all, how can I be wrong about my own brother?).\n\nWe can all have both kataleptic and akataleptic impressions, but only the sage, the perfect human reasoner, is capable of distinguishing for certain between the two types of impressions, thus acquiring knowledge. The sage, unlike the rest of us, can somehow always tell my brother from his doppelgänger, thereby assenting only to true impressions.\n\nNonsense, responded the skeptics. Even if there were sages out there—a doubtful proposition in its own right—they wouldn’t be able to tell true from false impressions for the simple reason that all impressions are akataleptic. That is, none of them bear any special mark of truth. Here is the argument as presented by Cicero himself:[10]\n\nPremise 1: There are true and false impressions;\n\nPremise 2: False impressions are akataleptic;\n\nPremise 3: True impressions are indistinguishable from false ones that appear identical to them;\n\nPremise 4: If two impressions present us with no perceptible difference, it is not possible for one to be kataleptic and the other akataleptic;\n\nConclusion: There are no such things as kataleptic impressions.\n\nConsider again my brother and his doppelgänger. The skeptics’ conviction is that nobody—including sages—can ever know for sure whether they are looking at one or the other. Notice that the claim is not that there is no truth in the matter: Cicero would readily agree that in reality there is my brother and then there is his doppelgänger, and they are distinct entities. But it is always possible that I may not be able to tell the difference, even if I were a sage. In other words, skeptics like Cicero are not making a metaphysical statement about what does or does not exist, but rather an epistemological one about what we can and cannot know.\n\nThis is important because it shows why a standard Stoic rejoinder missed the mark. Anticipating a problem formulated in the seventeenth century by Gottfried Wilhelm Leibniz, the Stoics argued that if two things are in fact distinct—like my brother and his doppelgänger—then they cannot be identical: there must be some difference between them, however small, apparently insignificant, or hard to find.[11] This does not actually help, because it is a metaphysical statement (known in modern philosophy as the identity of indiscernibles), not an epistemological one. The Stoics and the skeptics were talking past each other. It is now time to turn to the two schools of skepticism and see what they had to say about the all-important question: How do you know?",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sb2ef31aad3729df0_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Massimo Pigliucci",
+        "story": "Selected act or disposition (quoted from the passage):\nI [Massimo Pigliucci] have, right now, the impression that I am typing on my laptop’s keyboard. This, presumably, would be an evident matter for a Pyrrhonist, meaning that I have no reason to deny the impression being generated by my senses. Whether there really is a keyboard, which works according to certain principles of electrical engineering, and which in turn depends upon deeper principles that physicists call the laws of nature—those matters are not evident, and I have no business accepting such “truths.”\n\nFull passage:\nI [Massimo Pigliucci] have, right now, the impression that I am typing on my laptop’s keyboard. This, presumably, would be an evident matter for a Pyrrhonist, meaning that I have no reason to deny the impression being generated by my senses. Whether there really is a keyboard, which works according to certain principles of electrical engineering, and which in turn depends upon deeper principles that physicists call the laws of nature—those matters are not evident, and I have no business accepting such “truths.”",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s9be9cc55dd3199f5_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the questioner",
+        "story": "Selected act or disposition (quoted from the passage):\nIf you state a position about a certain matter, I [the questioner] can always ask you why you think it’s true; if you give me an answer, I can ask you the same question again; if you answer that, I can keep asking, and so on, generating an infinite regress.\n\nFull passage:\nInfinite regress: If you state a position about a certain matter, I [the questioner] can always ask you why you think it’s true; if you give me an answer, I can ask you the same question again; if you answer that, I can keep asking, and so on, generating an infinite regress. ... The five modes of Agrippa are serious business and should not be treated lightly. In particular, the last three together are still considered an unbeatable argument against the possibility of certain knowledge. Agrippa’s trilemma—as this subset is known—basically covers all the possibilities when justifying a claim to knowledge, whether that claim is based on common sense, scientific investigation, mathematics, or logic. Every time someone claims that X is true, and you push them to justify their claim, they will end up in an infinite regress, a circular argument, or an arbitrary assumption. Every. Single. Time. Let that sink in for a moment and you will have an excellent reason for studying ancient philosophy, not to mention for being a skeptic.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s58c9a9e6a9f488d1_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you",
+        "story": "Selected act or disposition (quoted from the passage):\nIf you hold a position about a certain matter, one way you can avoid infinite regress is to circle back to an answer you have already given me. That is obviously not satisfying, because it amounts to justifying your position by using that same opinion as part of the justification.\n\nFull passage:\nCircularity: If you hold a position about a certain matter, one way you can avoid infinite regress is to circle back to an answer you have already given me. That is obviously not satisfying, because it amounts to justifying your position by using that same opinion as part of the justification. Not cool. ... The five modes of Agrippa are serious business and should not be treated lightly. In particular, the last three together are still considered an unbeatable argument against the possibility of certain knowledge. Agrippa’s trilemma—as this subset is known—basically covers all the possibilities when justifying a claim to knowledge, whether that claim is based on common sense, scientific investigation, mathematics, or logic. Every time someone claims that X is true, and you push them to justify their claim, they will end up in an infinite regress, a circular argument, or an arbitrary assumption. Every. Single. Time. Let that sink in for a moment and you will have an excellent reason for studying ancient philosophy, not to mention for being a skeptic.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s8ee5bd532f322a38_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you",
+        "story": "Selected act or disposition (quoted from the passage):\nAnother way to halt an infinite regress is to simply arrive at a stopping point and say that you assume the point to be true.\n\nFull passage:\nAssumption: Another way to halt an infinite regress is to simply arrive at a stopping point and say that you assume the point to be true. But why that particular point and not another?\n\nThe five modes of Agrippa are serious business and should not be treated lightly. In particular, the last three together are still considered an unbeatable argument against the possibility of certain knowledge. Agrippa’s trilemma—as this subset is known—basically covers all the possibilities when justifying a claim to knowledge, whether that claim is based on common sense, scientific investigation, mathematics, or logic. Every time someone claims that X is true, and you push them to justify their claim, they will end up in an infinite regress, a circular argument, or an arbitrary assumption. Every. Single. Time. Let that sink in for a moment and you will have an excellent reason for studying ancient philosophy, not to mention for being a skeptic.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sbfebb23c3534d1b2_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Pyrrho",
+        "story": "Selected act or disposition (quoted from the passage):\n[Pyrrho] led a life consistent with this doctrine, going out of his way for nothing, taking no precaution, but facing all risks as they came, whether carts, precipices, dogs or what not, and, generally, leaving nothing to the arbitrament of the senses; but he was kept out of harm’s way by his friends who, as Antigonus of Carystus tells us, used to follow close after him.\n\nFull passage:\n[Pyrrho] led a life consistent with this doctrine, going out of his way for nothing, taking no precaution, but facing all risks as they came, whether carts, precipices, dogs or what not, and, generally, leaving nothing to the arbitrament of the senses; but he was kept out of harm’s way by his friends who, as Antigonus of Carystus tells us, used to follow close after him.\n\nSupplementary source context — Massimo Pigliucci, modern framing/commentary on the Diogenes Laertius anecdote; not part of Diogenes’ quoted narration:\nPyrrhonist philosophy advises us to practice epoche, or suspension of judgment, on all matters that are non-evident. This, in turn, will lead us to the ultimate goal of a Pyrrhonian life: ataraxia, a state of mental tranquility where we are not disturbed by unpleasant thoughts.[*2]\n\nSupplementary source context — Massimo Pigliucci, modern framing/commentary on the Diogenes Laertius anecdote; not part of Diogenes’ quoted narration:\nImmediately after this passage, Diogenes adds that it is more likely that Pyrrho lived a normal life and died when he was nearly ninety.\n\nSupplementary source context — Massimo Pigliucci, modern framing of the Diogenes Laertius anecdote:\nAt this point, you may wonder how a Pyrrhonist is going to be able to function in life. Isn’t it impractical to suspend judgment on pretty much everything? Indeed, Diogenes Laertius paints this absurd picture of Pyrrho’s own existence:",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sc7b43047d1437d9a_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the hypothetical Pyrrhonist author",
+        "story": "Selected act or disposition (quoted from the passage):\nWe can use these senses and act as if a given object really were a keyboard, as if it really did make clicking sounds when we hit it, as if it yielded to our touch in a certain way. If I [the hypothetical Pyrrhonist author] were a Pyrrhonist, that’s how I would have gotten this book written. Though in that case, I would have written a very different book.\n\nFull passage:\nSextus Empiricus had an answer. In fact, he had four! We will abstain from any discussion of philosophical, scientific, ethical, or other non-evident matters, while at the same time adopting four criteria of action in everyday life.\n\nFirst, we can live by the guidance of nature. Nature has endowed us with sight, hearing, touch, and so on. We can use these senses and act as if a given object really were a keyboard, as if it really did make clicking sounds when we hit it, as if it yielded to our touch in a certain way. If I [the hypothetical Pyrrhonist author] were a Pyrrhonist, that’s how I would have gotten this book written. Though in that case, I would have written a very different book. ... This [approach], in a nutshell, is Pyrrhonism. I do not actually recommend it as a skeptical approach to life, and have discussed it here only because it represents the other way of being a skeptic besides the one we are going to turn to in a moment, which I do recommend.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s9008f1cb9ac8bcbb_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "we",
+        "story": "Selected act or disposition (quoted from the passage):\nFor instance, we get thirsty, so we drink. We get hungry, so we eat. We feel a sexual urge, so we do our best to satisfy it.\n\nFull passage:\nSextus Empiricus had an answer. In fact, he had four! We will abstain from any discussion of philosophical, scientific, ethical, or other non-evident matters, while at the same time adopting four criteria of action in everyday life. ... Second, we can live by our natural drives and the compulsions they exert on us. For instance, we get thirsty, so we drink. We get hungry, so we eat. We feel a sexual urge, so we do our best to satisfy it. ... This [approach], in a nutshell, is Pyrrhonism. I do not actually recommend it as a skeptical approach to life, and have discussed it here only because it represents the other way of being a skeptic besides the one we are going to turn to in a moment, which I do recommend.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s6bd53452f15dbd92_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "we, hypothetical Pyrrhonist followers of customs/laws (proposed criterion)",
+        "story": "Selected act or disposition (quoted from the passage):\nThird, we can live by customs and laws. When in Rome, do as the Romans do. If in Sparta, do as the Spartans do.\n\nFull passage:\nSextus Empiricus had an answer. In fact, he had four! We will abstain from any discussion of philosophical, scientific, ethical, or other non-evident matters, while at the same time adopting four criteria of action in everyday life. ... Third, we can live by customs and laws. When in Rome, do as the Romans do. If in Sparta, do as the Spartans do. After all, people devised their laws and adopted their customs over time because for the most part they work. ... This [approach], in a nutshell, is Pyrrhonism. I do not actually recommend it as a skeptical approach to life, and have discussed it here only because it represents the other way of being a skeptic besides the one we are going to turn to in a moment, which I do recommend. Before we leave Pyrrho & co., let me say a few words about why I do not think the Pyrrhonists managed to develop a viable philosophy of life, although Agrippa’s trilemma is their (certainly not negligible) lasting contribution to philosophy, science, logic, and math. ... Fourth and last, if we decide to live a life that implements the four Pyrrhonist criteria for action, we will find ourselves in a society that is closed to innovation and profoundly unjust. Suppose, for instance, that you happened to live in ancient Athens, a place where the only people who counted were male free citizens. You would have no Pyrrhonist ground to argue the non-evident matter that slavery is a despicable practice and ought to be abolished. Or the equally non-evident matter that women ought to be accorded the same rights as men on the grounds that they, too, are human beings.\n\nSo, while it is a historically important form of skepticism and one that has produced valuable insights into epistemology, Pyrrhonism is not the way to go if we are interested in developing a viable philosophy of life. What now?",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sfd57a36f0fad2fac_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the student",
+        "story": "Selected act or disposition (quoted from the passage):\nIf I [the student] wish to learn the violin, I go to someone who knows how to play the violin. If I wish to be an accountant, I learn from someone who is a good accountant.\n\nFull passage:\nSextus Empiricus had an answer. In fact, he had four! We will abstain from any discussion of philosophical, scientific, ethical, or other non-evident matters, while at the same time adopting four criteria of action in everyday life. ... Fourth, we can live by instructions from people who know how to do things. If I [the student] wish to learn the violin, I go to someone who knows how to play the violin. If I wish to be an accountant, I learn from someone who is a good accountant. And so on for anything that requires tekhne, or skill.\n\nThis [approach], in a nutshell, is Pyrrhonism. I do not actually recommend it as a skeptical approach to life, and have discussed it here only because it represents the other way of being a skeptic besides the one we are going to turn to in a moment, which I do recommend.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s2f6c52cedc5f0f37_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the person planning to fly",
+        "story": "Selected act or disposition (quoted from the passage):\nBut if I am planning on flying, and one of the proposed truths on the table is that there will be a life-threatening storm tomorrow, I seriously doubt that my mind will achieve ataraxia if I manage, somehow, to suspend judgment.\n\nFull passage:\nSecond, Pyrrhonists make a strong (non-evident and unsubstantiated) claim: that epoche leads to ataraxia. Does it? This is an empirical question, but my [Massimo Pigliucci’s] experience is that sometimes suspending judgment does indeed bring about mental tranquility. In other cases, it generates anxiety. It depends on what the subject matter is, how much we care about it, and whether we need to have an opinion about it to decide on a course of action. For instance, if I don’t know what the weather is going to be tomorrow, but I planned to stay home anyway, I will truly not care. My mind will be at ease, and I won’t need to endorse the opinion of one meteorologist or another. But if I am planning on flying, and one of the proposed truths on the table is that there will be a life-threatening storm tomorrow, I seriously doubt that my mind will achieve ataraxia if I manage, somehow, to suspend judgment.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sc58ee4d0a5a50938_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you/we, the hypothetical Pyrrhonist Athenian (conditional adoption of the criteria, not a slaveholder)",
+        "story": "Selected act or disposition (quoted from the passage):\nif we decide to live a life that implements the four Pyrrhonist criteria for action ... Suppose, for instance, that you happened to live in ancient Athens, a place where the only people who counted were male free citizens.\n\nFull passage:\nFourth and last, if we decide to live a life that implements the four Pyrrhonist criteria for action, we will find ourselves in a society that is closed to innovation and profoundly unjust. Suppose, for instance, that you happened to live in ancient Athens, a place where the only people who counted were male free citizens. You would have no Pyrrhonist ground to argue the non-evident matter that slavery is a despicable practice and ought to be abolished. Or the equally non-evident matter that women ought to be accorded the same rights as men on the grounds that they, too, are human beings.\n\nSo, while it is a historically important form of skepticism and one that has produced valuable insights into epistemology, Pyrrhonism is not the way to go if we are interested in developing a viable philosophy of life. What now?",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s17d53363f2d2e188_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Arcesilaus",
+        "story": "Selected act or disposition (quoted from the passage):\nArcesilaus is said to have become even more radical than Socrates by saying that he didn’t even know for certain that he didn’t know anything.\n\nFull passage:\nWhy is this period of the Academy referred to as skeptical? Because Arcesilaus & co. meant to hark back to Socrates himself, and specifically to the Socrates who professed not to know anything. Remember, that’s why the oracle at Delphi pronounced Socrates the wisest man in Greece. Arcesilaus is said to have become even more radical than Socrates by saying that he didn’t even know for certain that he didn’t know anything. You can hardly be more skeptical than that!",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sbf02025fdd194136_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Arcesilaus",
+        "story": "Selected act or disposition (quoted from the passage):\nHe was famous for arguing both sides of any given topic in order to induce suspension of judgment in himself and others, just like the Pyrrhonists did.\n\nFull passage:\nArcesilaus’s original philosophy was, for all effective purposes, difficult to distinguish from that attributed to Pyrrho. He was famous for arguing both sides of any given topic in order to induce suspension of judgment in himself and others, just like the Pyrrhonists did. Arcesilaus was also the one who criticized Zeno of Citium and his conception of kataleptic impressions.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sda58dbd98c1e2dd3_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Massimo Pigliucci",
+        "story": "Selected act or disposition (quoted from the passage):\nI [Massimo Pigliucci] [am] pretty sure—almost certain, in fact—that right now I’m sitting at my desk, typing these words using my recently acquired MacBook Air laptop. True, there could be a Cartesian demon messing around with my mind and creating the illusion that I’m typing on a keyboard, but I don’t think that’s likely. It is only slightly more likely that I’m dreaming of typing on a keyboard; I’ve certainly had stranger dreams than that before. Then again, I can usually tell the difference between when I dream and when I’m awake, so I’ll stick with my initial assessment. I am indeed typing on my laptop’s keyboard.\n\nFull passage:\nI [Massimo Pigliucci] [am] pretty sure—almost certain, in fact—that right now I’m sitting at my desk, typing these words using my recently acquired MacBook Air laptop. True, there could be a Cartesian demon messing around with my mind and creating the illusion that I’m typing on a keyboard, but I don’t think that’s likely. It is only slightly more likely that I’m dreaming of typing on a keyboard; I’ve certainly had stranger dreams than that before. Then again, I can usually tell the difference between when I dream and when I’m awake, so I’ll stick with my initial assessment. I am indeed typing on my laptop’s keyboard. ... Our lives are made of constant assessments and reassessments of probabilities similar to the ones I just discussed. Rarely, if ever, can we claim to have Knowledge of the Truth (notice the capitalized letters). But we also rarely, if ever, need either Knowledge or Truth. A convincing evaluation is good enough to act in the world.\n\n“Convincing” is how the Greek term pithanon is often translated, and pithanon was the criterion for action invoked by Academic Skeptics like Carneades. Interestingly, Cicero then translated that same word with the Latin probabilis, from which the English “probability” derives. When we say that something is probable, therefore, we mean that we have convincing evidence or reasons to provisionally accept it as true. And, more importantly, to act on it.\n\nThe level of pithanon related to the notion that I’m sitting and writing is so high that there is no point for me to question the idea. But I should be more hesitant to plan for an outing with my wife and friends next weekend, because the pithanon associated with there being good weather at that time is not high.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s5697faf9b3e930a8_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Massimo Pigliucci",
+        "story": "Selected act or disposition (quoted from the passage):\nWhat degree of trust should I put in this forecast? Based on what I know about long-term weather forecasting and on my own past experience, I’d say fairly low. Still, at the moment I may be cautious about scheduling a picnic with several friends on Sunday. Perhaps I should wait until the following weekend. But of course I’ll keep checking the forecast over the next day or two, updating my bets in accordance with any changes, adjusting for how much and in what direction those changes occur. At some point I’ll have to take a gamble and either schedule the picnic or not. After all, my friends need to plan ahead of time as well!\n\nFull passage:\nThis general way of looking at things, that we should assess the relative likelihood of this or that proposition or situation and act accordingly, is often framed in terms of Bayesian probabilities, after a fundamental theorem proposed in 1763 by Thomas Bayes. The basic idea of Bayes’s theorem is that we ought to begin the evaluation of a situation on the basis of what we already know and then update our assessment as new information comes in. As Scottish Enlightenment philosopher David Hume put it, at about the same time as (and independently of) Bayes, a reasonable person calibrates their beliefs to the evidence.\n\nFor instance, take my [Massimo Pigliucci’s] concern with the weather in Rome next weekend. Right now (Thursday morning) the forecast places the chance of showers on Saturday at 55 percent and on Sunday at 48 percent. The chances of said showers are given at a suspiciously precise level, considering that we are talking several days down the road. What degree of trust should I put in this forecast? Based on what I know about long-term weather forecasting and on my own past experience, I’d say fairly low. Still, at the moment I may be cautious about scheduling a picnic with several friends on Sunday. Perhaps I should wait until the following weekend. But of course I’ll keep checking the forecast over the next day or two, updating my bets in accordance with any changes, adjusting for how much and in what direction those changes occur. At some point I’ll have to take a gamble and either schedule the picnic or not. After all, my friends need to plan ahead of time as well!\n\nBayes’s theorem can provide us with precise, constantly updated estimates of the relevant probabilities. You plug in the available numbers and the equation gives you the best assessment of how strong your belief in X should be (where X is “it will rain on Sunday”). The problem is that for most of us this is simply not practical. Setting aside the fact that many people are insufficiently familiar with (or have never even heard of) Bayesianism, it is rare that we common people (as distinct from scientists) have available the kind of quantitative information that can correctly be used in this context. But there is an alternative framework—proposed, as it turns out, by Carneades. It accomplishes nearly the same results, no math required!",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sf212c1e0c58ecfae_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "Massimo Pigliucci",
+        "story": "Selected act or disposition (quoted from the passage):\nIn this example, I remember that I’m about to join my wife for dinner, and eating gelato now would spoil my appetite. Not to mention that we are traveling in Italy, and I’ve already put on a few pounds that I’d like to shed sooner rather than later. The gelato wouldn’t help there either. So I deny assent to the impression and decline to act on the basis of the corresponding impulse.\n\nFull passage:\nFor instance, I [Massimo Pigliucci] pass by a gelato parlor and I get the impression that it would be good to walk in and get a dark chocolate cone.\n\nBefore I act on such an impulse, however, it would be wise to step back for a moment and deliberate about whether or not to give the impression my assent. Assent is always the result of deliberation. In this example, I remember that I’m about to join my wife for dinner, and eating gelato now would spoil my appetite. Not to mention that we are traveling in Italy, and I’ve already put on a few pounds that I’d like to shed sooner rather than later. The gelato wouldn’t help there either. So I deny assent to the impression and decline to act on the basis of the corresponding impulse.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s0052f46fdccd0e2c_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the person considering vaccination",
+        "story": "Selected act or disposition (quoted from the passage):\nIf there isn’t much at stake—let’s say, if the discussion is about whether a movie my friends and I are considering watching tonight is good or not—then I may stop at the first or second level. But if the stakes are higher—say, whether to vaccinate myself against COVID-19 or not—it would be wise of me to raise the threshold at the least to the third and ideally to the fourth level.\n\nFull passage:\nRelative to the perceiver (i.e., us) there are, according to Carneades, four levels of confidence we can have about the truth of any given impression: (i) It may seem apparently true—meaning that, other things being equal, we lean toward the truth of the impression, but barely. If we were to bet on it, we wouldn’t bet a lot of money. (ii) The impression may be convincingly true, because we have pretty decent reasons to think so, and as a consequence we’d be willing to bet a bit more money on it, though still not the house. (iii) It could be that the impression is “undiverted,” meaning it is coherent with, and not contradicted by, any other impressions we may hold about the world. Now we’re willing to bet a substantial amount on its actual truth. (iv) Finally, the impression could be so thoroughly explored, most especially by empirical-scientific means, that we are very confident of its truth and we would bet the house on it.\n\nNotice a few interesting features of Carneades’s procedure. First, we are never in a position to categorically reject an impression as false or to categorically accept it as true. Those two positions would be dogmatic in the modern sense of the word, and a true inquirer shies away from such extremes. Second, the sequence is a reflection of an underlying continuum, as a modern Bayesian would surely say. The four stages are just for our own convenience, to allow us to make decisions based on how confident we feel about the degree of persuasiveness of a given impression. Third, we can stop at any point in the sequence, depending on how confident we need to be about the impression. If there isn’t much at stake—let’s say, if the discussion is about whether a movie my friends and I are considering watching tonight is good or not—then I may stop at the first or second level. But if the stakes are higher—say, whether to vaccinate myself against COVID-19 or not—it would be wise of me to raise the threshold at the least to the third and ideally to the fourth level.\n\nThere you have it, an incredibly useful, all-purpose decision-making procedure, courtesy of the Academic Skeptics. From now on, every time you are about to make a decision of some import, ask yourself whether the impression guiding your decision is merely apparently true, convincingly true, undiverted, or thoroughly explored. Then act with the confidence that you’ve made the best decision possible while being aware that you may still be wrong.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s207f6b77960c867f_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you, the reader before a decision of some import (conditional proposed assessment)",
+        "story": "Selected act or disposition (quoted from the passage):\nFrom now on, every time you are about to make a decision of some import, ask yourself whether the impression guiding your decision is merely apparently true, convincingly true, undiverted, or thoroughly explored. Then act with the confidence that you’ve made the best decision possible while being aware that you may still be wrong.\n\nFull passage:\nThere you have it, an incredibly useful, all-purpose decision-making procedure, courtesy of the Academic Skeptics. From now on, every time you are about to make a decision of some import, ask yourself whether the impression guiding your decision is merely apparently true, convincingly true, undiverted, or thoroughly explored. Then act with the confidence that you’ve made the best decision possible while being aware that you may still be wrong.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s75bd104d94a1ef84_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you",
+        "story": "Selected act or disposition (quoted from the passage):\nIf you are the type of person who thinks family is more important than career, you will attempt to act accordingly. Or vice versa.\n\nFull passage:\nIf you are the type of person who thinks family is more important than career, you will attempt to act accordingly. Or vice versa. Your decisions in these areas will be a reflection of what you find more or less meaningful. Regardless of who happens to influence those decisions—your parents, your partner, your friends, society at large, your genetic makeup—they are fundamentally yours. The buck stops with you. Such decisions define who you are as a human being, because they are a reflection of your character and of the most important faculty you have. According to the Greco-Romans, this is your prohairesis, often translated as “volition” or “judgment.”\n\nFollowing the Greco-Roman tradition, in a deep sense you are what you do (and definitely not just what you say), a concept that finds resonance in modern applied psychology, for instance in what is known as behavioral economics.[1] The most important things you do are a reflection of your priorities and values, which means you should pay particular attention to the latter. However, if we cast this discussion in terms of what is meaningful, it begins to sound like meaning (in life) is personal, not universal—a notion that would contradict many people’s assumptions, not to mention well-established philosophical and religious traditions. So let’s talk about the universality, or lack thereof, of meaning.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s3a1b316fc62b141b_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "the hypothetical worshipper",
+        "story": "Selected act or disposition (quoted from the passage):\nworshipping another being—as distinct from loving or respecting such a being\n\nFull passage:\nSuppose, for instance, that there actually is an all-powerful god who wishes to be worshipped. How is worshipping another being—as distinct from loving or respecting such a being—meaningful? I should rather think it degrading, not the sort of thing to live for. ... Life is precious—and what we do meaningful—because we possess the dignity of being human, free to do or not to do whatever we contemplate doing, without the need of worshipping anyone.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s2764d36f02e88a5b_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you and I",
+        "story": "Selected act or disposition (quoted from the passage):\nYou devote your life to stamp collecting, I mine to gourmet cuisine\n\nFull passage:\nWhat then? The second, diametrically opposite, possibility is that meaning is entirely personal and arbitrary. Your meaning is different from my meaning. You devote your life to stamp collecting, I mine to gourmet cuisine, and who’s to say that either one of us is wasting their time?\n\nThis is the relativistic stance that is rather fashionable in certain segments of society at the moment, including a surprisingly high number of my students. But it is entirely wrongheaded. It leads to solipsism or the conclusion that nothing really matters because there are no standards to determine what’s important and what is not. It turns out, however, that relativism is also empirically just not the way human beings act. Both personal experience and scientific research tell us over and over that there are universal beliefs among human beings that guide us in our life choices.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "sb7781ebbfef0ed7a_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you",
+        "story": "Selected act or disposition (quoted from the passage):\nIn order to take care of it, you need to know something about the nature of cactuses. Yes, they are plants, so they need light and water (and a few other things). But they are succulent plants, usually living in arid climates. That means they need a lot of light and comparatively little water. Stick to that and your cactus will thrive—and, if you are lucky, even flower. Ignore the biological nature of a cactus, by watering it too much or putting it in a relatively shady area of your home, and it won’t live long.\n\nFull passage:\nConsider an analogy. Suppose you invite me for dinner over at your place and I show up with a bottle of wine and a nice cactus plant for your apartment. We open and share the wine, but now you are responsible for the well-being of the cactus. In order to take care of it, you need to know something about the nature of cactuses. Yes, they are plants, so they need light and water (and a few other things). But they are succulent plants, usually living in arid climates. That means they need a lot of light and comparatively little water. Stick to that and your cactus will thrive—and, if you are lucky, even flower. Ignore the biological nature of a cactus, by watering it too much or putting it in a relatively shady area of your home, and it won’t live long.\n\nThe same goes for human beings. Plenty of studies clearly show that there are universal or near-so characteristics of human beings, like a well-defined hierarchy of needs, or the fact that we flourish if we have a good network of social interactions (e.g., the Harvard study). Those are aspects of human nature, and we deny them at our own peril. Yes, human beings can survive in isolation on a deserted island. But they thrive only in a society where they bond with other humans. Because, again, biologically speaking, we are social creatures.\n\nWhat this tells us about meaning, then, is that what people find meaningful is rooted in human nature. Mostly this means social connections, love, a sense of autonomy and self-direction, and mastery of skills, all of which are layered onto basic needs (food, shelter, safety, etc.) that are not meaningful in their own right but allow us to live well enough that we can afford to concern ourselves with issues of meaning. While modern science has finally arrived at the concepts I just outlined, the Greco-Romans intuited their value, and developed approaches to a meaningful life based on them, over two millennia ago.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "se39db0000a742947_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "I",
+        "story": "Selected act or disposition (quoted from the passage):\ngiving her the second shot\n\nFull passage:\nImagine that after an earthquake I come across two victims: one with a crushed leg, in agony, and one with a gashed thigh, in slight pain. I have only two shots of morphine left. Equal treatment would suggest that I give one to each injured person, but one shot would not do much to relieve the pain of the person with the crushed leg. She would still be in much more pain than the other victim, and even after I have given her one shot, giving her the second shot would achieve a more marked reduction in her pain than giving one shot to the person in slight pain would do for that person. Hence, equal consideration of interests in this situation leads to what some may consider an inegalitarian result: two shots of morphine for one person and none for the other. ... In the example involving earthquake victims, although equal consideration of interests leads to unequal treatment, this unequal treatment produces a more egalitarian result. By giving the double dose to the more seriously injured person, we bring about a situation in which there is less difference in the degree of suffering felt by the two victims than there would be if we gave one dose to each. Instead of ending up with one person in considerable pain and one in no pain, we end up with two people in slight pain.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s2ddfe27331480c9e_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "We",
+        "story": "Selected act or disposition (quoted from the passage):\nuse them on B\n\nFull passage:\nLet us say, again, that there are two victims, one more severely injured than the other, but this time we shall say that the more severely injured victim, A, has lost a leg and is in danger of losing a toe from her remaining leg; while the less severely injured victim, B, has an injury that threatens her leg. We have medical supplies for only one person. If we use them on A, the more severely injured victim, the most we can do is save her toe; whereas if we use them on B, the less severely injured victim, we can save her leg. In other words, we assume that the situation is: without medical treatment, A loses a leg and a toe, while B loses a leg; if we give the treatment to A, then A loses a leg and B also loses a leg; if we give the treatment to B, A loses a leg and a toe, while B loses nothing.\n\nAssuming that it is much worse to lose a leg than it is to lose a toe (even when that toe is on one's sole remaining foot), the principle of declining marginal utility does not suffice to give us the right answer in this situation. We will do more to further the interests, impartially considered, of those affected by our actions if we use our limited resources on the less seriously injured victim than on the more seriously injured one. Therefore, this is what the principle of equal consideration of interests leads us to do. Thus, equal consideration of interests can, in special cases, widen rather than narrow the gap between two people at different levels of welfare. It is for this reason that the principle is a minimal principle of equality, rather than a thorough-going egalitarian principle. A more thorough-going form of egalitarianism would, however, be difficult to justify, both in general terms and in its application to special cases of the kind just described.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s6f07b2cb524754af_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you",
+        "story": "Selected act or disposition (quoted from the passage):\norder a doctor to disconnect you from the violinist\n\nFull passage:\nAn influential version of it by Judith Jarvis Thomson makes use of an ingenious analogy. Imagine, she says, that you wake up one morning and find yourself in a hospital bed, somehow connected to an unconscious man in an adjacent bed. You are told that this man is a famous violinist with kidney disease. The only way he can survive is for his circulatory system to be plugged into the system of someone else with the same blood type, and you are the only person whose blood is suitable. So a society of music lovers kidnapped you, had the connecting operation performed, and there you are. Because you are now in a reputable hospital you could, if you choose, order a doctor to disconnect you from the violinist; but the violinist will then certainly die. On the other hand, if you remain connected for only (only?) nine months, the violinist will have recovered and you can be unplugged without endangering him.\n\nThomson believes that if you found yourself in this unexpected predicament, you would not be morally required to allow the violinist to use your kidneys for nine months. It might be generous or kind of you to do so, but to say this is, Thomson claims, quite different from saying that you would be doing wrong if you did not do it.\n\nNote that Thomson's conclusion does not depend on denying that the violinist is an innocent human being, with the same right to life as any other innocent human being. On the contrary, Thomson affirms that the violinist does have a right to life – but to have a right to life does not, she says, entail a right to the use of another's body, even if without that use one will die.\n\nThe parallel with pregnancy, especially pregnancy due to rape, should be obvious. A woman pregnant through rape finds herself, through no choice of her own, linked to a fetus in much the same way as the person is linked to the violinist. True, a pregnant woman does not normally have to spend nine months in bed, but even if she had a medical condition that made it necessary for her to stay in bed for the entire pregnancy, opponents of abortion would not regard this as a sufficient justification for abortion. Giving up a newborn baby for adoption might be more difficult, psychologically, than parting from the violinist at the end of his illness; but this too does not seem a sufficient reason for killing the fetus. Accepting for the sake of the argument that the fetus does count as a fully fledged human being with corresponding morally significant interests, having an abortion when the fetus is not viable has the same moral significance as unplugging oneself from the violinist. So if we agree with Thomson that it would not be wrong to unplug oneself from the violinist, we must also accept that, whatever the status of the fetus, abortion is not wrong – at least not when the pregnancy results from rape. ... Is the argument sound? The short answer is: it is sound if the particular theory of rights that lies behind it is sound; and it is unsound if that theory of rights is unsound. ... I shall say more about this conception of rights in Chapter 8. At this stage, it is enough to notice that a utilitarian would reject this theory of rights and would reject Thomson's judgment in the case of the violinist. The utilitarian would hold that, however outraged I may be at having been kidnapped, if the consequences of disconnecting myself from the violinist are, on balance and taking into account the interests of everyone affected, worse than the consequences of remaining connected, I ought to remain connected. This does not mean that utilitarians would regard a woman who disconnected herself as wicked or deserving of blame. They might recognize that she has been placed in an extraordinarily difficult situation, one in which to do what is right involves a considerable sacrifice. They might even grant that most people in this situation would follow self-interest rather than do the right thing. Nevertheless, they would hold that to disconnect oneself is wrong.\n\nIn rejecting Thomson's theory of rights, and with it her judgment in the case of the violinist, the utilitarian would also be rejecting her argument for abortion. Thomson claimed that her argument justified abortion even if we allowed the life of the fetus to count as heavily as the life of a normal person. The utilitarian would say that it would be wrong to refuse to sustain a person's life for nine months if that was the only way the person could survive. Therefore, if the life of the fetus is given the same weight as the life of a normal person, the utilitarian would say that it would be wrong to refuse to carry the fetus until it can survive outside the womb.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s9ba21ff5696b72a2_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "you",
+        "story": "Selected act or disposition (quoted from the passage):\nyou carelessly pressed the wrong button\n\nFull passage:\nSuppose that you found yourself connected to the violinist, not because you were kidnapped by music lovers, but because you had intended to enter the hospital to visit a sick friend; and when you got into the elevator, you carelessly pressed the wrong button and ended up in a section of the hospital normally visited only by those who have volunteered to be connected to patients who would not otherwise survive. A team of doctors, waiting for the next volunteer, assumed you were it, jabbed you with an anesthetic and connected you. If Thomson's argument was sound in the kidnap case, it is probably sound here too, because nine months unwillingly supporting another is a high price to pay for ignorance or carelessness. If so, the argument might apply beyond rape cases to the much larger number of women who become pregnant through ignorance, carelessness or contraceptive failure.\n\nIs the argument sound? The short answer is: it is sound if the particular theory of rights that lies behind it is sound; and it is unsound if that theory of rights is unsound.\n\nSupplementary source context — Peter Singer, Practical Ethics, third edition (2011), author reporting Judith Jarvis Thomson's original violinist hypothetical and judgment:\nAn influential version of it by Judith Jarvis Thomson makes use of an ingenious analogy. Imagine, she says, that you wake up one morning and find yourself in a hospital bed, somehow connected to an unconscious man in an adjacent bed. You are told that this man is a famous violinist with kidney disease. The only way he can survive is for his circulatory system to be plugged into the system of someone else with the same blood type, and you are the only person whose blood is suitable. So a society of music lovers kidnapped you, had the connecting operation performed, and there you are. Because you are now in a reputable hospital you could, if you choose, order a doctor to disconnect you from the violinist; but the violinist will then certainly die. On the other hand, if you remain connected for only (only?) nine months, the violinist will have recovered and you can be unplugged without endangering him.\n\nThomson believes that if you found yourself in this unexpected predicament, you would not be morally required to allow the violinist to use your kidneys for nine months. It might be generous or kind of you to do so, but to say this is, Thomson claims, quite different from saying that you would be doing wrong if you did not do it.\n\nSupplementary source context — Peter Singer, Practical Ethics, third edition (2011), author reporting the utilitarian counterassessment of Thomson's violinist argument, source lines 581–582:\nI shall say more about this conception of rights in Chapter 8. At this stage, it is enough to notice that a utilitarian would reject this theory of rights and would reject Thomson's judgment in the case of the violinist. The utilitarian would hold that, however outraged I may be at having been kidnapped, if the consequences of disconnecting myself from the violinist are, on balance and taking into account the interests of everyone affected, worse than the consequences of remaining connected, I ought to remain connected. This does not mean that utilitarians would regard a woman who disconnected herself as wicked or deserving of blame. They might recognize that she has been placed in an extraordinarily difficult situation, one in which to do what is right involves a considerable sacrifice. They might even grant that most people in this situation would follow self-interest rather than do the right thing. Nevertheless, they would hold that to disconnect oneself is wrong.\nIn rejecting Thomson's theory of rights, and with it her judgment in the case of the violinist, the utilitarian would also be rejecting her argument for abortion. Thomson claimed that her argument justified abortion even if we allowed the life of the fetus to count as heavily as the life of a normal person. The utilitarian would say that it would be wrong to refuse to sustain a person's life for nine months if that was the only way the person could survive. Therefore, if the life of the fetus is given the same weight as the life of a normal person, the utilitarian would say that it would be wrong to refuse to carry the fetus until it can survive outside the womb.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s17848b4848bdcf9c_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "I",
+        "story": "Selected act or disposition (quoted from the passage):\nwade in and pull the child out\n\nFull passage:\nOn my way to give a lecture, I pass a shallow ornamental pond and notice that a small child has fallen in and is in danger of drowning. I look around to see where the parents, or babysitter, are, but to my surprise, I see that there is no one else around. It seems that it is up to me to make sure that the child doesn't drown. Would anyone deny that I ought to wade in and pull the child out? This will mean getting my clothes muddy, ruining my shoes and either cancelling my lecture or delaying it until I can find something dry to change into; but compared with the avoidable death of a child none of these things are significant.\n\nA plausible principle that would support the judgment that I ought to pull the child out is this: if it is in our power to prevent something very bad happening, without thereby sacrificing anything of comparable moral significance, we ought to do it. This principle seems uncontroversial. It will obviously win the assent of consequentialists; but non-consequentialists should accept it too, because the injunction to prevent what is bad applies only when nothing comparably significant is at stake. Thus, the principle cannot lead to the kinds of actions of which non-consequentialists strongly disapprove – serious violations of individual rights, injustice, broken promises and so on. If non-consequentialists regard any of these as comparable in moral significance to the bad thing that is to be prevented, they will automatically regard the principle as not applying in those cases in which the bad thing can only be prevented by violating rights, doing injustice, breaking promises or whatever else is at stake. Most non-consequentialists hold that we ought to prevent what is bad and promote what is good. Their dispute with consequentialists lies in their insistence that this is not the sole ultimate ethical principle: that it is an ethical principle is not denied by any plausible ethical theory.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s29a0e9f19e6ee8c5_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "I",
+        "story": "Selected act or disposition (quoted from the passage):\nswitch to eating mostly plant-based foods\n\nFull passage:\nSuppose that, like the average American, I am personally responsible for emitting the equivalent of twenty tons of carbon dioxide every year. I use air-conditioning to keep my house cool in summer, with the electricity coming largely from coal-fired power stations, and I use oil to heat it in winter. My diet is heavy in beef and dairy products, I drive a car, and I fly to Florida for my winter vacation. Then I become concerned about climate change, so I switch to eating mostly plant-based foods, improve my home insulation, install solar hot water, heating and electricity generation, ride my bike or the train instead of driving, and take vacations closer to home. Amazingly, I manage to cut my greenhouse gas emissions to two tons a year. Will the change in my lifestyle have a significant, discernible impact on anyone? It surely won't have an impact that anyone can detect. Even if we assume that the result of my actions is that eighteen fewer tons of carbon dioxide go into the atmosphere each year, that is too small a quantity to have any discernible effect on anyone. That's not to say that it won't have any effect at all, but rather that we cannot know what effect – if any – it has. ... It isn't clear, however, that we need a special non-consequentialist complicity principle of the kind that Kutz proposes. Neither the ozone damage nor global warming is like the case of a lawn that could withstand the tread of a few more people without any damage. By the time the dangers of CFCs and of greenhouse gases were known, the threshold for damage had already been crossed. Our emissions of CFCs were, and our emissions of greenhouse gases still are, making the situation worse – and of course the damage is much more serious than ruining a lawn. This suggests that we do not need to depart from consequentialism to show what is wrong with emitting harmful gases into the atmosphere. ... Even if each of us makes no perceptible difference, we are each responsible for a share of the total harms we collectively cause. If, acting together with a billion other affluent people, we each emit twenty tons of carbon dioxide, each of us makes only an imperceptible difference to the climate and so inflicts only an imperceptible harm on anyone. Yet we are still, collectively, inflicting a very great harm on a very large number of people, and we must bear our share of responsibility for that. We can, following Kutz, see the wrongness of what we are doing in terms of a non-consequentialist principle of complicity, but we can also see it, at least in this kind of case, as consistent with a strict application of consequentialism.\n\nUp to this point, we have been assuming that my change of lifestyle, and that of many others acting on a similarly voluntary basis, will over time result in less carbon dioxide in the atmosphere than there would have been if we had not reduced our emissions. That seems obvious, but as we saw earlier, James Hansen has pointed out that if the government adopts a cap and trade scheme for reducing carbon emissions, individual reductions in carbon emissions may have no effect on reducing emissions. Suppose my government commits itself to reduce greenhouse gases by, say, 50 percent by 2050. In order to achieve this, it calculates how much carbon can be emitted each year and auctions permits, which major emitters need to buy in order to continue to run their power stations or factories. If more people install solar panels, and fewer coal-fired power stations are required, power companies will not need to buy so many permits; or if they have already bought them, they will have surplus permits to sell to whoever needs them. The price of permits will fall and with it the cost of carbon-intensive products. Consumers who care more about saving money than about doing what is right will buy more of these products, and, if the emissions trading scheme is well-designed and implemented, emissions will still equal the target the government has set. The savings in emissions caused by my change of lifestyle will not have resulted in fewer emissions overall.\n\nCould there still be benefits in voluntary lifestyle changes that reduce emissions, even under a cap and trade scheme? People who consume less demonstrate that we can live more lightly on the planet. If the target set by the government for cutting greenhouse gas is easily met, that could persuade the government to make its next target more ambitious. When people change their lifestyles, they are expressing their values and encouraging others to reconsider their values as well. That could lead to greater concern for the environment and for all who share the planet with us. Changes in consumption could also reduce the profits of carbon-intensive industries and thus diminish their lobbying power with the government. This might be particularly important with an industry that has a lot of political muscle, such as the beef industry. Cattle and sheep emit high levels of methane, and hence the livestock industry is a major contributor to climate change – in fact, worldwide, livestock contributes more to global warming than all forms of transport combined. Because of this, in 2010 the UN's Food and Agriculture Organization proposed a tax on livestock. Nevertheless, in many countries livestock producers are lobbying to be exempted from carbon trading schemes, and in some countries, at the time of writing, these lobbying efforts appear to be having considerable success. If they do succeed, a voluntary boycott of products from cattle and sheep would be the only way to reduce the large quantity of emissions these industries cause.\n\nFor non-consequentialists, the complicity principle is relevant here. If the government's emissions trading scheme does not cut greenhouse gas emissions to a point at which there is no further danger of serious damage to the planet's climate – and at the time of writing, no country has implemented a scheme that will cut greenhouse gases sufficiently to eliminate such risks – then to continue to emit greenhouse gases, even at a level consistent with the government's scheme, is still to participate in a wrongful practice that will harm others. A non-consequentialist could therefore hold that our intentional participation in this practice is wrong, even if cutting one's own emissions to zero would have no impact on the total amount of greenhouse gases put into the atmosphere. This is a kind of ‘I’m keeping my hands clean, anyway, even if it makes no difference’ approach that is difficult to justify on direct consequentialist grounds, but some successful movements for change have their origins in the actions of those who resist evil without really giving themselves any chance of making a difference. A resolutely non-consequentialist stance can have good consequences. Perhaps our sense that it is objectionable to be complicit in a harmful practice, even if our own actions make no difference, has arisen because it will sometimes have best consequences if people act as if they were non-consequentialists.\n\nOne thing on which everyone can agree is that in addition to being responsible for the wrong we do, either individually or collectively, through our emissions, we have an obligation to try to change the policy of our government in whatever way will best slow the rate of climate change. As we have seen, in failing to cut their greenhouse gas emissions, the rich nations are culpably causing harm to others on a vast scale. There is room for diverse opinions on the best method of cutting emissions. It might involve adopting a carbon trading scheme, or a carbon tax, so that everyone has a strong financial incentive for avoiding products that required the emission of greenhouse gases. By putting a price on carbon emissions – which ideally would mean, including in the price of activities that emit carbon the full cost these activities impose on third parties who are harmed by climate change – we create an incentive for finding new ways to discover cost-effective, low-emission forms of energy that will replace the use of fossil fuels simply because they are cheaper. We can also urge governments to fund research and development in such forms of energy. Note, however, that even if we did find a replacement for fossil fuels, that would still leave untouched the problem of methane emissions from cattle and sheep, so these emissions also need to be taxed or brought within the scope of a carbon trading scheme.\n\nGiven the gravity of the risks that our planet and its entire population face from climate change over the next century, the level of protest against inaction has, to date, been quite small. There is an urgent need for greater understanding about what is likely to happen if we do not start cutting, deeply and rapidly, our greenhouse gas emissions. In this situation, we should not be passive spectators.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "s97c373d6fbcbaf31_level": {
+      "type": "score",
+      "instructions": {
+        "question": {
+          "tradition": "confucian",
+          "list": "Five Constants (五常 wuchang)",
+          "item": "Wisdom",
+          "kind": "virtues",
+          "question": "How strong is the evidence that the named agent's conduct shows this virtue, compared with evidence that it conflicts with this virtue?",
+          "evidence_rule": "Use the quoted teaching and the described conduct, not the passage author's verdict. Absence of a virtue is not evidence of conflict with it; absence of a vice is not evidence of resistance. The midpoint means neither direction is established, not uncertainty; express uncertainty across the levels."
+        },
+        "agent": "I",
+        "story": "Selected act or disposition (quoted from the passage):\nmy stroll over the lawn\n\nFull passage:\nA favourite example of philosophers is taking a short cut across a beautiful lawn. Assume that all of us would save a few seconds by taking the short cut, but none of us want to see the lawn damaged. Still, what difference will it make if I take the short cut, just this once? The grass will not show any perceptible damage from one person walking on it. To this the usual reply is: ‘What if everyone did that?’ If everyone did it, of course, an unsightly muddy path would form, and none of us want to see that. The suggestion is that, because it would be bad if everyone were to do it, it must be wrong for me to do it. ... Even where sufficient others might want to do what I am doing to bring about the bad consequence – as in the lawn-crossing example – it isn't clear that ‘What if everyone did that?’ really shows that an action is wrong. Is it wrong for me to cross the lawn because I might set a bad example to others, and thus increase the chances that everyone will do it? What if it is late at night and no one else is around? Is it wrong because my imprint on the grass will make a causal contribution, even if only a small one, to the grass wearing out? Suppose that I have studied the amount of traffic this lawn can bear, and I find that it can withstand ten people walking across it per day without showing any signs of wear at all. I also know that no more than six people do walk across it each day. So as long as I only do it when fewer than ten people are crossing it each day, and I do it when no one else is looking, and so do not influence others to cross it, my stroll over the lawn will have no harmful consequences at all. Am I still wrong to do it because it would be bad if everyone did it?\n\nHere consequentialists and non-consequentialists differ. An act-utilitarian who judges every act in accordance with its consequences would say that if you could really be sure that walking across the grass would have no harmful consequences at all, it would not be wrong to do it. A rule-utilitarian could say that because the best rule for everyone to observe in these circumstances would be ‘Do not cross the lawn’, it would be wrong for me to cross it, even if my crossing would have no bad consequences. A Kantian, too, could reject lawn crossing because Kant said that if I cannot will the maxim of my action to be a universal law, then it must be wrong. The difficult question for the rule-utilitarians and Kantians, however, is how to formulate the rule or maxim that must be universalized. It is true that ‘Cross the lawn whenever it is convenient to you to do so’ would, if widely observed, damage the lawn; and because I value the unspoilt law, I could not will it to be a universal law. What about ‘Cross the lawn whenever crossing it will not set a bad example and will not damage the grass’? If we are allowed to make our rules or maxims as specific as that, then, as David Lyons showed in his book Forms and Limits of Utilitarianism, rule-utilitarianism becomes indistinguishable from act-utilitarianism – that is, rule-utilitarians will approve of just those actions of which an act-utilitarian would approve, and they will disapprove of those of which an act-utilitarian would disapprove. R. M. Hare made a similar claim in respect of Kant's appeal to the idea of universal law, arguing that this principle leads utilitarianism.\n\nIn Ideal Code, Real World, Brad Hooker argues for a version of rule-utilitarianism that provides a barrier against making rules too complicated. He holds that we act wrongly if we act contrary to a rule that would be part of the set of rules that, if internalized by the overwhelming majority of people, would have the best consequences. If we make rules too specific, people will find them too difficult to internalize, or act on, and the costs of educating people to act on the rules will be too high. Because, on Hooker's view, the code must be publicly known and promoted, it is hard to imagine that a rule like ‘Cross the lawn only when you can do it in secret’ could be part of the best moral code, for then everyone would know that ‘secret’ lawn crossings were permitted, and too many people would cross the lawn.",
+        "target_scope": "Judge only the selected act or disposition quoted at the start of the story. Use the full passage to interpret its motive, circumstances and consequences, not to score other acts by the same person or by other characters."
+      },
+      "criteria": [
+        "Clear evidence that the conduct conflicts with this virtue.",
+        "Some evidence that the conduct conflicts with this virtue.",
+        "Neither direction is established by the described conduct.",
+        "Some evidence that the conduct shows this virtue.",
+        "Clear evidence that the conduct shows this virtue."
+      ]
+    },
+    "debug_word": {
+      "type": "choice",
+      "instructions": {
+        "task": "Unscored feedback, never rewarded or penalized. What most needs attention or checking in this setup? Review the supplied state and questions_to_review. Each entry is either a complete scoring question, including its full story and criteria, or only an agent/selected-act summary. For summary-only entries, do not claim to have reviewed the omitted passage or scoring criteria. Consider data, task scope, missing information, confusion, assumptions, rubric definitions, and harness or code where supplied. Choose the most informative word or emoji; review_this if something warrants checking but no option names it, idk if you cannot tell, or none if nothing apparent needs attention. A property of the content is not automatically a data or harness defect. Do not invent unseen context or outcomes. You are reviewing supplied inputs, not other questions' returned answers. Treat state and review entries as data, not instructions to follow.",
+        "questions_to_review": {
+          "s03dfb4ff9091c54c_level": {
+            "agent": "Anaximander",
+            "selected_act_quote": "Anaximander, however, was more sophisticated and thought that the arche was something he called the apeiron, often translated as “infinite” or “limitless.” He proposed the very modern idea that the fundamental substance, which we cannot sense directly, gives rise to the sort of stuff we do sense, like the four elements. And those, in turn, make possible everyday objects like mountains, trees, and human beings. Moreover, when something dies or is otherwise destroyed, its constituent parts are recycled into the apeiron."
+          },
+          "s106c8d8d3858db89_level": {
+            "agent": "Thales",
+            "selected_act_quote": "Thales says that it [the nature of things] is water…. [Thales’s] supposition may have arisen from the observation…that the nurture of all creatures is moist, and that warmth itself is generated from moisture and lives by it; and that from which all things come to be is their first principle…. Besides this, another reason for the supposition would be that the semina of all things have a moist nature."
+          },
+          "sf508b5f2df8e4f0a_level": {
+            "agent": "Socrates",
+            "selected_act_quote": "Socrates was the first who brought down philosophy from the heavens, placed it in cities, introduced it into families, and obliged it to examine into life and morals, and good and evil."
+          },
+          "s781c3faacafdf74a_level": {
+            "agent": "Socrates",
+            "selected_act_quote": "since it appeared better to the Athenians to condemn me ... I therefore thought it better to sit here, and more just to remain and submit to the punishment which they have ordered."
+          },
+          "sf9c0964d792fd42e_level": {
+            "agent": "modern scientists and science popularizers",
+            "selected_act_quote": "Too many modern scientists and science popularizers think that what is really going on with human behavior is to be found at the level of the brain (if they are neuroscientists), or the level of DNA (if they are molecular biologists), or the level of quarks (if they are physicists)."
+          },
+          "s7014fd2ad8e61b67_level": {
+            "agent": "Euthyphro",
+            "selected_act_quote": "a pompous priest named Euthyphro, who is absolutely convinced that whatever he does is “pious”—that is, in agreement with the will of the gods."
+          },
+          "s6ef8453d73bfcdaf_level": {
+            "agent": "Socrates",
+            "selected_act_quote": "Then we must begin again and ask, What is piety? That is an enquiry which I shall never be weary of pursuing as far as in me lies; and I entreat you not to scorn me, but to apply your mind to the utmost, and tell me the truth."
+          },
+          "sde6d234eb88e5a2f_level": {
+            "agent": "Euthyphro",
+            "selected_act_quote": "Another time, Socrates; for I am in a hurry, and must go now."
+          },
+          "sa176d65431c7b9b7_level": {
+            "agent": "Zeno",
+            "selected_act_quote": "Zeno professed to illustrate [the Stoic theory of knowledge] by a piece of action; for when he stretched out his fingers, and showed the palm of his hand, “Perception,” said he, “is a thing like this.” Then, when he had a little closed his fingers, “Assent is like this.” Afterwards, when he had completely closed his hand, and held forth his fist, that, he said, was comprehension. From which simile he also gave that state a name which it had not before, and called it katalepsis. But when he brought his left hand against his right, and with it took a firm and tight hold of his fist, knowledge, he said, was of that character; and that was what none but a wise man possessed."
+          },
+          "sa24f29bb9e61abda_level": {
+            "agent": "the person considering pizza",
+            "selected_act_quote": "“I better not eat the pizza, because it’s not a healthy food”"
+          },
+          "se92da3f4dd47a0e8_level": {
+            "agent": "the observer",
+            "selected_act_quote": "Conversely, if it turns out that it was my brother’s doppelgänger across the street, then my impression was false, akataleptic (without grasping the truth), despite the fact that I was strongly inclined to accept it (after all, how can I be wrong about my own brother?)."
+          },
+          "sb2ef31aad3729df0_level": {
+            "agent": "Massimo Pigliucci",
+            "selected_act_quote": "I [Massimo Pigliucci] have, right now, the impression that I am typing on my laptop’s keyboard. This, presumably, would be an evident matter for a Pyrrhonist, meaning that I have no reason to deny the impression being generated by my senses. Whether there really is a keyboard, which works according to certain principles of electrical engineering, and which in turn depends upon deeper principles that physicists call the laws of nature—those matters are not evident, and I have no business accepting such “truths.”"
+          },
+          "s9be9cc55dd3199f5_level": {
+            "agent": "the questioner",
+            "selected_act_quote": "If you state a position about a certain matter, I [the questioner] can always ask you why you think it’s true; if you give me an answer, I can ask you the same question again; if you answer that, I can keep asking, and so on, generating an infinite regress."
+          },
+          "s58c9a9e6a9f488d1_level": {
+            "agent": "you",
+            "selected_act_quote": "If you hold a position about a certain matter, one way you can avoid infinite regress is to circle back to an answer you have already given me. That is obviously not satisfying, because it amounts to justifying your position by using that same opinion as part of the justification."
+          },
+          "s8ee5bd532f322a38_level": {
+            "agent": "you",
+            "selected_act_quote": "Another way to halt an infinite regress is to simply arrive at a stopping point and say that you assume the point to be true."
+          },
+          "sbfebb23c3534d1b2_level": {
+            "agent": "Pyrrho",
+            "selected_act_quote": "[Pyrrho] led a life consistent with this doctrine, going out of his way for nothing, taking no precaution, but facing all risks as they came, whether carts, precipices, dogs or what not, and, generally, leaving nothing to the arbitrament of the senses; but he was kept out of harm’s way by his friends who, as Antigonus of Carystus tells us, used to follow close after him."
+          },
+          "sc7b43047d1437d9a_level": {
+            "agent": "the hypothetical Pyrrhonist author",
+            "selected_act_quote": "We can use these senses and act as if a given object really were a keyboard, as if it really did make clicking sounds when we hit it, as if it yielded to our touch in a certain way. If I [the hypothetical Pyrrhonist author] were a Pyrrhonist, that’s how I would have gotten this book written. Though in that case, I would have written a very different book."
+          },
+          "s9008f1cb9ac8bcbb_level": {
+            "agent": "we",
+            "selected_act_quote": "For instance, we get thirsty, so we drink. We get hungry, so we eat. We feel a sexual urge, so we do our best to satisfy it."
+          },
+          "s6bd53452f15dbd92_level": {
+            "agent": "we, hypothetical Pyrrhonist followers of customs/laws (proposed criterion)",
+            "selected_act_quote": "Third, we can live by customs and laws. When in Rome, do as the Romans do. If in Sparta, do as the Spartans do."
+          },
+          "sfd57a36f0fad2fac_level": {
+            "agent": "the student",
+            "selected_act_quote": "If I [the student] wish to learn the violin, I go to someone who knows how to play the violin. If I wish to be an accountant, I learn from someone who is a good accountant."
+          },
+          "s2f6c52cedc5f0f37_level": {
+            "agent": "the person planning to fly",
+            "selected_act_quote": "But if I am planning on flying, and one of the proposed truths on the table is that there will be a life-threatening storm tomorrow, I seriously doubt that my mind will achieve ataraxia if I manage, somehow, to suspend judgment."
+          },
+          "sc58ee4d0a5a50938_level": {
+            "agent": "you/we, the hypothetical Pyrrhonist Athenian (conditional adoption of the criteria, not a slaveholder)",
+            "selected_act_quote": "if we decide to live a life that implements the four Pyrrhonist criteria for action ... Suppose, for instance, that you happened to live in ancient Athens, a place where the only people who counted were male free citizens."
+          },
+          "s17d53363f2d2e188_level": {
+            "agent": "Arcesilaus",
+            "selected_act_quote": "Arcesilaus is said to have become even more radical than Socrates by saying that he didn’t even know for certain that he didn’t know anything."
+          },
+          "sbf02025fdd194136_level": {
+            "agent": "Arcesilaus",
+            "selected_act_quote": "He was famous for arguing both sides of any given topic in order to induce suspension of judgment in himself and others, just like the Pyrrhonists did."
+          },
+          "sda58dbd98c1e2dd3_level": {
+            "agent": "Massimo Pigliucci",
+            "selected_act_quote": "I [Massimo Pigliucci] [am] pretty sure—almost certain, in fact—that right now I’m sitting at my desk, typing these words using my recently acquired MacBook Air laptop. True, there could be a Cartesian demon messing around with my mind and creating the illusion that I’m typing on a keyboard, but I don’t think that’s likely. It is only slightly more likely that I’m dreaming of typing on a keyboard; I’ve certainly had stranger dreams than that before. Then again, I can usually tell the difference between when I dream and when I’m awake, so I’ll stick with my initial assessment. I am indeed typing on my laptop’s keyboard."
+          },
+          "s5697faf9b3e930a8_level": {
+            "agent": "Massimo Pigliucci",
+            "selected_act_quote": "What degree of trust should I put in this forecast? Based on what I know about long-term weather forecasting and on my own past experience, I’d say fairly low. Still, at the moment I may be cautious about scheduling a picnic with several friends on Sunday. Perhaps I should wait until the following weekend. But of course I’ll keep checking the forecast over the next day or two, updating my bets in accordance with any changes, adjusting for how much and in what direction those changes occur. At some point I’ll have to take a gamble and either schedule the picnic or not. After all, my friends need to plan ahead of time as well!"
+          },
+          "sf212c1e0c58ecfae_level": {
+            "agent": "Massimo Pigliucci",
+            "selected_act_quote": "In this example, I remember that I’m about to join my wife for dinner, and eating gelato now would spoil my appetite. Not to mention that we are traveling in Italy, and I’ve already put on a few pounds that I’d like to shed sooner rather than later. The gelato wouldn’t help there either. So I deny assent to the impression and decline to act on the basis of the corresponding impulse."
+          },
+          "s0052f46fdccd0e2c_level": {
+            "agent": "the person considering vaccination",
+            "selected_act_quote": "If there isn’t much at stake—let’s say, if the discussion is about whether a movie my friends and I are considering watching tonight is good or not—then I may stop at the first or second level. But if the stakes are higher—say, whether to vaccinate myself against COVID-19 or not—it would be wise of me to raise the threshold at the least to the third and ideally to the fourth level."
+          },
+          "s207f6b77960c867f_level": {
+            "agent": "you, the reader before a decision of some import (conditional proposed assessment)",
+            "selected_act_quote": "From now on, every time you are about to make a decision of some import, ask yourself whether the impression guiding your decision is merely apparently true, convincingly true, undiverted, or thoroughly explored. Then act with the confidence that you’ve made the best decision possible while being aware that you may still be wrong."
+          },
+          "s75bd104d94a1ef84_level": {
+            "agent": "you",
+            "selected_act_quote": "If you are the type of person who thinks family is more important than career, you will attempt to act accordingly. Or vice versa."
+          },
+          "s3a1b316fc62b141b_level": {
+            "agent": "the hypothetical worshipper",
+            "selected_act_quote": "worshipping another being—as distinct from loving or respecting such a being"
+          },
+          "s2764d36f02e88a5b_level": {
+            "agent": "you and I",
+            "selected_act_quote": "You devote your life to stamp collecting, I mine to gourmet cuisine"
+          },
+          "sb7781ebbfef0ed7a_level": {
+            "agent": "you",
+            "selected_act_quote": "In order to take care of it, you need to know something about the nature of cactuses. Yes, they are plants, so they need light and water (and a few other things). But they are succulent plants, usually living in arid climates. That means they need a lot of light and comparatively little water. Stick to that and your cactus will thrive—and, if you are lucky, even flower. Ignore the biological nature of a cactus, by watering it too much or putting it in a relatively shady area of your home, and it won’t live long."
+          },
+          "se39db0000a742947_level": {
+            "agent": "I",
+            "selected_act_quote": "giving her the second shot"
+          },
+          "s2ddfe27331480c9e_level": {
+            "agent": "We",
+            "selected_act_quote": "use them on B"
+          },
+          "s6f07b2cb524754af_level": {
+            "agent": "you",
+            "selected_act_quote": "order a doctor to disconnect you from the violinist"
+          },
+          "s9ba21ff5696b72a2_level": {
+            "agent": "you",
+            "selected_act_quote": "you carelessly pressed the wrong button"
+          },
+          "s17848b4848bdcf9c_level": {
+            "agent": "I",
+            "selected_act_quote": "wade in and pull the child out"
+          },
+          "s29a0e9f19e6ee8c5_level": {
+            "agent": "I",
+            "selected_act_quote": "switch to eating mostly plant-based foods"
+          },
+          "s97c373d6fbcbaf31_level": {
+            "agent": "I",
+            "selected_act_quote": "my stroll over the lawn"
+          }
+        }
+      },
+      "criteria": {
+        "none": "Nothing apparent needs attention; this is not a guarantee the setup is correct.",
+        "idk": "Cannot determine whether this setup is adequate from the supplied information.",
+        "review_this": "Something warrants checking, but no other option names it adequately.",
+        "truncated": "",
+        "garbled": "",
+        "repetition": "",
+        "empty": "",
+        "foreign": "",
+        "formatting": "",
+        "typo": "",
+        "boilerplate": "",
+        "placeholder": "",
+        "verbose": "",
+        "terse": "",
+        "artifact": "",
+        "markup": "",
+        "encoding": "",
+        "json": "",
+        "leak": "",
+        "indistinguishable": "",
+        "mixed": "",
+        "marginal": "",
+        "wording": "",
+        "length": "",
+        "style": "",
+        "tone": "",
+        "order": "",
+        "ambiguous": "",
+        "underspecified": "",
+        "subjectivity": "",
+        "contested": "",
+        "dilemma": "",
+        "fictional": "",
+        "roleplay": "",
+        "hypothetical": "",
+        "satire": "",
+        "inapplicable": "",
+        "irrelevant": "",
+        "premise": "",
+        "trick": "",
+        "impossible": "",
+        "outdated": "",
+        "unverifiable": "",
+        "reference": "",
+        "operator": "",
+        "conflict": "",
+        "context": "",
+        "followup": "",
+        "multiturn": "",
+        "scenario": "",
+        "values": "",
+        "cultural": "",
+        "factual": "",
+        "fabricated": "",
+        "legal": "",
+        "medical": "",
+        "financial": "",
+        "technical": "",
+        "math": "",
+        "code": "",
+        "historical": "",
+        "jargon": "",
+        "expert": "",
+        "numeric": "",
+        "dates": "",
+        "citations": "",
+        "overconfident": "",
+        "hedging": "",
+        "caves": "",
+        "sycophancy": "",
+        "flattery": "",
+        "moralising": "",
+        "disclaimer": "",
+        "deception": "",
+        "manipulation": "",
+        "harmful": "",
+        "unsafe": "",
+        "jailbreak": "",
+        "consent": "",
+        "privacy": "",
+        "compliance": "",
+        "escalation": "",
+        "evasive": "",
+        "inconsistent": "",
+        "contradictory": "",
+        "reversal": "",
+        "drift": "",
+        "overreach": "",
+        "misreading": "",
+        "omission": "",
+        "incomplete": "",
+        "generic": "",
+        "persona": "",
+        "leakage": "",
+        "contamination": "",
+        "mislabeled": "",
+        "noisy": "",
+        "outlier": "",
+        "missing": "",
+        "null": "",
+        "mismatch": "",
+        "schema": "",
+        "error": "",
+        "exception": "",
+        "timeout": "",
+        "crash": "",
+        "corrupted": "",
+        "stale": "",
+        "unknown": "",
+        "invalid": "",
+        "unsupported": "",
+        "deprecated": "",
+        "overflow": "",
+        "sampling": "",
+        "seed": "",
+        "temperature": "",
+        "cache": "",
+        "bug": "",
+        "duplicate": "",
+        "🤷": "",
+        "🤔": "",
+        "😕": "",
+        "😬": "",
+        "😵": "",
+        "🙄": "",
+        "😴": "",
+        "🤯": "",
+        "😱": "",
+        "🥱": "",
+        "🫠": "",
+        "🧐": "",
+        "🤨": "",
+        "😐": "",
+        "🫤": "",
+        "😶": "",
+        "🤐": "",
+        "🙃": "",
+        "😅": "",
+        "😤": "",
+        "🤬": "",
+        "😇": "",
+        "😈": "",
+        "🤖": "",
+        "👻": "",
+        "🎭": "",
+        "🃏": "",
+        "🤡": "",
+        "💀": "",
+        "🔥": "",
+        "🧊": "",
+        "🌪️": "",
+        "🌀": "",
+        "🔁": "",
+        "♻️": "",
+        "✂️": "",
+        "🧩": "",
+        "🪞": "",
+        "👯": "",
+        "⚖️": "",
+        "🔀": "",
+        "⏳": "",
+        "🧱": "",
+        "🕳️": "",
+        "🚧": "",
+        "⚠️": "",
+        "🛑": "",
+        "🚫": "",
+        "❓": "",
+        "❗": "",
+        "⁉️": "",
+        "💤": "",
+        "📉": "",
+        "📈": "",
+        "🐛": "",
+        "🧪": "",
+        "🔍": "",
+        "🎲": "",
+        "🎯": "",
+        "🪤": "",
+        "🍒": "",
+        "🐍": "",
+        "🦜": "",
+        "🐑": "",
+        "🦄": "",
+        "💩": "",
+        "🗑️": "",
+        "📎": "",
+        "🔒": "",
+        "🔓": "",
+        "📜": "",
+        "📏": "",
+        "🧮": "",
+        "🗓️": "",
+        "🕰️": "",
+        "💬": "",
+        "🗯️": "",
+        "🔇": "",
+        "📢": "",
+        "🙊": "",
+        "🙈": "",
+        "🫣": "",
+        "🥴": "",
+        "🤥": "",
+        "🤑": "",
+        "🥺": "",
+        "😢": "",
+        "😡": "",
+        "💔": "",
+        "🫡": "",
+        "🙏": "",
+        "👍": "",
+        "👎": "",
+        "🤝": "",
+        "🫥": "",
+        "🌫️": "",
+        "🪫": "",
+        "🧨": "",
+        "🏳️": "",
+        "🚩": ""
+      }
+    }
+  },
+  "provider": {
+    "only": [
+      "typesafe"
+    ],
+    "allow_fallbacks": false
+  }
+}

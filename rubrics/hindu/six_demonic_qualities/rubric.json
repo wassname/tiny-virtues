@@ -1,0 +1,313 @@
+[
+  {
+    "id": "hindu|six_demonic_qualities|Ostentation",
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Ostentation",
+    "kind": "vice",
+    "rubric_v1_gloss": "Ostentation: pretending to be righteous.",
+    "rubric_version": "v2",
+    "rubric_sha256": "73a3b0c643f1fa4f0e4182868bd1ff923af4bd2dad1dc90f5a363a6ab574ec7a",
+    "source_scope": "Pretending to be righteous: a show of piety, sacrifice or austerity put on for reputation.",
+    "teaching": [
+      {
+        "quote": "4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "context": "Śaṅkara's gloss:",
+        "quote": "Ostentation: pretending to be righteous.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "quote": "12. That which is offered, O best of the Bharatas, with a view to reward and for ostentation, know it to be a Rajasic worship.",
+        "citation": "Bhagavad Gītā 17.12 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 389"
+      },
+      {
+        "quote": "18. That austerity which is practised with the object of gaining good reception, honour and worship, and with hypocrisy, is said to be of this … world, to be Rajasic, unstable and uncertain. Good reception : in such words as ' Here is a good brahmana of great austerities.'",
+        "citation": "Bhagavad Gītā 17.18 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 391"
+      },
+      {
+        "quote": "17. Self-honored, stubborn, filled with the pride and intoxication of wealth, they perform sacrifices in name with hypocrisy, without regard to ordinance.",
+        "citation": "Bhagavad Gītā 16.17 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 379–380"
+      },
+      {
+        "context": "Its contrary in the Gītā's virtues of knowledge (13.7), as Śaṅkara glosses it:",
+        "quote": "Modesty : not proclaiming one's own virtues.",
+        "citation": "Bhagavad Gītā 13.7 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 301"
+      },
+      {
+        "explanation": "The fault is the pretence, not the religious act: worship and austerity performed for show or to win honour are classed as passionate (rājasa). It overlaps self-conceit and arrogance; Śaṅkara's gloss centres it on pretended righteousness."
+      }
+    ],
+    "limits": "Śaṅkara's gloss is brief. Telling pretence from sincere public worship depends on a stated motive or plain evidence of show; public worship as such is not ostentation.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|six_demonic_qualities|anger",
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "anger",
+    "kind": "vice",
+    "rubric_v1_gloss": "Anger: at something unpleasant.",
+    "rubric_version": "v2",
+    "rubric_sha256": "73a3b0c643f1fa4f0e4182868bd1ff923af4bd2dad1dc90f5a363a6ab574ec7a",
+    "source_scope": "Wrath at something unpleasant, especially desire thwarted. The Gītā makes it a gate to hell and a destroyer of discrimination.",
+    "teaching": [
+      {
+        "quote": "4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "context": "Śaṅkara's gloss at 16.18:",
+        "quote": "Anger: at something unpleasant.",
+        "citation": "Bhagavad Gītā 16.18 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 380"
+      },
+      {
+        "quote": "62. When a man thinks of objects, attachment for them arises. From attachment arises desire ; from desire arises wrath. … 63. From wrath arises delusion; from delusion, failure of memory ; from failure of memory, loss … From wrath arises delusion, a lack of discrimination between right and wrong. Verily, when a wrathful man gets infatuated, he is led to insult even the Guru.",
+        "citation": "Bhagavad Gītā 2.62–63 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 63–64"
+      },
+      {
+        "quote": "37. It is Desire, it is Wrath, born of the energy of Rajas, all-devouring, all-sinful; that, know thou, is the foe here.",
+        "citation": "Bhagavad Gītā 3.37 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 100–101"
+      },
+      {
+        "quote": "21. Triple is this, the gate to hell, destructive of the self : LUST, WRATH, and greed. Therefore, these three, one should abandon.",
+        "citation": "Bhagavad Gītā 16.21 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 381"
+      },
+      {
+        "context": "Its contrary in the divine qualities, 'absence of anger' (16.2), Śaṅkara glosses as:",
+        "quote": "anger : suppression of anger arising when beaten or reviled.",
+        "citation": "Bhagavad Gītā 16.2 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 374"
+      },
+      {
+        "explanation": "Anger here is the passion itself, born when desire is frustrated, not only an outburst. Its danger is what follows: delusion, the loss of the power to tell right from wrong, and insult even to one's teacher. Its contrary is suppressing anger as it arises, even when beaten or reviled."
+      }
+    ],
+    "limits": "The Gītā also commands Arjuna to fight; firm action against wrong is not itself anger. Overlaps absence of anger in the ten marks and the anger guides of other traditions.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|six_demonic_qualities|arrogance",
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "arrogance",
+    "kind": "vice",
+    "rubric_v1_gloss": "Arrogance: pride of learning, wealth, high connection, etc.",
+    "rubric_version": "v2",
+    "rubric_sha256": "73a3b0c643f1fa4f0e4182868bd1ff923af4bd2dad1dc90f5a363a6ab574ec7a",
+    "source_scope": "Pride of learning, wealth, family connection and the like, puffing oneself up over others. Śaṅkara links it to exultation that leads to transgressing dharma.",
+    "teaching": [
+      {
+        "quote": "4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "context": "Śaṅkara's gloss:",
+        "quote": "Arrogance: pride of learning, wealth, high connection, etc.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "quote": "15. \" I am rich and well-born. Who else is equal to me ? I will sacrifice, I will give, I will rejoice.\" Thus deluded by unwisdom,",
+        "citation": "Bhagavad Gītā 16.14–15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 378–379"
+      },
+      {
+        "context": "Śaṅkara on giving up arrogance (Gītā 18.53):",
+        "quote": "Arrogance : which … follows the State of exultation and leads to the transgression of dharma, as said in the smriti : \" When a man exults, he becomes arrogant, and when he becomes arrogant, he transgresses dharma \" — (Apastamba-Dharmasutra, 1-13-4).",
+        "citation": "Bhagavad Gītā 18.53 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 445–446"
+      },
+      {
+        "context": "Medhātithi's gloss of self-control in Manu 6.92 names its contrary:",
+        "quote": "(3) ‘Self-control’—absence of haughtiness, renouncing of pride due to superior learning &c.",
+        "citation": "Medhātithi on Manu 6.92, trans. Ganganath Jha"
+      },
+      {
+        "explanation": "Arrogance is pride swelling over one's advantages until one acts as if no one were equal. Śaṅkara ties it to learning, wealth and high connection. It overlaps self-conceit and insolence."
+      }
+    ],
+    "limits": "Having or using learning, wealth or rank is not arrogance; the fault is the exultant pride that treats them as making one superior. The sources do not grade degrees of pride.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|six_demonic_qualities|ignorance",
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "ignorance",
+    "kind": "vice",
+    "rubric_v1_gloss": "Ignorance : misconception of duties and the like.",
+    "rubric_version": "v2",
+    "rubric_sha256": "73a3b0c643f1fa4f0e4182868bd1ff923af4bd2dad1dc90f5a363a6ab574ec7a",
+    "source_scope": "Misconception of duties and the like: not knowing what ought to be done and what avoided, and so acting wrongly.",
+    "teaching": [
+      {
+        "quote": "4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "context": "Śaṅkara's gloss:",
+        "quote": "Ignorance : misconception of duties and the like.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "quote": "7. Neither action nor inaction do the demoniac men know ; neither purity nor good conduct nor truth is found in them. They do not know what acts they should perform to achieve the end of man, nor from what acts they should abstain to avert evil.",
+        "citation": "Bhagavad Gītā 16.7 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 376"
+      },
+      {
+        "context": "Ānandagiri's note, extracted by Sastri, on why such people are \"enemies of the right path\":",
+        "quote": "Not caring to know and follow the Sruti and the Smriti.",
+        "citation": "Ānandagiri note (A) in Sastri, Gītā 16.19 (1901), p. 380"
+      },
+      {
+        "context": "Śaṅkara at 13.11 also calls the faults opposed to the virtues of knowledge 'ignorance':",
+        "quote": "What is opposed to this — viz., pride, hypocrisy, cruelty, impatience, insincerity and the like — is ignorance, which should be known and avoided as tending to the perpetuation of samsara.",
+        "citation": "Bhagavad Gītā 13.11 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 304"
+      },
+      {
+        "explanation": "Ignorance here is not lack of schooling but not knowing one's duty, together with not caring to learn it. It shows when a person acts on a wrong notion of what ought to be done or avoided, or shrugs off duty as unreal. An honest gap in information, corrected when found, is not this vice."
+      }
+    ],
+    "limits": "The vice is moral misjudgement, not illiteracy or lack of learning; examples avoid treating the unschooled as demoniac. Overlaps the Sigālovāda motive of stupidity and the ten marks' discrimination.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|six_demonic_qualities|insolence",
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "insolence",
+    "kind": "vice",
+    "rubric_v1_gloss": "Insolence : in speech ; e. g. to speak of the blind as having eyes, of the ugly as handsome, of a man of low birth as one of high birth, and so on.",
+    "rubric_version": "v2",
+    "rubric_sha256": "73a3b0c643f1fa4f0e4182868bd1ff923af4bd2dad1dc90f5a363a6ab574ec7a",
+    "source_scope": "Harsh, wounding speech. Śaṅkara's examples are taunts that call the blind 'sighted' and the low-born 'high-born'.",
+    "teaching": [
+      {
+        "quote": "4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "context": "Śaṅkara's gloss:",
+        "quote": "Insolence : in speech ; e. g. to speak of the blind as having eyes, of the ugly as handsome, of a man of low birth as one of high birth, and so on.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "context": "Its contrary, 'austerity of speech' (17.15), where 'excitement' means pain to living beings:",
+        "quote": "15. The speech which causes no excitement and is true, as also pleasant and beneficial, … are said to form the austerity of speech. … The speech that is true, that causes no excitement, that is agreeable and good, forms the austerity of speech ; … as for example, \" Be tranquil, my son, study (the Vedas) and practise yoga, and this will do thee good.\"",
+        "citation": "Bhagavad Gītā 17.15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 389–390"
+      },
+      {
+        "context": "The 1904 textbook on a neighbouring fault between equals:",
+        "quote": "Rudeness, Churlishness of bearing, a rough manner, are the faults which are the opposites of courtesy and consideration. … They are signs of a coarse and vulgar nature which — uncertain of its own power and of the respect of others — tries to assert itself by loudness and to force itself on the attention of others, and it is thus always a mark of weakness.",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), faults between equals"
+      },
+      {
+        "explanation": "Śaṅkara's examples are mock praise: words that sound kind but wound by naming a defect or low status. The fault is speech meant to hurt; its contrary is speech that causes no pain and is true, pleasant and beneficial."
+      }
+    ],
+    "limits": "Śaṅkara's examples are taunts; extending the vice to open abuse rests on the Gītā's ideal of painless speech. Gentle, sincere correction is not insolence. The remarks on birth reflect the source's caste setting.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|six_demonic_qualities|self-conceit",
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "self-conceit",
+    "kind": "vice",
+    "rubric_v1_gloss": "Esteeming themselves as possessed of all good qualities",
+    "rubric_version": "v2",
+    "rubric_sha256": "73a3b0c643f1fa4f0e4182868bd1ff923af4bd2dad1dc90f5a363a6ab574ec7a",
+    "source_scope": "Esteeming oneself as possessed of all good qualities and worthy of high honour, whether or not one has them.",
+    "teaching": [
+      {
+        "quote": "4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.",
+        "citation": "Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375"
+      },
+      {
+        "quote": "17. Self-honored, stubborn, … Self-honored : Esteeming themselves as possessed of all good qualities ; they are not esteemed as such by the … righteous.",
+        "citation": "Bhagavad Gītā 16.17 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 379–380"
+      },
+      {
+        "quote": "Egotism : they esteem themselves very high for qualities which they really possess and for those which they falsely attribute to themselves.",
+        "citation": "Bhagavad Gītā 16.18 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 380"
+      },
+      {
+        "context": "Śaṅkara on 'absence of pride' among the divine qualities (16.3):",
+        "quote": "Pride : consists in supposing oneself worthy of a high honor.",
+        "citation": "Bhagavad Gītā 16.3 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 374"
+      },
+      {
+        "quote": "\" That enemy has been slain by me, and others also shall I slay. I am a lord, I enjoy, I am successful, strong and healthy. … There is none equal to me in any respect.",
+        "citation": "Bhagavad Gītā 16.14–15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 378–379"
+      },
+      {
+        "context": "Its contrary in 13.7, as Śaṅkara glosses it:",
+        "quote": "Humility : absence of self-esteem.",
+        "citation": "Bhagavad Gītā 13.7 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 301"
+      },
+      {
+        "explanation": "Self-conceit is an inflated self-estimate: crediting oneself with every virtue, including ones one lacks, and expecting honour accordingly. The righteous do not share that estimate. Its contrary is humility."
+      }
+    ],
+    "limits": "Sastri does not gloss abhimāna at 16.4; this guide relies on Śaṅkara at 16.17–18 and 16.3. Stating a real skill accurately is not self-conceit.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

@@ -1,0 +1,4568 @@
+{
+  "buddhist|five_precepts|Abstaining from false speech": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Abstaining from false speech",
+    "kind": "virtue"
+  },
+  "buddhist|five_precepts|Abstaining from fermented and distilled intoxicants which are the basis for heedlessness": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Abstaining from fermented and distilled intoxicants which are the basis for heedlessness",
+    "kind": "virtue"
+  },
+  "buddhist|five_precepts|Abstaining from sexual misconduct": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Abstaining from sexual misconduct",
+    "kind": "virtue"
+  },
+  "buddhist|five_precepts|Abstaining from taking life": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Abstaining from taking life",
+    "kind": "virtue"
+  },
+  "buddhist|five_precepts|Abstaining from taking what is not given": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Abstaining from taking what is not given",
+    "kind": "virtue"
+  },
+  "buddhist|five_precepts|False speech": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "False speech",
+    "kind": "vice"
+  },
+  "buddhist|five_precepts|Sexual misconduct": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Sexual misconduct",
+    "kind": "vice"
+  },
+  "buddhist|five_precepts|Taking intoxicants": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Taking intoxicants",
+    "kind": "vice"
+  },
+  "buddhist|five_precepts|Taking life": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Taking life",
+    "kind": "vice"
+  },
+  "buddhist|five_precepts|Taking what is not given": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "five_precepts",
+    "list_name": "The five precepts (pañca-sīla), the lay undertaking",
+    "virtue": "Taking what is not given",
+    "kind": "vice"
+  },
+  "buddhist|four_brahmaviharas|Compassion": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "four_brahmaviharas",
+    "list_name": "The four divine abidings (brahmavihāra) or boundless states (appamaññā)",
+    "virtue": "Compassion",
+    "kind": "virtue"
+  },
+  "buddhist|four_brahmaviharas|Love": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "four_brahmaviharas",
+    "list_name": "The four divine abidings (brahmavihāra) or boundless states (appamaññā)",
+    "virtue": "Love",
+    "kind": "virtue"
+  },
+  "buddhist|four_brahmaviharas|Poise": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "four_brahmaviharas",
+    "list_name": "The four divine abidings (brahmavihāra) or boundless states (appamaññā)",
+    "virtue": "Poise",
+    "kind": "virtue"
+  },
+  "buddhist|four_brahmaviharas|Sympathy": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "four_brahmaviharas",
+    "list_name": "The four divine abidings (brahmavihāra) or boundless states (appamaññā)",
+    "virtue": "Sympathy",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_fourteen_evils|Associating with evil companions": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Associating with evil companions",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Being addicted to intoxicating liquors": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Being addicted to intoxicating liquors",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Being infatuated by gambling": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Being infatuated by gambling",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Destruction of life": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Destruction of life",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Enmity": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Enmity",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Fear": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Fear",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Frequenting the streets at unseemly hours": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Frequenting the streets at unseemly hours",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Haunting fairs": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Haunting fairs",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Licentiousness": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Licentiousness",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Lying speech": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Lying speech",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Partiality": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Partiality",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|Stupidity": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "Stupidity",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|The habit of idleness": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "The habit of idleness",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_fourteen_evils|The taking what is not given": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_fourteen_evils",
+    "list_name": "The fourteen evil things of the Sigālovāda (four vices of conduct, four motives, six channels for dissipating wealth)",
+    "virtue": "The taking what is not given",
+    "kind": "vice"
+  },
+  "buddhist|sigalovada_six_quarters|A child's ministry to parents (east)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "A child's ministry to parents (east)",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|A clansman's ministry to friends and familiars (north)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "A clansman's ministry to friends and familiars (north)",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|A clansman's ministry to recluses and brahmins (zenith)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "A clansman's ministry to recluses and brahmins (zenith)",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|A husband's ministry to his wife (west)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "A husband's ministry to his wife (west)",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|A master's ministry to servants and employees (nadir)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "A master's ministry to servants and employees (nadir)",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|A wife's love for her husband": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "A wife's love for her husband",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|Friends' love for the clansman": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "Friends' love for the clansman",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|Parents' love for the child": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "Parents' love for the child",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|Pupils' ministry to teachers (south)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "Pupils' ministry to teachers (south)",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|Recluses' and brahmins' love for the clansman": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "Recluses' and brahmins' love for the clansman",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|Servants' and employees' love for their master": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "Servants' and employees' love for their master",
+    "kind": "virtue"
+  },
+  "buddhist|sigalovada_six_quarters|Teachers' love for the pupil": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "virtue": "Teachers' love for the pupil",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Abstaining from bitter speech": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Abstaining from bitter speech",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Abstaining from killing": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Abstaining from killing",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Abstaining from lies": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Abstaining from lies",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Abstaining from sensual misconduct": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Abstaining from sensual misconduct",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Abstaining from slander": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Abstaining from slander",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Abstaining from tattle": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Abstaining from tattle",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Bitter speech": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Bitter speech",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Covetousness": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Covetousness",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Devoid of covetousness": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Devoid of covetousness",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Eschewing theft": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Eschewing theft",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Lying": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Lying",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Malevolence": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Malevolence",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|No malevolence": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "No malevolence",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Right outlook": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Right outlook",
+    "kind": "virtue"
+  },
+  "buddhist|ten_courses|Sensual misconduct (fornication)": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Sensual misconduct (fornication)",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Slander": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Slander",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Taking life": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Taking life",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Taking what is not his": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Taking what is not his",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Tattle": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Tattle",
+    "kind": "vice"
+  },
+  "buddhist|ten_courses|Wrong outlook": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_courses",
+    "list_name": "The ten wrong and right courses of action (dasa akusala / kusala kammapatha)",
+    "virtue": "Wrong outlook",
+    "kind": "vice"
+  },
+  "buddhist|ten_perfections|Determination": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Determination",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Energy": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Energy",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Equanimity": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Equanimity",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Giving": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Giving",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Loving-kindness": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Loving-kindness",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Patience": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Patience",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Renunciation": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Renunciation",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Truthfulness": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Truthfulness",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Virtue": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Virtue",
+    "kind": "virtue"
+  },
+  "buddhist|ten_perfections|Wisdom": {
+    "primary": true,
+    "tradition": "buddhist",
+    "list_key": "ten_perfections",
+    "list_name": "The ten perfections (dasa pāramī), as Dhammapāla teaches them",
+    "virtue": "Wisdom",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from alcoholic drinks that cause heedlessness": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from alcoholic drinks that cause heedlessness",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from dancing, singing, music, and seeing shows": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from dancing, singing, music, and seeing shows",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from eating at the wrong time": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from eating at the wrong time",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from high and luxurious resting places": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from high and luxurious resting places",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from killing living beings": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from killing living beings",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from lying": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from lying",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from receiving gold, silver, and money": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from receiving gold, silver, and money",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from sexual activity": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from sexual activity",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from stealing": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from stealing",
+    "kind": "virtue"
+  },
+  "buddhist|ten_training_rules|Abstention from wearing garlands and using scents and cosmetics": {
+    "primary": false,
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "virtue": "Abstention from wearing garlands and using scents and cosmetics",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|the clean of heart": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "the clean of heart",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|the meek": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "the meek",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|the merciful": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "the merciful",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|the peace-makers": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "the peace-makers",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|the poor in spirit": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "the poor in spirit",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|they that hunger and thirst after justice": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "they that hunger and thirst after justice",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|they that mourn": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "they that mourn",
+    "kind": "virtue"
+  },
+  "christian|beatitudes|they that suffer persecution for justice sake": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "beatitudes",
+    "list_name": "Eight Beatitudes (Penny Catechism)",
+    "virtue": "they that suffer persecution for justice sake",
+    "kind": "virtue"
+  },
+  "christian|cardinal_virtues|fortitude": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cardinal_virtues",
+    "list_name": "Four cardinal virtues (Penny Catechism)",
+    "virtue": "fortitude",
+    "kind": "virtue"
+  },
+  "christian|cardinal_virtues|justice": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cardinal_virtues",
+    "list_name": "Four cardinal virtues (Penny Catechism)",
+    "virtue": "justice",
+    "kind": "virtue"
+  },
+  "christian|cardinal_virtues|prudence": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cardinal_virtues",
+    "list_name": "Four cardinal virtues (Penny Catechism)",
+    "virtue": "prudence",
+    "kind": "virtue"
+  },
+  "christian|cardinal_virtues|temperance": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cardinal_virtues",
+    "list_name": "Four cardinal virtues (Penny Catechism)",
+    "virtue": "temperance",
+    "kind": "virtue"
+  },
+  "christian|cassian_eight_faults|accidie": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "accidie",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|anger": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "anger",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|avarice": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "avarice",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|dejection": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "dejection",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|fornication": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "fornication",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|gluttony": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "gluttony",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|pride": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "pride",
+    "kind": "vice"
+  },
+  "christian|cassian_eight_faults|vainglory": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "cassian_eight_faults",
+    "list_name": "Eight principal faults (Cassian)",
+    "virtue": "vainglory",
+    "kind": "vice"
+  },
+  "christian|corporal_works_of_mercy|to bury the dead": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to bury the dead",
+    "kind": "virtue"
+  },
+  "christian|corporal_works_of_mercy|to clothe the naked": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to clothe the naked",
+    "kind": "virtue"
+  },
+  "christian|corporal_works_of_mercy|to feed the hungry": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to feed the hungry",
+    "kind": "virtue"
+  },
+  "christian|corporal_works_of_mercy|to give drink to the thirsty": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to give drink to the thirsty",
+    "kind": "virtue"
+  },
+  "christian|corporal_works_of_mercy|to harbour the harbourless": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to harbour the harbourless",
+    "kind": "virtue"
+  },
+  "christian|corporal_works_of_mercy|to visit the imprisoned": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to visit the imprisoned",
+    "kind": "virtue"
+  },
+  "christian|corporal_works_of_mercy|to visit the sick": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "corporal_works_of_mercy",
+    "list_name": "Seven corporal works of mercy (Penny Catechism)",
+    "virtue": "to visit the sick",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|abstinence": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "abstinence",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|avarice": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "avarice",
+    "kind": "vice"
+  },
+  "christian|deadly_sins_remedies|chastity and continence": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "chastity and continence",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|envy": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "envy",
+    "kind": "vice"
+  },
+  "christian|deadly_sins_remedies|fortitude": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "fortitude",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|gentleness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "gentleness",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|gluttony": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "gluttony",
+    "kind": "vice"
+  },
+  "christian|deadly_sins_remedies|humility": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "humility",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|lechery": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "lechery",
+    "kind": "vice"
+  },
+  "christian|deadly_sins_remedies|love of God and neighbour": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "love of God and neighbour",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|mercy and pity": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "mercy and pity",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|patience": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "patience",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|pride": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "pride",
+    "kind": "vice"
+  },
+  "christian|deadly_sins_remedies|reasonable generosity": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "reasonable generosity",
+    "kind": "virtue"
+  },
+  "christian|deadly_sins_remedies|sloth": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "sloth",
+    "kind": "vice"
+  },
+  "christian|deadly_sins_remedies|wrath": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "deadly_sins_remedies",
+    "list_name": "Seven deadly sins and their remedies (Parson's Tale)",
+    "virtue": "wrath",
+    "kind": "vice"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|anger": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "anger",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|meekness"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|brotherly love": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "brotherly love",
+    "kind": "virtue"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|chastity": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "chastity",
+    "kind": "virtue"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|covetousness": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "covetousness",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|liberality"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|diligence": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "diligence",
+    "kind": "virtue"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|envy": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "envy",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|brotherly love"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|gluttony": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "gluttony",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|temperance"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|humility": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "humility",
+    "kind": "virtue"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|liberality": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "liberality",
+    "kind": "virtue"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|lust": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "lust",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|chastity"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|meekness": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "meekness",
+    "kind": "virtue"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|pride": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "pride",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|humility"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|sloth": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "sloth",
+    "kind": "vice",
+    "derived_from": "christian|seven_deadly_sins_contrary_virtues|diligence"
+  },
+  "christian|seven_deadly_sins_contrary_virtues|temperance": {
+    "primary": true,
+    "tradition": "christian",
+    "list_key": "seven_deadly_sins_contrary_virtues",
+    "list_name": "Seven deadly sins and their contrary virtues (Penny Catechism)",
+    "virtue": "temperance",
+    "kind": "virtue"
+  },
+  "christian|sins_crying_to_heaven|defrauding labourers of their wages": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "sins_crying_to_heaven",
+    "list_name": "Four sins crying to heaven for vengeance (Penny Catechism)",
+    "virtue": "defrauding labourers of their wages",
+    "kind": "vice"
+  },
+  "christian|sins_crying_to_heaven|oppression of the poor": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "sins_crying_to_heaven",
+    "list_name": "Four sins crying to heaven for vengeance (Penny Catechism)",
+    "virtue": "oppression of the poor",
+    "kind": "vice"
+  },
+  "christian|sins_crying_to_heaven|sodomy": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "sins_crying_to_heaven",
+    "list_name": "Four sins crying to heaven for vengeance (Penny Catechism)",
+    "virtue": "sodomy",
+    "kind": "vice"
+  },
+  "christian|sins_crying_to_heaven|wilful murder": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "sins_crying_to_heaven",
+    "list_name": "Four sins crying to heaven for vengeance (Penny Catechism)",
+    "virtue": "wilful murder",
+    "kind": "vice"
+  },
+  "christian|spiritual_works_of_mercy|to bear wrongs patiently": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to bear wrongs patiently",
+    "kind": "virtue"
+  },
+  "christian|spiritual_works_of_mercy|to comfort the sorrowful": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to comfort the sorrowful",
+    "kind": "virtue"
+  },
+  "christian|spiritual_works_of_mercy|to convert the sinner": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to convert the sinner",
+    "kind": "virtue"
+  },
+  "christian|spiritual_works_of_mercy|to counsel the doubtful": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to counsel the doubtful",
+    "kind": "virtue"
+  },
+  "christian|spiritual_works_of_mercy|to forgive injuries": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to forgive injuries",
+    "kind": "virtue"
+  },
+  "christian|spiritual_works_of_mercy|to instruct the ignorant": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to instruct the ignorant",
+    "kind": "virtue"
+  },
+  "christian|spiritual_works_of_mercy|to pray for the living and the dead": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "spiritual_works_of_mercy",
+    "list_name": "Seven spiritual works of mercy (Penny Catechism)",
+    "virtue": "to pray for the living and the dead",
+    "kind": "virtue"
+  },
+  "christian|ten_commandments|adultery": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "adultery",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|coveting a neighbour's goods": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "coveting a neighbour's goods",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|desiring a neighbour's wife": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "desiring a neighbour's wife",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|false witness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "false witness",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|honouring father and mother": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "honouring father and mother",
+    "kind": "virtue"
+  },
+  "christian|ten_commandments|keeping holy the Sabbath or Sunday": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "keeping holy the Sabbath or Sunday",
+    "kind": "virtue"
+  },
+  "christian|ten_commandments|killing": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "killing",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|taking God's name in vain": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "taking God's name in vain",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|theft": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "theft",
+    "kind": "vice"
+  },
+  "christian|ten_commandments|worshipping other gods": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "ten_commandments",
+    "list_name": "Ten Commandments",
+    "virtue": "worshipping other gods",
+    "kind": "vice"
+  },
+  "christian|theological_virtues|charity": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "theological_virtues",
+    "list_name": "Three theological virtues (Penny Catechism)",
+    "virtue": "charity",
+    "kind": "virtue"
+  },
+  "christian|theological_virtues|faith": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "theological_virtues",
+    "list_name": "Three theological virtues (Penny Catechism)",
+    "virtue": "faith",
+    "kind": "virtue"
+  },
+  "christian|theological_virtues|hope": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "theological_virtues",
+    "list_name": "Three theological virtues (Penny Catechism)",
+    "virtue": "hope",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|adultery": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "adultery",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|drunkenness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "drunkenness",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|emulations": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "emulations",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|envyings": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "envyings",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|faith": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "faith",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|fornication": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "fornication",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|gentleness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "gentleness",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|goodness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "goodness",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|hatred": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "hatred",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|heresies": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "heresies",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|idolatry": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "idolatry",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|joy": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "joy",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|lasciviousness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "lasciviousness",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|longsuffering": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "longsuffering",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|love": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "love",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|meekness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "meekness",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|murders": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "murders",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|peace": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "peace",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|revellings": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "revellings",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|seditions": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "seditions",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|strife": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "strife",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|temperance": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "temperance",
+    "kind": "virtue"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|uncleanness": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "uncleanness",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|variance": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "variance",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|witchcraft": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "witchcraft",
+    "kind": "vice"
+  },
+  "christian|works_of_flesh_fruit_of_spirit|wrath": {
+    "primary": false,
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "virtue": "wrath",
+    "kind": "vice"
+  },
+  "confucian|five_constants|Benevolence": {
+    "primary": true,
+    "tradition": "confucian",
+    "list_key": "five_constants",
+    "list_name": "Five Constants (五常 wuchang)",
+    "virtue": "Benevolence",
+    "kind": "virtue"
+  },
+  "confucian|five_constants|Propriety": {
+    "primary": true,
+    "tradition": "confucian",
+    "list_key": "five_constants",
+    "list_name": "Five Constants (五常 wuchang)",
+    "virtue": "Propriety",
+    "kind": "virtue"
+  },
+  "confucian|five_constants|Righteousness": {
+    "primary": true,
+    "tradition": "confucian",
+    "list_key": "five_constants",
+    "list_name": "Five Constants (五常 wuchang)",
+    "virtue": "Righteousness",
+    "kind": "virtue"
+  },
+  "confucian|five_constants|Sincerity (good faith)": {
+    "primary": true,
+    "tradition": "confucian",
+    "list_key": "five_constants",
+    "list_name": "Five Constants (五常 wuchang)",
+    "virtue": "Sincerity (good faith)",
+    "kind": "virtue"
+  },
+  "confucian|five_constants|Wisdom": {
+    "primary": true,
+    "tradition": "confucian",
+    "list_key": "five_constants",
+    "list_name": "Five Constants (五常 wuchang)",
+    "virtue": "Wisdom",
+    "kind": "virtue"
+  },
+  "confucian|five_relationships|Affection between father and son": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "five_relationships",
+    "list_name": "Five Relationships (五倫 wulun; Mencius' 'relations of humanity')",
+    "virtue": "Affection between father and son",
+    "kind": "virtue"
+  },
+  "confucian|five_relationships|Attention to separate functions between husband and wife": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "five_relationships",
+    "list_name": "Five Relationships (五倫 wulun; Mencius' 'relations of humanity')",
+    "virtue": "Attention to separate functions between husband and wife",
+    "kind": "virtue"
+  },
+  "confucian|five_relationships|Fidelity between friends": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "five_relationships",
+    "list_name": "Five Relationships (五倫 wulun; Mencius' 'relations of humanity')",
+    "virtue": "Fidelity between friends",
+    "kind": "virtue"
+  },
+  "confucian|five_relationships|Proper distinction between old and young": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "five_relationships",
+    "list_name": "Five Relationships (五倫 wulun; Mencius' 'relations of humanity')",
+    "virtue": "Proper distinction between old and young",
+    "kind": "virtue"
+  },
+  "confucian|five_relationships|Righteousness between ruler and subject": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "five_relationships",
+    "list_name": "Five Relationships (五倫 wulun; Mencius' 'relations of humanity')",
+    "virtue": "Righteousness between ruler and subject",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Benevolence on the part of the ruler": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Benevolence on the part of the ruler",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Cultivation of harmony": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Cultivation of harmony",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Deference on the part of juniors": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Deference on the part of juniors",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Filial duty on the part of the son": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Filial duty on the part of the son",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Gentleness on the part of the elder brother": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Gentleness on the part of the elder brother",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Kindness on the part of elders": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Kindness on the part of elders",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Kindness on the part of the father": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Kindness on the part of the father",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Loyalty on the part of the minister": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Loyalty on the part of the minister",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Murders": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Murders",
+    "kind": "vice"
+  },
+  "confucian|liyun_duties_advantages_disasters|Obedience on the part of the younger brother": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Obedience on the part of the younger brother",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Plundering": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Plundering",
+    "kind": "vice"
+  },
+  "confucian|liyun_duties_advantages_disasters|Quarrels": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Quarrels",
+    "kind": "vice"
+  },
+  "confucian|liyun_duties_advantages_disasters|Righteousness on the part of the husband": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Righteousness on the part of the husband",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Submission on the part of the wife": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Submission on the part of the wife",
+    "kind": "virtue"
+  },
+  "confucian|liyun_duties_advantages_disasters|Truthfulness in speech": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "liyun_duties_advantages_disasters",
+    "list_name": "The things which men consider right (人義, ten duties), the things advantageous to men (人利) and the things disastrous to men (人患)",
+    "virtue": "Truthfulness in speech",
+    "kind": "virtue"
+  },
+  "confucian|mencius_five_unfilial|Following the desires of one's ears and eyes": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "virtue": "Following the desires of one's ears and eyes",
+    "kind": "vice"
+  },
+  "confucian|mencius_five_unfilial|Fondness for bravery, fighting and quarrelling": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "virtue": "Fondness for bravery, fighting and quarrelling",
+    "kind": "vice"
+  },
+  "confucian|mencius_five_unfilial|Fondness for goods and money and selfish attachment to wife and children": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "virtue": "Fondness for goods and money and selfish attachment to wife and children",
+    "kind": "vice"
+  },
+  "confucian|mencius_five_unfilial|Gambling, chess-playing and fondness for spirits": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "virtue": "Gambling, chess-playing and fondness for spirits",
+    "kind": "vice"
+  },
+  "confucian|mencius_five_unfilial|Laziness in the use of one's four limbs": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "virtue": "Laziness in the use of one's four limbs",
+    "kind": "vice"
+  },
+  "confucian|womens_four_virtues|Woman's Deportment": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_four_virtues",
+    "list_name": "Four Virtues of women (四德 si de: virtue, words, deportment, employments)",
+    "virtue": "Woman's Deportment",
+    "kind": "virtue"
+  },
+  "confucian|womens_four_virtues|Woman's Employments": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_four_virtues",
+    "list_name": "Four Virtues of women (四德 si de: virtue, words, deportment, employments)",
+    "virtue": "Woman's Employments",
+    "kind": "virtue"
+  },
+  "confucian|womens_four_virtues|Woman's Virtues": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_four_virtues",
+    "list_name": "Four Virtues of women (四德 si de: virtue, words, deportment, employments)",
+    "virtue": "Woman's Virtues",
+    "kind": "virtue"
+  },
+  "confucian|womens_four_virtues|Woman's Words": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_four_virtues",
+    "list_name": "Four Virtues of women (四德 si de: virtue, words, deportment, employments)",
+    "virtue": "Woman's Words",
+    "kind": "virtue"
+  },
+  "confucian|womens_seven_grounds_for_divorce|Immorality": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_seven_grounds_for_divorce",
+    "list_name": "Seven grounds for divorce (七出 qi chu), the five that are acts",
+    "virtue": "Immorality",
+    "kind": "vice"
+  },
+  "confucian|womens_seven_grounds_for_divorce|Jealousy": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_seven_grounds_for_divorce",
+    "list_name": "Seven grounds for divorce (七出 qi chu), the five that are acts",
+    "virtue": "Jealousy",
+    "kind": "vice"
+  },
+  "confucian|womens_seven_grounds_for_divorce|Stealing": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_seven_grounds_for_divorce",
+    "list_name": "Seven grounds for divorce (七出 qi chu), the five that are acts",
+    "virtue": "Stealing",
+    "kind": "vice"
+  },
+  "confucian|womens_seven_grounds_for_divorce|Talkativeness": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_seven_grounds_for_divorce",
+    "list_name": "Seven grounds for divorce (七出 qi chu), the five that are acts",
+    "virtue": "Talkativeness",
+    "kind": "vice"
+  },
+  "confucian|womens_seven_grounds_for_divorce|Undutifulness towards her husband's parents": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_seven_grounds_for_divorce",
+    "list_name": "Seven grounds for divorce (七出 qi chu), the five that are acts",
+    "virtue": "Undutifulness towards her husband's parents",
+    "kind": "vice"
+  },
+  "confucian|womens_three_obediences|Following her father and elder brother in youth": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_three_obediences",
+    "list_name": "Three Obediences (三從 san cong, 'the woman follows the man')",
+    "virtue": "Following her father and elder brother in youth",
+    "kind": "virtue"
+  },
+  "confucian|womens_three_obediences|Following her husband when married": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_three_obediences",
+    "list_name": "Three Obediences (三從 san cong, 'the woman follows the man')",
+    "virtue": "Following her husband when married",
+    "kind": "virtue"
+  },
+  "confucian|womens_three_obediences|Following her son when her husband is dead": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "womens_three_obediences",
+    "list_name": "Three Obediences (三從 san cong, 'the woman follows the man')",
+    "virtue": "Following her son when her husband is dead",
+    "kind": "virtue"
+  },
+  "confucian|xiaojing_filial_duties|Acting against the natural feeling of the public": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Acting against the natural feeling of the public",
+    "kind": "vice"
+  },
+  "confucian|xiaojing_filial_duties|Dissatisfaction with one's inferior position": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Dissatisfaction with one's inferior position",
+    "kind": "vice"
+  },
+  "confucian|xiaojing_filial_duties|Feeling proud of one's high position": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Feeling proud of one's high position",
+    "kind": "vice"
+  },
+  "confucian|xiaojing_filial_duties|Making parents happy, especially at meals": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Making parents happy, especially at meals",
+    "kind": "virtue"
+  },
+  "confucian|xiaojing_filial_duties|Sacrificing to deceased parents with utmost solemnity": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Sacrificing to deceased parents with utmost solemnity",
+    "kind": "virtue"
+  },
+  "confucian|xiaojing_filial_duties|Showing great sorrow for dead parents": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Showing great sorrow for dead parents",
+    "kind": "virtue"
+  },
+  "confucian|xiaojing_filial_duties|Taking extra care of parents when sick": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Taking extra care of parents when sick",
+    "kind": "virtue"
+  },
+  "confucian|xiaojing_filial_duties|Venerating parents in daily life": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "xiaojing_filial_duties",
+    "list_name": "Five duties of a filial son and three things a son ought not to do (Classic of Filial Piety, ch. 10)",
+    "virtue": "Venerating parents in daily life",
+    "kind": "virtue"
+  },
+  "confucian|zhongyong_three_universal_virtues|Benevolence": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "zhongyong_three_universal_virtues",
+    "list_name": "Three universal virtues (三達德, Doctrine of the Mean 20)",
+    "virtue": "Benevolence",
+    "kind": "virtue"
+  },
+  "confucian|zhongyong_three_universal_virtues|Fortitude": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "zhongyong_three_universal_virtues",
+    "list_name": "Three universal virtues (三達德, Doctrine of the Mean 20)",
+    "virtue": "Fortitude",
+    "kind": "virtue"
+  },
+  "confucian|zhongyong_three_universal_virtues|Wisdom": {
+    "primary": false,
+    "tradition": "confucian",
+    "list_key": "zhongyong_three_universal_virtues",
+    "list_name": "Three universal virtues (三達德, Doctrine of the Mean 20)",
+    "virtue": "Wisdom",
+    "kind": "virtue"
+  },
+  "hindu|five_common_duties|Harmlessness": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "virtue": "Harmlessness",
+    "kind": "virtue"
+  },
+  "hindu|five_common_duties|control of the senses": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "virtue": "control of the senses",
+    "kind": "virtue"
+  },
+  "hindu|five_common_duties|integrity": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "virtue": "integrity",
+    "kind": "virtue"
+  },
+  "hindu|five_common_duties|purity": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "virtue": "purity",
+    "kind": "virtue"
+  },
+  "hindu|five_common_duties|truth": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "virtue": "truth",
+    "kind": "virtue"
+  },
+  "hindu|five_niyamas|cleanliness": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_niyamas",
+    "list_name": "The five niyamas (Yoga Sūtra 2.32), in Vivekananda’s teaching",
+    "virtue": "cleanliness",
+    "kind": "virtue"
+  },
+  "hindu|five_niyamas|contentment": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_niyamas",
+    "list_name": "The five niyamas (Yoga Sūtra 2.32), in Vivekananda’s teaching",
+    "virtue": "contentment",
+    "kind": "virtue"
+  },
+  "hindu|five_niyamas|mortification": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_niyamas",
+    "list_name": "The five niyamas (Yoga Sūtra 2.32), in Vivekananda’s teaching",
+    "virtue": "mortification",
+    "kind": "virtue"
+  },
+  "hindu|five_niyamas|self-surrender to God": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_niyamas",
+    "list_name": "The five niyamas (Yoga Sūtra 2.32), in Vivekananda’s teaching",
+    "virtue": "self-surrender to God",
+    "kind": "virtue"
+  },
+  "hindu|five_niyamas|study": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_niyamas",
+    "list_name": "The five niyamas (Yoga Sūtra 2.32), in Vivekananda’s teaching",
+    "virtue": "study",
+    "kind": "virtue"
+  },
+  "hindu|five_yamas|continence": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_yamas",
+    "list_name": "The five yamas (Yoga Sūtra 2.30–31), in Vivekananda’s teaching",
+    "virtue": "continence",
+    "kind": "virtue"
+  },
+  "hindu|five_yamas|non-killing": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_yamas",
+    "list_name": "The five yamas (Yoga Sūtra 2.30–31), in Vivekananda’s teaching",
+    "virtue": "non-killing",
+    "kind": "virtue"
+  },
+  "hindu|five_yamas|non-receiving of any gifts": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_yamas",
+    "list_name": "The five yamas (Yoga Sūtra 2.30–31), in Vivekananda’s teaching",
+    "virtue": "non-receiving of any gifts",
+    "kind": "virtue"
+  },
+  "hindu|five_yamas|non-stealing": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_yamas",
+    "list_name": "The five yamas (Yoga Sūtra 2.30–31), in Vivekananda’s teaching",
+    "virtue": "non-stealing",
+    "kind": "virtue"
+  },
+  "hindu|five_yamas|truthfulness": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "five_yamas",
+    "list_name": "The five yamas (Yoga Sūtra 2.30–31), in Vivekananda’s teaching",
+    "virtue": "truthfulness",
+    "kind": "virtue"
+  },
+  "hindu|six_demonic_qualities|Ostentation": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "virtue": "Ostentation",
+    "kind": "vice"
+  },
+  "hindu|six_demonic_qualities|anger": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "virtue": "anger",
+    "kind": "vice"
+  },
+  "hindu|six_demonic_qualities|arrogance": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "virtue": "arrogance",
+    "kind": "vice"
+  },
+  "hindu|six_demonic_qualities|ignorance": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "virtue": "ignorance",
+    "kind": "vice"
+  },
+  "hindu|six_demonic_qualities|insolence": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "virtue": "insolence",
+    "kind": "vice"
+  },
+  "hindu|six_demonic_qualities|self-conceit": {
+    "primary": false,
+    "tradition": "hindu",
+    "list_key": "six_demonic_qualities",
+    "list_name": "The six demoniac qualities (Bhagavad Gītā 16.4)",
+    "virtue": "self-conceit",
+    "kind": "vice"
+  },
+  "hindu|ten_marks_of_dharma|Absence of anger": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Absence of anger",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Abstention from unrighteous appropriation": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Abstention from unrighteous appropriation",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Control of the Sense-organs": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Control of the Sense-organs",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Discrimination": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Discrimination",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Forgiveness": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Forgiveness",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Knowledge": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Knowledge",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Purity": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Purity",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Self-control": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Self-control",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Steadiness": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Steadiness",
+    "kind": "virtue"
+  },
+  "hindu|ten_marks_of_dharma|Truthfulness": {
+    "primary": true,
+    "tradition": "hindu",
+    "list_key": "ten_marks_of_dharma",
+    "list_name": "The ten-fold forms of duty (Manusmṛti 6.92)",
+    "virtue": "Truthfulness",
+    "kind": "virtue"
+  },
+  "islamic|ghazali_four_roots|Courage": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "Courage",
+    "kind": "virtue"
+  },
+  "islamic|ghazali_four_roots|Justice": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "Justice",
+    "kind": "virtue"
+  },
+  "islamic|ghazali_four_roots|Temperance": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "Temperance",
+    "kind": "virtue"
+  },
+  "islamic|ghazali_four_roots|Wisdom": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "Wisdom",
+    "kind": "virtue"
+  },
+  "islamic|ghazali_four_roots|cowardice": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "cowardice",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|cupidity": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "cupidity",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|fraud": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "fraud",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|indifference": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "indifference",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|languor": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "languor",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|recklessness": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "recklessness",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|stupidity": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "stupidity",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|swindling": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "swindling",
+    "kind": "vice"
+  },
+  "islamic|ghazali_four_roots|tyranny": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "ghazali_four_roots",
+    "list_name": "Al-Ghazali’s four fundamental good traits of character (Ihya, book 22)",
+    "virtue": "tyranny",
+    "kind": "vice"
+  },
+  "islamic|quran_16_90|all shameful deeds": {
+    "primary": true,
+    "tradition": "islamic",
+    "list_key": "quran_16_90",
+    "list_name": "The three enjoined and three forbidden qualities (Qur'an 16:90)",
+    "virtue": "all shameful deeds",
+    "kind": "vice"
+  },
+  "islamic|quran_16_90|injustice": {
+    "primary": true,
+    "tradition": "islamic",
+    "list_key": "quran_16_90",
+    "list_name": "The three enjoined and three forbidden qualities (Qur'an 16:90)",
+    "virtue": "injustice",
+    "kind": "vice"
+  },
+  "islamic|quran_16_90|justice": {
+    "primary": true,
+    "tradition": "islamic",
+    "list_key": "quran_16_90",
+    "list_name": "The three enjoined and three forbidden qualities (Qur'an 16:90)",
+    "virtue": "justice",
+    "kind": "virtue"
+  },
+  "islamic|quran_16_90|liberality to kith and kin": {
+    "primary": true,
+    "tradition": "islamic",
+    "list_key": "quran_16_90",
+    "list_name": "The three enjoined and three forbidden qualities (Qur'an 16:90)",
+    "virtue": "liberality to kith and kin",
+    "kind": "virtue"
+  },
+  "islamic|quran_16_90|rebellion": {
+    "primary": true,
+    "tradition": "islamic",
+    "list_key": "quran_16_90",
+    "list_name": "The three enjoined and three forbidden qualities (Qur'an 16:90)",
+    "virtue": "rebellion",
+    "kind": "vice"
+  },
+  "islamic|quran_16_90|the doing of good": {
+    "primary": true,
+    "tradition": "islamic",
+    "list_key": "quran_16_90",
+    "list_name": "The three enjoined and three forbidden qualities (Qur'an 16:90)",
+    "virtue": "the doing of good",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|Muslim men and women": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "Muslim men and women",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|believing men and women": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "believing men and women",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|devout men and women": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "devout men and women",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|men and women who are patient and constant": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "men and women who are patient and constant",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|men and women who engage much in Allah's praise": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "men and women who engage much in Allah's praise",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|men and women who fast (and deny themselves)": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "men and women who fast (and deny themselves)",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|men and women who give in Charity": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "men and women who give in Charity",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|men and women who guard their chastity": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "men and women who guard their chastity",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|men and women who humble themselves": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "men and women who humble themselves",
+    "kind": "virtue"
+  },
+  "islamic|quran_33_35|true men and women": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_33_35",
+    "list_name": "The qualities of men and women promised forgiveness (Qur'an 33:35)",
+    "virtue": "true men and women",
+    "kind": "virtue"
+  },
+  "islamic|quran_3_134|Those who spend (freely), whether in prosperity, or in adversity": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_3_134",
+    "list_name": "Spending, anger-restraint and pardon among the righteous (Qur'an 3:134)",
+    "virtue": "Those who spend (freely), whether in prosperity, or in adversity",
+    "kind": "virtue"
+  },
+  "islamic|quran_3_134|pardon (all) men": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_3_134",
+    "list_name": "Spending, anger-restraint and pardon among the righteous (Qur'an 3:134)",
+    "virtue": "pardon (all) men",
+    "kind": "virtue"
+  },
+  "islamic|quran_3_134|who restrain anger": {
+    "primary": false,
+    "tradition": "islamic",
+    "list_key": "quran_3_134",
+    "list_name": "Spending, anger-restraint and pardon among the righteous (Qur'an 3:134)",
+    "virtue": "who restrain anger",
+    "kind": "virtue"
+  },
+  "jewish|avot_ben_zoma_four|honored": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_ben_zoma_four",
+    "list_name": "Avot 4:1: Ben Zoma’s four questions",
+    "virtue": "honored",
+    "kind": "virtue"
+  },
+  "jewish|avot_ben_zoma_four|mighty": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_ben_zoma_four",
+    "list_name": "Avot 4:1: Ben Zoma’s four questions",
+    "virtue": "mighty",
+    "kind": "virtue"
+  },
+  "jewish|avot_ben_zoma_four|rich": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_ben_zoma_four",
+    "list_name": "Avot 4:1: Ben Zoma’s four questions",
+    "virtue": "rich",
+    "kind": "virtue"
+  },
+  "jewish|avot_ben_zoma_four|wise": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_ben_zoma_four",
+    "list_name": "Avot 4:1: Ben Zoma’s four questions",
+    "virtue": "wise",
+    "kind": "virtue"
+  },
+  "jewish|avot_justice_truth_peace|justice": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_justice_truth_peace",
+    "list_name": "Avot 1:18: justice, truth and peace",
+    "virtue": "justice",
+    "kind": "virtue"
+  },
+  "jewish|avot_justice_truth_peace|peace": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_justice_truth_peace",
+    "list_name": "Avot 1:18: justice, truth and peace",
+    "virtue": "peace",
+    "kind": "virtue"
+  },
+  "jewish|avot_justice_truth_peace|truth": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_justice_truth_peace",
+    "list_name": "Avot 1:18: justice, truth and peace",
+    "virtue": "truth",
+    "kind": "virtue"
+  },
+  "jewish|avot_torah_service_piety|the Temple service": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_torah_service_piety",
+    "list_name": "Avot 1:2: Torah, Temple service and acts of piety",
+    "virtue": "the Temple service",
+    "kind": "virtue"
+  },
+  "jewish|avot_torah_service_piety|the Torah": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_torah_service_piety",
+    "list_name": "Avot 1:2: Torah, Temple service and acts of piety",
+    "virtue": "the Torah",
+    "kind": "virtue"
+  },
+  "jewish|avot_torah_service_piety|the practice of acts of piety": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "avot_torah_service_piety",
+    "list_name": "Avot 1:2: Torah, Temple service and acts of piety",
+    "virtue": "the practice of acts of piety",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Calmness": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Calmness",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Cleanliness": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Cleanliness",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Decisiveness": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Decisiveness",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Diligence": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Diligence",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Equanimity": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Equanimity",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Frugality": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Frugality",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Humility": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Humility",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Order": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Order",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Patience": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Patience",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Righteousness": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Righteousness",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Separation": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Separation",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Silence": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Silence",
+    "kind": "virtue"
+  },
+  "jewish|lefin_thirteen_middot|Truth": {
+    "primary": false,
+    "tradition": "jewish",
+    "list_key": "lefin_thirteen_middot",
+    "list_name": "The thirteen illustrative training traits of Cheshbon HaNefesh",
+    "virtue": "Truth",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|cleanliness": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "cleanliness",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|fear of sin": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "fear of sin",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|holiness": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "holiness",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|humility": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "humility",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|piety": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "piety",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|purity": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "purity",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|separation": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "separation",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|watchfulness": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "watchfulness",
+    "kind": "virtue"
+  },
+  "jewish|mesillat_yesharim_nine_stages|zeal": {
+    "primary": true,
+    "tradition": "jewish",
+    "list_key": "mesillat_yesharim_nine_stages",
+    "list_name": "Mesillat Yesharim: the nine stages of character and service (1:32)",
+    "virtue": "zeal",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|argument": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "argument",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|curiosity": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "curiosity",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|empiricism": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "empiricism",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|evenness": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "evenness",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|humility": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "humility",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|lightness": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "lightness",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|perfectionism": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "perfectionism",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|precision": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "precision",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|relinquishment": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "relinquishment",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|scholarship": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "scholarship",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|simplicity": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "simplicity",
+    "kind": "virtue"
+  },
+  "rationalist|yudkowsky_twelve_virtues|the void": {
+    "primary": true,
+    "tradition": "rationalist",
+    "list_key": "yudkowsky_twelve_virtues",
+    "list_name": "Twelve Virtues of Rationality",
+    "virtue": "the void",
+    "kind": "virtue"
+  },
+  "stoic|bear_and_forbear|bear": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "bear_and_forbear",
+    "list_name": "Bear and forbear: the two gravest vices (Epictetus, fragment 10)",
+    "virtue": "bear",
+    "kind": "virtue"
+  },
+  "stoic|bear_and_forbear|forbear": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "bear_and_forbear",
+    "list_name": "Bear and forbear: the two gravest vices (Epictetus, fragment 10)",
+    "virtue": "forbear",
+    "kind": "virtue"
+  },
+  "stoic|bear_and_forbear|want of endurance": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "bear_and_forbear",
+    "list_name": "Bear and forbear: the two gravest vices (Epictetus, fragment 10)",
+    "virtue": "want of endurance",
+    "kind": "vice"
+  },
+  "stoic|bear_and_forbear|want of self-control": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "bear_and_forbear",
+    "list_name": "Bear and forbear: the two gravest vices (Epictetus, fragment 10)",
+    "virtue": "want of self-control",
+    "kind": "vice"
+  },
+  "stoic|cicero_justice_charity|charity": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "cicero_justice_charity",
+    "list_name": "Justice and charity, the two divisions of the social virtue (Cicero, De Officiis 1.20)",
+    "virtue": "charity",
+    "kind": "virtue"
+  },
+  "stoic|cicero_justice_charity|justice": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "cicero_justice_charity",
+    "list_name": "Justice and charity, the two divisions of the social virtue (Cicero, De Officiis 1.20)",
+    "virtue": "justice",
+    "kind": "virtue"
+  },
+  "stoic|cicero_two_injustices|inflicting wrong": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "cicero_two_injustices",
+    "list_name": "The two kinds of injustice (Cicero, De Officiis 1.23)",
+    "virtue": "inflicting wrong",
+    "kind": "vice"
+  },
+  "stoic|cicero_two_injustices|not shielding from wrong": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "cicero_two_injustices",
+    "list_name": "The two kinds of injustice (Cicero, De Officiis 1.23)",
+    "virtue": "not shielding from wrong",
+    "kind": "vice"
+  },
+  "stoic|four_virtues_vices|courage": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "courage",
+    "kind": "virtue"
+  },
+  "stoic|four_virtues_vices|cowardice": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "cowardice",
+    "kind": "vice",
+    "derived_from": "stoic|four_virtues_vices|courage"
+  },
+  "stoic|four_virtues_vices|folly": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "folly",
+    "kind": "vice",
+    "derived_from": "stoic|four_virtues_vices|wisdom"
+  },
+  "stoic|four_virtues_vices|injustice": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "injustice",
+    "kind": "vice",
+    "derived_from": "stoic|four_virtues_vices|justice"
+  },
+  "stoic|four_virtues_vices|justice": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "justice",
+    "kind": "virtue"
+  },
+  "stoic|four_virtues_vices|profligacy (intemperance)": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "profligacy (intemperance)",
+    "kind": "vice",
+    "derived_from": "stoic|four_virtues_vices|temperance"
+  },
+  "stoic|four_virtues_vices|temperance": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "temperance",
+    "kind": "virtue"
+  },
+  "stoic|four_virtues_vices|wisdom": {
+    "primary": true,
+    "tradition": "stoic",
+    "list_key": "four_virtues_vices",
+    "list_name": "The primary virtues and the primary vices (Diogenes Laertius 7.92-93)",
+    "virtue": "wisdom",
+    "kind": "virtue"
+  },
+  "stoic|handbook_24_integrity|faithful": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "handbook_24_integrity",
+    "list_name": "Self-respecting, faithful, high-minded (Epictetus, Handbook 24)",
+    "virtue": "faithful",
+    "kind": "virtue"
+  },
+  "stoic|handbook_24_integrity|high-minded": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "handbook_24_integrity",
+    "list_name": "Self-respecting, faithful, high-minded (Epictetus, Handbook 24)",
+    "virtue": "high-minded",
+    "kind": "virtue"
+  },
+  "stoic|handbook_24_integrity|self-respecting": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "handbook_24_integrity",
+    "list_name": "Self-respecting, faithful, high-minded (Epictetus, Handbook 24)",
+    "virtue": "self-respecting",
+    "kind": "virtue"
+  },
+  "stoic|handbook_24_integrity|shameless": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "handbook_24_integrity",
+    "list_name": "Self-respecting, faithful, high-minded (Epictetus, Handbook 24)",
+    "virtue": "shameless",
+    "kind": "vice"
+  },
+  "stoic|handbook_24_integrity|unfaithful": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "handbook_24_integrity",
+    "list_name": "Self-respecting, faithful, high-minded (Epictetus, Handbook 24)",
+    "virtue": "unfaithful",
+    "kind": "vice"
+  },
+  "stoic|passions_and_good_feelings|caution": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "caution",
+    "kind": "virtue"
+  },
+  "stoic|passions_and_good_feelings|desire or craving": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "desire or craving",
+    "kind": "vice"
+  },
+  "stoic|passions_and_good_feelings|fear": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "fear",
+    "kind": "vice"
+  },
+  "stoic|passions_and_good_feelings|grief": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "grief",
+    "kind": "vice"
+  },
+  "stoic|passions_and_good_feelings|joy": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "joy",
+    "kind": "virtue"
+  },
+  "stoic|passions_and_good_feelings|pleasure": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "pleasure",
+    "kind": "vice"
+  },
+  "stoic|passions_and_good_feelings|wishing": {
+    "primary": false,
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "virtue": "wishing",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Above their means they plot and plan": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Above their means they plot and plan",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Accumulate virtue, increase merit": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Accumulate virtue, increase merit",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Always as wives they practice jealousy and suspicion": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Always as wives they practice jealousy and suspicion",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|As husbands they are neither faithful nor kind": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "As husbands they are neither faithful nor kind",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|As husbands they are not in harmony with their wives; as wives they are not respectful to their husbands": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "As husbands they are not in harmony with their wives; as wives they are not respectful to their husbands",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|As husbands they behave unmannerly toward their wives and children": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "As husbands they behave unmannerly toward their wives and children",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|As husbands they delight in bragging and conceit": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "As husbands they delight in bragging and conceit",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|As wives they are neither gentle nor pliant": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "As wives they are neither gentle nor pliant",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|As wives they lack propriety to their father-in-law and their mother-in-law": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "As wives they lack propriety to their father-in-law and their mother-in-law",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Assist those in need, and rescue those in danger": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Assist those in need, and rescue those in danger",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Be faithful, filial, friendly, and brotherly": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Be faithful, filial, friendly, and brotherly",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Be grieved at the misfortune of others and rejoice at their good luck": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Be grieved at the misfortune of others and rejoice at their good luck",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Being indebted to others for goods or property, they wish their creditors to die": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Being indebted to others for goods or property, they wish their creditors to die",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Being on a high horse they threaten and intimidate": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Being on a high horse they threaten and intimidate",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Beyond their due lot they scheme and contrive": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Beyond their due lot they scheme and contrive",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|By artful tricks they seek promotion": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "By artful tricks they seek promotion",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Causelessly they kill tortoises and snakes": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Causelessly they kill tortoises and snakes",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Disregarders of law they are, and bribe takers. They call crooked what is straight, straight what is crooked, and what is light they make heavy": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Disregarders of law they are, and bribe takers. They call crooked what is straight, straight what is crooked, and what is light they make heavy",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Do not call attention to the faults of others, nor boast of your own excellence": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Do not call attention to the faults of others, nor boast of your own excellence",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Do not proceed on an evil path": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Do not proceed on an evil path",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Do not sin in secret": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Do not sin in secret",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Even the multifarious insects, herbs, and trees should not be injured": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Even the multifarious insects, herbs, and trees should not be injured",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Extend your help without seeking reward": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Extend your help without seeking reward",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Facing the north, they snivel and spit; facing the hearth, they sing, hum and weep": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Facing the north, they snivel and spit; facing the hearth, they sing, hum and weep",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Facing the north, they use vile language": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Facing the north, they use vile language",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|First rectify thyself and then convert others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "First rectify thyself and then convert others",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|For private ends they neglect public duties": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "For private ends they neglect public duties",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|For worthless things they exchange what is valuable": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "For worthless things they exchange what is valuable",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Further, with hearth fire they burn incense, and with filthy fagots they cook their food": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Further, with hearth fire they burn incense, and with filthy fagots they cook their food",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Give to others and do not regret or begrudge your liberality": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Give to others and do not regret or begrudge your liberality",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Ill-humored and angry they are towards teachers and instructors": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Ill-humored and angry they are towards teachers and instructors",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Improperly they have grown rich, and withal they remain vulgar": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Improperly they have grown rich, and withal they remain vulgar",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Improperly they shirk without shame": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Improperly they shirk without shame",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|In evil they delight": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "In evil they delight",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|In the night they rise and expose their nakedness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "In the night they rise and expose their nakedness",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|In the spring they hunt with fire": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "In the spring they hunt with fire",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|In their own guilt they implicate others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "In their own guilt they implicate others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Indulging in liquor they become rebellious and unruly": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Indulging in liquor they become rebellious and unruly",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Insentient to favors received, they remember their hatred and are never satisfied": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Insentient to favors received, they remember their hatred and are never satisfied",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Insidiously they injure the good and the law-abiding": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Insidiously they injure the good and the law-abiding",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Irreverently they point at the three luminaries; intently they gaze at the sun and at the moon": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Irreverently they point at the three luminaries; intently they gaze at the sun and at the moon",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Liars they are, bearing false witness, deceivers, and hypocrites; malevolent exposers of kith and kin; mischievous and malignant; not humane; cruel and irrational; self-willed": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Liars they are, bearing false witness, deceivers, and hypocrites; malevolent exposers of kith and kin; mischievous and malignant; not humane; cruel and irrational; self-willed",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Observing the talent and ability of a man worthy of praise, they suppress the truth": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Observing the talent and ability of a man worthy of praise, they suppress the truth",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|On the eight festivals of the seasons they execute punishment": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "On the eight festivals of the seasons they execute punishment",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Receive favors as if surprised": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Receive favors as if surprised",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Recklessly they cut cloth to waste": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Recklessly they cut cloth to waste",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Regard your neighbor's gain as your own gain, and regard your neighbor's loss as your own loss": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Regard your neighbor's gain as your own gain, and regard your neighbor's loss as your own loss",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Renounce much, accept little": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Renounce much, accept little",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Right and wrong they confound. Their avowals and disavowals are not as they ought to be": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Right and wrong they confound. Their avowals and disavowals are not as they ought to be",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Seeing a man imperfect in his bodily features they ridicule him": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Seeing a man imperfect in his bodily features they ridicule him",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Seeing the wealth of others, they wish them bankrupt and ruined": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Seeing the wealth of others, they wish them bankrupt and ruined",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Seeing their neighbor lose his vantage they gossip of his failure": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Seeing their neighbor lose his vantage they gossip of his failure",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Shamelessly greedy they are for wealth": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Shamelessly greedy they are for wealth",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Show endurance in humiliation and bear no grudge": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Show endurance in humiliation and bear no grudge",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Stay evil and promote goodness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Stay evil and promote goodness",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Stealthily they despise their superiors and parents": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Stealthily they despise their superiors and parents",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Take pity on orphans, assist widows; respect the old, be kind to children": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Take pity on orphans, assist widows; respect the old, be kind to children",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|The last day of the month and the last day of the year they sing and dance. The first day of the month, the first day of the year, they start roaring and scolding": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "The last day of the month and the last day of the year they sing and dance. The first day of the month, the first day of the year, they start roaring and scolding",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|The right way leads forward; the wrong way backward": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "The right way leads forward; the wrong way backward",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|Their deportment is irrational": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Their deportment is irrational",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Their heart is venomous while they show a compassionate face": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Their heart is venomous while they show a compassionate face",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Their lusty desires exceed all measure": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Their lusty desires exceed all measure",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Their mouth asserts what their heart denies": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Their mouth asserts what their heart denies",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Their unbridled ambition makes for power, and through the degradation of others they seek success": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Their unbridled ambition makes for power, and through the degradation of others they seek success",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They accuse heaven and find fault with man": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They accuse heaven and find fault with man",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They adulterate the genuine, and they seek profit in illegitimate business": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They adulterate the genuine, and they seek profit in illegitimate business",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They agitate and disturb the public order": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They agitate and disturb the public order",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They appropriate the accomplishments of their neighbor and conceal his good qualities. They make known his foibles and expose his secrets. They squander his property and cause divisions in his family": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They appropriate the accomplishments of their neighbor and conceal his good qualities. They make known his foibles and expose his secrets. They squander his property and cause divisions in his family",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They are careful in hiding their shortcomings": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They are careful in hiding their shortcomings",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They are greedy and covetous without satiety": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They are greedy and covetous without satiety",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They are partial in their hatred and partial in their love": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They are partial in their hatred and partial in their love",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They assist others in doing wrong": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They assist others in doing wrong",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They attack that which is dear to others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They attack that which is dear to others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They betray and deceive the simple-minded": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They betray and deceive the simple-minded",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They blame the wind and rail at the rain": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They blame the wind and rail at the rain",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They borrow and accept without intention to return": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They borrow and accept without intention to return",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They break into others' houses to take their property and valuables": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They break into others' houses to take their property and valuables",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They break up betrothals": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They break up betrothals",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They cannot see beauty without cherishing in their hearts thoughts of seduction": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They cannot see beauty without cherishing in their hearts thoughts of seduction",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They claim having done acts of favor and disclaim being at fault": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They claim having done acts of favor and disclaim being at fault",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They compel respectable people to become lowly": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They compel respectable people to become lowly",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They conceal and keep a treacherous heart": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They conceal and keep a treacherous heart",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They cringe to superiors to curry favor": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They cringe to superiors to curry favor",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They crush that which is excellent in others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They crush that which is excellent in others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They curse and swear to seek vindication": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They curse and swear to seek vindication",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They curse themselves, they curse others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They curse themselves, they curse others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They deceive the uninformed": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They deceive the uninformed",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They deceive their father and their superiors": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They deceive their father and their superiors",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They delight in fraud, they delight in robbery, they make raids and commit depredations to get rich": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They delight in fraud, they delight in robbery, they make raids and commit depredations to get rich",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They destroy the crops and fields of others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They destroy the crops and fields of others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They disobey and dislike the commands of their superiors": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They disobey and dislike the commands of their superiors",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They disobey the instructions of father and mother": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They disobey the instructions of father and mother",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They disparage others that achieve merit": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They disparage others that achieve merit",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They disregard their seniors and rebel against those whom they serve": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They disregard their seniors and rebel against those whom they serve",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They do many clandestine and wrong deeds": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They do many clandestine and wrong deeds",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They employ drugs to kill trees": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They employ drugs to kill trees",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They endanger others to save themselves": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They endanger others to save themselves",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They even call on bright spirits to make them witness their degrading deeds": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They even call on bright spirits to make them witness their degrading deeds",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They give away evil in marriage and they sell wrongs": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They give away evil in marriage and they sell wrongs",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They harass and tyrannize over their subordinates": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They harass and tyrannize over their subordinates",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They harbor and keep a treacherous heart": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They harbor and keep a treacherous heart",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They hold in contempt the lives of Heaven's people": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They hold in contempt the lives of Heaven's people",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They impede and obstruct the professions and crafts": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They impede and obstruct the professions and crafts",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They impoverish others for their own gain": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They impoverish others for their own gain",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They indulge in comforts and enjoyments without measure": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They indulge in comforts and enjoyments without measure",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They invent and circulate vile talk, traducing and slandering innocent men": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They invent and circulate vile talk, traducing and slandering innocent men",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They kill the baby and cause abortion of the unborn": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They kill the baby and cause abortion of the unborn",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They make and do what is not useful": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They make and do what is not useful",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They make light of the spirit of their ancestor": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They make light of the spirit of their ancestor",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They malign the righteous and dispossess the wise": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They malign the righteous and dispossess the wise",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They misdirect the water and light fires to destroy the people's homes": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They misdirect the water and light fires to destroy the people's homes",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They molest orphans and wrong widows": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They molest orphans and wrong widows",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They murder men to take their property, or have them ousted to take their places": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They murder men to take their property, or have them ousted to take their places",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They oppress their subordinates and appropriate their merit": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They oppress their subordinates and appropriate their merit",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They patronize the unscrupulous and do harm to the inoffensive": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They patronize the unscrupulous and do harm to the inoffensive",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They point at heaven and earth to make them witnesses of their mean thoughts": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They point at heaven and earth to make them witnesses of their mean thoughts",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They rail at spirits and claim to be right themselves": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They rail at spirits and claim to be right themselves",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They reject a good cause and espouse a wrong cause, spurning what is near, longing for the distant": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They reject a good cause and espouse a wrong cause, spurning what is near, longing for the distant",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They rely on their wives' and other women's gossip": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They rely on their wives' and other women's gossip",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They resist and provoke father and elders": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They resist and provoke father and elders",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They reward and punish without justice": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They reward and punish without justice",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They ridicule and scorn reason and virtue": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They ridicule and scorn reason and virtue",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They scatter and waste the five cereals": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They scatter and waste the five cereals",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They sell and buy vainglory": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They sell and buy vainglory",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They shoot the flying, chase the running, expose the hiding, surprise nestlings, close up entrance holes, upset nests, injure the pregnant, and break the egg": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They shoot the flying, chase the running, expose the hiding, surprise nestlings, close up entrance holes, upset nests, injure the pregnant, and break the egg",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They shorten the foot, they narrow the measure, they lighten the scales, they reduce the peck": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They shorten the foot, they narrow the measure, they lighten the scales, they reduce the peck",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They slander others, yet themselves feign honesty": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They slander others, yet themselves feign honesty",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They slander their fellow-students": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They slander their fellow-students",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They slay the yielding and slaughter those who have surrendered": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They slay the yielding and slaughter those who have surrendered",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They spit at falling stars and point at the many-colored rainbow": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They spit at falling stars and point at the many-colored rainbow",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They spoil a worker's utensils to hamper his efficiency": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They spoil a worker's utensils to hamper his efficiency",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They step over the well and they step over the hearth. They jump over the food and jump over a person": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They step over the well and they step over the hearth. They jump over the food and jump over a person",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They stir up party strife and law suits": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They stir up party strife and law suits",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They take up the new and forget the old": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They take up the new and forget the old",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They terrify and threaten to overawe others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They terrify and threaten to overawe others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They trouble and annoy many people": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They trouble and annoy many people",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They upset others' plans so as to prevent their success": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They upset others' plans so as to prevent their success",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They use charms for the sake of controling others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They use charms for the sake of controling others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They vilify and disparage the holy and the wise": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They vilify and disparage the holy and the wise",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|They wish others to incur loss": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "They wish others to incur loss",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Though they know their mistakes they do not correct them; though they know the good they do not do it": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Though they know their mistakes they do not correct them; though they know the good they do not do it",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Unprovoked they join factious associations": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Unprovoked they join factious associations",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|When seeing the success and prosperity of others they wish them to run down and fail": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "When seeing the success and prosperity of others they wish them to run down and fail",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|When their requests are not granted they begin to curse and wax hateful": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "When their requests are not granted they begin to curse and wax hateful",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|When they ever give charity they regret it afterwards": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "When they ever give charity they regret it afterwards",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|When witnessing an execution, they aggravate it by harshness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "When witnessing an execution, they aggravate it by harshness",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|With a compassionate heart turn toward all creatures": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With a compassionate heart turn toward all creatures",
+    "kind": "virtue"
+  },
+  "taoist|ganying_pian|With brutality they do harm and damage": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With brutality they do harm and damage",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|With filthy food they feed the poor": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With filthy food they feed the poor",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|With heresies they mislead others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With heresies they mislead others",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|With the members of their own family they are angry and quarrelsome": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With the members of their own family they are angry and quarrelsome",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|With unrestrained barbarism they kill and stab": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With unrestrained barbarism they kill and stab",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|With violence they seize, with violence they demand": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "With violence they seize, with violence they demand",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Without festive occasions they prepare cattle for food": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Without festive occasions they prepare cattle for food",
+    "kind": "vice"
+  },
+  "taoist|ganying_pian|Yet there are some people whose behavior is unrighteous": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "ganying_pian",
+    "list_name": "Treatise on Action and Response: the moral injunctions and every numbered evil deed (Suzuki and Carus)",
+    "virtue": "Yet there are some people whose behavior is unrighteous",
+    "kind": "vice"
+  },
+  "taoist|laojun_five_precepts|Drinking wine": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laojun_five_precepts",
+    "list_name": "Lord Lao's five precepts",
+    "virtue": "Drinking wine",
+    "kind": "vice"
+  },
+  "taoist|laojun_five_precepts|False speech": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laojun_five_precepts",
+    "list_name": "Lord Lao's five precepts",
+    "virtue": "False speech",
+    "kind": "vice"
+  },
+  "taoist|laojun_five_precepts|Killing": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laojun_five_precepts",
+    "list_name": "Lord Lao's five precepts",
+    "virtue": "Killing",
+    "kind": "vice"
+  },
+  "taoist|laojun_five_precepts|Lewdness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laojun_five_precepts",
+    "list_name": "Lord Lao's five precepts",
+    "virtue": "Lewdness",
+    "kind": "vice"
+  },
+  "taoist|laojun_five_precepts|Stealing": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laojun_five_precepts",
+    "list_name": "Lord Lao's five precepts",
+    "virtue": "Stealing",
+    "kind": "vice"
+  },
+  "taoist|laozi_24_faults|Asserting his own views": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_24_faults",
+    "list_name": "Laozi's four self-displays (ch. 24)",
+    "virtue": "Asserting his own views",
+    "kind": "vice"
+  },
+  "taoist|laozi_24_faults|Displaying himself": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_24_faults",
+    "list_name": "Laozi's four self-displays (ch. 24)",
+    "virtue": "Displaying himself",
+    "kind": "vice"
+  },
+  "taoist|laozi_24_faults|Self-conceit": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_24_faults",
+    "list_name": "Laozi's four self-displays (ch. 24)",
+    "virtue": "Self-conceit",
+    "kind": "vice"
+  },
+  "taoist|laozi_24_faults|Vaunting himself": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_24_faults",
+    "list_name": "Laozi's four self-displays (ch. 24)",
+    "virtue": "Vaunting himself",
+    "kind": "vice"
+  },
+  "taoist|laozi_46_faults|The wish to be getting": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_46_faults",
+    "list_name": "Laozi's three greatest faults (ch. 46)",
+    "virtue": "The wish to be getting",
+    "kind": "vice"
+  },
+  "taoist|laozi_46_faults|To be discontented with one's lot": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_46_faults",
+    "list_name": "Laozi's three greatest faults (ch. 46)",
+    "virtue": "To be discontented with one's lot",
+    "kind": "vice"
+  },
+  "taoist|laozi_46_faults|To sanction ambition": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "laozi_46_faults",
+    "list_name": "Laozi's three greatest faults (ch. 46)",
+    "virtue": "To sanction ambition",
+    "kind": "vice"
+  },
+  "taoist|laozi_three_treasures|Being bold without gentleness": {
+    "primary": true,
+    "tradition": "taoist",
+    "list_key": "laozi_three_treasures",
+    "list_name": "Laozi's three treasures (ch. 67)",
+    "virtue": "Being bold without gentleness",
+    "kind": "vice",
+    "derived_from": "taoist|laozi_three_treasures|Gentleness (compassion, 慈)"
+  },
+  "taoist|laozi_three_treasures|Being liberal without economy (lavishness)": {
+    "primary": true,
+    "tradition": "taoist",
+    "list_key": "laozi_three_treasures",
+    "list_name": "Laozi's three treasures (ch. 67)",
+    "virtue": "Being liberal without economy (lavishness)",
+    "kind": "vice",
+    "derived_from": "taoist|laozi_three_treasures|Economy"
+  },
+  "taoist|laozi_three_treasures|Economy": {
+    "primary": true,
+    "tradition": "taoist",
+    "list_key": "laozi_three_treasures",
+    "list_name": "Laozi's three treasures (ch. 67)",
+    "virtue": "Economy",
+    "kind": "virtue"
+  },
+  "taoist|laozi_three_treasures|Gentleness (compassion, 慈)": {
+    "primary": true,
+    "tradition": "taoist",
+    "list_key": "laozi_three_treasures",
+    "list_name": "Laozi's three treasures (ch. 67)",
+    "virtue": "Gentleness (compassion, 慈)",
+    "kind": "virtue"
+  },
+  "taoist|laozi_three_treasures|Seeking only to be foremost": {
+    "primary": true,
+    "tradition": "taoist",
+    "list_key": "laozi_three_treasures",
+    "list_name": "Laozi's three treasures (ch. 67)",
+    "virtue": "Seeking only to be foremost",
+    "kind": "vice",
+    "derived_from": "taoist|laozi_three_treasures|Shrinking from taking precedence of others"
+  },
+  "taoist|laozi_three_treasures|Shrinking from taking precedence of others": {
+    "primary": true,
+    "tradition": "taoist",
+    "list_key": "laozi_three_treasures",
+    "list_name": "Laozi's three treasures (ch. 67)",
+    "virtue": "Shrinking from taking precedence of others",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice clarity and stillness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice clarity and stillness",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice desirelessness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice desirelessness",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice flexibility and weakness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice flexibility and weakness",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice good deeds": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice good deeds",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice knowing how to cease with sufficiency": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice knowing how to cease with sufficiency",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice lacking falseness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice lacking falseness",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice lacking fame": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice lacking fame",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice maintaining the feminine. Do not initiate actions.": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice maintaining the feminine. Do not initiate actions.",
+    "kind": "virtue"
+  },
+  "taoist|xianger_nine_practices|Practice yielding to others": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "xianger_nine_practices",
+    "list_name": "The nine practices of the Xiang'er precepts (想爾九行)",
+    "virtue": "Practice yielding to others",
+    "kind": "virtue"
+  },
+  "taoist|zhuangzi_31_eight_faults|Calumny": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Calumny",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Flattery": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Flattery",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Maliciousness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Maliciousness",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Obsequiousness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Obsequiousness",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Officiousness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Officiousness",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Sycophancy": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Sycophancy",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Treachery": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Treachery",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_eight_faults|Wickedness": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "virtue": "Wickedness",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_four_evils|Avarice": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "virtue": "Avarice",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_four_evils|Avidity": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "virtue": "Avidity",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_four_evils|Bigotry": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "virtue": "Bigotry",
+    "kind": "vice"
+  },
+  "taoist|zhuangzi_31_four_evils|Obstinacy": {
+    "primary": false,
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "virtue": "Obstinacy",
+    "kind": "vice"
+  }
+}

@@ -1,0 +1,998 @@
+{
+  "model": "typesafe/jev-1.14-20261014",
+  "answers": {
+    "s03dfb4ff9091c54c_level": {
+      "type": "score",
+      "score": 1.92,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.1,
+        "2": 0.88,
+        "3": 0.02,
+        "4": 0
+      },
+      "confidence": 0.9
+    },
+    "s106c8d8d3858db89_level": {
+      "type": "score",
+      "score": 1.98,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.07,
+        "2": 0.88,
+        "3": 0.05,
+        "4": 0
+      },
+      "confidence": 0.9
+    },
+    "sf508b5f2df8e4f0a_level": {
+      "type": "score",
+      "score": 2.56,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.01,
+        "2": 0.45,
+        "3": 0.51,
+        "4": 0.03
+      },
+      "confidence": 0.58
+    },
+    "s781c3faacafdf74a_level": {
+      "type": "score",
+      "score": 2.56,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.07,
+        "2": 0.35,
+        "3": 0.5,
+        "4": 0.07
+      },
+      "confidence": 0.51
+    },
+    "sf9c0964d792fd42e_level": {
+      "type": "score",
+      "score": 1.4,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.05,
+        "1": 0.62,
+        "2": 0.22,
+        "3": 0.1,
+        "4": 0.01
+      },
+      "confidence": 0.58
+    },
+    "s7014fd2ad8e61b67_level": {
+      "type": "score",
+      "score": 0.91,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.24,
+        "1": 0.63,
+        "2": 0.12,
+        "3": 0.01,
+        "4": 0
+      },
+      "confidence": 0.68
+    },
+    "s6ef8453d73bfcdaf_level": {
+      "type": "score",
+      "score": 2.27,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.06,
+        "2": 0.63,
+        "3": 0.29,
+        "4": 0.02
+      },
+      "confidence": 0.68
+    },
+    "sde6d234eb88e5a2f_level": {
+      "type": "score",
+      "score": 1.51,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.05,
+        "1": 0.41,
+        "2": 0.53,
+        "3": 0.01,
+        "4": 0
+      },
+      "confidence": 0.57
+    },
+    "sa176d65431c7b9b7_level": {
+      "type": "score",
+      "score": 1.9,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.02,
+        "1": 0.13,
+        "2": 0.79,
+        "3": 0.06,
+        "4": 0
+      },
+      "confidence": 0.81
+    },
+    "sa24f29bb9e61abda_level": {
+      "type": "score",
+      "score": 2.14,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.03,
+        "2": 0.81,
+        "3": 0.16,
+        "4": 0
+      },
+      "confidence": 0.84
+    },
+    "se92da3f4dd47a0e8_level": {
+      "type": "score",
+      "score": 1.84,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.02,
+        "1": 0.2,
+        "2": 0.7,
+        "3": 0.07,
+        "4": 0.01
+      },
+      "confidence": 0.72
+    },
+    "sb2ef31aad3729df0_level": {
+      "type": "score",
+      "score": 1.74,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.05,
+        "1": 0.19,
+        "2": 0.74,
+        "3": 0.02,
+        "4": 0
+      },
+      "confidence": 0.74
+    },
+    "s9be9cc55dd3199f5_level": {
+      "type": "score",
+      "score": 1.52,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.05,
+        "1": 0.4,
+        "2": 0.53,
+        "3": 0.01,
+        "4": 0
+      },
+      "confidence": 0.57
+    },
+    "s58c9a9e6a9f488d1_level": {
+      "type": "score",
+      "score": 2.23,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.08,
+        "2": 0.61,
+        "3": 0.28,
+        "4": 0.02
+      },
+      "confidence": 0.65
+    },
+    "s8ee5bd532f322a38_level": {
+      "type": "score",
+      "score": 1.83,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.02,
+        "1": 0.18,
+        "2": 0.76,
+        "3": 0.04,
+        "4": 0
+      },
+      "confidence": 0.78
+    },
+    "sbfebb23c3534d1b2_level": {
+      "type": "score",
+      "score": 0.72,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.42,
+        "1": 0.45,
+        "2": 0.12,
+        "3": 0.01,
+        "4": 0
+      },
+      "confidence": 0.53
+    },
+    "sc7b43047d1437d9a_level": {
+      "type": "score",
+      "score": 1.9,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.03,
+        "1": 0.14,
+        "2": 0.74,
+        "3": 0.08,
+        "4": 0.01
+      },
+      "confidence": 0.75
+    },
+    "s9008f1cb9ac8bcbb_level": {
+      "type": "score",
+      "score": 1.57,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.06,
+        "1": 0.33,
+        "2": 0.59,
+        "3": 0.02,
+        "4": 0
+      },
+      "confidence": 0.61
+    },
+    "s6bd53452f15dbd92_level": {
+      "type": "score",
+      "score": 1.31,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.1,
+        "1": 0.57,
+        "2": 0.24,
+        "3": 0.08,
+        "4": 0.01
+      },
+      "confidence": 0.56
+    },
+    "sfd57a36f0fad2fac_level": {
+      "type": "score",
+      "score": 2.11,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.03,
+        "2": 0.83,
+        "3": 0.13,
+        "4": 0.01
+      },
+      "confidence": 0.85
+    },
+    "s2f6c52cedc5f0f37_level": {
+      "type": "score",
+      "score": 2.54,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.04,
+        "2": 0.41,
+        "3": 0.49,
+        "4": 0.05
+      },
+      "confidence": 0.53
+    },
+    "sc58ee4d0a5a50938_level": {
+      "type": "score",
+      "score": 1.24,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.2,
+        "1": 0.44,
+        "2": 0.31,
+        "3": 0.04,
+        "4": 0.01
+      },
+      "confidence": 0.48
+    },
+    "s17d53363f2d2e188_level": {
+      "type": "score",
+      "score": 1.21,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.18,
+        "1": 0.44,
+        "2": 0.37,
+        "3": 0.01,
+        "4": 0
+      },
+      "confidence": 0.53
+    },
+    "sbf02025fdd194136_level": {
+      "type": "score",
+      "score": 0.66,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.44,
+        "1": 0.47000000000000003,
+        "2": 0.09,
+        "3": 0,
+        "4": 0
+      },
+      "confidence": 0.56
+    },
+    "sda58dbd98c1e2dd3_level": {
+      "type": "score",
+      "score": 2.02,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.07,
+        "2": 0.82,
+        "3": 0.09,
+        "4": 0.01
+      },
+      "confidence": 0.83
+    },
+    "s5697faf9b3e930a8_level": {
+      "type": "score",
+      "score": 2.2,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.02,
+        "2": 0.77,
+        "3": 0.2,
+        "4": 0.01
+      },
+      "confidence": 0.8
+    },
+    "sf212c1e0c58ecfae_level": {
+      "type": "score",
+      "score": 2.47,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.03,
+        "2": 0.5,
+        "3": 0.44,
+        "4": 0.03
+      },
+      "confidence": 0.56
+    },
+    "s0052f46fdccd0e2c_level": {
+      "type": "score",
+      "score": 2.51,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.05,
+        "2": 0.43,
+        "3": 0.46,
+        "4": 0.06
+      },
+      "confidence": 0.51
+    },
+    "s207f6b77960c867f_level": {
+      "type": "score",
+      "score": 2.05,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.17,
+        "2": 0.58,
+        "3": 0.23,
+        "4": 0.01
+      },
+      "confidence": 0.63
+    },
+    "s75bd104d94a1ef84_level": {
+      "type": "score",
+      "score": 2.14,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.09,
+        "2": 0.6799999999999999,
+        "3": 0.19,
+        "4": 0.03
+      },
+      "confidence": 0.7
+    },
+    "s3a1b316fc62b141b_level": {
+      "type": "score",
+      "score": 2.01,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.02,
+        "1": 0.14,
+        "2": 0.66,
+        "3": 0.16,
+        "4": 0.01
+      },
+      "confidence": 0.7
+    },
+    "s2764d36f02e88a5b_level": {
+      "type": "score",
+      "score": 1.4,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.09,
+        "1": 0.44,
+        "2": 0.46,
+        "3": 0.01,
+        "4": 0
+      },
+      "confidence": 0.47
+    },
+    "sb7781ebbfef0ed7a_level": {
+      "type": "score",
+      "score": 2.19,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.04,
+        "2": 0.74,
+        "3": 0.19,
+        "4": 0.02
+      },
+      "confidence": 0.76
+    },
+    "se39db0000a742947_level": {
+      "type": "score",
+      "score": 2.32,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.06,
+        "2": 0.58,
+        "3": 0.31,
+        "4": 0.04
+      },
+      "confidence": 0.61
+    },
+    "s2ddfe27331480c9e_level": {
+      "type": "score",
+      "score": 2.18,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.1,
+        "2": 0.63,
+        "3": 0.22,
+        "4": 0.04
+      },
+      "confidence": 0.65
+    },
+    "s6f07b2cb524754af_level": {
+      "type": "score",
+      "score": 1.78,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.05,
+        "1": 0.22,
+        "2": 0.65,
+        "3": 0.07,
+        "4": 0.01
+      },
+      "confidence": 0.66
+    },
+    "s9ba21ff5696b72a2_level": {
+      "type": "score",
+      "score": 1.91,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.1,
+        "2": 0.88,
+        "3": 0.02,
+        "4": 0
+      },
+      "confidence": 0.9
+    },
+    "s17848b4848bdcf9c_level": {
+      "type": "score",
+      "score": 3.1,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.01,
+        "2": 0.17,
+        "3": 0.52,
+        "4": 0.3
+      },
+      "confidence": 0.59
+    },
+    "s29a0e9f19e6ee8c5_level": {
+      "type": "score",
+      "score": 2.07,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0,
+        "1": 0.05,
+        "2": 0.82,
+        "3": 0.12,
+        "4": 0.01
+      },
+      "confidence": 0.84
+    },
+    "s97c373d6fbcbaf31_level": {
+      "type": "score",
+      "score": 1.91,
+      "legend": {
+        "0": "Clear evidence that the conduct conflicts with this virtue.",
+        "1": "Some evidence that the conduct conflicts with this virtue.",
+        "2": "Neither direction is established by the described conduct.",
+        "3": "Some evidence that the conduct shows this virtue.",
+        "4": "Clear evidence that the conduct shows this virtue."
+      },
+      "probabilities": {
+        "0": 0.01,
+        "1": 0.11,
+        "2": 0.84,
+        "3": 0.04,
+        "4": 0
+      },
+      "confidence": 0.86
+    },
+    "debug_word": {
+      "type": "choice",
+      "choice": "missing",
+      "probabilities": {
+        "none": 0.03,
+        "idk": 0,
+        "review_this": 0.060000000000000005,
+        "truncated": 0.03,
+        "garbled": 0,
+        "repetition": 0,
+        "empty": 0,
+        "foreign": 0.04,
+        "formatting": 0,
+        "typo": 0,
+        "boilerplate": 0,
+        "placeholder": 0,
+        "verbose": 0,
+        "terse": 0,
+        "artifact": 0,
+        "markup": 0,
+        "encoding": 0,
+        "json": 0,
+        "leak": 0,
+        "indistinguishable": 0,
+        "mixed": 0.05,
+        "marginal": 0,
+        "wording": 0,
+        "length": 0,
+        "style": 0,
+        "tone": 0,
+        "order": 0,
+        "ambiguous": 0,
+        "underspecified": 0.04,
+        "subjectivity": 0,
+        "contested": 0,
+        "dilemma": 0,
+        "fictional": 0,
+        "roleplay": 0,
+        "hypothetical": 0,
+        "satire": 0,
+        "inapplicable": 0.05,
+        "irrelevant": 0.03,
+        "premise": 0,
+        "trick": 0,
+        "impossible": 0,
+        "outdated": 0,
+        "unverifiable": 0,
+        "reference": 0,
+        "operator": 0,
+        "conflict": 0,
+        "context": 0.04,
+        "followup": 0,
+        "multiturn": 0,
+        "scenario": 0,
+        "values": 0.02,
+        "cultural": 0,
+        "factual": 0,
+        "fabricated": 0,
+        "legal": 0,
+        "medical": 0,
+        "financial": 0,
+        "technical": 0,
+        "math": 0,
+        "code": 0,
+        "historical": 0,
+        "jargon": 0,
+        "expert": 0,
+        "numeric": 0,
+        "dates": 0,
+        "citations": 0,
+        "overconfident": 0,
+        "hedging": 0,
+        "caves": 0,
+        "sycophancy": 0,
+        "flattery": 0,
+        "moralising": 0,
+        "disclaimer": 0,
+        "deception": 0,
+        "manipulation": 0,
+        "harmful": 0,
+        "unsafe": 0,
+        "jailbreak": 0,
+        "consent": 0,
+        "privacy": 0,
+        "compliance": 0,
+        "escalation": 0,
+        "evasive": 0,
+        "inconsistent": 0,
+        "contradictory": 0,
+        "reversal": 0,
+        "drift": 0.02,
+        "overreach": 0,
+        "misreading": 0,
+        "omission": 0.04,
+        "incomplete": 0.04,
+        "generic": 0,
+        "persona": 0,
+        "leakage": 0,
+        "contamination": 0.02,
+        "mislabeled": 0.08,
+        "noisy": 0,
+        "outlier": 0,
+        "missing": 0.14,
+        "null": 0,
+        "mismatch": 0.09999999999999999,
+        "schema": 0.02,
+        "error": 0,
+        "exception": 0,
+        "timeout": 0,
+        "crash": 0,
+        "corrupted": 0,
+        "stale": 0,
+        "unknown": 0,
+        "invalid": 0,
+        "unsupported": 0.02,
+        "deprecated": 0,
+        "overflow": 0,
+        "sampling": 0,
+        "seed": 0,
+        "temperature": 0,
+        "cache": 0,
+        "bug": 0,
+        "duplicate": 0,
+        "🤷": 0,
+        "🤔": 0,
+        "😕": 0,
+        "😬": 0,
+        "😵": 0,
+        "🙄": 0,
+        "😴": 0,
+        "🤯": 0,
+        "😱": 0,
+        "🥱": 0,
+        "🫠": 0.01,
+        "🧐": 0,
+        "🤨": 0,
+        "😐": 0,
+        "🫤": 0.01,
+        "😶": 0,
+        "🤐": 0,
+        "🙃": 0,
+        "😅": 0,
+        "😤": 0,
+        "🤬": 0,
+        "😇": 0,
+        "😈": 0,
+        "🤖": 0,
+        "👻": 0,
+        "🎭": 0,
+        "🃏": 0,
+        "🤡": 0,
+        "💀": 0.02,
+        "🔥": 0,
+        "🧊": 0,
+        "🌪️": 0,
+        "🌀": 0,
+        "🔁": 0,
+        "♻️": 0,
+        "✂️": 0,
+        "🧩": 0,
+        "🪞": 0,
+        "👯": 0,
+        "⚖️": 0,
+        "🔀": 0,
+        "⏳": 0,
+        "🧱": 0,
+        "🕳️": 0,
+        "🚧": 0,
+        "⚠️": 0.04,
+        "🛑": 0,
+        "🚫": 0,
+        "❓": 0.02,
+        "❗": 0,
+        "⁉️": 0,
+        "💤": 0,
+        "📉": 0,
+        "📈": 0,
+        "🐛": 0,
+        "🧪": 0,
+        "🔍": 0,
+        "🎲": 0,
+        "🎯": 0,
+        "🪤": 0,
+        "🍒": 0,
+        "🐍": 0,
+        "🦜": 0,
+        "🐑": 0,
+        "🦄": 0,
+        "💩": 0,
+        "🗑️": 0,
+        "📎": 0,
+        "🔒": 0,
+        "🔓": 0,
+        "📜": 0,
+        "📏": 0,
+        "🧮": 0,
+        "🗓️": 0,
+        "🕰️": 0,
+        "💬": 0,
+        "🗯️": 0,
+        "🔇": 0,
+        "📢": 0,
+        "🙊": 0,
+        "🙈": 0,
+        "🫣": 0.01,
+        "🥴": 0,
+        "🤥": 0,
+        "🤑": 0,
+        "🥺": 0,
+        "😢": 0,
+        "😡": 0,
+        "💔": 0,
+        "🫡": 0.01,
+        "🙏": 0,
+        "👍": 0,
+        "👎": 0,
+        "🤝": 0,
+        "🫥": 0.01,
+        "🌫️": 0,
+        "🪫": 0,
+        "🧨": 0,
+        "🏳️": 0,
+        "🚩": 0
+      },
+      "confidence": 0.14
+    }
+  },
+  "usage": {
+    "input_tokens": 38774,
+    "output_tokens": 2922,
+    "cost": 0.001628508
+  },
+  "id": "gen-dec-1792662915-7zuvTvfASyDrsRfo7jzv",
+  "provider": "TypeSafe"
+}

@@ -1,0 +1,336 @@
+[
+  {
+    "id": "buddhist|ten_training_rules|Abstention from alcoholic drinks that cause heedlessness",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from alcoholic drinks that cause heedlessness",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The use of intoxicating drinks.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 5; Hardy: forbids use of intoxicating drinks.",
+    "teaching": [
+      {
+        "quote": "“There are ten training rules for the novice monks: ... **Abstention from alcoholic drinks that cause heedlessness,** ...”",
+        "citation": "Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali"
+      },
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **5. The use of intoxicating drinks.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      }
+    ],
+    "limits": "No medicinal or quantity rule supplied; none invented.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from dancing, singing, music, and seeing shows",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from dancing, singing, music, and seeing shows",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... Attendance upon dancing, singing, music, and masks.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 7; Hardy: forbids attending dancing, singing, music, masks.",
+    "teaching": [
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **7. Attendance upon dancing, singing, music, and masks.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      },
+      {
+        "quote": "With the eight precepts the ethical code takes a pronounced turn **towards the control of desires which are not socially harmful and immoral.** ... The three new precepts regulate concern with food, entertainment, self-beautification, and physical comfort.",
+        "citation": "Bodhi, Going for Refuge, Eight Precepts III"
+      }
+    ],
+    "limits": "Discipline against craving, not proof such arts harm others; lay non-undertakers are not at fault.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from eating at the wrong time",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from eating at the wrong time",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The eating of solid food after mid-day.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 6; Hardy: no solid food after mid-day; Bodhi: until next dawn.",
+    "teaching": [
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **6. The eating of solid food after mid-day.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      },
+      {
+        "quote": "(6) ... **\"I undertake the training rule to abstain from eating beyond the time limit,\" i.e., from mid-day to the following dawn.** ... The three new precepts regulate concern with food, entertainment, self-beautification, and physical comfort.",
+        "citation": "Bodhi, Going for Refuge, Eight Precepts III"
+      }
+    ],
+    "limits": "No list of allowed drinks or medicines supplied; not a universal moral harm.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from high and luxurious resting places",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from high and luxurious resting places",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The use of seats or couches above the prescribed height. ... \"You shouldn't use high and luxurious beds, such as: high couches, luxurious couches, long-fleeced woolen rugs, multi-colored woolen rugs, ... sheets of silk embroidered with gems, silken sheets, ... seats with canopies, seats with red cushions at each end.\" (Kd 5.10)",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 9; Hardy: seats above prescribed height; Kd 5.10 lists luxurious beds.",
+    "teaching": [
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **9. The use of seats or couches above the prescribed height.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      },
+      {
+        "quote": "At that time the monks from the group of six used high and luxurious beds, such as: ... high couches, luxurious couches, ... silken sheets, ... They told the Buddha. ... **“You shouldn’t use high and luxurious beds, such as: ... high couches, luxurious couches, ... silken sheets, ... If you do, you commit an offense of wrong conduct.”**",
+        "citation": "Vinaya, Khandhaka 5.10.4–5, trans. Bhikkhu Brahmali"
+      }
+    ],
+    "limits": "No numerical height supplied. Training context matters: monks/novices and lay observers who undertake it; not every householder bed is a breach.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from killing living beings",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from killing living beings",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The taking of life.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice training rule 1 (Kd 1.56); Hardy: forbids the taking of life. Monastics or those undertaking these precepts.",
+    "teaching": [
+      {
+        "quote": "“How many training rules do we have that we should train in?” ... “There are ten training rules for the novice monks: ... **Abstention from killing living beings,** ...”",
+        "citation": "Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali"
+      },
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : **1. The taking of life.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      }
+    ],
+    "limits": "Hardy defines no exceptions; none added. Kd 1.56 gives only the list.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from lying",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from lying",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The saying of that which is not true.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 4; Hardy: forbids saying what is not true.",
+    "teaching": [
+      {
+        "quote": "“There are ten training rules for the novice monks: ... **Abstention from lying,** ...”",
+        "citation": "Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali"
+      },
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **4. The saying of that which is not true.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      }
+    ],
+    "limits": "Source gives no exceptions or definition of intent; none added.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from receiving gold, silver, and money",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from receiving gold, silver, and money",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The receiving of gold or silver.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 10; Hardy: forbids receiving gold or silver. Novices/monastics only.",
+    "teaching": [
+      {
+        "quote": "“There are ten training rules for the novice monks: ... **Abstention from receiving gold, silver, and money.**”",
+        "citation": "Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali"
+      },
+      {
+        "quote": "... **10. The receiving of gold or silver.** ... The first eight are called the ata-sil, and they are repeated only on poya days, or festivals.",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      }
+    ],
+    "limits": "Not in the eight lay precepts; no definition of money or permitted arrangements supplied.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from sexual activity",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from sexual activity",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... Sexual Intercourse.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 3: full sexual abstention; Hardy: forbids sexual intercourse. Not lay misconduct rule.",
+    "teaching": [
+      {
+        "quote": "“There are ten training rules for the novice monks: ... **Abstention from sexual activity,** ...”",
+        "citation": "Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali"
+      },
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **3. Sexual Intercourse.** ... The first eight are called the ata-sil ... When taken by a laic, they involve the necessity of his living apart from his family.",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      },
+      {
+        "quote": "... **The change of the third precept to abstinence from incelibacy curbs the sexual urge, regarded in itself not as a moral evil but as a powerful expression of craving** that has to be held in check to advance to the higher levels of meditation. ...",
+        "citation": "Bodhi, Going for Refuge, Eight Precepts III"
+      }
+    ],
+    "limits": "Celibacy training, not the five-precept misconduct rule. Novices and eight-precept lay observers undertake it; ordinary marriage is not itself a breach.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from stealing",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from stealing",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The taking of that which is not given.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice training rule 2; Hardy: forbids taking what is not given.",
+    "teaching": [
+      {
+        "quote": "“There are ten training rules for the novice monks: ... Abstention from killing living beings, ... **Abstention from stealing,** ...”",
+        "citation": "Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali"
+      },
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : 1. The taking of life. **2. The taking of that which is not given.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      }
+    ],
+    "limits": "Source gives no theory of ownership or value; none added.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|ten_training_rules|Abstention from wearing garlands and using scents and cosmetics",
+    "tradition": "buddhist",
+    "list_key": "ten_training_rules",
+    "list_name": "The ten training rules for novices (dasa sikkhāpada)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Abstention from wearing garlands and using scents and cosmetics",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The dasa-sil, or ten Obligations binding upon the priest, forbid ... The adorning of the body with flowers, and the use of perfumes and unguents.",
+    "rubric_version": "v2",
+    "rubric_sha256": "cdb2f8054349a4b76368b7e2d3606e70a035cff2d75634c12e5c7e43d71b1f9b",
+    "source_scope": "Novice rule 8; Hardy: forbids flowers on body, perfumes, unguents.",
+    "teaching": [
+      {
+        "quote": "The dasa-sil, or ten Obligations binding upon the priest, forbid : ... **8. The adorning of the body with flowers, and the use of perfumes and unguents.** ...",
+        "citation": "R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”"
+      },
+      {
+        "quote": "The three new precepts regulate concern with food, entertainment, **self-beautification**, and physical comfort. Their observance nurtures ... contentment, fewness of wishes, modesty, austerity, renunciation.",
+        "citation": "Bodhi, Going for Refuge, Eight Precepts III"
+      }
+    ],
+    "limits": "Source addresses bodily adornment; medicinal ointment is not settled here.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "jewish|avot_justice_truth_peace|justice",
+    "tradition": "jewish",
+    "list_key": "avot_justice_truth_peace",
+    "list_name": "Avot 1:18: justice, truth and peace",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "justice",
+    "kind": "virtue",
+    "rubric_v1_gloss": "to render innocent the innocent and guilty the guilty.",
+    "rubric_version": "v2",
+    "rubric_sha256": "efd527d0ee3d3b4818623d1db3c212862be60cfcf904f4124b7b13a9c07f02de",
+    "source_scope": "Rabban Shimon ben Gamaliel's 'justice' (Avot 1:18), as glossed by later commentator Bartenura: just verdicts.",
+    "teaching": [
+      {
+        "quote": "1:18 Rabban Shimon ben Gamaliel used to say: **on three things does the world stand: On justice, on truth and on peace**, as it is said: “execute the judgment of truth and peace in your gates” (Zechariah 8:16).",
+        "citation": "Pirkei Avot 1:18, trans. Kulp"
+      },
+      {
+        "quote": "\"The world stands\": [Meaning] the settlement of people is preserved. And this is not like \"the world stands\" of above.",
+        "citation": "Bartenura on Avot 1:18 (commentary, not Mishnah)"
+      },
+      {
+        "quote": "**\"on judgment\": [Meaning] to render innocent the innocent and guilty the guilty.**",
+        "citation": "Bartenura on Avot 1:18 (commentary, not Mishnah)"
+      },
+      {
+        "quote": "Judah ben Tabbai said: do not [as a judge] play the part of an advocate; and when the litigants are standing before you, look upon them as if they were [both] guilty...",
+        "citation": "Pirkei Avot 1:8, trans. Kulp"
+      },
+      {
+        "explanation": "Bartenura's gloss concerns verdicts that track actual innocence or guilt. Judah ben Tabbai's rule (1:8) is an adjacent teaching for judges."
+      }
+    ],
+    "limits": "The gloss is Bartenura's, not the Mishnah's. Judah ben Tabbai's 1:8 rule is adjacent teaching for judges, not the gloss itself. Procedure alone, without a verdict, shows justice only partly. The sources give no full boundary for non-judicial fairness.",
+    "examples": [
+      {
+        "agent": "the husbandmen",
+        "story": "Selected act or disposition (quoted from the passage):\nAnd the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.\n\nFull passage:\nHear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country: And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.\n\nAnd the husbandmen took his servants, and beat one, and killed another, and stoned another.\n\nAgain, he sent other servants more than the first: and they did unto them likewise.\n\nBut last of all he sent unto them his son, saying, They will reverence my son.\n\nBut when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.\n\nAnd they caught him, and cast him out of the vineyard, and slew him.\n\nWhen the lord therefore of the vineyard cometh, what will he do unto those husbandmen? They [the chief priests and Pharisees] say unto him [Jesus], He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.\n\nJesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes? Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.\n\nAnd whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.\n\nAnd when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.\n\nBut when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.",
+        "reason": "No verdict is given, so the judgment-focused gloss fits only loosely. Still, killing the innocent treats them as guilty and destroys the 'settlement of people', so there is substantial evidence against justice.",
+        "evidence_level": "Some evidence that the conduct conflicts with this virtue."
+      },
+      {
+        "agent": "Upright Gong",
+        "story": "Selected act or disposition (quoted from the passage):\nWhen his father stole a sheep, he reported him to the authorities.\n\nFull passage:\nIn Chu there was one Upright Gong. When his father stole a sheep, he reported him to the authorities. The authorities arrested the thief and were about to execute him when his honest son requested that he be allowed to take his place and be executed. He announced to the officer, \"When my father stole a sheep, I reported him-is this not the true meaning of honesty? When my father was about to be executed, I took his place-is this not the true meaning of filial? If you execute one who is both honest and ... filial, then whom will the state pardon?\" When the king of Chu learned of it, he did not execute the man. When Confucius heard of it, he said: \"Different, indeed, is the Upright Gong's honesty! It was merely at the expense of his father that he was able to get this reputation. It would be better to be dishonest than practice the 'honesty' of this Upright Gong.\"",
+        "reason": "Reporting enables rendering guilty the guilty; but death sentence for sheep theft seems disproportionate.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "the Fox",
+        "story": "Selected act or disposition (quoted from the passage):\napproached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.\n\nFull passage:\nTHE ASS and the Fox, having entered into partnership together for their mutual protection, went out into the forest to hunt. They had not proceeded far when they met a Lion. The Fox, seeing imminent danger, approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it. The Lion, seeing that the Ass was secured, immediately clutched the Fox, and attacked the Ass at his leisure.",
+        "reason": "No verdict rendered; betrayal delivers an innocent to harm, weakly analogous to condemning the innocent.",
+        "evidence_level": "Some evidence that the conduct conflicts with this virtue."
+      },
+      {
+        "agent": "Tsze-sze",
+        "story": "Selected act or disposition (quoted from the passage):\nTsze-sze said, \"If I go away, whom will the ruler have with him to guard [the city]?\"\n\nFull passage:\nWhen Tsze-sze was living in Wei, there came plunderers from Ts'e. Some one said to him, \"The plunderers are coming ; why not leave this ?\" [But] Tsze-sze said, \"If I go away, whom will the ruler have with him to guard [the city]?\" ... Mencius said, \"Tsang-tsze and Tsze-sze agreed in the principle of their conduct. Tsang-tsze was a teacher; — in the position of a father or elder brother. Tsze-sze was a minister ; — in a meaner position. If they could have exchanged places, each would have done what the other did.\"",
+        "reason": "No judgment of guilt or innocence involved; Bartenura's gloss not engaged.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "a slave",
+        "story": "Selected act or disposition (quoted from the passage):\nhas refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty\n\nFull passage:\nIf I [Seneca] show you someone [a slave] who has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty, will you deny that he has conferred a benefit on his master, just because he is a slave? Instead, consider whether perhaps the relative scarcity of instances of virtue among slaves actually makes them more significant; for generally speaking, being under someone's command is hateful and compulsion is always unpleasant, yet in some slaves affection for their masters overcomes the universal hatred of servitude. So far from it not being a benefit because it came from a slave, in fact it is an even greater benefit because not even slavery could discourage him.",
+        "reason": "No verdict; possibly shields innocent master, but judgment sense not established.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "Marcus Crassus and Quintus Hortensius",
+        "story": "Selected act or disposition (quoted from the passage):\nAlthough these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.\n\nFull passage:\nCertain individuals brought from Greece to Rome a forged will, purporting to be that of the wealthy Lucius Minucius Basilus. The more easily to procure validity for it, they made joint-heirs with themselves two of the most influential men of the day, Marcus Crassus and Quintus Hortensius. Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others. What shall we say, then? Is this excuse competent to acquit them of guilt? I [Cicero] cannot think so, although I loved the one while he lived, and do not hate the other now that he is dead. Be that as it may, Basilus had in fact desired that his nephew Marcus Satrius should bear his name and inherit his property, (I refer to the Satrius who is the present patron of Picenum and the Sabine country — and oh, what a shameful stigma it is upon the times!) And therefore it was not right that two of the leading citizens of Rome should take the estate and Satrius succeed to nothing except his uncle’s name. For if he does wrong who does not ward off and repel injury when he can — as I explained in the course of the First Book — what is to be thought of the man who not only does not try to prevent wrong, but actually aids and abets it?",
+        "reason": "The gloss concerns verdicts, and the card admits it gives no full boundary for fairness outside courts. Lending their name and credit to a forgery against the true heir is weak evidence against the spirit of just judgment. No verdict is involved.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      }
+    ],
+    "example_scale": "Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.",
+    "status": {
+      "tested_groups": [
+        "justice"
+      ],
+      "real_story_examples": true,
+      "source_status": "reviewed_development",
+      "production_teaching": "source quotations and own real-story examples"
+    }
+  },
+  {
+    "id": "jewish|avot_justice_truth_peace|peace",
+    "tradition": "jewish",
+    "list_key": "avot_justice_truth_peace",
+    "list_name": "Avot 1:18: justice, truth and peace",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "peace",
+    "kind": "virtue",
+    "rubric_v1_gloss": "between governments and between a man and his fellow.",
+    "rubric_version": "v2",
+    "rubric_sha256": "efd527d0ee3d3b4818623d1db3c212862be60cfcf904f4124b7b13a9c07f02de",
+    "source_scope": "'Peace' in Avot 1:18, as glossed by Bartenura: between governments and between persons.",
+    "teaching": [
+      {
+        "quote": "\"and on peace\": [Meaning] between governments and between a man and his fellow.",
+        "citation": "Ovadiah of Bartenura, commentary on Avot 1:18 (late fifteenth century), Sefaria Community Translation"
+      },
+      {
+        "quote": "\"The world stands\": [Meaning] the settlement of people is preserved.",
+        "citation": "Ovadiah of Bartenura, commentary on Avot 1:18 (late fifteenth century), Sefaria Community Translation"
+      },
+      {
+        "quote": "Hillel used to say: be of the disciples of Aaron, loving peace and pursuing peace, loving mankind and drawing them close to the Torah.",
+        "citation": "Pirkei Avot 1:1–18, Kulp/Mishnah Yomit Sefaria"
+      }
+    ],
+    "limits": "The gloss is Bartenura's. The sources do not resolve peace versus justice when the two conflict.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "jewish|avot_justice_truth_peace|truth",
+    "tradition": "jewish",
+    "list_key": "avot_justice_truth_peace",
+    "list_name": "Avot 1:18: justice, truth and peace",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "truth",
+    "kind": "virtue",
+    "rubric_v1_gloss": "that a man should not lie to his fellow.",
+    "rubric_version": "v2",
+    "rubric_sha256": "efd527d0ee3d3b4818623d1db3c212862be60cfcf904f4124b7b13a9c07f02de",
+    "source_scope": "'Truth' in Avot 1:18, as glossed by Bartenura: not lying to one's fellow.",
+    "teaching": [
+      {
+        "quote": "1:18 Rabban Shimon ben Gamaliel used to say: on three things does the world stand: On justice, on truth and on peace…",
+        "citation": "Pirkei Avot 1:1–18, Kulp/Mishnah Yomit Sefaria"
+      },
+      {
+        "quote": "\"and on truth\": [Meaning] that a man should not lie to his fellow.",
+        "citation": "Ovadiah of Bartenura, commentary on Avot 1:18 (late fifteenth century), Sefaria Community Translation"
+      },
+      {
+        "quote": "1:9 Shimon ben Shetach used to say: be thorough in the interrogation of witnesses, and be careful with your words, lest from them they learn to lie.",
+        "citation": "Pirkei Avot 1:8–9, Joshua Kulp, Mishnah Yomit translation"
+      },
+      {
+        "explanation": "The gloss frames truth interpersonally, as part of preserving human settlement."
+      }
+    ],
+    "limits": "The gloss is Bartenura's. The sources leave half-truths unaddressed.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

@@ -1,0 +1,353 @@
+[
+  {
+    "id": "buddhist|sigalovada_six_quarters|A child's ministry to parents (east)",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "A child's ministry to parents (east)",
+    "kind": "virtue",
+    "rubric_v1_gloss": "Once supported by them I will now be their support; I will perform duties incumbent on them; I will keep up the lineage and tradition ... of my family; I will make myself worthy of my heritage.",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "A child's duties toward parents as the eastern quarter.",
+    "teaching": [
+      {
+        "quote": "In five ways a child should minister to his parents as the eastern quarter : — **Once supported by them I will now be their support ; I will perform duties incumbent on them ; I will keep up the lineage and tradition ... of my family ; I will make myself worthy of my heritage.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      },
+      {
+        "explanation": "Gap: the source says five, but this printing enumerates four. No fifth duty is supplied."
+      }
+    ],
+    "limits": "Showing one duty can be clear evidence. Footnote glosses by Buddhaghosa are commentary, not the sutta itself.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|A clansman's ministry to friends and familiars (north)",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "A clansman's ministry to friends and familiars (north)",
+    "kind": "virtue",
+    "rubric_v1_gloss": "by generosity, courtesy and benevolence, by treating them as he treats himself, and by being as good as his word",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "A clansman's five duties to friends as the northern quarter.",
+    "teaching": [
+      {
+        "quote": "In five ways should a clansman minister to his friends and familiars as the northern quarter : — **by generosity, courtesy and benevolence, by treating them as he treats himself, and by being as good as his word.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "Showing one duty can be clear evidence. The source lists the duties without elaborating them.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|A clansman's ministry to recluses and brahmins (zenith)",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "A clansman's ministry to recluses and brahmins (zenith)",
+    "kind": "virtue",
+    "rubric_v1_gloss": "by affection in act and speech and mind; by keeping open house to them, by supplying their temporal needs",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "A clansman's duties toward recluses and brahmins as the zenith.",
+    "teaching": [
+      {
+        "quote": "In five ways should the clansman minister to recluses and brahmins as the zenith : — **by affection in act and speech and mind ; by keeping open house to them, by supplying their temporal needs.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "'Five ways' is read here as act, speech and mind plus two further duties. The source does not show which recluses qualify.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|A husband's ministry to his wife (west)",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "A husband's ministry to his wife (west)",
+    "kind": "virtue",
+    "rubric_v1_gloss": "respect, by courtesy, by faithfulness, by handing [over] authority to her, by providing her with adornment",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "A husband's five duties to his wife as the western quarter.",
+    "teaching": [
+      {
+        "quote": "In five ways should a wife as western quarter be ministered to by her husband : — by ... **respect, by courtesy, by faithfulness, by handing over authority to her, by providing her with adornment.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "These are historical household norms, attributed. Bracketed 'over' clarifies OCR. No marriage doctrine is added.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|A master's ministry to servants and employees (nadir)",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "A master's ministry to servants and employees (nadir)",
+    "kind": "virtue",
+    "rubric_v1_gloss": "by assigning them work according to their strength; by supplying them with food and wages; by tending them in sickness; by sharing with them unusual delicacies; by granting leave at times",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "An 'Ariyan master's' five duties to servants and employees.",
+    "teaching": [
+      {
+        "quote": "In five ways does an Ariyan master ... minister to his servants and employees as the nadir : — **by assigning them work according to their strength; by supplying them with food and wages ; by tending them in sickness ; by sharing with them unusual delicacies ; by granting leave at times.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "The relations include historical servitude, which is attributed, not endorsed. The footnote glosses on leave are commentary.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|A wife's love for her husband",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "A wife's love for her husband",
+    "kind": "virtue",
+    "rubric_v1_gloss": "her duties are well performed, by hospitality to the kin of both, by faithfulness, by watching over the goods he brings, and by skill and industry in discharging all her business",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "A wife's reciprocal ways of loving her husband.",
+    "teaching": [
+      {
+        "quote": "In these five ways does the wife, ministered to by her husband as the western quarter, love him : — **her duties are well performed, by hospitality to the kin of both, by faithfulness, by watching over the goods he brings, and by skill and industry in discharging all her business.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "These are historical role norms, attributed rather than endorsed. Do not read them as generic obedience.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|Friends' love for the clansman",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Friends' love for the clansman",
+    "kind": "virtue",
+    "rubric_v1_gloss": "they protect him when he is off his guard, ... and on such occasions guard his property; they become a refuge in danger, they do not forsake him in his troubles, and they show consideration for his family",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "Friends' reciprocal ways of loving the clansman.",
+    "teaching": [
+      {
+        "quote": "In these five ways thus ministered to as the northern quarter, his friends and familiars love him : — **they protect him when he is off his guard, and on such occasions guard his property ; they become a refuge in danger, they do not forsake him in his troubles, and they show consideration for his family.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "This is reciprocal to the clansman's ministry. The source does not define the limits of protection.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|Parents' love for the child",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Parents' love for the child",
+    "kind": "virtue",
+    "rubric_v1_gloss": "they restrain him from vice, they exhort him to virtue, they train him to a profession, ... they contract a suitable marriage for him, and in due time ... they hand over his inheritance",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "Parents' five reciprocal ways of loving the child.",
+    "teaching": [
+      {
+        "quote": "In five ways parents thus ministered to, as the eastern quarter, by their child, show their love for him : — **they restrain him from vice, they exhort him to virtue, they train him to a profession, they contract a suitable marriage for him, and in due time they hand over his inheritance.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "Arranged marriage reflects historical norms and is attributed, not endorsed. No consent doctrine is supplied.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|Pupils' ministry to teachers (south)",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Pupils' ministry to teachers (south)",
+    "kind": "virtue",
+    "rubric_v1_gloss": "by rising (from their seat, in salutation) by waiting upon them, by eagerness to learn, ... by personal service, and by attention when receiving their teaching",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "Pupils' five duties toward teachers as the southern quarter.",
+    "teaching": [
+      {
+        "quote": "In five ways should pupils minister to their teachers as the southern quarter : **by rising (from their seat, in salutation) by waiting upon them, by eagerness to learn, ... by personal service, and by attention when receiving their teaching.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "The translator footnote on 'obedience' is commentary, not the Buddha. Do not read the duties as generic obedience.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|Recluses' and brahmins' love for the clansman",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Recluses' and brahmins' love for the clansman",
+    "kind": "virtue",
+    "rubric_v1_gloss": "they restrain him from evil, they exhort him to good, they love him with kindly thoughts; they teach him what he had not heard, they correct and purify what he has heard, they reveal to him the way to heaven",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "Recluses' and brahmins' six reciprocal ways of loving the clansman.",
+    "teaching": [
+      {
+        "quote": "Thus ministered to as the zenith, recluses and brahmins show their love for the clansman in six ways : — **they restrain him from evil, they exhort him to good, they love him with kindly thoughts ; they teach him what he had not heard, they correct and purify what he has heard, they reveal to him the way to heaven.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "'The way to heaven' is the source's religious claim, attributed. No religious vocabulary is required in cases.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|Servants' and employees' love for their master",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Servants' and employees' love for their master",
+    "kind": "virtue",
+    "rubric_v1_gloss": "they rise before him, they lie down to rest after him; they are content with what is given to them; they do ... their work well; and they carry about his praise and good fame",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "Servants' reciprocal ways of loving a master who ministers to them.",
+    "teaching": [
+      {
+        "quote": "In these ways ministered to by their master, servants and employees love their master in five ways : — **they rise before him, they lie down to rest after him ; they are content with what is given to them ; they do ... their work well ; and they carry about his praise and good fame.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "The duties are reciprocal to a ministering master. Per the translator footnote, obedience is not in this list.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "buddhist|sigalovada_six_quarters|Teachers' love for the pupil",
+    "tradition": "buddhist",
+    "list_key": "sigalovada_six_quarters",
+    "list_name": "The six quarters and their reciprocal duties (DN 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Teachers' love for the pupil",
+    "kind": "virtue",
+    "rubric_v1_gloss": "they train him in that wherein he has been well trained; they make him hold fast that which is well held; they thoroughly instruct him in the lore of every art; they speak well of him among his friends and companions. They provide for his safety in every quarter.",
+    "rubric_version": "v2",
+    "rubric_sha256": "7f6f42b18a43afc1b8de81e43b41f78838d4f5a7f22bf5a9fa54f7af8215fbfa",
+    "source_scope": "Teachers' reciprocal ways of loving the pupil.",
+    "teaching": [
+      {
+        "quote": "And in five ways do teachers, thus ministered to as the southern quarter by their pupils, love their pupil : — **they train him in that wherein he has been well trained ; they make him hold fast that which is well held ; they thoroughly instruct him in the lore of every art ; they speak well of him among his friends and companions. They provide for his safety in every quarter.**",
+        "citation": "Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183"
+      }
+    ],
+    "limits": "The duties are framed as reciprocal to the pupil's ministry. The source does not say what applies when that ministry is absent.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

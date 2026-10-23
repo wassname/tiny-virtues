@@ -1,0 +1,11 @@
+{
+  "author": "PI/Sol",
+  "case_id": "phs-0046",
+  "virtue": "confucian|five_constants|Wisdom",
+  "provider_response_id": "gen-dec-1792662915-7zuvTvfASyDrsRfo7jzv",
+  "request_sha256": "b184eb9869233234e397a04ba601c691008c0b7b232830306c9c2f67c066633c",
+  "files": {
+    "request.json": "2862bb262a524a62ad2fca5a07456d8a0fb742500b8cd0a52045fe2adfeb4240",
+    "reply.json": "44b6d16a9d4035c288911159cecfc2e853b6bb120f8be45dbd08b2b113ded38d"
+  }
+}

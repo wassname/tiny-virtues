@@ -1,0 +1,139 @@
+[
+  {
+    "id": "confucian|womens_three_obediences|Following her father and elder brother in youth",
+    "tradition": "confucian",
+    "list_key": "womens_three_obediences",
+    "list_name": "Three Obediences (三從 san cong, 'the woman follows the man')",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Following her father and elder brother in youth",
+    "kind": "virtue",
+    "rubric_v1_gloss": "\"in her youth, she follows her father and elder brother\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "34d409de986ee9aed155488834bc44fab5562d4d27227b160b1560e24b7eb2ed",
+    "source_scope": "Li Ki, Jiao Te Sheng: before marriage a daughter follows her father and elder brother, above all about where she goes and whom she marries.",
+    "teaching": [
+      {
+        "quote": "The woman follows (and obeys) the man :—in her youth, she follows her father and elder brother; when married, she follows her husband; when her husband is dead, she follows her son.",
+        "citation": "Li Ki, Jiao Te Sheng, tr. Legge (SBE 27), p. 441"
+      },
+      {
+        "context": "A later women's book gives the popular form, without the elder brother:",
+        "quote": "Confucius said : \" Woman is subject to man ; she cannot herself direct any affairs, but must follow the Rule of the three Obediences. At home [before marriage] she must obey her father ; when married, she must obey her husband ; after her husband's death she must obey her son. She may not presume to follow her own judgment.",
+        "citation": "Typical Women of China, Chinese Author's Preface, tr. Safford (1891)"
+      },
+      {
+        "quote": "According to the rites, before a woman is married, she regards her father and mother as Heaven. After she is married, she regards her husband as Heaven.",
+        "citation": "Lienü zhuan 1.12, tr. Kinney (2014)"
+      },
+      {
+        "context": "A girl picking mulberry leaves answers a king who orders her to follow him:",
+        "quote": "\"If I should go without the knowledge of my parents, obeying your will, I should be a runaway daughter, and how then could I serve your majesty properly?\"",
+        "citation": "Typical Women of China, Woman's Virtues ch. 62, tr. Safford (1891)"
+      },
+      {
+        "explanation": "The duty is an unmarried daughter's deference to her father and elder brother, as the Li Ki names them, over her movements and her marriage; the later popular form names only the father, and the Lienü zhuan her parents. The texts praise a girl who will not leave home at a powerful man's word without her parents' knowledge. Once married, she follows her husband instead."
+      }
+    ],
+    "limits": "Applies before marriage. The Li Ki names father and elder brother together; it does not say how to rank them if they disagree. These passages do not address a father's wrong command. The Lienü zhuan also praises a betrothed girl who refused to go to her betrothed's family while its rites were incomplete. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "confucian|womens_three_obediences|Following her husband when married",
+    "tradition": "confucian",
+    "list_key": "womens_three_obediences",
+    "list_name": "Three Obediences (三從 san cong, 'the woman follows the man')",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Following her husband when married",
+    "kind": "virtue",
+    "rubric_v1_gloss": "\"when married, she follows her husband\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "34d409de986ee9aed155488834bc44fab5562d4d27227b160b1560e24b7eb2ed",
+    "source_scope": "Li Ki, Jiao Te Sheng: a married woman follows her husband. The women's books count helping him correct his faults as part of a wife's service.",
+    "teaching": [
+      {
+        "quote": "The woman follows (and obeys) the man :— ... when married, she follows her husband",
+        "citation": "Li Ki, Jiao Te Sheng, tr. Legge (SBE 27), p. 441"
+      },
+      {
+        "quote": "Surely the wife should be respectful, obedient, and compliant towards [her] husband, and thus discharge her duty to the utmost, and she must share in his joys and in his sorrows all their days.",
+        "citation": "Typical Women of China, Woman's Virtues ch. 2, tr. Safford (1891)"
+      },
+      {
+        "quote": "If her lord act perversely she must behave to him as a younger to an elder brother, and if he errs, she must assist him to retrieve his error, with the love of friend for friend",
+        "citation": "Typical Women of China, Woman's Virtues ch. 1, tr. Safford (1891)"
+      },
+      {
+        "quote": "A faithful minister, if his monarch does wrong reproves him ; a virtuous wife, in the same way, tells her husband when he is in fault, and aids him to do better.",
+        "citation": "Typical Women of China, Woman's Words ch. 2, tr. Safford (1891)"
+      },
+      {
+        "explanation": "Following means accepting the husband's lead in the household's direction and sharing his fortunes. The same books make correcting his faults part of a wife's service, as a loyal minister reproves a ruler; that is not disobedience."
+      }
+    ],
+    "limits": "Conduct toward in-laws, speech and jealousy belong to other lists. The book praises a queen who refused to promise to die with a dissolute king. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "confucian|womens_three_obediences|Following her son when her husband is dead",
+    "tradition": "confucian",
+    "list_key": "womens_three_obediences",
+    "list_name": "Three Obediences (三從 san cong, 'the woman follows the man')",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Following her son when her husband is dead",
+    "kind": "virtue",
+    "rubric_v1_gloss": "\"when her husband is dead, she follows her son\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "34d409de986ee9aed155488834bc44fab5562d4d27227b160b1560e24b7eb2ed",
+    "source_scope": "Li Ki, Jiao Te Sheng: a widow follows her son. The Lienü zhuan shows widowed mothers deferring to grown sons in outward decisions while still teaching them.",
+    "teaching": [
+      {
+        "quote": "The woman follows (and obeys) the man :— ... when her husband is dead, she follows her son.",
+        "citation": "Li Ki, Jiao Te Sheng, tr. Legge (SBE 27), p. 441"
+      },
+      {
+        "context": "Mencius hesitates to leave Qi because his mother is old; she answers:",
+        "quote": "Therefore, according to the rites, when she is young she obeys her parents, when she marries she obeys her husband, and when her husband dies she obeys her son. Now you are a grown man and I have become old. You should act in accordance with duty, and I will act according to ritual.",
+        "citation": "Lienü zhuan 1.11, tr. Kinney (2014)"
+      },
+      {
+        "context": "A widowed mother of nine sons tells their wives:",
+        "quote": "\"A woman has the duty of the Three Obediences, and there are no actions over which she wields complete authority. ... when she is old she is bound to her son. Just now my sons all agreed to let me go visit my own family.\"",
+        "citation": "Lienü zhuan 1.12, tr. Kinney (2014)"
+      },
+      {
+        "context": "Earlier, when Mencius left his room displeased at finding his wife undressed and she asked leave to return to her parents, the same mother told him:",
+        "quote": "\"If you fail to investigate ritual yet fault the ritual behavior of others, then you are far from being correct yourself!\" Mencius then apologized and kept his wife.",
+        "citation": "Lienü zhuan 1.11, tr. Kinney (2014)"
+      },
+      {
+        "explanation": "In outward affairs a widow defers to her grown son's decisions and goes out under his escort. The same biographies show such mothers still instructing and correcting their sons; following does not end a mother's teaching."
+      }
+    ],
+    "limits": "Concerns deference in decisions and movement, not giving up a mother's instruction. Typical Women of China also praises a widow who kept spinning against her official son's plea and told him to share his salary with poor relatives. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

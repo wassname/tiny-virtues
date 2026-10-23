@@ -1,0 +1,331 @@
+[
+  {
+    "id": "stoic|passions_and_good_feelings|caution",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "caution",
+    "kind": "virtue",
+    "rubric_v1_gloss": "caution, the counterpart of fear, rational avoidance; for though the wise man will never feel fear, he will yet use caution. ... under caution, reverence and modesty",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of caution (eulabeia), the rational counterpart of fear; Epictetus's teaching on its proper object; Cicero's Latin report.",
+    "teaching": [
+      {
+        "quote": "caution, the counterpart of fear, rational avoidance; for though the wise man will never feel fear, he will yet use caution ... under caution, reverence and modesty",
+        "citation": "Diogenes Laertius 7.116 (Hicks)"
+      },
+      {
+        "quote": "we naturally seek to avoid what is evil; and this avoidance of which, if conducted in accordance with reason, is called caution; and this the wise man alone is supposed to have: but that caution which is not under the guidance of reason, but is attended with a base and low dejection, is called fear.",
+        "citation": "Cicero, Tusculan Disputations 4.6-7 (Yonge)"
+      },
+      {
+        "quote": "where the things that lie within the province of the moral purpose are involved, there show caution ... it is only in regard to matters of this kind that it is right to employ caution",
+        "citation": "Epictetus, Discourses 2.1 (Oldfather)"
+      },
+      {
+        "quote": "For it is not death or hardship that is a fearful thing, but the fear of hardship or death.",
+        "citation": "Epictetus, Discourses 2.1 (Oldfather)"
+      },
+      {
+        "context": "Among unconditional duties:",
+        "quote": "to take proper care of health",
+        "citation": "Diogenes Laertius 7.109 (Hicks)"
+      },
+      {
+        "explanation": "Caution is reasonable avoidance. Diogenes names no object; Epictetus places it in one's own moral purpose, guarding against wrong judgement and choice. Care for health and safety is an appropriate act toward indifferents; it counts as caution only when the agent is shown guarding his own judgement. Gellius reports that a first start is not yet fear."
+      }
+    ],
+    "limits": "Diogenes and Epictetus differ in specificity; the difference is kept. Reverence and modesty are not defined; modesty is not the same as shame, which Diogenes places under fear as 'fear of disgrace'. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "stoic|passions_and_good_feelings|desire or craving",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "desire or craving",
+    "kind": "vice",
+    "rubric_v1_gloss": "Desire or craving is irrational appetency, and under it are ranged the following states: want, hatred, contentiousness, anger, love, wrath, resentment",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of desire or craving (epithymia) and its species, with Cicero's report ('lust', Yonge).",
+    "teaching": [
+      {
+        "quote": "Desire or craving is irrational appetency, and under it are ranged the following states: want, hatred, contentiousness, anger, love, wrath, resentment.",
+        "citation": "Diogenes Laertius 7.113 (Hicks)"
+      },
+      {
+        "quote": "Contentiousness is a craving or desire connected with partisanship; anger a craving or desire to punish one who is thought to have done you an undeserved injury.",
+        "citation": "Diogenes Laertius 7.113 (Hicks)"
+      },
+      {
+        "quote": "Wrath is anger which has long rankled and has become malicious, waiting for its opportunity",
+        "citation": "Diogenes Laertius 7.114 (Hicks)"
+      },
+      {
+        "quote": "but whatever is incited too violently in opposition to reason, that is a lust, or an unbridled desire, which is discoverable in all fools.",
+        "citation": "Cicero, Tusculan Disputations 4.6-7 (Yonge)"
+      },
+      {
+        "quote": "avarice being a supposition that money is a good",
+        "citation": "Diogenes Laertius 7.111 (Hicks)"
+      },
+      {
+        "explanation": "Craving is reaching toward something against reason; its rational counterpart is wishing. Anger (craving to punish), wrath, hatred and partisanship belong to it. 'Love' here means narrowly an effort to win affection because of visible beauty. Choosing a preferred indifferent is not itself craving; it becomes craving when the thing is treated as a good, as avarice treats money. Yonge's 'lust' is this passion."
+      }
+    ],
+    "limits": "The source sets no rule on marriage or household life; affection falls under wishing, not under this 'love'.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "stoic|passions_and_good_feelings|fear",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "fear",
+    "kind": "vice",
+    "rubric_v1_gloss": "Fear is an expectation of evil. Under fear are ranged the following emotions: terror, nervous shrinking, shame, consternation, panic, mental agony",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of fear (phobos) and its species; Epictetus on misplaced caution; Gellius's report of the first start; Cicero's report.",
+    "teaching": [
+      {
+        "quote": "Fear is an expectation of evil. Under fear are ranged the following emotions: terror, nervous shrinking, shame, consternation, panic, mental agony. Terror is a fear which produces fright; shame is fear of disgrace; nervous shrinking is a fear that one will have to act",
+        "citation": "Diogenes Laertius 7.112 (Hicks)"
+      },
+      {
+        "quote": "mental agony is fear felt when some issue is still in suspense.",
+        "citation": "Diogenes Laertius 7.113 (Hicks)"
+      },
+      {
+        "quote": "Fear is, therefore, caution destitute of reason.",
+        "citation": "Cicero, Tusculan Disputations 4.6-7 (Yonge)"
+      },
+      {
+        "quote": "the mind of even the wise man cannot help but be disturbed, and shrink, and grow pale for a moment ... Soon, however, our wise man does not give his assent",
+        "citation": "Aulus Gellius 19.1, reporting Epictetus fr. 9 (Oldfather)"
+      },
+      {
+        "quote": "where death, or exile, or hardship, or ignominy faces us, there we show the spirit of running away ... our natural caution and self-respect we transform into cowardice and abjectness",
+        "citation": "Epictetus, Discourses 2.1 (Oldfather)"
+      },
+      {
+        "explanation": "Fear is assent to the expectation that an evil is coming; terror, shame (fear of disgrace), shrinking from action and agony in suspense are its kinds. Epictetus treats it as caution aimed at things outside one's moral purpose. An involuntary start before assent is not yet fear. Physical avoidance with no stated dread is not evidence of fear."
+      }
+    ],
+    "limits": "Gellius's report is about fright and is not stretched further. Shame here is a species of fear and is not modesty. Resisting fear in one act does not certify sagehood.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "stoic|passions_and_good_feelings|grief",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "grief",
+    "kind": "vice",
+    "rubric_v1_gloss": "grief or pain they hold to be an irrational mental contraction. Its species are pity, envy, jealousy, rivalry, heaviness, annoyance, distress, anguish, distraction",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of grief or pain (lype) and its species, with Cicero's report and Epictetus's teaching on sympathy.",
+    "teaching": [
+      {
+        "quote": "And grief or pain they hold to be an irrational mental contraction. Its species are pity, envy, jealousy, rivalry, heaviness, annoyance, distress, anguish, distraction. Pity is grief felt at undeserved suffering; envy, grief at others’ prosperity",
+        "citation": "Diogenes Laertius 7.111 (Hicks)"
+      },
+      {
+        "quote": "distress a pain brought on by anxious thought that lasts and increases, anguish painful grief, distraction irrational grief, rasping and hindering us from viewing the situation as a whole.",
+        "citation": "Diogenes Laertius 7.112 (Hicks)"
+      },
+      {
+        "quote": "Grief, then, is a recent opinion of some present evil, in which it seems to be right that the mind should shrink and be dejected.",
+        "citation": "Cicero, Tusculan Disputations 4.7 (Yonge)"
+      },
+      {
+        "quote": "Nor indeed will the wise man ever feel grief",
+        "citation": "Diogenes Laertius 7.118 (Hicks)"
+      },
+      {
+        "quote": "“It is not what has happened that distresses this man (for it does not distress another), but his judgement about it.” Do not, however, hesitate to sympathize with him so far as words go, and, if occasion offers, even to groan with him; but be careful not to groan also in the centre of your being.",
+        "citation": "Epictetus, Handbook 16 (Oldfather)"
+      },
+      {
+        "quote": "But they add that in another sense the term apathy is applied to the bad man, when, that is, it means that he is callous and relentless.",
+        "citation": "Diogenes Laertius 7.117 (Hicks)"
+      },
+      {
+        "explanation": "Grief is the soul shrinking at something judged a present evil; pity, envy and lasting distress are its kinds. No good feeling answers to it. Epictetus allows outward sympathy, even groaning with a mourner, while not grieving inwardly. Freedom from grief is not callousness, which Diogenes calls the bad man's apathy."
+      }
+    ],
+    "limits": "Pity counts as grief here, as the source lists it; resisting pity does not mean refusing help. A momentary change of face with nothing more known is not established as the passion. Gellius's report on a first start concerns fright and is not extended here.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "stoic|passions_and_good_feelings|joy",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "joy",
+    "kind": "virtue",
+    "rubric_v1_gloss": "Joy, the counterpart of pleasure, is rational elation ... under joy, delight, mirth, cheerfulness.",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of the Stoic good feeling of joy (chara), the rational counterpart of the passion of pleasure, with Cicero's Latin report.",
+    "teaching": [
+      {
+        "quote": "Also they say that there are three emotional states which are good, namely, joy, caution, and wishing. Joy, the counterpart of pleasure, is rational elation ... under joy, delight, mirth, cheerfulness.",
+        "citation": "Diogenes Laertius 7.110-116 (Hicks)"
+      },
+      {
+        "quote": "Pleasure is an irrational elation at the accruing of what seems to be choiceworthy",
+        "citation": "Diogenes Laertius 7.114 (Hicks)"
+      },
+      {
+        "quote": "To this answers virtue and, as being partakers in virtue, virtuous acts and good men; as also its supervening accessories, joy and gladness and the like.",
+        "citation": "Diogenes Laertius 7.94 (Hicks)"
+      },
+      {
+        "quote": "when the mind is moved in a placid and calm motion, consistent with reason, that is called joy; but when it exults with a vain, wanton exultation, or immoderate joy, then that feeling may be called immoderate ecstasy or transport, which they define to be an elation of the mind without reason.",
+        "citation": "Cicero, Tusculan Disputations 4.6-7 (Yonge)"
+      },
+      {
+        "explanation": "Joy is calm, reasonable elation; its forms are delight, mirth and cheerfulness. Diogenes counts it an accessory of virtue and virtuous acts. Pleasure is elation that outruns reason at gaining what merely seems choiceworthy. Yonge's Cicero also uses 'joy' for the passion; read his 'immoderate joy' as Diogenes's pleasure."
+      }
+    ],
+    "limits": "No worked case of joy is given. 'Delight' appears under both joy and pleasure, so the word does not settle which is present. Gladness at a preferred indifferent, such as health, is not shown to be joy merely because the thing is preferred. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "stoic|passions_and_good_feelings|pleasure",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "pleasure",
+    "kind": "vice",
+    "rubric_v1_gloss": "Pleasure is an irrational elation at the accruing of what seems to be choiceworthy; and under it are ranged ravishment, malevolent joy, delight, transport",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of pleasure (hedone) and its species, with Cicero's report and Epictetus's counsel on impressions of pleasure.",
+    "teaching": [
+      {
+        "quote": "Pleasure is an irrational elation at the accruing of what seems to be choiceworthy; and under it are ranged ravishment, malevolent joy, delight, transport. Ravishment is pleasure which charms the ear. Malevolent joy is pleasure at another’s ills.",
+        "citation": "Diogenes Laertius 7.114 (Hicks)"
+      },
+      {
+        "quote": "To be in transports of delight is the melting away of virtue.",
+        "citation": "Diogenes Laertius 7.114 (Hicks)"
+      },
+      {
+        "quote": "In pleasure they comprehend malevolence — that is, pleased at another’s misfortune — delight, boastfulness, and the like.",
+        "citation": "Cicero, Tusculan Disputations 4.7 (Yonge)"
+      },
+      {
+        "quote": "When you get an external impression of some pleasure, guard yourself, as with impressions in general, against being carried away by it; nay, let the matter wait upon your leisure, and give yourself a little delay.",
+        "citation": "Epictetus, Handbook 34 (Oldfather)"
+      },
+      {
+        "explanation": "Pleasure is elation that outruns reason at gaining what merely seems choiceworthy; malevolent joy, ravishment by sound, transport and boastfulness are its kinds. Its rational counterpart is joy. Epictetus's counsel is to delay before an impression of pleasure and not be carried away."
+      }
+    ],
+    "limits": "Not every enjoyment is the passion; the source defines it by irrationality. The remark that good men are 'austere' (7.117) is not turned into a rule for ordinary readers.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "stoic|passions_and_good_feelings|wishing",
+    "tradition": "stoic",
+    "list_key": "passions_and_good_feelings",
+    "list_name": "The four primary passions and the three good emotional states (Diogenes Laertius 7.110-116)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "wishing",
+    "kind": "virtue",
+    "rubric_v1_gloss": "wishing the counterpart of desire (or craving), inasmuch as it is rational appetency. ... under wishing they bring well-wishing or benevolence, friendliness, respect, affection",
+    "rubric_version": "v2",
+    "rubric_sha256": "f715b5cfd0247e445ae1ceb74966da583adb18d32fa49c06ae63a5aff1339c86",
+    "source_scope": "Diogenes Laertius's report of wishing (boulesis), rational appetency, the counterpart of craving; Cicero's 'volition'.",
+    "teaching": [
+      {
+        "quote": "they make wishing the counterpart of desire (or craving), inasmuch as it is rational appetency ... Thus under wishing they bring well-wishing or benevolence, friendliness, respect, affection",
+        "citation": "Diogenes Laertius 7.116 (Hicks)"
+      },
+      {
+        "quote": "where this strong desire is consistent and founded on prudence, it is by the Stoics called βούλησις, and the name which we give it is volition; and this they allow to none but their wise man, and define it thus: Volition is a reasonable desire",
+        "citation": "Cicero, Tusculan Disputations 4.6-7 (Yonge)"
+      },
+      {
+        "quote": "Hatred is a growing and lasting desire or craving that it should go ill with somebody.",
+        "citation": "Diogenes Laertius 7.113 (Hicks)"
+      },
+      {
+        "quote": "The passion of love is a craving from which good men are free; for it is an effort to win affection due to the visible presence of beauty.",
+        "citation": "Diogenes Laertius 7.113 (Hicks)"
+      },
+      {
+        "explanation": "Wishing is reasonable reaching toward a good; its forms are well-wishing, friendliness, respect and affection. It stands against hatred, anger and contentiousness, which fall under craving. Affection under wishing differs from the passion of 'love', defined narrowly as an effort to win affection because of visible beauty."
+      }
+    ],
+    "limits": "The source names no list of proper objects. An ordinary preference among indifferents is not shown to be wishing. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

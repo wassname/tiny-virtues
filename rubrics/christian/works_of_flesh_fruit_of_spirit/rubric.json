@@ -1,0 +1,803 @@
+[
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|adultery",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "adultery",
+    "kind": "vice",
+    "rubric_v1_gloss": "it is a defilement of the marriage bed, and is the sin of uncleanness committed by two persons, one of which at least is in a married state",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's work of the flesh 'adultery'; Gill gives its married-state definition and notes textual omission.",
+    "teaching": [
+      {
+        "quote": "adultery; this is left out in the Vulgate Latin, Syriac, and Ethiopic versions, and in the Alexandrian copy; **it is a defilement of the marriage bed, and is the sin of uncleanness committed by two persons, one of which at least is in a married state**, is condemned by the law of God and light of nature:",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "though such who have done these things, being brought to a sense of them, and to the blood and righteousness of Christ for pardon ... shall, through the free grace of God ... inherit the kingdom and glory of God.",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill records versions that omit 'adultery'. KJV keeps it. Repentance affects salvation in Gill's view, not whether the act occurred.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|drunkenness",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "drunkenness",
+    "kind": "vice",
+    "rubric_v1_gloss": "drunkenness; excess in drinking of wine or strong drink, whereby the stomach is overcharged, the mind is intoxicated, and the body enfeebled and unable to perform its office; this is often the source of many, or all of the works of the flesh before mentioned:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'drunkenness'; Gill: excess in drink that intoxicates the mind and enfeebles the body.",
+    "teaching": [
+      {
+        "quote": "**drunkenness; excess in drinking of wine or strong drink, whereby the stomach is overcharged, the mind is intoxicated, and the body enfeebled and unable to perform its office**; this is often the source of many, or all of the works of the flesh before mentioned:",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "This is not an abstinence rule. Gill condemns excess.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|emulations",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "emulations",
+    "kind": "vice",
+    "rubric_v1_gloss": "emulations or \"zeals\"; not good, but bad: a boiling and rising up of the spirits and passions, at the honour and happiness of another:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'emulations' ('zeals'); Gill: bad zeals, passions rising at another's honour, not every zeal.",
+    "teaching": [
+      {
+        "quote": "emulations or \"zeals\"; **not good, but bad: a boiling and rising up of the spirits and passions, at the honour and happiness of another:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Not every zeal is condemned.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|envyings",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "envyings",
+    "kind": "vice",
+    "rubric_v1_gloss": "Envyings..... Uneasy distressing tortures of the mind, grieving at the good of others, that any should be in an equal, or in a better condition than themselves:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'envyings'; Gill: grieving at others' good, whether equal to or better than one's own.",
+    "teaching": [
+      {
+        "quote": "**Envyings..... Uneasy distressing tortures of the mind, grieving at the good of others, that any should be in an equal, or in a better condition than themselves:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "5:26 Let us not be desirous of vain glory, provoking one another, envying one another.",
+        "citation": "Paul, Galatians5:13–26, KJV1611, PG10witness"
+      }
+    ],
+    "limits": "",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|faith",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "faith",
+    "kind": "virtue",
+    "rubric_v1_gloss": "though fidelity, both in words and actions, which is very ornamental to the Gospel, and a profession of religion may be meant; yet faith in Christ is not to be excluded",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'faith'; Gill keeps both fidelity and faith in Christ.",
+    "teaching": [
+      {
+        "quote": "faith; **for though fidelity, both in words and actions, which is very ornamental to the Gospel, and a profession of religion may be meant; yet faith in Christ is not to be excluded** ... and which lies and shows itself in believing in Christ for salvation, in embracing the doctrines of the Gospel, and making a profession of them",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "faith [is opposed] to idolatry, witchcraft, and heresies",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Neither sense is exclusive. Gill notes that interpreters 'generally' exclude Christ-faith, while he includes it.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|fornication",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "fornication",
+    "kind": "vice",
+    "rubric_v1_gloss": "it is the sin of uncleanness committed by persons in a single state",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'fornication'; Gill: uncleanness between persons in a single state.",
+    "teaching": [
+      {
+        "quote": "fornication; which though by many of the Gentiles was reckoned no sin, or a very small one, stands here among the works of the flesh, that are manifest and to be avoided; **it is the sin of uncleanness committed by persons in a single state;**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "This records Gill's reading, not a modern endorsement or replacement. The verdict on consensual single sex is his.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|gentleness",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "gentleness",
+    "kind": "virtue",
+    "rubric_v1_gloss": "gentleness, humanity, affability, courteousness, shown both in words, gestures, and actions",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'gentleness'; Gill describes it beside longsuffering, in words, gestures and actions.",
+    "teaching": [
+      {
+        "quote": "[longsuffering] ... **which is usually accompanied with gentleness, humanity, affability, courteousness, shown both in words, gestures, and actions; in imitation of the gentleness of Christ**, and agreeably to that wisdom, that heavenly doctrine of the Gospel, which, among other things, is said to be gentle, and easy to be entreated.",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "explanation": "Gill says longsuffering 'is usually accompanied with' gentleness; he does not state the converse. Gentleness is related to longsuffering but not identical with it. Gill opposes both to wrath and murders."
+      }
+    ],
+    "limits": "Gill's gentleness paragraph has no separate negative definition. The adverse example relies only on his opposition list.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|goodness",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "goodness",
+    "kind": "virtue",
+    "rubric_v1_gloss": "disposes it to acts of goodness unto men, in a natural, civil, moral, spiritual, and evangelic way, for the benefit both of soul and body",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'goodness'; Gill: acts of goodness to men for soul and body.",
+    "teaching": [
+      {
+        "quote": "goodness; and what else can come from the good Spirit of God ... **and which disposes it to acts of goodness unto men, in a natural, civil, moral, spiritual, and evangelic way, for the benefit both of soul and body**; and which must here be understood, and which is well pleasing to God when done in the exercise of the following grace, [faith]",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "5:26 Let us not be desirous of vain glory, provoking one another, envying one another.",
+        "citation": "Paul, Galatians5:13–26, KJV1611, PG10witness"
+      }
+    ],
+    "limits": "Gill ties acceptability to God with faith. This is not a rule that a tale must state faith before goodness can be evidenced.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|hatred",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "hatred",
+    "kind": "vice",
+    "rubric_v1_gloss": "hatred: internal hatred of any man's person, even of our very enemies, is forbidden; in the original text it is \"enmities\": as the carnal mind is nothing else but enmity against God and Christ, against law and Gospel, and all good men, and everything that is good:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'hatred' ('enmities'); Gill: internal hatred of any person, even enemies, and enmity against God.",
+    "teaching": [
+      {
+        "quote": "**hatred: internal hatred of any man's person, even of our very enemies, is forbidden**; in the original text it is \"enmities\": as the carnal mind is nothing else but enmity against God and Christ, against law and Gospel, and all good men, and everything that is good:",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill targets hatred of persons. Opposing wrongdoing is not itself hatred. 'Enmities' is the original-language note.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|heresies",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "heresies",
+    "kind": "vice",
+    "rubric_v1_gloss": "heresies; bad principles and tenets, relating to doctrine, which are subversive of the fundamentals of the Gospel and the Christian religion; and are the produce of a man's own invention, and the matter of his choice, without any foundation in the word of God",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'heresies'; Gill: self-invented tenets subverting Gospel fundamentals, propagated with carnal views.",
+    "teaching": [
+      {
+        "quote": "**heresies; bad principles and tenets, relating to doctrine, which are subversive of the fundamentals of the Gospel and the Christian religion; and are the produce of a man's own invention, and the matter of his choice, without any foundation in the word of God**; and these are works of the flesh, for they spring from a corrupt and carnal mind, and are propagated with carnal views, as popular applause, worldly advantage, and indulging the lusts of the flesh.",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "'Fundamentals' are judged from Gill's Particular Baptist standpoint. Other traditions draw them differently, and this is not a claim of Christian unanimity.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|idolatry",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "idolatry",
+    "kind": "vice",
+    "rubric_v1_gloss": "Idolatry,.... Which some understand of covetousness, which is so called; but rather it means the worshipping of other gods, or of graven images:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'idolatry'; Gill prefers worship of other gods or images, while noting a covetousness reading.",
+    "teaching": [
+      {
+        "quote": "Idolatry,.... Which some understand of covetousness, which is so called; **but rather it means the worshipping of other gods, or of graven images:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill reports the covetousness reading as 'some understand' and prefers the worship sense. Covetousness cases remain distributional, not settled.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|joy",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "joy",
+    "kind": "virtue",
+    "rubric_v1_gloss": "The object of it is God, not as an absolute God, but as a covenant God and Father in Christ … joy in the good of others, of fellow creatures and fellow Christians, in their outward and inward prosperity, in their temporal, spiritual, and eternal good",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'joy'; Gill names joy in God through Christ and joy in others' good.",
+    "teaching": [
+      {
+        "quote": "joy, even that which is in the Holy Ghost, and has him for its author. The object of it is God, not as an absolute God, but as a covenant God and Father in Christ ... as pardoning iniquity, transgression, and sin ... This joy ... lies in spiritual things ... **Moreover, joy in the good of others, of fellow creatures and fellow Christians, in their outward and inward prosperity, in their temporal, spiritual, and eternal good ... may well enough be thought to be at least part of the sense of the word here**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "joy [is opposed] to emulations and envying",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill says joy in others' good is 'at least part of the sense', a hedged reading. Joy in God is his primary sense.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|lasciviousness",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "lasciviousness",
+    "kind": "vice",
+    "rubric_v1_gloss": "lasciviousness; or wantonness, all lustful dalliance, everything that leads on to acts of uncleanness, or attends them, as impure words, filthy gestures, and the like.",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'lasciviousness'; Gill: wantonness, lustful dalliance, impure words and filthy gestures.",
+    "teaching": [
+      {
+        "quote": "**lasciviousness; or wantonness, all lustful dalliance, everything that leads on to acts of uncleanness, or attends them, as impure words, filthy gestures, and the like.**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill's examples ('and the like') are open-ended. Overlap with uncleanness and revellings is legitimate.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|longsuffering",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "longsuffering",
+    "kind": "virtue",
+    "rubric_v1_gloss": "a patient bearing and enduring of present evils with joyfulness … being slow to anger, ready to forgive injuries, put up with affronts, and bear with, and forbear one another",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'longsuffering'; Gill: patient bearing of present evils, slowness to anger, forgiveness.",
+    "teaching": [
+      {
+        "quote": "longsuffering; which intends not so much a patient waiting for good things to come ... **but a patient bearing and enduring of present evils with joyfulness ... being slow to anger, ready to forgive injuries, put up with affronts, and bear with, and forbear one another**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "longsuffering, gentleness, goodness, and meekness, [are opposed] to wrath and murders",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill subordinates 'patient waiting' to bearing present evils. He does not deny that patient waiting is part of the sense.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|love",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "love",
+    "kind": "virtue",
+    "rubric_v1_gloss": "it may be understood of love to God … and also of love to Christ … and likewise of love to the saints … love to the house and worship of God, to the truths and ordinances of the Gospel",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's first fruit of the Spirit (KJV), with Gill's commentary listing several objects of love.",
+    "teaching": [
+      {
+        "quote": "5:13 ... **by love serve one another.** 5:14 For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself. 5:15 But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+        "citation": "Paul, Galatians5:13–26, KJV1611, PG10witness"
+      },
+      {
+        "quote": "Love. This the apostle begins with, it being the fulfilling of the law, the bond of perfectness, and without which a profession of religion is insignificant; **it may be understood of love to God ... and also of love to Christ ... and likewise of love to the saints** ... Moreover, love to the house and worship of God, to the truths and ordinances of the Gospel ... may be included in this first fruit of the Spirit",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "So love is opposed to hatred",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill frames love through regeneration; this is his theology, not a requirement that a tale name it. His objects of love are alternatives, not a checklist.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|meekness",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "meekness",
+    "kind": "virtue",
+    "rubric_v1_gloss": "Humility and lowliness of mind … in walking humbly with God, acknowledging every favour, being thankful for every blessing, and depending on his grace, and in behaving with modesty and humility among men.",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'meekness'; Gill: humility toward God and modesty among men.",
+    "teaching": [
+      {
+        "quote": "Meekness,.... Humility and lowliness of mind, of which Christ is an eminent example and pattern ... **and lies in having mean thoughts of himself, in walking humbly with God, acknowledging every favour, being thankful for every blessing, and depending on his grace, and in behaving with modesty and humility among men.**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "5:26 Let us not be desirous of vain glory, provoking one another, envying one another.",
+        "citation": "Paul, Galatians5:13–26, KJV1611, PG10witness"
+      }
+    ],
+    "limits": "Gill defines meekness as humility, not merely mildness. His regeneration framing is theology, not a requirement for a tale.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|murders",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "murders",
+    "kind": "vice",
+    "rubric_v1_gloss": "murders, destroying of men's lives, which is often the consequence of the above evils:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'murders'; Gill: destroying men's lives, often the consequence of earlier works.",
+    "teaching": [
+      {
+        "quote": "**murders, destroying of men's lives, which is often the consequence of the above evils:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill gives no doctrine on war, execution, self-defence or accident; these are unresolved gaps. Do not extend 'murders' to all harm.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|peace",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "peace",
+    "kind": "virtue",
+    "rubric_v1_gloss": "designs peace with God in a man's own conscience … also peace with men, with the saints, and with all others",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's fruit 'peace'; Gill: peace with God in conscience and peace with saints and all men.",
+    "teaching": [
+      {
+        "quote": "peace ... designs peace with God in a man's own conscience ... the effect of which is peace, quietness, and tranquillity of mind; **also peace with men, with the saints, and with all others; for such who are ... led by him, seek after the things which make for peace and edification among the brethren, and are desirous if possible to live peaceably with all men**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "peace [is opposed] to variance, strife, and seditions",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill's 'if possible' qualifies peace with all men. Peace with God and peace with humans are distinct senses; either can be evidenced.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|revellings",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "revellings",
+    "kind": "vice",
+    "rubric_v1_gloss": "revellings; excess in feed, nocturnal riotings in eating, drinking, dancing, singing, chambering and wantonness.",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'revellings'; Gill: nocturnal riotings in eating, drinking, dancing, singing, chambering and wantonness.",
+    "teaching": [
+      {
+        "quote": "**revellings; excess in feed, nocturnal riotings in eating, drinking, dancing, singing, chambering and wantonness.** The Syriac version renders it, \"lascivious singing\"; and the Arabic version, \"songs\" which are a part of the nightly revels:",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill's 'such like' means the list is illustrative. Version renderings (Syriac, Arabic) are reported alternatives, not exclusive senses.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|seditions",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "seditions",
+    "kind": "vice",
+    "rubric_v1_gloss": "seditions or \"divisions\": schisms and factions, dissensions in things domestic, civil, and religious:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'seditions' ('divisions'); Gill: schisms and factions in domestic, civil and religious life.",
+    "teaching": [
+      {
+        "quote": "**seditions or \"divisions\": schisms and factions, dissensions in things domestic, civil, and religious:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill does not say when separation or dissent is justified. Do not treat every departure or protest as sedition.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|strife",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "strife",
+    "kind": "vice",
+    "rubric_v1_gloss": "strife or \"strifes\"; perpetual contradictions and cavilings, either expressed by words, or working in the mind; for this strife may be in a man's heart",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'strife' ('strifes'); Gill: perpetual contradictions and cavilings, in words or in the heart.",
+    "teaching": [
+      {
+        "quote": "**strife or \"strifes\"; perpetual contradictions and cavilings, either expressed by words, or working in the mind; for this strife may be in a man's heart**, according to James 3:14",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill's 'perpetual' indicates a pattern of cavilling. Ordinary disagreement is not strife.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|temperance",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "temperance",
+    "kind": "virtue",
+    "rubric_v1_gloss": "temperance, or \"continence\"; and designs both chastity and sobriety, and particularly moderation in eating and drinking.",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's final fruit; Gill: continence, chastity, sobriety, moderation in eating and drinking.",
+    "teaching": [
+      {
+        "quote": "**temperance, or \"continence\"; and designs both chastity and sobriety, and particularly moderation in eating and drinking.** ... and temperance [is opposed] to adultery, fornication, uncleanness, lasciviousness, drunkenness, and revellings.",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      },
+      {
+        "quote": "by the flesh is meant, not the natural body to be macerated and afflicted with fastings, watchings, &c. but the corruption of nature",
+        "citation": "Gill, Galatians5:24, Exposition1746–63"
+      }
+    ],
+    "limits": "Do not infer bodily mortification or total abstinence. Gill denies that 'flesh' means the natural body.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|uncleanness",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "uncleanness",
+    "kind": "vice",
+    "rubric_v1_gloss": "uncleanness, it is a general name for all unchastity, in thought, word, or action; and may here design more especially all unnatural lusts, as sodomy, self-pollution, &c.",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'uncleanness'; Gill: all unchastity in thought, word or action, especially 'unnatural lusts'.",
+    "teaching": [
+      {
+        "quote": "**uncleanness, it is a general name for all unchastity, in thought, word, or action**; and may here design more especially all unnatural lusts, as sodomy, self-pollution, &c.",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill's 'unnatural lusts' examples are his reading. No thought-consent doctrine is supplied, so do not invent one.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|variance",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "variance",
+    "kind": "vice",
+    "rubric_v1_gloss": "variance, or \"contentions\"; fighting and quarrelling, by words scandalous and reproachful, what we commonly call scolding:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'variance' ('contentions'); Gill: quarrelling with reproachful words, scolding.",
+    "teaching": [
+      {
+        "quote": "**variance, or \"contentions\"; fighting and quarrelling, by words scandalous and reproachful, what we commonly call scolding:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill specifies reproachful quarrelling. Honest disagreement without reproach is not established as variance.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|witchcraft",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "witchcraft",
+    "kind": "vice",
+    "rubric_v1_gloss": "witchcraft; any real or pretended league and association with the devil, seeking to converse with familiar spirits, to gain unlawful knowledge, or to do hurt to fellow creatures; which, as it is doing honour to Satan, detracts from the glory of God, and rightly follows idolatry; conjuration, soothsaying, necromancy, and all kind of magic are included and condemned hereby:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'witchcraft'; Gill: real or pretended league with the devil, including all magic.",
+    "teaching": [
+      {
+        "quote": "witchcraft; **any real or pretended league and association with the devil, seeking to converse with familiar spirits, to gain unlawful knowledge, or to do hurt to fellow creatures**; which, as it is doing honour to Satan, detracts from the glory of God, and rightly follows idolatry; conjuration, soothsaying, necromancy, and all kind of magic are included and condemned hereby:",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill's 'all kind of magic' is broad. Whether stage illusion without any claimed spirit counts is unresolved; no precise ritual rule is supplied.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "christian|works_of_flesh_fruit_of_spirit|wrath",
+    "tradition": "christian",
+    "list_key": "works_of_flesh_fruit_of_spirit",
+    "list_name": "Works of the flesh and fruit of the Spirit (Galatians 5:19-23)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "wrath",
+    "kind": "vice",
+    "rubric_v1_gloss": "wrath or \"wraths\" violent emotions of the mind, moving to revenge, and seeking the hurt and mischief of others:",
+    "rubric_version": "v2",
+    "rubric_sha256": "ddd81306f07001d5376badf3a03073f6e6044bb124dc588f8c1b9a50dc6c9c70",
+    "source_scope": "Paul's 'wrath' ('wraths'); Gill: violent emotions moving to revenge and seeking others' hurt.",
+    "teaching": [
+      {
+        "quote": "**wrath or \"wraths\" violent emotions of the mind, moving to revenge, and seeking the hurt and mischief of others:**",
+        "citation": "Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)"
+      }
+    ],
+    "limits": "Gill does not condemn all displeasure; his definition centres on revenge and seeking hurt.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

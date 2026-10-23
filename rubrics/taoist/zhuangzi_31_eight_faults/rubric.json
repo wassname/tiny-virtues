@@ -1,0 +1,238 @@
+[
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Calumny",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Calumny",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To delight in talking about other men's failings is called calumny.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.).",
+    "teaching": [
+      {
+        "quote": "… To delight in talking about other men’s failings is called calumny. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The marker is delight, not falsehood. Watson’s “calumny” should not be read as requiring slander.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Flattery",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Flattery",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To speak without regard for what is right or wrong is called flattery.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.).",
+    "teaching": [
+      {
+        "quote": "… To speak without regard for what is right or wrong is called flattery. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The fault is speech unmoored from right and wrong, not praise as such. It overlaps with treachery’s “without thought for right or wrong.”",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Maliciousness",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Maliciousness",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To break up friendships and set kinfolk at odds is called maliciousness.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.).",
+    "teaching": [
+      {
+        "quote": "… To break up friendships and set kinfolk at odds is called maliciousness. … These eight faults inflict chaos on others and injury on the possessor.",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The fault requires an agent who divides people. The source gives no motive requirement and no exceptions.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Obsequiousness",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Obsequiousness",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To rush forward when no one has nodded in your direction is called obsequiousness.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.): the stranger’s definition, spoken to Confucius.",
+    "teaching": [
+      {
+        "quote": "… To rush forward when no one has nodded in your direction is called obsequiousness. … These eight faults inflict chaos on others and injury on the possessor.",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The source gives only a one-sentence definition, and gives no reason for the nod requirement. Ordinary deference is not resistance.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Officiousness",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Officiousness",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To do what it is not your business to do is called officiousness.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "The fisherman’s lesson to Confucius in Zhuangzi 31 (Watson tr., disputed chapter): eight faults, with role context.",
+    "teaching": [
+      {
+        "quote": "“Moreover, there are eight faults that men may possess … To do what it is not your business to do is called officiousness. … These eight faults inflict chaos on others and injury on the possessor.",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      },
+      {
+        "quote": "When officials attend to their duties and men worry about their undertakings, there is no overstepping of the mark. … Now on the higher level, you do not hold the position of a ruler, a feudal lord, or a chancellor, and on the lower level, you have not been assigned to the office of a high minister with its tasks and duties. Yet you presume to ‘bring a beautiful order to rites and music, … ’ This is undertaking rather a lot, isn’t it?",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The fault turns on business that is not one’s own. Helping when one is asked, or acting within one’s role, is not evidence of it.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Sycophancy",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Sycophancy",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To echo a man's opinions and try to draw him out in speech is called sycophancy.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.): a fault of speech and service.",
+    "teaching": [
+      {
+        "quote": "… To echo a man’s opinions and try to draw him out in speech is called sycophancy. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "Agreement alone is not this fault. The source does not explain why the echoer draws the other out.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Treachery",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Treachery",
+    "kind": "vice",
+    "rubric_v1_gloss": "“Without thought for right or wrong, to try to face in two directions at once so as to steal a glimpse of the other party's wishes is called treachery.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.): two-faced probing, not every betrayal.",
+    "teaching": [
+      {
+        "quote": "… Without thought for right or wrong, to try to face in two directions at once so as to steal a glimpse of the other party’s wishes is called treachery. These eight faults inflict chaos on others and injury on the possessor.",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "Watson’s “treachery” is technical. It overlaps with flattery’s disregard of right and wrong.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_eight_faults|Wickedness",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_eight_faults",
+    "list_name": "Zhuangzi's eight faults (八疵, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Wickedness",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To praise falsely and hypocritically so as to cause injury and evil to others is called wickedness.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "0063fab8d8c537908a3c78a3121761b8452a7497bd43036cc8e9d50bf57f72ea",
+    "source_scope": "Zhuangzi 31 eight faults (Watson tr.): a defined term, not any immoral act.",
+    "teaching": [
+      {
+        "quote": "… To praise falsely and hypocritically so as to cause injury and evil to others is called wickedness. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The term is narrow, unlike generic English “wickedness.” Harm done without false praise belongs elsewhere.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

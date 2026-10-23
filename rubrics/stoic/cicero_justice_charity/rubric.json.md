@@ -1,0 +1,269 @@
+# Stoic: Justice and charity, the two divisions of the social virtue (Cicero, De Officiis 1.20)
+
+## charity
+
+Cicero (an Academic, following the Stoic Panaetius): Cicero's kindness or generosity: doing good that harms no one, stays within one's means, and fits the recipient's worth.
+
+> ...we must, in the first place, see to it that our act of kindness shall not prove an injury either to the object of our beneficence or to others; in the second place, that it shall not be beyond our means; and finally, that it shall be proportioned to the worthiness of the recipient; for this is the corner-stone of justice... For those who confer a harmful favour upon someone whom they seemingly wish to help are to be accounted not generous benefactors but dangerous sycophants...
+> 
+> ... We must, therefore, take care to indulge only in such liberality as will help our friends and hurt no one. The conveyance of property by Lucius Sulla and Gaius Caesar from its rightful owners to the hands of strangers should, for that reason, not be regarded as generosity; **for nothing is generous if it is not at the same time just.**
+
+Cicero, On Duties 1.42-43, trans. Miller (1913)
+
+Charity is positive help measured by justice. It is not every pleasant act, and not religious faith.
+
+<details>
+<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
+
+Full passage:
+Once on a time, when Brahmadatta was king of Benares, the Bodhisatta was born a brahmin. When he came of age he embraced the religious life.
+
+He came down from Himalaya to get salt and seasoning, and next day walked the city, begging alms. A certain wealthy man designed to annoy the ascetic. So he brought him to his
+
+dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said,
+
+"This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!" And he repeated the first stanza:--
+
+"The wicked kills, and cooks, and gives to eat:
+
+He is defiled with sin that takes such meat." On hearing this, the Bodhisatta recited the second stanza:--
+
+"The wicked may for gift slay wife or son,
+
+Yet, if the holy eat, no sin is done."
+
+...
+
+And the Bodhisatta with these words of instruction rose from his seat and departed.
+
+Favour designed to harm the recipient morally; Cicero calls harmful favours sycophancy, not generosity.
+
+</details>
+
+<details>
+<summary>Arcesilaus — Some evidence that the conduct shows this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+Without his knowledge, Arcesilaus put a purse under his pillow so that the man, whose modesty worked to his own disadvantage, should simply discover what he needed rather than receive it.
+
+Full passage:
+Sometimes you must even deceive the beneficiary, so that he receives the benefit but does not know who gave it. They say that Arcesilaus decided that he should give secret assistance to a friend of his who was poor but tried to conceal his poverty. The friend was ill and hid this fact too, but lacked the money he needed for basic expenses. Without his knowledge, Arcesilaus put a purse under his pillow so that the man, whose modesty worked to his own disadvantage, should simply discover what he needed rather than receive it. ... First of all, it is acceptable for him [Arcesilaus's friend] not to know, if that ignorance is itself part of the gift. ... Finally, he [Arcesilaus's friend] may not know that he received a gift, but I [the giver] will know that I gave it. "But that's not enough!" you say. It is not enough if you are planning to lend the money; but if you are planning to give it, then you will give it in the way that does most good for the recipient. You will be satisfied to be your own witness in the matter. Otherwise, the satisfaction doesn't come from granting the benefit but from being seen to have done it. ... I [the giver] will not deny that as often as it is possible one should feel satisfaction at the attitude of the recipient.
+
+Helps a worthy friend in need, harms no one; means unstated but not adverse. Fits Cicero's just kindness to friends.
+
+</details>
+
+<details>
+<summary>king Vessantara — Neither direction is established by the described conduct.</summary>
+
+Selected act or disposition (quoted from the passage):
+gave away whatsoever is in the world considered most difficult to bestow
+
+Full passage:
+He [king Vessantara] had given up, O king, the caring for himself, and devoted himself thenceforth to caring for others alone. His mind was fixed immovably on the thought: “How can I make all beings to be at peace, healthy, and wealthy, and long lived ?” ... he [king Vessantara] gave not for the sake of rebirth in any glorious state, he gave not for the sake of wealth, nor of receiving gifts in return, nor of flattery, nor of long life for himself, nor of high birth, nor of happiness, nor of power, nor of fame, nor of offspring either of daughters or of sons—but it was for the sake of supreme wisdom and of the treasure thereof that he gave gifts so immense, so immeasurable, so unsurpassed. It was when he had attained to that supreme wisdom that he uttered the verse :
+
+“Gâli, my son, and the Black Antelope,
+
+My daughter, and my queen, my wife, Maddi,
+
+I gave them all away without a thought—
+
+And ’twas for Buddhahood I did this thing.’”
+
+... king Vessantara gave away whatsoever is in the world considered most difficult to bestow ... And there was never another giving, O king, which had such power as that generosity of the great king Vessantara. ... And it was on the giving of [king Vessantara’s gift], O king, that the broad earth shook seven times.
+
+Giving away wife and children risks injury to them and others; Cicero requires no harm and justice.
+
+</details>
+
+<details>
+<summary>someone [an indiscriminate giver] — Some evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+gives a benefit to just anybody
+
+Full passage:
+If someone [an indiscriminate giver] gives a benefit to just anybody, then it is appreciated by no one. No one thinks of himself as the personal guest of the innkeeper or tavern keeper, nor the companion of the man who gives a public feast. In those cases one [a recipient] can legitimately say, "Well, what has he given to me? Just this, I guess: exactly what he also gave to the person he hardly knows and even to his enemies and the most dishonorable of people. Surely you do not think he judged me worthy of anything, do you? He was only indulging his vice." If you want something to be appreciated, make it rare. No one minds being in debt on those terms. But no one should think that I [Seneca] am reducing generosity and keeping it on a tight leash. Let generosity go as far as it likes-but it should go and not just wander around. One may spread it around, but only in such a way that each and every recipient feels that he is not just one of the crowd, even if he has received the gift along with many others. ... In fact I do not impose obstacles to the giving of benefits. The more and the greater they are, the more praise they bring to the giver. But let there be some exercise of good judgment. After all, things given haphazardly and recklessly will not endear themselves to anyone.
+
+Giving to enemies and dishonorable people ignores Cicero's requirement of proportion to recipient worth.
+
+</details>
+
+<details>
+<summary>a prince — Neither direction is established by the described conduct.</summary>
+
+Selected act or disposition (quoted from the passage):
+He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
+
+Full passage:
+A prince inherited immense riches by succeeding to his father. He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people. "The brain will not be perfumed by a censer of green aloes-wood; place it over the fire that it may diffuse fragrance like ambergris. If ambitious of a great name, make a practice of munificence, for the crop will not shoot till thou shalt sow the seed."
+
+A narrow-minded courtier began to admonish him, saying, "Verily, former sovereigns have collected this wealth with scrupulosity and stored it advisedly. Check your hand in this waste, for accidents wait ahead, and foes lurk behind. God forbid that you should want it on a day of need.--Wert thou to distribute the contents of a granary among the people, every master of a family might receive a grain of rice; why not exact a grain of silver from each, that thou mightest daily hoard a chamber full of treasure?"
+
+The prince turned his face aside from this speech, so contrary to his own lofty sentiments, and harshly reprimanded him, saying, "A great and glorious God made me sovereign of this property, that I might enjoy and spend it; and posted me not a sentinel, to hoard and watch over it.--Carown perished, who possessed forty magazines of treasure; Nushirowan died not, who left behind him a fair reputation."
+
+Indiscriminate largesse, possibly imprudent for the state's means and unproportioned to worth; it is harmless but its glory motive is criticized in Cicero.
+
+</details>
+
+<details>
+<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
+
+Full passage:
+Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
+
+Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.
+
+And when he had begun to reckon, one [a servant] was brought unto him, which owed him ten thousand talents.
+
+But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.
+
+The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.
+
+Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.
+
+But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest.
+
+And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.
+
+And he would not: but went and cast him into prison, till he should pay the debt.
+
+So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.
+
+Then his lord [the king], after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me: Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee? And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
+
+So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.
+
+Cicero measures kindness by justice, and collecting a just debt is not itself injustice. The recipient's worth is unknown, which by the guide's limits is not adverse. But choking the debtor and refusing patience shows no kindness at all. Some conflict, with substantial neither.
+
+</details>
+
+Limits: If a scene leaves means or recipient worth unknown, that uncertainty is not adverse evidence.
+
+## justice
+
+Cicero, following Panaetius: justice is the leading social virtue. It means no unprovoked harm, right use of common and private property, and good faith.
+
+> ...justice, in which is the crowning glory of the virtues and on the basis of which men are called “good men”...
+> 
+> **The first office of justice is to keep one man from doing harm to another, unless provoked by wrong; and the next is to lead men to use common possessions for the common interests, private property for their own.** ... each one should retain possession of that which has fallen to his lot; and if anyone appropriates to himself anything beyond that, he will be violating the laws of human society.
+
+Cicero, On Duties 1, trans. Miller (1913)
+
+> **The foundation of justice, moreover, is good faith; — that is, truth and fidelity to promises and agreements.**
+
+Cicero, On Duties 1, trans. Miller (1913)
+
+> ...first, that no harm be done to anyone; second, that the common interests be conserved. When these are modified under changed circumstances, moral duty also undergoes a change... **Promises are, therefore, not to be kept, if the keeping of them is to prove harmful to those to whom you have made them; and, if the fulfilment of a promise should do more harm to you than good to him to whom you have made it, it is no violation of moral duty to give the greater good precedence over the lesser good.**...
+
+Cicero, On Duties 1, trans. Miller (1913)
+
+Good faith is foundational, but it is governed by the no-harm and common-interest principles.
+
+<details>
+<summary>the Fox — Clear evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
+
+Full passage:
+THE ASS and the Fox, having entered into partnership together for their mutual protection, went out into the forest to hunt. They had not proceeded far when they met a Lion. The Fox, seeing imminent danger, approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it. The Lion, seeing that the Ass was secured, immediately clutched the Fox, and attacked the Ass at his leisure.
+
+Unprovoked harm to partner and breach of partnership good faith; fear-motivated wrong Cicero names.
+
+</details>
+
+<details>
+<summary>Tsze-sze — Some evidence that the conduct shows this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
+
+Full passage:
+When Tsze-sze was living in Wei, there came plunderers from Ts'e. Some one said to him, "The plunderers are coming ; why not leave this ?" [But] Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?" ... Mencius said, "Tsang-tsze and Tsze-sze agreed in the principle of their conduct. Tsang-tsze was a teacher; — in the position of a father or elder brother. Tsze-sze was a minister ; — in a meaner position. If they could have exchanged places, each would have done what the other did."
+
+Staying to shield the city from plunderers is opposing wrong and keeps faith with his ruler.
+
+</details>
+
+<details>
+<summary>the son — Neither direction is established by the described conduct.</summary>
+
+Selected act or disposition (quoted from the passage):
+If a father has stolen a sheep, the son will give evidence against him.
+
+Full passage:
+The Duke of Sheh in a conversation with Confucius said, "There are some straightforward persons in my neighborhood. If a father has stolen a sheep, the son will give evidence against him."
+
+"Straightforward people in my neighborhood are different from those," said Confucius. "The father will hold a thing secret on his son's behalf, and the son does the same for his father. They are on their way to becoming straightforward."
+
+Truth and opposing wrong support justice; harm to parent and duty to family complicate.
+
+</details>
+
+<details>
+<summary>a slave — Some evidence that the conduct shows this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
+
+Full passage:
+If I [Seneca] show you someone [a slave] who has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty, will you deny that he has conferred a benefit on his master, just because he is a slave? Instead, consider whether perhaps the relative scarcity of instances of virtue among slaves actually makes them more significant; for generally speaking, being under someone's command is hateful and compulsion is always unpleasant, yet in some slaves affection for their masters overcomes the universal hatred of servitude. So far from it not being a benefit because it came from a slave, in fact it is an even greater benefit because not even slavery could discourage him.
+
+Good faith, fidelity to trust, is the foundation of justice; he keeps it against bribes and torture, shielding master from a tyrant.
+
+</details>
+
+<details>
+<summary>Marcus Crassus and Quintus Hortensius — Clear evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
+
+Full passage:
+Certain individuals brought from Greece to Rome a forged will, purporting to be that of the wealthy Lucius Minucius Basilus. The more easily to procure validity for it, they made joint-heirs with themselves two of the most influential men of the day, Marcus Crassus and Quintus Hortensius. Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others. What shall we say, then? Is this excuse competent to acquit them of guilt? I [Cicero] cannot think so, although I loved the one while he lived, and do not hate the other now that he is dead. Be that as it may, Basilus had in fact desired that his nephew Marcus Satrius should bear his name and inherit his property, (I refer to the Satrius who is the present patron of Picenum and the Sabine country — and oh, what a shameful stigma it is upon the times!) And therefore it was not right that two of the leading citizens of Rome should take the estate and Satrius succeed to nothing except his uncle’s name. For if he does wrong who does not ward off and repel injury when he can — as I explained in the course of the First Book — what is to be thought of the man who not only does not try to prevent wrong, but actually aids and abets it?
+
+Both offices of justice are breached: they took property beyond their own lot, and they failed to prevent a wrong they could have prevented. The source's provocation qualifier does not apply.
+
+</details>
+
+<details>
+<summary>the husbandmen — Clear evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
+
+Full passage:
+Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country: And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.
+
+And the husbandmen took his servants, and beat one, and killed another, and stoned another.
+
+Again, he sent other servants more than the first: and they did unto them likewise.
+
+But last of all he sent unto them his son, saying, They will reverence my son.
+
+But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.
+
+And they caught him, and cast him out of the vineyard, and slew him.
+
+When the lord therefore of the vineyard cometh, what will he do unto those husbandmen? They [the chief priests and Pharisees] say unto him [Jesus], He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.
+
+Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes? Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.
+
+And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.
+
+And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.
+
+But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.
+
+The servants came only to collect the agreed fruits, so the harm was unprovoked. The husbandmen also seized private property and broke good faith with their landlord.
+
+</details>
+
+Limits: The provocation qualifier is the source's own; it does not license unconditional pacifism or all conquest. The excused advocate (1.32) shows no breach, not positive justice.

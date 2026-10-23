@@ -1,0 +1,201 @@
+[
+  {
+    "id": "confucian|mencius_five_unfilial|Following the desires of one's ears and eyes",
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Following the desires of one's ears and eyes",
+    "kind": "vice",
+    "rubric_v1_gloss": "\"following the desires of one's ears and eyes, so as to bring one's parents to disgrace\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "5e606d41aea8d457f1d72dd3e5d5dae4e263e95409234116efd5b62898413d62",
+    "source_scope": "Mencius 4B30: following sensual desires so as to bring disgrace on one's parents.",
+    "teaching": [
+      {
+        "quote": "...**The fourth is following the desires of one's ears and eyes, so as to bring one's parents to disgrace.**",
+        "citation": "Mencius 4B30 (離婁下), Legge, The Works of Mencius (1875 revised ed.)"
+      },
+      {
+        "explanation": "The vice requires disgrace to the parents. Sight, hearing and enjoyment are not themselves the vice."
+      }
+    ],
+    "limits": "No genuine source-supported intermediate scene was found. Legge's conjectures about Chang-tsze are excluded.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "confucian|mencius_five_unfilial|Fondness for bravery, fighting and quarrelling",
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Fondness for bravery, fighting and quarrelling",
+    "kind": "vice",
+    "rubric_v1_gloss": "\"being fond of bravery, fighting and quarrelling, so as to endanger his parents\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "5e606d41aea8d457f1d72dd3e5d5dae4e263e95409234116efd5b62898413d62",
+    "source_scope": "Mencius 4B30: love of bravery, fighting or quarrelling that endangers one's parents.",
+    "teaching": [
+      {
+        "quote": "...**The fifth is being fond of bravery, fighting and quarrelling, so as to endanger his parents.**",
+        "citation": "Mencius 4B30 (離婁下), Legge, The Works of Mencius (1875 revised ed.)"
+      },
+      {
+        "explanation": "The vice requires endangering the parents. Courage itself is not the vice."
+      }
+    ],
+    "limits": "Legge's commentary on K'wang Chang's military career is not narrative evidence. This is the popular list only.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "confucian|mencius_five_unfilial|Fondness for goods and money and selfish attachment to wife and children",
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Fondness for goods and money and selfish attachment to wife and children",
+    "kind": "vice",
+    "rubric_v1_gloss": "\"being fond of goods and money, and being selfishly at- tached to one's wife and children, so as not to attend to the maintenance of one's parents\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "5e606d41aea8d457f1d72dd3e5d5dae4e263e95409234116efd5b62898413d62",
+    "source_scope": "Mencius 4B30: fondness for wealth and selfish attachment to wife and children that neglects parents.",
+    "teaching": [
+      {
+        "quote": "**third is being fond of goods and money, and being selfishly attached to one's wife and children, so as not to attend to the maintenance of one's parents.**",
+        "citation": "Mencius 4B30 (離婁下), Legge, The Works of Mencius (1875 revised ed.)"
+      },
+      {
+        "explanation": "\"Selfishly\" and neglect are both required. Saving for wife or children is not itself the vice."
+      }
+    ],
+    "limits": "Do not drop the consequence clause. Love of family and saving are not the vice.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "confucian|mencius_five_unfilial|Gambling, chess-playing and fondness for spirits",
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Gambling, chess-playing and fondness for spirits",
+    "kind": "vice",
+    "rubric_v1_gloss": "\"gambling and chess-playing, and being fond of spirits, so as not to attend to the maintenance of one's parents\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "5e606d41aea8d457f1d72dd3e5d5dae4e263e95409234116efd5b62898413d62",
+    "source_scope": "Mencius 4B30: gambling, chess or drink that leads to neglect of parents' maintenance.",
+    "teaching": [
+      {
+        "quote": "\"The second is ... **gambling and chess-playing, and being fond of spirits, so as not to attend to the maintenance of one's parents.**\"",
+        "citation": "Mencius4B30, tr. Legge1875, pp267–268: common list and Chang-tsze"
+      },
+      {
+        "explanation": "The vice requires neglect of maintenance. Merely not gambling is not resistance."
+      }
+    ],
+    "limits": "Chess or wine alone is not the listed vice. This is the common-parlance list only.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "confucian|mencius_five_unfilial|Laziness in the use of one's four limbs",
+    "tradition": "confucian",
+    "list_key": "mencius_five_unfilial",
+    "list_name": "Five unfilial things (不孝者五, Mencius 4B30)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Laziness in the use of one's four limbs",
+    "kind": "vice",
+    "rubric_v1_gloss": "\"laziness in the use of one's four limbs, so as not to attend to the maintenance of his parents\"",
+    "rubric_version": "v2",
+    "rubric_sha256": "5e606d41aea8d457f1d72dd3e5d5dae4e263e95409234116efd5b62898413d62",
+    "source_scope": "Mencius 4B30 common-parlance list: limb-laziness that leaves parents unmaintained.",
+    "teaching": [
+      {
+        "quote": "\"There are five things which in the common parlance of the age are said to be unfilial. **The first is laziness in the use of one's four limbs, so as not to attend to the maintenance of his parents.**\"",
+        "citation": "Mencius4B30, tr. Legge1875, pp267–268: common list and Chang-tsze"
+      },
+      {
+        "explanation": "The consequence clause is part of the item. Inactivity alone, or illness, is not the vice."
+      }
+    ],
+    "limits": "This is a popular list, not the whole of filial doctrine. Illness and rest are not culpable laziness.",
+    "examples": [
+      {
+        "agent": "Mrs. She",
+        "story": "Selected act or disposition (quoted from the passage):\nShe took refuge with a neighbour, spun from dawn until dark, and [with the proceeds of her labor] frequently bought nice vegetables, which she sent to her mother-in-law by the neighbour [as if gifts from the neighbour herself].\n\nFull passage:\nKiting She was a filial son, and his wife [Mrs. She] joined him in serving his mother with diligence. The old lady liked to drink river-water, and often Mrs. She went out against a strong current and drew this water. Once she met a head-wind and was later than usual in returning. Consequently the mother-in-law grew very thirsty, and She angrily rebuked his wife, and ... drove her from the house. She took refuge with a neighbour, spun from dawn until dark, and [with the proceeds of her labor] frequently bought nice vegetables, which she sent to her mother-in-law by the neighbour [as if gifts from the neighbour herself]. This went on for sometime, until the old lady was so astonished [at the repeated attentions] that the woman told her the truth. This touched the heart of the mother-in-law, and made her ... feel so ashamed of herself that she sent for her daughter-in-law to come home.\n\nThe old lady was fond of fish-salad, and her son and daughter often worked hard to obtain it. One day there burst forth suddenly by the side of their cottage a fountain of sweet water, like the river-water, and from the midst of this fountain there arose every day a pair of carp [so water and fish were easily obtained], and the neighbours believed that the gods worked this miracle to reward the filial piety of the man and his wife.",
+        "reason": "Used her limbs from dawn to dark to maintain her mother-in-law even after expulsion: direct resistance to the vice.",
+        "evidence_level": "Clear evidence that the conduct resists this vice."
+      },
+      {
+        "agent": "NIta",
+        "story": "Selected act or disposition (quoted from the passage):\nSo he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.\n\nFull passage:\nReborn in this Buddha-age at SavatthI as the son of a brahmin, he [NIta] was called NIta. When grown up he thought: ‘These Sakiyan recluses are very lucky in that they are well provided with all necessaries. It is a happy life, that of a member of the Order.’ So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long. But the Master discerned the ripeness of his antecedents, and gave him this verse in admonition:\n\nThou all the night to slumber given o’er,\nWho lov’st the day ’mid chattering crowds to spend: —\nDost deem that thou this way at any time,\nPoor silly fool, of Ill shalt make an end?\n\nAgitated by the Master’s words, he settled to develop insight, and not long after attained arahantship. He then confessed anna in repeating this verse.",
+        "reason": "Forward: The item includes a consequence clause: the laziness must result in failing to maintain one's parents. The story shows bodily and spiritual sloth but says nothing about NIta's parents, whether they needed support, or whether his idleness deprived them. Laziness without that consequence is not this vice. Neither direction is established. I keep a small weight on 'some evidence' because a son who joins an order for comfort could be read as neglecting family duties, but that is speculation. Reverse: The laziness half of the item is clearly present. But the guide says the consequence clause is part of the item and that inactivity alone is not the vice. The case gives no evidence about his parents' maintenance. As a brahmin's son, they may well not have needed it, though that is speculation. Leaving home to join the Order is not described as abandoning anyone. So neither direction is established. A small weight on 'some conflict' allows for readers who infer that an idle son who has left home neglects his parents.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "One of the Dukes of Chow",
+        "story": "Selected act or disposition (quoted from the passage):\nput down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.\n\nFull passage:\nOne of the Dukes of Chow put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business. ... He [one of the Dukes of Chow] saw more than seventy persons in a single day. His diligence fitted him to be the first man in the kingdom, and his friends were worthy men.",
+        "reason": "Forward: He is active, not lazy, but the passage says nothing about his parents or their maintenance. The guide says the consequence clause is part of the item. Without any parental context, neither direction is established. I put a slight lean toward resistance only because he is evidently not lazy in general.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "Dhananjani",
+        "story": "Selected act or disposition (quoted from the passage):\nHe uses the king to fleece the brahmins and householders, and uses them to fleece the king.\n\nFull passage:\nAnd is the brahmin [Dhananjani] zealous and earnest ?—asked Sariputta further of the Almsman.\n\nHow could earnest zeal possibly dwell in Dhananjani? He uses the king to fleece the brahmins and householders, and uses them to fleece the king. Also, his pious wife who came of a pious stock is dead now ; and he has taken to himself another wife who is not pious and comes of no pious stock.\n\n...\n\nSaid Sariputta:—-May I rest assured, Dhananjani, that zeal and earnestness are yours ?\n\nHow can that be, when I have to support my parents, my wife and family, and my slaves and serving folk; and have to entertain my acquaintances and friends, my kith and kin, and guests, and have also to provide for my kinsfolk dead and gone, and for the deities, and for the king,—not to speak of supporting myself in meat and drink?\n\n...\n\nWhat think you, Dhananjani? Which is the better man?—He that for the sake of his parents departs from righteousness and equity? Or he that for their sake walks in righteousness and equity ?\n\nThe latter. For, to walk in righteousness and equity is better than to depart therefrom.\n\nMoreover, Dhananjani, there are other courses of action which are justified and righteous in themselves, whereby he can support his parents and yet avoid evil-doing and walk uprightly. Now, does the same reasoning apply to the support of wife and family, ... and everything else ?\n\nIt does, Sariputta.",
+        "reason": "He supports his parents, though unjustly; not limb-laziness leaving parents unmaintained per .",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "Somamitta",
+        "story": "Selected act or disposition (quoted from the passage):\nwent  to  Kassapa  the  Great, ... attending  his  lectures,\n\nFull passage:\nReborn in this Buddha-age at Benares, in a brahmin’s family and named Somamitta, he became an expert in the three Vedas, but was converted by the Thera Vimala and took orders. He dwelt near the Thera, fulfilling his duties. But the latter was given to sloth and torpor. And Somamitta, thinking ‘Who can be virtuous near a sluggard?’ ... went to Kassapa the Great, and attending his lectures, established insight, and soon after attained arahantship. Thereupon he rebuked Vimala in these verses:\n\nAs one who, mounted on a puny plank,\nIs in mid-ocean whelm’d beneath the waves,\nSo even he of blameless life doth sink,\nWhen thrown together with the man of sloth;\nWherefore from such an one keep well apart\nThe sluggard and the poor in energy.\n\nDwell thou with them who live aloof,\nWith wise, with noble souls who have renounced,\nWho in rapt contemplation ever strive.\n\nHearing him, Thera Vimala was deeply moved, and establishing insight, bestirred himself to win salvation, the which he will be seen hereafter to attain.",
+        "reason": "No parents or maintenance involved; item not engaged.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      },
+      {
+        "agent": "the people",
+        "story": "Selected act or disposition (quoted from the passage):\nImmediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.\n\nFull passage:\nBut nowadays any one can excite the people by saying, \"In such and such a place there is a Sage.\"\n\nImmediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length. Such is the evil effect of an exaggerated desire for knowledge among our rulers. And if rulers aim at knowledge and neglect TAO, the empire will be overwhelmed in confusion.",
+        "reason": "The consequence, neglecting parents, is present, but the cause is eager pursuit, not limb-laziness. This item specifically requires laziness, so the evidence is weak.",
+        "evidence_level": "Neither direction is established by the described conduct."
+      }
+    ],
+    "example_scale": "Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.",
+    "status": {
+      "tested_groups": [
+        "diligence"
+      ],
+      "real_story_examples": true,
+      "source_status": "reviewed_development",
+      "production_teaching": "source quotations and own real-story examples"
+    }
+  }
+]

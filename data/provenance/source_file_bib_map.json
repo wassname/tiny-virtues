@@ -1,0 +1,1731 @@
+{
+  "author": "PI/Sol",
+  "mapping": [
+    {
+      "source_name": "Delphi Complete Works of Cicero - Cicero.txt",
+      "bibkey": "miller1913the",
+      "additional_bibkeys": [],
+      "source_sha256": "87459a3ae8db9e97da8abe55480bb8556f291a305a45804d320d27e950f1a62f"
+    },
+    {
+      "source_name": "Stoic Six Pack 2 - Consolations From A Sto - Seneca.txt",
+      "bibkey": "2015stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "c337fa8e20575b79650ede0a5fda1a08e58d5e337638b3cf027b2ab7ed478526"
+    },
+    {
+      "source_name": "26120186eeb8b89e.txt",
+      "bibkey": "hicks1925diogenesBookVII",
+      "additional_bibkeys": [],
+      "source_sha256": "465c25229f10f18a15be6c7c2de7a8ae3ab53f9d7b9e67e3a0b4e2f8b2acffd9"
+    },
+    {
+      "source_name": "plutarch_shilleto_1888_morals.txt",
+      "bibkey": "shilleto1898plutarchs",
+      "additional_bibkeys": [],
+      "source_sha256": "44a89a486fa3d5f3201ef44a7bd3d636662d427fee95197cbfbcad280354a5fa"
+    },
+    {
+      "source_name": "Stoic-Week-2012-Live-Like-a-Stoic-IA-mirror.txt",
+      "bibkey": "modernstoicism2012living",
+      "additional_bibkeys": [],
+      "source_sha256": "47b9980135321fedb3b294442960036fe29201c0084936ea6efc5ba058c32aac"
+    },
+    {
+      "source_name": "Stoic-Week-2015-Handbook-Stoicism-Today.txt",
+      "bibkey": "modernstoicism2015stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "0b4fbc7e7711e074fc8309baa461109acc42119e762aaa5b0113f828fcf60643"
+    },
+    {
+      "source_name": "Stoic-Week-2016-Handbook-Stoicism-Today.txt",
+      "bibkey": "2016the",
+      "additional_bibkeys": [],
+      "source_sha256": "7bc917e3e90c3ce944134a368ee2c3a41011c02933460cc7eef8c83bba387d33"
+    },
+    {
+      "source_name": "Stoic-Week-2020-Intro-to-Stoicism.txt",
+      "bibkey": "2020introduction",
+      "additional_bibkeys": [],
+      "source_sha256": "2172442712901f4a38ce6cf5a00ba09c523f63808541b51f87163259c8f6959a"
+    },
+    {
+      "source_name": "Stoic-Week-for-Schools_Instructors-Guide.txt",
+      "bibkey": "polat2021stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "ff6bd4a872c230ed6f20dbe50dc575eacfa8ec913ade77a7cd4e025fa381a5e0"
+    },
+    {
+      "source_name": "Stoic-Week-for-Students-Handbook.txt",
+      "bibkey": "modernstoicism2022stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "795da414528907eb249e1aed93e3f91d70f728edd17e5f08efdb4897e69dbce1"
+    },
+    {
+      "source_name": "Stoic_Week_2013_Handbook.txt",
+      "bibkey": "2013the",
+      "additional_bibkeys": [],
+      "source_sha256": "5dc379618a986e7bfa9f808bcfe9b7160f3ca2ba494ca2a77c08e8737579158d"
+    },
+    {
+      "source_name": "Stoic_Week_2014_Handbook.txt",
+      "bibkey": "2014the",
+      "additional_bibkeys": [],
+      "source_sha256": "c4e6741d255dc26bc1b4ddfbe1f3ded9d806e7eaf90cdd0a8912e43547a3fda8"
+    },
+    {
+      "source_name": "Stoic_Week_2018_Handbook.local-library.md",
+      "bibkey": "modernstoicism2018stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "628b62a8ebd5b72fb41a66c37105c059816aa2d38b39a58871d843fe0615c1d1"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v2_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhistb",
+      "additional_bibkeys": [],
+      "source_sha256": "def2710563787888ee5aaa064371203a7e87651f3908cee0ff9c54c279588af5"
+    },
+    {
+      "source_name": "mencius_legge1875_archive_ocr.txt",
+      "bibkey": "legge1875the",
+      "additional_bibkeys": [],
+      "source_sha256": "988b01d959178ddb2f2772c9c3ac320b78f2b1b4c2651715fa268abe7371c45d"
+    },
+    {
+      "source_name": "cfu_xunzi_hutton2014.txt",
+      "bibkey": "hutton2014xunzi",
+      "additional_bibkeys": [],
+      "source_sha256": "1522ac4f9c634b36851afa4a17766b7bc66ebd33f43fff8ca09d56a35e2fa1ce"
+    },
+    {
+      "source_name": "bud_digha_v2_rhysdavids1910.txt",
+      "bibkey": "rhysdavids1910dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "3d229dec18ea349ce378b512521324b65c7cf37a30c42691d5bb587df21e534f"
+    },
+    {
+      "source_name": "bud_kindred_sayings_v1_rhysdavids1917.txt",
+      "bibkey": "rhysdavids1917the",
+      "additional_bibkeys": [],
+      "source_sha256": "edb06695b3e4110c23f05593917558e81dd479bf3377e30dd89e7510e9f751d9"
+    },
+    {
+      "source_name": "bud_majjhima_chalmers1926.txt",
+      "bibkey": "chalmers1926further",
+      "additional_bibkeys": [],
+      "source_sha256": "50b511fa4cf9e56cb9b97589f4e75264f6cf1d3d77cc08a58fb59a7b5fb5ede6"
+    },
+    {
+      "source_name": "chr_golden_legend_v4.txt",
+      "bibkey": "caxtonthea",
+      "additional_bibkeys": [],
+      "source_sha256": "f813732215bd65d53936663d92005ef8f14c6422d9c3ff7eb783647263ef7d48"
+    },
+    {
+      "source_name": "A Guide to the Good Life_ The Ancient Art - William Braxton Irvine.md",
+      "bibkey": "irvine2009a",
+      "additional_bibkeys": [],
+      "source_sha256": "174b65011273f08052a81ea10a60fa44e49f57f8639eb1eb721387786b5e3eae"
+    },
+    {
+      "source_name": "A Handbook for New Stoics_ How to Thrive i - Massimo Pigliucci.md",
+      "bibkey": "2019a",
+      "additional_bibkeys": [],
+      "source_sha256": "d2d2539450c6d911e398990ef100558f0c4d575617e25e5a40542a50a4b59d53"
+    },
+    {
+      "source_name": "How to Be a Leader - Plutarch.md",
+      "bibkey": "beneker2019how",
+      "additional_bibkeys": [],
+      "source_sha256": "637fd4f6e1aa676eabfaaa078719b746db8aa3f7a6c5b1f431aea48e7264e971"
+    },
+    {
+      "source_name": "Delphi Complete Works of Cicero - Cicero.md",
+      "bibkey": "miller1913the",
+      "additional_bibkeys": [],
+      "source_sha256": "8fb52a6ad8f50c829892745f4b70a9fcedd59931d548782ea176b00cfcbc7082"
+    },
+    {
+      "source_name": "1967 Delphi Complete Works of Epictetus (Illust - Epictetus Oldfather.md",
+      "bibkey": "long2018the",
+      "additional_bibkeys": [],
+      "source_sha256": "cb072774c2a6a7e74edb30d6c44e02ee6a9e4ad2ea6a94bda1d1b1ce3ade458d"
+    },
+    {
+      "source_name": "Lives of the Stoics_ The Art of Living Fro - Ryan Holiday.md",
+      "bibkey": "holiday2020lives",
+      "additional_bibkeys": [],
+      "source_sha256": "90176258c17868e50d5821f85630cc1ec4f7fc27edcb38ea1f414516dbeb460d"
+    },
+    {
+      "source_name": "How to Think Like a Roman Emperor_ The Sto - Donald J. Robertson.md",
+      "bibkey": "2019how",
+      "additional_bibkeys": [],
+      "source_sha256": "6fd4abe47932251b7d2d8a884deb3520b12be5fe60e37e1bc41ffe4f4168856b"
+    },
+    {
+      "source_name": "Practical Stoicism - Grey Freeman.md",
+      "bibkey": "20172019practical",
+      "additional_bibkeys": [],
+      "source_sha256": "22e582abe6f632b7dad9770801514f8ba56e011609f60ee052a78f3201f7cc41"
+    },
+    {
+      "source_name": "Breakfast with Seneca - David Fideler.md",
+      "bibkey": "fideler2022breakfast",
+      "additional_bibkeys": [],
+      "source_sha256": "482b9fd1e05ac2a45a68d6a93bc038e6e6f49a82af83ae98c64a2849da2634a4"
+    },
+    {
+      "source_name": "Complete Works of Seneca -Delphi Classics - Lucius Annaeus Seneca.md",
+      "bibkey": "stewart2014the",
+      "additional_bibkeys": [],
+      "source_sha256": "78132b9be71b820312308493f2a69bc4609dea29512ec66ef99ea88b8a9b36e1"
+    },
+    {
+      "source_name": "Letters on Ethics To Lucilius - Lucius Annaeus Seneca; translated by Marga and AALong.md",
+      "bibkey": "graver2015letters",
+      "additional_bibkeys": [],
+      "source_sha256": "89ec54d167144873b16e9a2af8301679d2ae70f70fff00b9f39451fe5553996d"
+    },
+    {
+      "source_name": "Stoicism for Inner Peace - Einzelganger.md",
+      "bibkey": "vaz2021stoicism",
+      "additional_bibkeys": [],
+      "source_sha256": "701c28740d21b24b54c2b928fee62af13ecf4b109d38596959d69288d61aec50"
+    },
+    {
+      "source_name": "Stoic Lessons_ Musonius Rufus' Complete Wo - Chakrapani, Chuck.md",
+      "bibkey": "chakrapani2018stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "f6b8d71061e33b902770715198809fab99ad94e7d5305a0f5021a05c2e18d0ba"
+    },
+    {
+      "source_name": "On Benefits (Complete Works of Lucius Anna - Lucius Annaeus Seneca.md",
+      "bibkey": "griffin2011on",
+      "additional_bibkeys": [],
+      "source_sha256": "169ca1ab28222d73a1b2820bbddd42a613cba151c05c0a9a52e3b600285aea61"
+    },
+    {
+      "source_name": "Cato Chronicles - Massimo Pigliucci.md",
+      "bibkey": "2017the",
+      "additional_bibkeys": [],
+      "source_sha256": "feaa4920951bb6b488223f73427ace568b0f00199cebdcfe454717b11ccdf027"
+    },
+    {
+      "source_name": "How to Be a Stoic - Massimo Pigliucci.md",
+      "bibkey": "2017how",
+      "additional_bibkeys": [],
+      "source_sha256": "d9ab96f27ef429e6982c1d26f4bc43d7f12c73013b96acdb0f39462d0bd82279"
+    },
+    {
+      "source_name": "The Stoic Emergency Kit - Massimo Pigliucci.md",
+      "bibkey": "pigliucci2020thea",
+      "additional_bibkeys": [],
+      "source_sha256": "8af0cbdd9e399ff119923dbb4edeb11ca03eaa4463c1c1445f00ce769b5261c2"
+    },
+    {
+      "source_name": "The Stoic Guide to a Happy Life - Massimo Pigliucci.md",
+      "bibkey": "pigliucci2020theb",
+      "additional_bibkeys": [],
+      "source_sha256": "e988c1d52b09a6e4b423398b786ed15bb490c2f29e4defb79c72ecad39ff8174"
+    },
+    {
+      "source_name": "The Practicing Stoic - Ward Farnsworth.md",
+      "bibkey": "2018the",
+      "additional_bibkeys": [],
+      "source_sha256": "2e0530e5ab06886dbad55efbac5c5dc81591648070022350d77dae658da91349"
+    },
+    {
+      "source_name": "1967 Delphi Complete Works of Epictetus (Illust - Epictetus Oldfather.md",
+      "bibkey": "long2018the",
+      "additional_bibkeys": [],
+      "source_sha256": "cb072774c2a6a7e74edb30d6c44e02ee6a9e4ad2ea6a94bda1d1b1ce3ade458d"
+    },
+    {
+      "source_name": "A Guide to the Good Life_ The Ancient Art - William Braxton Irvine.md",
+      "bibkey": "irvine2009a",
+      "additional_bibkeys": [],
+      "source_sha256": "174b65011273f08052a81ea10a60fa44e49f57f8639eb1eb721387786b5e3eae"
+    },
+    {
+      "source_name": "A Handbook for New Stoics_ How to Thrive i - Massimo Pigliucci.md",
+      "bibkey": "2019a",
+      "additional_bibkeys": [],
+      "source_sha256": "d2d2539450c6d911e398990ef100558f0c4d575617e25e5a40542a50a4b59d53"
+    },
+    {
+      "source_name": "Breakfast with Seneca - David Fideler.md",
+      "bibkey": "fideler2022breakfast",
+      "additional_bibkeys": [],
+      "source_sha256": "482b9fd1e05ac2a45a68d6a93bc038e6e6f49a82af83ae98c64a2849da2634a4"
+    },
+    {
+      "source_name": "Cato Chronicles - Massimo Pigliucci.md",
+      "bibkey": "2017the",
+      "additional_bibkeys": [],
+      "source_sha256": "feaa4920951bb6b488223f73427ace568b0f00199cebdcfe454717b11ccdf027"
+    },
+    {
+      "source_name": "Complete Works of Seneca -Delphi Classics - Lucius Annaeus Seneca.md",
+      "bibkey": "stewart2014the",
+      "additional_bibkeys": [],
+      "source_sha256": "78132b9be71b820312308493f2a69bc4609dea29512ec66ef99ea88b8a9b36e1"
+    },
+    {
+      "source_name": "Delphi Complete Works of Cicero - Cicero.txt",
+      "bibkey": "miller1913the",
+      "additional_bibkeys": [],
+      "source_sha256": "87459a3ae8db9e97da8abe55480bb8556f291a305a45804d320d27e950f1a62f"
+    },
+    {
+      "source_name": "How to Be a Leader - Plutarch.md",
+      "bibkey": "beneker2019how",
+      "additional_bibkeys": [],
+      "source_sha256": "637fd4f6e1aa676eabfaaa078719b746db8aa3f7a6c5b1f431aea48e7264e971"
+    },
+    {
+      "source_name": "How to Be a Stoic - Massimo Pigliucci.md",
+      "bibkey": "2017how",
+      "additional_bibkeys": [],
+      "source_sha256": "d9ab96f27ef429e6982c1d26f4bc43d7f12c73013b96acdb0f39462d0bd82279"
+    },
+    {
+      "source_name": "How to Think Like a Roman Emperor_ The Sto - Donald J. Robertson.md",
+      "bibkey": "2019how",
+      "additional_bibkeys": [],
+      "source_sha256": "6fd4abe47932251b7d2d8a884deb3520b12be5fe60e37e1bc41ffe4f4168856b"
+    },
+    {
+      "source_name": "Letters on Ethics To Lucilius - Lucius Annaeus Seneca; translated by Marga and AALong.md",
+      "bibkey": "graver2015letters",
+      "additional_bibkeys": [],
+      "source_sha256": "89ec54d167144873b16e9a2af8301679d2ae70f70fff00b9f39451fe5553996d"
+    },
+    {
+      "source_name": "Lives of the Stoics_ The Art of Living Fro - Ryan Holiday.md",
+      "bibkey": "holiday2020lives",
+      "additional_bibkeys": [],
+      "source_sha256": "90176258c17868e50d5821f85630cc1ec4f7fc27edcb38ea1f414516dbeb460d"
+    },
+    {
+      "source_name": "On Benefits (Complete Works of Lucius Anna - Lucius Annaeus Seneca.md",
+      "bibkey": "griffin2011on",
+      "additional_bibkeys": [],
+      "source_sha256": "169ca1ab28222d73a1b2820bbddd42a613cba151c05c0a9a52e3b600285aea61"
+    },
+    {
+      "source_name": "Practical Stoicism - Grey Freeman.md",
+      "bibkey": "20172019practical",
+      "additional_bibkeys": [],
+      "source_sha256": "22e582abe6f632b7dad9770801514f8ba56e011609f60ee052a78f3201f7cc41"
+    },
+    {
+      "source_name": "Stoic Lessons_ Musonius Rufus' Complete Wo - Chakrapani, Chuck.md",
+      "bibkey": "chakrapani2018stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "f6b8d71061e33b902770715198809fab99ad94e7d5305a0f5021a05c2e18d0ba"
+    },
+    {
+      "source_name": "Stoic Six Pack 2 - Consolations From A Sto - Seneca.txt",
+      "bibkey": "2015stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "c337fa8e20575b79650ede0a5fda1a08e58d5e337638b3cf027b2ab7ed478526"
+    },
+    {
+      "source_name": "Stoic-Week-2012-Live-Like-a-Stoic-IA-mirror.txt",
+      "bibkey": "modernstoicism2012living",
+      "additional_bibkeys": [],
+      "source_sha256": "47b9980135321fedb3b294442960036fe29201c0084936ea6efc5ba058c32aac"
+    },
+    {
+      "source_name": "Stoic-Week-2015-Handbook-Stoicism-Today.txt",
+      "bibkey": "modernstoicism2015stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "0b4fbc7e7711e074fc8309baa461109acc42119e762aaa5b0113f828fcf60643"
+    },
+    {
+      "source_name": "Stoic-Week-2016-Handbook-Stoicism-Today.txt",
+      "bibkey": "2016the",
+      "additional_bibkeys": [],
+      "source_sha256": "7bc917e3e90c3ce944134a368ee2c3a41011c02933460cc7eef8c83bba387d33"
+    },
+    {
+      "source_name": "Stoic-Week-2020-Intro-to-Stoicism.txt",
+      "bibkey": "2020introduction",
+      "additional_bibkeys": [],
+      "source_sha256": "2172442712901f4a38ce6cf5a00ba09c523f63808541b51f87163259c8f6959a"
+    },
+    {
+      "source_name": "Stoic-Week-for-Schools_Instructors-Guide.txt",
+      "bibkey": "polat2021stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "ff6bd4a872c230ed6f20dbe50dc575eacfa8ec913ade77a7cd4e025fa381a5e0"
+    },
+    {
+      "source_name": "Stoic-Week-for-Students-Handbook.txt",
+      "bibkey": "modernstoicism2022stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "795da414528907eb249e1aed93e3f91d70f728edd17e5f08efdb4897e69dbce1"
+    },
+    {
+      "source_name": "Stoic_Week_2013_Handbook.txt",
+      "bibkey": "2013the",
+      "additional_bibkeys": [],
+      "source_sha256": "5dc379618a986e7bfa9f808bcfe9b7160f3ca2ba494ca2a77c08e8737579158d"
+    },
+    {
+      "source_name": "Stoic_Week_2014_Handbook.txt",
+      "bibkey": "2014the",
+      "additional_bibkeys": [],
+      "source_sha256": "c4e6741d255dc26bc1b4ddfbe1f3ded9d806e7eaf90cdd0a8912e43547a3fda8"
+    },
+    {
+      "source_name": "Stoic_Week_2018_Handbook.local-library.md",
+      "bibkey": "modernstoicism2018stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "628b62a8ebd5b72fb41a66c37105c059816aa2d38b39a58871d843fe0615c1d1"
+    },
+    {
+      "source_name": "Stoicism for Inner Peace - Einzelganger.md",
+      "bibkey": "vaz2021stoicism",
+      "additional_bibkeys": [],
+      "source_sha256": "701c28740d21b24b54c2b928fee62af13ecf4b109d38596959d69288d61aec50"
+    },
+    {
+      "source_name": "The Practicing Stoic - Ward Farnsworth.md",
+      "bibkey": "2018the",
+      "additional_bibkeys": [],
+      "source_sha256": "2e0530e5ab06886dbad55efbac5c5dc81591648070022350d77dae658da91349"
+    },
+    {
+      "source_name": "The Stoic Emergency Kit - Massimo Pigliucci.md",
+      "bibkey": "pigliucci2020thea",
+      "additional_bibkeys": [],
+      "source_sha256": "8af0cbdd9e399ff119923dbb4edeb11ca03eaa4463c1c1445f00ce769b5261c2"
+    },
+    {
+      "source_name": "The Stoic Guide to a Happy Life - Massimo Pigliucci.md",
+      "bibkey": "pigliucci2020theb",
+      "additional_bibkeys": [],
+      "source_sha256": "e988c1d52b09a6e4b423398b786ed15bb490c2f29e4defb79c72ecad39ff8174"
+    },
+    {
+      "source_name": "aesop_townsend_gutenberg21.txt",
+      "bibkey": "townsend1867three",
+      "additional_bibkeys": [],
+      "source_sha256": "48f2d310226e175250988747ba4c81ff832a218b83c141b38c6dc047a25c1958"
+    },
+    {
+      "source_name": "bible_kjv_gutenberg10.txt",
+      "bibkey": "1611the",
+      "additional_bibkeys": [],
+      "source_sha256": "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0"
+    },
+    {
+      "source_name": "bud_bigandet_v1_1880_gutenberg34578.txt",
+      "bibkey": "1911the",
+      "additional_bibkeys": [],
+      "source_sha256": "f7637c864a0c693d4728908016bc73526d87d8ce704c33ef27f775f02b8af57d"
+    },
+    {
+      "source_name": "bud_bigandet_v2_1880.txt",
+      "bibkey": "1880the",
+      "additional_bibkeys": [],
+      "source_sha256": "621d8f1235b86f00336fd204d3ce794a30081282b681deedebe114ba78110b1f"
+    },
+    {
+      "source_name": "bud_digha_v1_rhysdavids1899.txt",
+      "bibkey": "rhysdavids1899dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "61d5d98942bd01c314249936918300b3a29f1511f7a377f502e51f3387161dce"
+    },
+    {
+      "source_name": "bud_digha_v2_rhysdavids1910.txt",
+      "bibkey": "rhysdavids1910dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "3d229dec18ea349ce378b512521324b65c7cf37a30c42691d5bb587df21e534f"
+    },
+    {
+      "source_name": "bud_digha_v3_rhysdavids1921.txt",
+      "bibkey": "rhysdavids1921dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "e92f36123c37e22e2d20dc0ad76a1a374304501d72bf18f4fdfe5d6789e04bdd"
+    },
+    {
+      "source_name": "bud_hardy_manual_of_budhism1853.txt",
+      "bibkey": "1853a",
+      "additional_bibkeys": [],
+      "source_sha256": "300c280914273c143526689df61b8eaa09870de965177aa264b4110afd838ad8"
+    },
+    {
+      "source_name": "bud_kindred_sayings_v1_rhysdavids1917.txt",
+      "bibkey": "rhysdavids1917the",
+      "additional_bibkeys": [],
+      "source_sha256": "edb06695b3e4110c23f05593917558e81dd479bf3377e30dd89e7510e9f751d9"
+    },
+    {
+      "source_name": "bud_mahavamsa_geiger1912.txt",
+      "bibkey": "geiger1912the",
+      "additional_bibkeys": [],
+      "source_sha256": "6e47ced7a51c010756701dd94f38c56eea3a1ce3d1130d0b6a6eacd29556adc6"
+    },
+    {
+      "source_name": "bud_majjhima_chalmers1926.txt",
+      "bibkey": "chalmers1926further",
+      "additional_bibkeys": [],
+      "source_sha256": "50b511fa4cf9e56cb9b97589f4e75264f6cf1d3d77cc08a58fb59a7b5fb5ede6"
+    },
+    {
+      "source_name": "bud_theragatha_psalms_brethren_rhysdavids1913.txt",
+      "bibkey": "rhysdavids1913psalms",
+      "additional_bibkeys": [],
+      "source_sha256": "02781a11a0add740d8ecee909e7a920f3cc06b42fef6e965d3857da7cdaa04b6"
+    },
+    {
+      "source_name": "bud_therigatha_psalms_sisters_rhysdavids1909.txt",
+      "bibkey": "rhysdavids1909psalms",
+      "additional_bibkeys": [],
+      "source_sha256": "7acf299d056a2df866626441d00c1db9a8781a93e5dceb28b791bfcaee1160e0"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v1_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhista",
+      "additional_bibkeys": [],
+      "source_sha256": "81086c5555f71c4ed88f023b953f5e7adb85ecd8a7ffb2565ff9d85d19c127ce"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v2_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhistb",
+      "additional_bibkeys": [],
+      "source_sha256": "def2710563787888ee5aaa064371203a7e87651f3908cee0ff9c54c279588af5"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v3_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhistc",
+      "additional_bibkeys": [],
+      "source_sha256": "199b1a200082043f638c4603c807171183b3631f0d932eb6032d3042586f47f2"
+    },
+    {
+      "source_name": "cfu_filial_duty_chen1908.txt",
+      "bibkey": "chen1908the",
+      "additional_bibkeys": [],
+      "source_sha256": "55244bacbcf88753cf90b796d018a8cddd6eb925ef6de973f84b77c393394f6f"
+    },
+    {
+      "source_name": "cfu_lienu_zhuan_kinney2014.txt",
+      "bibkey": "kinney2014exemplary",
+      "additional_bibkeys": [],
+      "source_sha256": "0b1a5c604b5e1cf63e6ff2dffc1a27fc0ca583d76fac3214e724de219f955191"
+    },
+    {
+      "source_name": "cfu_typical_women_safford1891.txt",
+      "bibkey": "safford1891typical",
+      "additional_bibkeys": [],
+      "source_sha256": "2a52931b60434f57473dacb1d1982a30926c819c6b821fb25a8eb6f9830b54aa"
+    },
+    {
+      "source_name": "cfu_xunzi_dubs1928.txt",
+      "bibkey": "dubs1928the",
+      "additional_bibkeys": [],
+      "source_sha256": "d1a0da29e2e63f0ea66e87a61861bb691b7c879922069f7ebe7da3cb357426b1"
+    },
+    {
+      "source_name": "cfu_xunzi_hutton2014.txt",
+      "bibkey": "hutton2014xunzi",
+      "additional_bibkeys": [],
+      "source_sha256": "1522ac4f9c634b36851afa4a17766b7bc66ebd33f43fff8ca09d56a35e2fa1ce"
+    },
+    {
+      "source_name": "cfu_zuozhuan_legge1872_p1.txt",
+      "bibkey": "legge1872thea",
+      "additional_bibkeys": [],
+      "source_sha256": "f14fa0e8f7aad345d4b675bdbe855c63e2cff0460389233d72df5a8fe75cac66"
+    },
+    {
+      "source_name": "cfu_zuozhuan_legge1872_p2.txt",
+      "bibkey": "legge1872theb",
+      "additional_bibkeys": [],
+      "source_sha256": "4e0442e58422f94750a23d2ced464af3d4bb53daef5b56461b15003d7d2b85ef"
+    },
+    {
+      "source_name": "chinese_literature_wilson_gutenberg10056.txt",
+      "bibkey": "wilson1900chinese",
+      "additional_bibkeys": [],
+      "source_sha256": "ea34ca4c5325ef9f559f818cfb2c2698e73dd8974c52e0312d24042b112ae8aa"
+    },
+    {
+      "source_name": "chr_adomnan_columba_fowler1895.txt",
+      "bibkey": "fowler1895life",
+      "additional_bibkeys": [],
+      "source_sha256": "10760d365c427a19a455a7229de0339ee90b1870b3d07c6c6cb58b0937096288"
+    },
+    {
+      "source_name": "chr_bede_sellar1907.txt",
+      "bibkey": "sellar1907bedes",
+      "additional_bibkeys": [],
+      "source_sha256": "977da0babf070c825befb0a5db65a9cc2440d9ab45aa869a959c1bab911be2c8"
+    },
+    {
+      "source_name": "chr_celano_second_life_howell1908.txt",
+      "bibkey": "howell1908the",
+      "additional_bibkeys": [],
+      "source_sha256": "e9657db8312146397d0c60e0bc3396f60fd331573c3bc8103db7bfc3d7794f4f"
+    },
+    {
+      "source_name": "chr_eugippius_severinus1914.txt",
+      "bibkey": "robinson1914the",
+      "additional_bibkeys": [],
+      "source_sha256": "8e58e6a85c32bec86f1df95d7ab52cbbe49bb163683d14c62a4e55a58d583815"
+    },
+    {
+      "source_name": "chr_golden_legend_v2.txt",
+      "bibkey": "caxton1900the",
+      "additional_bibkeys": [],
+      "source_sha256": "2c099413d7ebbd86671267a9e56b4f17105d16847b2d38374bf61ebb68ef6264"
+    },
+    {
+      "source_name": "chr_golden_legend_v3.txt",
+      "bibkey": "ellisthea",
+      "additional_bibkeys": [],
+      "source_sha256": "a235d104cbc7f6603b30b2f6facf3a7c3d26ead08fa43532e3355ceb8b9548f0"
+    },
+    {
+      "source_name": "chr_golden_legend_v4.txt",
+      "bibkey": "caxtonthea",
+      "additional_bibkeys": [],
+      "source_sha256": "f813732215bd65d53936663d92005ef8f14c6422d9c3ff7eb783647263ef7d48"
+    },
+    {
+      "source_name": "chr_golden_legend_v5.txt",
+      "bibkey": "ellistheb",
+      "additional_bibkeys": [],
+      "source_sha256": "0a918f8c969a12ebc083bd6a8c43bec4027431047910e298bd57205fc546cbdd"
+    },
+    {
+      "source_name": "chr_golden_legend_v6.txt",
+      "bibkey": "caxtontheb",
+      "additional_bibkeys": [],
+      "source_sha256": "c2cd1753843de0843044c6939429748dbb88171843a475fb03051dcd03b8195b"
+    },
+    {
+      "source_name": "chr_golden_legend_v7.txt",
+      "bibkey": "ellis1900theb",
+      "additional_bibkeys": [],
+      "source_sha256": "e3b2aa37b5ffd1cee254a5f7f4353fc27d478d70f86dde28b7a2ade82eff4181"
+    },
+    {
+      "source_name": "chr_gregory_dialogues_gardner1911.txt",
+      "bibkey": "gardner1911the",
+      "additional_bibkeys": [],
+      "source_sha256": "b2a5bdced6ad033eb78fc2caa7d4d52820dd6bb7c6764b694eda60cb0ba3212a"
+    },
+    {
+      "source_name": "chr_john_of_ephesus_brooks1923.txt",
+      "bibkey": "brooks1923lives",
+      "additional_bibkeys": [],
+      "source_sha256": "3148c20eed787ce3e5b3bac1666f2bef124fb4b538e1a316ccc4e6ec80af131a"
+    },
+    {
+      "source_name": "chr_npnf2_v11_cassian_sulpitius1894.txt",
+      "bibkey": "schaff1894sulpitius",
+      "additional_bibkeys": [],
+      "source_sha256": "e126ee0999172bd63a654df67df276e8705f364af6fa7a7be877836225241e03"
+    },
+    {
+      "source_name": "chr_thomas_of_marga_budge1893.txt",
+      "bibkey": "budge1893the",
+      "additional_bibkeys": [],
+      "source_sha256": "a75341a7665870a9edb62e20b0f53072bd2be62fe857175501925136528766e0"
+    },
+    {
+      "source_name": "desert_hannay1904_archive_ocr.txt",
+      "bibkey": "hannay1904the",
+      "additional_bibkeys": [],
+      "source_sha256": "e6f2eda8c8e439c4d0d8460397d886f5c0a38ac6ba4731f258f5e49c23379b11"
+    },
+    {
+      "source_name": "jataka_babbitt1912_gutenberg62514.txt",
+      "bibkey": "babbitt1912jataka",
+      "additional_bibkeys": [],
+      "source_sha256": "7288b4ad7865b988426913348f5420c8f3ecdd2caf64df633c62d6fed81b9664"
+    },
+    {
+      "source_name": "jataka_cowell1895_complete_archive_ocr.txt",
+      "bibkey": "cowell1895the",
+      "additional_bibkeys": [],
+      "source_sha256": "ece1f347bedd175e87da5eac9b62dc0977879913b665a24cd0b0cc94d65e89b4"
+    },
+    {
+      "source_name": "kan_ying_pien_suzuki_carus1906_archive_ocr.txt",
+      "bibkey": "suzuki1906taishang",
+      "additional_bibkeys": [],
+      "source_sha256": "7e1ea24df0f4dc12186f8e3058ea84f7f8e4c52b7e42e79194ebd4812254473a"
+    },
+    {
+      "source_name": "liezi_giles1912_archive_ocr.txt",
+      "bibkey": "giles1912taoist",
+      "additional_bibkeys": [],
+      "source_sha256": "b9d9f6f2408528c7fbdabca9af93179e46e69c410742ed048457310139c337f2"
+    },
+    {
+      "source_name": "liezi_graham1960_reading_order.txt",
+      "bibkey": "graham1990the",
+      "additional_bibkeys": [],
+      "source_sha256": "f4b606e5c0b2dc6cfef4a8367092bb8591caae8a193828a3c7d3aa6f4e5220cf"
+    },
+    {
+      "source_name": "liki_sbe27_legge1885_archive_ocr.txt",
+      "bibkey": "legge1885the",
+      "additional_bibkeys": [],
+      "source_sha256": "2668e6659f938b19d20da1961f3d415448575880936493786a687ea9e1d6cbc1"
+    },
+    {
+      "source_name": "liki_sbe28_legge1885_archive_ocr.txt",
+      "bibkey": "legge1885li",
+      "additional_bibkeys": [],
+      "source_sha256": "baf4b3168e947c97119781aac809ae3950da5a165f76d489116242518f2b1853"
+    },
+    {
+      "source_name": "mencius_legge1875_archive_ocr.txt",
+      "bibkey": "legge1875the",
+      "additional_bibkeys": [],
+      "source_sha256": "988b01d959178ddb2f2772c9c3ac320b78f2b1b4c2651715fa268abe7371c45d"
+    },
+    {
+      "source_name": "milinda_sbe35_rhysdavids1890_archive_ocr.txt",
+      "bibkey": "rhysdavids1890questions",
+      "additional_bibkeys": [],
+      "source_sha256": "74014455d0be4b68702f7fa542d72d15dc0dbaed16bd7e331450016ef7467ea3"
+    },
+    {
+      "source_name": "milinda_sbe36_rhysdavids1894_archive_ocr.txt",
+      "bibkey": "rhysdavids1894the",
+      "additional_bibkeys": [],
+      "source_sha256": "dbcab537c370adf96f866d09349b810d5c82c6db52ecf31f4c301ed68aca2a4c"
+    },
+    {
+      "source_name": "plutarch_shilleto_1888_morals.txt",
+      "bibkey": "shilleto1898plutarchs",
+      "additional_bibkeys": [],
+      "source_sha256": "44a89a486fa3d5f3201ef44a7bd3d636662d427fee95197cbfbcad280354a5fa"
+    },
+    {
+      "source_name": "nicomachean_ethics_ross_mit.txt",
+      "bibkey": "source-nicomachean-ethics-ross-mit-db133fd8",
+      "additional_bibkeys": [],
+      "source_sha256": "1a678e07dcba229719ac4052d4da650a9e5c83c61f589478b9f88a5e49690b7e"
+    },
+    {
+      "source_name": "bodhi_refuge_precepts_wheel282_access_to_insight.txt",
+      "bibkey": "bodhi1981refuge",
+      "additional_bibkeys": [],
+      "source_sha256": "37d39ffc657ab0950bd9112b0ae9a3c61f186bae3f4b0dddc88053d4891dcb76"
+    },
+    {
+      "source_name": "bodhi_treatise_paramis_wheel409.txt",
+      "bibkey": "dhammapala1996paramis",
+      "additional_bibkeys": [],
+      "source_sha256": "ed74a818bdde86fe5e8fb36fc7c3d0e353a431623419de5098e0ce8e325a0bc7"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v1_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhista",
+      "additional_bibkeys": [],
+      "source_sha256": "81086c5555f71c4ed88f023b953f5e7adb85ecd8a7ffb2565ff9d85d19c127ce"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v2_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhistb",
+      "additional_bibkeys": [],
+      "source_sha256": "def2710563787888ee5aaa064371203a7e87651f3908cee0ff9c54c279588af5"
+    },
+    {
+      "source_name": "buddhist_legends_burlingame1921_v3_archive_ocr.txt",
+      "bibkey": "burlingame1921buddhistc",
+      "additional_bibkeys": [],
+      "source_sha256": "199b1a200082043f638c4603c807171183b3631f0d932eb6032d3042586f47f2"
+    },
+    {
+      "source_name": "jataka_cowell1895_complete_archive_ocr.txt",
+      "bibkey": "cowell1895the",
+      "additional_bibkeys": [],
+      "source_sha256": "ece1f347bedd175e87da5eac9b62dc0977879913b665a24cd0b0cc94d65e89b4"
+    },
+    {
+      "source_name": "milinda_sbe35_rhysdavids1890_archive_ocr.txt",
+      "bibkey": "rhysdavids1890questions",
+      "additional_bibkeys": [],
+      "source_sha256": "74014455d0be4b68702f7fa542d72d15dc0dbaed16bd7e331450016ef7467ea3"
+    },
+    {
+      "source_name": "milinda_sbe36_rhysdavids1894_archive_ocr.txt",
+      "bibkey": "rhysdavids1894the",
+      "additional_bibkeys": [],
+      "source_sha256": "dbcab537c370adf96f866d09349b810d5c82c6db52ecf31f4c301ed68aca2a4c"
+    },
+    {
+      "source_name": "mn41_access_to_insight_20261018.txt",
+      "bibkey": "source-mn41-access-to-insight-20261018-0ab5fa60",
+      "additional_bibkeys": [],
+      "source_sha256": "5c8587c6ff4cd94eecce7092120d5ba1f9af3276a79a5ceaa2e7c4ae7967dfc1"
+    },
+    {
+      "source_name": "udana_sujato_paras.txt",
+      "bibkey": "sujatoudana",
+      "additional_bibkeys": [],
+      "source_sha256": "c2700976c6b15bfa8d24b3b4d68f10cce11c49ba0924624069d4fee46cb28eff"
+    },
+    {
+      "source_name": "vinaya_khandhaka_brahmali.txt",
+      "bibkey": "brahmalivinayaa",
+      "additional_bibkeys": [],
+      "source_sha256": "d4cfcf72e50f2c0d891c37b47909e26b0acd866e3db37329dab7129d58e8303c"
+    },
+    {
+      "source_name": "vinaya_khandhaka_brahmali_paras.txt",
+      "bibkey": "brahmalivinayaa",
+      "additional_bibkeys": [],
+      "source_sha256": "e250428665add3859596ecab12ff920baf169d527c7225adcfc0adaab16cc194"
+    },
+    {
+      "source_name": "vinaya_suttavibhanga_bhikkhu_brahmali_paras.txt",
+      "bibkey": "brahmalivinayab",
+      "additional_bibkeys": [],
+      "source_sha256": "3b3816632b69624812354609a98c2c5d47e813d84f7eebb9992b21e6226b2a50"
+    },
+    {
+      "source_name": "vinaya_suttavibhanga_bhikkhuni_brahmali_paras.txt",
+      "bibkey": "brahmalitheravada",
+      "additional_bibkeys": [],
+      "source_sha256": "2297476e35d22576939f4f87b7c4f16ace538a189ce264034887196d597e6f6d"
+    },
+    {
+      "source_name": "catechetical_instructions_collins_archive_ocr.txt",
+      "bibkey": "source-catechetical-instructions-collins-archive-ocr-22ce3755",
+      "additional_bibkeys": [],
+      "source_sha256": "48bb1fb43636d6169ea9035faaf584f2d3e76805b34791183aae8aefeaf5f899"
+    },
+    {
+      "source_name": "summa_i_ii_dominican_gutenberg17897.txt",
+      "bibkey": "source-summa-i-ii-dominican-gutenberg17897-d349fea2",
+      "additional_bibkeys": [],
+      "source_sha256": "9722b299e1a91c43f989a282ebd857c92fdde442611035cba002f94b817c2be0"
+    },
+    {
+      "source_name": "summa_ii_ii_dominican_gutenberg18755.txt",
+      "bibkey": "source-summa-ii-ii-dominican-gutenberg18755-09a7de29",
+      "additional_bibkeys": [],
+      "source_sha256": "4fc8480443d31d54e150bc60377a3abf69665c942e4e956a578e443e64c4632f"
+    },
+    {
+      "source_name": "ten_commandments_collins_kenny.html",
+      "bibkey": "source-ten-commandments-collins-kenny-0dfb7537",
+      "additional_bibkeys": [],
+      "source_sha256": "d8cd8442c113863bee83e06a0dad9b9c21078e540bab93074255bdaa8e29156b"
+    },
+    {
+      "source_name": "aquinas_st_ii_ii_q154_newadvent.txt",
+      "bibkey": "source-aquinas-st-ii-ii-q154-newadvent-58660c2a",
+      "additional_bibkeys": [],
+      "source_sha256": "1f6fe3fda2de847d0108223cb530c2eb4021fe9dcb8da7c108c2edd7a3d7b6ad"
+    },
+    {
+      "source_name": "against_lying_newadvent.txt",
+      "bibkey": "source-against-lying-newadvent-449abb8b",
+      "additional_bibkeys": [],
+      "source_sha256": "f732228e3cc66b6a14365b503fe214c124a7b7f4faeb99259c32fb42bf7f867d"
+    },
+    {
+      "source_name": "on_lying_newadvent.txt",
+      "bibkey": "source-on-lying-newadvent-6d8754c2",
+      "additional_bibkeys": [],
+      "source_sha256": "ea17f661fc11a7de3adfba35ac697bf428574372d08e52b6c8d3d378ed96bebb"
+    },
+    {
+      "source_name": "chaucer_skeat1900_canterbury_tales_gutenberg22120.txt",
+      "bibkey": "skeat1900chaucer4",
+      "additional_bibkeys": [],
+      "source_sha256": "94ae337faad105ae63b9a72bb82baa34fba4a6e1468de5b97cbb4c56db34cd7a"
+    },
+    {
+      "source_name": "four_discourses_allen1869_01_discourse1.txt",
+      "bibkey": "source-four-discourses-allen1869-01-discourse1-36ac162f",
+      "additional_bibkeys": [],
+      "source_sha256": "8329f17070bdcaef5d6aa0d87e63755eb31f545d357afc12959ad666e23ba058"
+    },
+    {
+      "source_name": "four_discourses_allen1869_02_discourse2.txt",
+      "bibkey": "source-four-discourses-allen1869-02-discourse2-05a151fc",
+      "additional_bibkeys": [],
+      "source_sha256": "69603ef6a6bb597a96286ec525948837906bb36723d32dfb96250efc9bc79b7d"
+    },
+    {
+      "source_name": "four_discourses_allen1869_03_discourse3.txt",
+      "bibkey": "source-four-discourses-allen1869-03-discourse3-f2e46035",
+      "additional_bibkeys": [],
+      "source_sha256": "e2c83b49aae3e29852f09f16d52a38eda8d0e227379e59d65f2622367b8904c3"
+    },
+    {
+      "source_name": "four_discourses_allen1869_04_discourse4.txt",
+      "bibkey": "source-four-discourses-allen1869-04-discourse4-3f7d19eb",
+      "additional_bibkeys": [],
+      "source_sha256": "f821791ef380adea29933faa0e2e2c2e8677ac8c494ae6a3cb244c706fc8bcf2"
+    },
+    {
+      "source_name": "on_wealth_and_poverty_roth_ocr.txt",
+      "bibkey": "source-on-wealth-and-poverty-roth-ocr-dd408aca",
+      "additional_bibkeys": [],
+      "source_sha256": "c935bf1147f9ec069e6315bff1ceee5857f139b248605135a8d39cb069375150"
+    },
+    {
+      "source_name": "desert_fathers_ward2003.txt",
+      "bibkey": "ward2003desert",
+      "additional_bibkeys": [],
+      "source_sha256": "7e0210fefb962bc15fa2a02eb9b0d8bc8a1358b41818da9d0dd2f0262d4664e0"
+    },
+    {
+      "source_name": "gibson_catechism_made_easy_v2_1874_archive_ocr.txt",
+      "bibkey": "gibson1874catechism2",
+      "additional_bibkeys": [],
+      "source_sha256": "6e4902854ded95fa1f542329718f909e877aac0bdcbfe98b2c8af35bd138a3da"
+    },
+    {
+      "source_name": "gill_galatians5_biblehub.txt",
+      "bibkey": "gillgalatians5",
+      "additional_bibkeys": [],
+      "source_sha256": "521abb100b386f6cff6bd743607ebde18919307a189e1f5a590332407ecde392"
+    },
+    {
+      "source_name": "exaltation_cross.txt",
+      "bibkey": "caxtonEllisGoldenLegendVCCEL",
+      "additional_bibkeys": [],
+      "source_sha256": "c8be6bc36b97a31de0ec1f4a38473e5f6ec0856dc865dde233078b0b709a6038"
+    },
+    {
+      "source_name": "spirago1899_archive_existing_text.txt",
+      "bibkey": "source-spirago1899-archive-existing-text-0ecd1a8a",
+      "additional_bibkeys": [],
+      "source_sha256": "aa2a59dd9e4b8fcc9b5bd3cd5e2dfdcf48c782ce898362d47f61e826f930b8d6"
+    },
+    {
+      "source_name": "use_of_money_sermon50_1872.txt",
+      "bibkey": "source-use-of-money-sermon50-1872-2fd6c480",
+      "additional_bibkeys": [],
+      "source_sha256": "53a70a18be5376f34812f96a4faf5482766aed86222421edd8ba566237d1adce"
+    },
+    {
+      "source_name": "analects_chin2014.txt",
+      "bibkey": "chin2014analects",
+      "additional_bibkeys": [],
+      "source_sha256": "409d21bc6561a3faf4759a51eabf633a802f9b8739a61dc693fcbbdbd5193a17"
+    },
+    {
+      "source_name": "analects_legge_gutenberg3330.txt",
+      "bibkey": "legge2002analects",
+      "additional_bibkeys": [],
+      "source_sha256": "a42433a069290280b52f13cd5832a74aa6ecd6cd4e881fa572ccb34e92e5807a"
+    },
+    {
+      "source_name": "liki_sbe27_legge1885_archive_ocr.txt",
+      "bibkey": "legge1885the",
+      "additional_bibkeys": [],
+      "source_sha256": "2668e6659f938b19d20da1961f3d415448575880936493786a687ea9e1d6cbc1"
+    },
+    {
+      "source_name": "liki_sbe28_legge1885_archive_ocr.txt",
+      "bibkey": "legge1885li",
+      "additional_bibkeys": [],
+      "source_sha256": "baf4b3168e947c97119781aac809ae3950da5a165f76d489116242518f2b1853"
+    },
+    {
+      "source_name": "mencius_legge1875_archive_ocr.txt",
+      "bibkey": "legge1875the",
+      "additional_bibkeys": [],
+      "source_sha256": "988b01d959178ddb2f2772c9c3ac320b78f2b1b4c2651715fa268abe7371c45d"
+    },
+    {
+      "source_name": "tang2016_divorce_pp33_86_88.txt",
+      "bibkey": "source-tang2016-divorce-pp33-86-88-9ffe5261",
+      "additional_bibkeys": [],
+      "source_sha256": "64f294c8e5878403cb814677be8e512f03a16e7e2141a43ff7eb795ea426b8e4"
+    },
+    {
+      "source_name": "xiaojing_sbe3_legge1899_archive_djvu.txt",
+      "bibkey": "source-xiaojing-sbe3-legge1899-archive-djvu-e15be94a",
+      "additional_bibkeys": [],
+      "source_sha256": "1394234670e1ddb0dace14469f8214fff36b5c35a53ba94d7e30a0d1de42937e"
+    },
+    {
+      "source_name": "aesop_townsend_gutenberg21.txt",
+      "bibkey": "townsend1867three",
+      "additional_bibkeys": [],
+      "source_sha256": "48f2d310226e175250988747ba4c81ff832a218b83c141b38c6dc047a25c1958"
+    },
+    {
+      "source_name": "bible_kjv_gutenberg10.txt",
+      "bibkey": "1611the",
+      "additional_bibkeys": [],
+      "source_sha256": "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0"
+    },
+    {
+      "source_name": "chinese_literature_wilson_gutenberg10056.txt",
+      "bibkey": "wilson1900chinese",
+      "additional_bibkeys": [],
+      "source_sha256": "ea34ca4c5325ef9f559f818cfb2c2698e73dd8974c52e0312d24042b112ae8aa"
+    },
+    {
+      "source_name": "desert_hannay1904_archive_ocr.txt",
+      "bibkey": "hannay1904the",
+      "additional_bibkeys": [],
+      "source_sha256": "e6f2eda8c8e439c4d0d8460397d886f5c0a38ac6ba4731f258f5e49c23379b11"
+    },
+    {
+      "source_name": "jataka_babbitt1912_gutenberg62514.txt",
+      "bibkey": "babbitt1912jataka",
+      "additional_bibkeys": [],
+      "source_sha256": "7288b4ad7865b988426913348f5420c8f3ecdd2caf64df633c62d6fed81b9664"
+    },
+    {
+      "source_name": "liezi_giles1912_archive_ocr.txt",
+      "bibkey": "giles1912taoist",
+      "additional_bibkeys": [],
+      "source_sha256": "b9d9f6f2408528c7fbdabca9af93179e46e69c410742ed048457310139c337f2"
+    },
+    {
+      "source_name": "mn21_thanissaro1997.txt",
+      "bibkey": "thanissaro1997kakacupama",
+      "additional_bibkeys": [],
+      "source_sha256": "4415b795996f3834a4f9b378aa17c28ac2264bfcbdc6fd632ace73c32973525c"
+    },
+    {
+      "source_name": "twenty_two_goblins_ryder1917_gutenberg52309.txt",
+      "bibkey": "ryder1917twentytwo",
+      "additional_bibkeys": [],
+      "source_sha256": "9cefdf555b0d1c6d4b63d6e455368d39b039e75bdc4ad32016309528e9ad8fe7"
+    },
+    {
+      "source_name": "zhuangzi_giles1889_gutenberg59709.txt",
+      "bibkey": "giles1889chuang",
+      "additional_bibkeys": [],
+      "source_sha256": "71e7d719aa5b75b4cf234fcf02e38e5aa15a327c257ed77950504bfb758ca6c8"
+    },
+    {
+      "source_name": "bhagavad_gita_sankara_sastri1901_archive_ocr.txt",
+      "bibkey": "sastri1901bhagavadgita",
+      "additional_bibkeys": [],
+      "source_sha256": "3a17861ddf0b97117c65b4804d6074bc53f2b13d8f05d54fd9eadd4e0eae2fcb"
+    },
+    {
+      "source_name": "manu6_92_medhatithi_jha1920_wisdomlib.txt",
+      "bibkey": "jhamanusmriti692",
+      "additional_bibkeys": [],
+      "source_sha256": "baf280bcdde57b6383fa1a5d75b12f17177dc1e2e532215b121d1fa30889c832"
+    },
+    {
+      "source_name": "raja_yoga_vivekananda1899_archive_ocr.txt",
+      "bibkey": "vivekananda1899rajayoga",
+      "additional_bibkeys": [],
+      "source_sha256": "8bad96736e8d0526d2d65ecd0af0775da6ef19b0eccab5c9bfb3c50017d95e38"
+    },
+    {
+      "source_name": "sanatana_dharma_advanced_chc1904_archive_ocr.txt",
+      "bibkey": "centralhinducollege1904sanatana",
+      "additional_bibkeys": [],
+      "source_sha256": "5b1604549a3b435c498ccbc7448bf10a0b9328e81f894ae3290540e00f59ade6"
+    },
+    {
+      "source_name": "sanatana_dharma_elementary_chc1916_archive_ocr.txt",
+      "bibkey": "centralHinduCollege1916sanatanaElementary",
+      "additional_bibkeys": [],
+      "source_sha256": "877cc12a00c3d027ba4fc47c10d68ce990f1d16ff2b0137dfb66e8b48f66e56e"
+    },
+    {
+      "source_name": "ghazali_disciplining_soul_winter1995_its.txt",
+      "bibkey": "winter1995ghazalidisciplining",
+      "additional_bibkeys": [],
+      "source_sha256": "0d9e7f6e8188ee75704cf42757b820d835955611bcfbee66d8be83c756230d5f"
+    },
+    {
+      "source_name": "ghazali_winter1995_four_roots_excerpt.txt",
+      "bibkey": "winter1995ghazalidisciplining",
+      "additional_bibkeys": [],
+      "source_sha256": "f809018e3771988777cce9c222e5d0cf7e306ae72c13fe272ef88f83799cc371"
+    },
+    {
+      "source_name": "gulistan_sadi_ross_gutenberg13060.txt",
+      "bibkey": "ross1900gulistan",
+      "additional_bibkeys": [],
+      "source_sha256": "5b506afa0c9e5ba973f1b6b47ca858d3d211a54df5a6059fccf5ea339fdd4334"
+    },
+    {
+      "source_name": "maarif_quran16_90_selected.txt",
+      "bibkey": "shafimaarif1690",
+      "additional_bibkeys": [],
+      "source_sha256": "7f7c6701fb6f4d67b438b47245324446a15717eb4fb5bcc4ff39ce4f4fb5b008"
+    },
+    {
+      "source_name": "quran_yusuf_ali_gutenberg16955_selections.txt",
+      "bibkey": "yusufali2005quranselection",
+      "additional_bibkeys": [],
+      "source_sha256": "1c11c7c5a4f98f1a824a7c89ab63120c0a2b71d910a1b67c7a23652f909911da"
+    },
+    {
+      "source_name": "yusuf_ali1934_commentary_selected.txt",
+      "bibkey": "yusufali1937holyquran1",
+      "additional_bibkeys": [
+        "yusufali1937holyquran2",
+        "yusufaliholyquran3"
+      ],
+      "source_sha256": "f133b2b3e5ee88c24841effde4885308439a085877c7993f2d233d1bb513216c"
+    },
+    {
+      "source_name": "bartenura_avot_1_18_sefaria.txt",
+      "bibkey": "bartenuraavotcommunity",
+      "additional_bibkeys": [],
+      "source_sha256": "773a44dab89d4791495c79adbc9e0f34c40927ce08d31a617c357218c9176a52"
+    },
+    {
+      "source_name": "bartenura_avot_1_2_sefaria.txt",
+      "bibkey": "bartenuraavotcommunity",
+      "additional_bibkeys": [],
+      "source_sha256": "69d89150785517d7faa4b353112d801419da21ccd0a289e28f3c4b4f8cc6b4e9"
+    },
+    {
+      "source_name": "cheshbon_hanefesh_lefin_english_trans.txt",
+      "bibkey": "lefin1995cheshbon",
+      "additional_bibkeys": [],
+      "source_sha256": "39545c4caff49cd7709395c5af50a95b14ee16bdf7b5f998cc81f4eb8ebaf867"
+    },
+    {
+      "source_name": "mesillat_yesharim_sebag_sefaria_full.txt",
+      "bibkey": "sebagmesillatyesharim",
+      "additional_bibkeys": [],
+      "source_sha256": "02bc321640747fe1a58f6b123800d106338ac5d41f635813377160059ae5271a"
+    },
+    {
+      "source_name": "pirkei_avot_4_sefaria.txt",
+      "bibkey": "kulpavot",
+      "additional_bibkeys": [],
+      "source_sha256": "c19ec7381515b58b4dda0fe1efde713387bdc1af33fb17a7a22422a2a92c2b11"
+    },
+    {
+      "source_name": "pirkei_avot_complete_kulp_sefaria.txt",
+      "bibkey": "kulpavot",
+      "additional_bibkeys": [],
+      "source_sha256": "73e45f212e850d2035daba7ea88680161d18a4fdaf5b41d41cced4f9259e0e51"
+    },
+    {
+      "source_name": "rapaport1907_sacred_texts2003_transcription.txt",
+      "bibkey": "rapaport1907tales",
+      "additional_bibkeys": [],
+      "source_sha256": "be5840a2af94a8f9518a232774a32f405795fb8fbb7c05535887af890f162420"
+    },
+    {
+      "source_name": "cfu_lienu_zhuan_kinney2014.txt",
+      "bibkey": "kinney2014exemplary",
+      "additional_bibkeys": [],
+      "source_sha256": "0b1a5c604b5e1cf63e6ff2dffc1a27fc0ca583d76fac3214e724de219f955191"
+    },
+    {
+      "source_name": "cfu_xunzi_hutton2014.txt",
+      "bibkey": "hutton2014xunzi",
+      "additional_bibkeys": [],
+      "source_sha256": "1522ac4f9c634b36851afa4a17766b7bc66ebd33f43fff8ca09d56a35e2fa1ce"
+    },
+    {
+      "source_name": "pigliucci_happy_skeptic2026.txt",
+      "bibkey": "pigliucci2026happySkeptic",
+      "additional_bibkeys": [],
+      "source_sha256": "9428143a1b30b35a49783b6012289c109f7d0a2a243c9822c98b4ca898c2169d"
+    },
+    {
+      "source_name": "seneca_six_pack_classics4_2016.txt",
+      "bibkey": "senecaHolland2016sixPack",
+      "additional_bibkeys": [],
+      "source_sha256": "c1cf4e756f460bd037eb2e1f01f4bcbe53beb3072144706940ca69e3396eb0fe"
+    },
+    {
+      "source_name": "syn_lushi_chunqiu_knoblock2000.txt",
+      "bibkey": "knoblock2000the",
+      "additional_bibkeys": [],
+      "source_sha256": "e8dac5b2400c8db5882f77e49f24024ef375a379ed72434deca4b1975daef2d2"
+    },
+    {
+      "source_name": "tao_huainanzi_major2010.txt",
+      "bibkey": "major2010the",
+      "additional_bibkeys": [],
+      "source_sha256": "979a228df920c39502aef6b19bec70042dbadf78f3458a41a8da227235ee7d72"
+    },
+    {
+      "source_name": "tao_shenxian_zhuan_campany2002.txt",
+      "bibkey": "campany2002to",
+      "additional_bibkeys": [],
+      "source_sha256": "ce3aca68f415573df85e5a5622b02672202c01575906f2a47efb6e21ebd803c2"
+    },
+    {
+      "source_name": "tao_wenzi_cleary1991.txt",
+      "bibkey": "cleary2013wentzu",
+      "additional_bibkeys": [],
+      "source_sha256": "f49ef52de3d28216ed6f8708b1fd8c35afe72ad32c3694dc54222baaed501c8a"
+    },
+    {
+      "source_name": "tao_zhuangzi_watson2013.txt",
+      "bibkey": "watson2013the",
+      "additional_bibkeys": [],
+      "source_sha256": "9554073a5f77b5db4aaa993351804207c61b1126a955259b0fb835964cf33480"
+    },
+    {
+      "source_name": "hursthouse_on_virtue_ethics.txt",
+      "bibkey": "source-hursthouse-on-virtue-ethics-ea1a4b9d",
+      "additional_bibkeys": [],
+      "source_sha256": "d97b764d8a83304bd46fe814d3595b68111c71fd4451795354d63d598c6e1889"
+    },
+    {
+      "source_name": "ross_right_and_good1930_archive_ocr.txt",
+      "bibkey": "source-ross-right-and-good1930-archive-ocr-b7601f22",
+      "additional_bibkeys": [],
+      "source_sha256": "6c5a7ed31b3f8bc231b3d6176b541011c214bf3311cdeca56d1c37e0eab02668"
+    },
+    {
+      "source_name": "ross_right_and_good1930_print_checked_excerpts.txt",
+      "bibkey": "source-ross-right-and-good1930-print-checked-excerpts-a175c16f",
+      "additional_bibkeys": [],
+      "source_sha256": "0d1a56d864bcb9f115ff5537629a0e226d10c811d73dacbd754565a3113eea25"
+    },
+    {
+      "source_name": "singer_practical_ethics2011.txt",
+      "bibkey": "source-singer-practical-ethics2011-9eb71851",
+      "additional_bibkeys": [],
+      "source_sha256": "29c59262dd521bb0a6f4a6424e4af2cf5f295827821bc206ab278f58871deec7"
+    },
+    {
+      "source_name": "bud_bigandet_v1_1880_gutenberg34578.txt",
+      "bibkey": "1911the",
+      "additional_bibkeys": [],
+      "source_sha256": "f7637c864a0c693d4728908016bc73526d87d8ce704c33ef27f775f02b8af57d"
+    },
+    {
+      "source_name": "bud_bigandet_v2_1880.txt",
+      "bibkey": "1880the",
+      "additional_bibkeys": [],
+      "source_sha256": "621d8f1235b86f00336fd204d3ce794a30081282b681deedebe114ba78110b1f"
+    },
+    {
+      "source_name": "bud_digha_v1_rhysdavids1899.txt",
+      "bibkey": "rhysdavids1899dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "61d5d98942bd01c314249936918300b3a29f1511f7a377f502e51f3387161dce"
+    },
+    {
+      "source_name": "bud_digha_v2_rhysdavids1910.txt",
+      "bibkey": "rhysdavids1910dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "3d229dec18ea349ce378b512521324b65c7cf37a30c42691d5bb587df21e534f"
+    },
+    {
+      "source_name": "bud_digha_v3_rhysdavids1921.txt",
+      "bibkey": "rhysdavids1921dialogues",
+      "additional_bibkeys": [],
+      "source_sha256": "e92f36123c37e22e2d20dc0ad76a1a374304501d72bf18f4fdfe5d6789e04bdd"
+    },
+    {
+      "source_name": "bud_hardy_manual_of_budhism1853.txt",
+      "bibkey": "1853a",
+      "additional_bibkeys": [],
+      "source_sha256": "300c280914273c143526689df61b8eaa09870de965177aa264b4110afd838ad8"
+    },
+    {
+      "source_name": "bud_kindred_sayings_v1_rhysdavids1917.txt",
+      "bibkey": "rhysdavids1917the",
+      "additional_bibkeys": [],
+      "source_sha256": "edb06695b3e4110c23f05593917558e81dd479bf3377e30dd89e7510e9f751d9"
+    },
+    {
+      "source_name": "bud_mahavamsa_geiger1912.txt",
+      "bibkey": "geiger1912the",
+      "additional_bibkeys": [],
+      "source_sha256": "6e47ced7a51c010756701dd94f38c56eea3a1ce3d1130d0b6a6eacd29556adc6"
+    },
+    {
+      "source_name": "bud_majjhima_chalmers1926.txt",
+      "bibkey": "chalmers1926further",
+      "additional_bibkeys": [],
+      "source_sha256": "50b511fa4cf9e56cb9b97589f4e75264f6cf1d3d77cc08a58fb59a7b5fb5ede6"
+    },
+    {
+      "source_name": "bud_theragatha_psalms_brethren_rhysdavids1913.txt",
+      "bibkey": "rhysdavids1913psalms",
+      "additional_bibkeys": [],
+      "source_sha256": "02781a11a0add740d8ecee909e7a920f3cc06b42fef6e965d3857da7cdaa04b6"
+    },
+    {
+      "source_name": "bud_therigatha_psalms_sisters_rhysdavids1909.txt",
+      "bibkey": "rhysdavids1909psalms",
+      "additional_bibkeys": [],
+      "source_sha256": "7acf299d056a2df866626441d00c1db9a8781a93e5dceb28b791bfcaee1160e0"
+    },
+    {
+      "source_name": "cfu_filial_duty_chen1908.txt",
+      "bibkey": "chen1908the",
+      "additional_bibkeys": [],
+      "source_sha256": "55244bacbcf88753cf90b796d018a8cddd6eb925ef6de973f84b77c393394f6f"
+    },
+    {
+      "source_name": "cfu_typical_women_safford1891.txt",
+      "bibkey": "safford1891typical",
+      "additional_bibkeys": [],
+      "source_sha256": "2a52931b60434f57473dacb1d1982a30926c819c6b821fb25a8eb6f9830b54aa"
+    },
+    {
+      "source_name": "cfu_xunzi_dubs1928.txt",
+      "bibkey": "dubs1928the",
+      "additional_bibkeys": [],
+      "source_sha256": "d1a0da29e2e63f0ea66e87a61861bb691b7c879922069f7ebe7da3cb357426b1"
+    },
+    {
+      "source_name": "cfu_zuozhuan_legge1872_p1.txt",
+      "bibkey": "legge1872thea",
+      "additional_bibkeys": [],
+      "source_sha256": "f14fa0e8f7aad345d4b675bdbe855c63e2cff0460389233d72df5a8fe75cac66"
+    },
+    {
+      "source_name": "cfu_zuozhuan_legge1872_p2.txt",
+      "bibkey": "legge1872theb",
+      "additional_bibkeys": [],
+      "source_sha256": "4e0442e58422f94750a23d2ced464af3d4bb53daef5b56461b15003d7d2b85ef"
+    },
+    {
+      "source_name": "chr_adomnan_columba_fowler1895.txt",
+      "bibkey": "fowler1895life",
+      "additional_bibkeys": [],
+      "source_sha256": "10760d365c427a19a455a7229de0339ee90b1870b3d07c6c6cb58b0937096288"
+    },
+    {
+      "source_name": "chr_bede_sellar1907.txt",
+      "bibkey": "sellar1907bedes",
+      "additional_bibkeys": [],
+      "source_sha256": "977da0babf070c825befb0a5db65a9cc2440d9ab45aa869a959c1bab911be2c8"
+    },
+    {
+      "source_name": "chr_catechism_made_easy_v3_gibson.txt",
+      "bibkey": "gibson1877catechism3",
+      "additional_bibkeys": [],
+      "source_sha256": "55b9212cf840afa576204020600787d27e6b2fa52c4594f854d8e5e74c7bb825"
+    },
+    {
+      "source_name": "chr_celano_second_life_howell1908.txt",
+      "bibkey": "howell1908the",
+      "additional_bibkeys": [],
+      "source_sha256": "e9657db8312146397d0c60e0bc3396f60fd331573c3bc8103db7bfc3d7794f4f"
+    },
+    {
+      "source_name": "chr_eugippius_severinus1914.txt",
+      "bibkey": "robinson1914the",
+      "additional_bibkeys": [],
+      "source_sha256": "8e58e6a85c32bec86f1df95d7ab52cbbe49bb163683d14c62a4e55a58d583815"
+    },
+    {
+      "source_name": "chr_golden_legend_v1.txt",
+      "bibkey": "ellis1900thea",
+      "additional_bibkeys": [],
+      "source_sha256": "e0fb1d5c3addedbab1685e8e7beef43f0e4df9e5f15dd8098270b26c32c43c14"
+    },
+    {
+      "source_name": "chr_golden_legend_v2.txt",
+      "bibkey": "caxton1900the",
+      "additional_bibkeys": [],
+      "source_sha256": "2c099413d7ebbd86671267a9e56b4f17105d16847b2d38374bf61ebb68ef6264"
+    },
+    {
+      "source_name": "chr_golden_legend_v3.txt",
+      "bibkey": "ellisthea",
+      "additional_bibkeys": [],
+      "source_sha256": "a235d104cbc7f6603b30b2f6facf3a7c3d26ead08fa43532e3355ceb8b9548f0"
+    },
+    {
+      "source_name": "chr_golden_legend_v4.txt",
+      "bibkey": "caxtonthea",
+      "additional_bibkeys": [],
+      "source_sha256": "f813732215bd65d53936663d92005ef8f14c6422d9c3ff7eb783647263ef7d48"
+    },
+    {
+      "source_name": "chr_golden_legend_v5.txt",
+      "bibkey": "ellistheb",
+      "additional_bibkeys": [],
+      "source_sha256": "0a918f8c969a12ebc083bd6a8c43bec4027431047910e298bd57205fc546cbdd"
+    },
+    {
+      "source_name": "chr_golden_legend_v7.txt",
+      "bibkey": "ellis1900theb",
+      "additional_bibkeys": [],
+      "source_sha256": "e3b2aa37b5ffd1cee254a5f7f4353fc27d478d70f86dde28b7a2ade82eff4181"
+    },
+    {
+      "source_name": "chr_gregory_dialogues_gardner1911.txt",
+      "bibkey": "gardner1911the",
+      "additional_bibkeys": [],
+      "source_sha256": "b2a5bdced6ad033eb78fc2caa7d4d52820dd6bb7c6764b694eda60cb0ba3212a"
+    },
+    {
+      "source_name": "chr_john_of_ephesus_brooks1923.txt",
+      "bibkey": "brooks1923lives",
+      "additional_bibkeys": [],
+      "source_sha256": "3148c20eed787ce3e5b3bac1666f2bef124fb4b538e1a316ccc4e6ec80af131a"
+    },
+    {
+      "source_name": "chr_npnf2_v11_cassian_sulpitius1894.txt",
+      "bibkey": "schaff1894sulpitius",
+      "additional_bibkeys": [],
+      "source_sha256": "e126ee0999172bd63a654df67df276e8705f364af6fa7a7be877836225241e03"
+    },
+    {
+      "source_name": "chr_thomas_of_marga_budge1893.txt",
+      "bibkey": "budge1893the",
+      "additional_bibkeys": [],
+      "source_sha256": "a75341a7665870a9edb62e20b0f53072bd2be62fe857175501925136528766e0"
+    },
+    {
+      "source_name": "ethical_injunctions_lwseq.txt",
+      "bibkey": "yudkowsky2018ethicalInjunctionsSequence",
+      "additional_bibkeys": [],
+      "source_sha256": "b69e05db2bf272fe4462d01256cc96e40c44270c59ec91efc08abae937380e8a"
+    },
+    {
+      "source_name": "notes_on_virtues_lwseq.txt",
+      "bibkey": "gross2021notesOnVirtuesSequence",
+      "additional_bibkeys": [],
+      "source_sha256": "394a4f97fe1a540b723eb813040c6703a9f2c10ee7c73e2baea470311d9ef5fa"
+    },
+    {
+      "source_name": "torture_dust_specks_yudkowsky2007_api.md",
+      "bibkey": "yudkowsky2007tortureDustSpecks",
+      "additional_bibkeys": [],
+      "source_sha256": "bab5028362ce391c06a063d79ca62246047dfbda82fa3f9d268c7c1a6f3b35ae"
+    },
+    {
+      "source_name": "twelve_virtues_yudkowsky2006_lesswrong.md",
+      "bibkey": "yudkowsky2006twelvevirtues",
+      "additional_bibkeys": [],
+      "source_sha256": "e280b37fa8e929a43250645e04917a6affbd4e2fdc5ea69d3ff27b300f9e667a"
+    },
+    {
+      "source_name": "cicero_delphi_miller.md",
+      "bibkey": "miller1913the",
+      "additional_bibkeys": [],
+      "source_sha256": "8fb52a6ad8f50c829892745f4b70a9fcedd59931d548782ea176b00cfcbc7082"
+    },
+    {
+      "source_name": "diogenes_laertius_book7_wikisource.txt",
+      "bibkey": "hicks1925diogenesBookVII",
+      "additional_bibkeys": [],
+      "source_sha256": "465c25229f10f18a15be6c7c2de7a8ae3ab53f9d7b9e67e3a0b4e2f8b2acffd9"
+    },
+    {
+      "source_name": "epictetus_oldfather_delphi.md",
+      "bibkey": "long2018the",
+      "additional_bibkeys": [],
+      "source_sha256": "cb072774c2a6a7e74edb30d6c44e02ee6a9e4ad2ea6a94bda1d1b1ce3ade458d"
+    },
+    {
+      "source_name": "plutarch_shilleto1888_morals.txt",
+      "bibkey": "shilleto1898plutarchs",
+      "additional_bibkeys": [],
+      "source_sha256": "44a89a486fa3d5f3201ef44a7bd3d636662d427fee95197cbfbcad280354a5fa"
+    },
+    {
+      "source_name": "seneca_gummere_letter37_delphi_excerpt.md",
+      "bibkey": "source-seneca-gummere-letter37-delphi-excerpt-0194e024",
+      "additional_bibkeys": [],
+      "source_sha256": "93d69c93780984e9724c4109f69bfb7e1f4c66b2140be657e2fa86b2057a2c95"
+    },
+    {
+      "source_name": "seneca_on_benefits_delphi.md",
+      "bibkey": "griffin2011on",
+      "additional_bibkeys": [],
+      "source_sha256": "169ca1ab28222d73a1b2820bbddd42a613cba151c05c0a9a52e3b600285aea61"
+    },
+    {
+      "source_name": "stoic_six_pack2_musonius.txt",
+      "bibkey": "2015stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "c337fa8e20575b79650ede0a5fda1a08e58d5e337638b3cf027b2ab7ed478526"
+    },
+    {
+      "source_name": "a_guide_to_the_good_life_the_ancient_art_william_braxton_irvine.md",
+      "bibkey": "irvine2009a",
+      "additional_bibkeys": [],
+      "source_sha256": "174b65011273f08052a81ea10a60fa44e49f57f8639eb1eb721387786b5e3eae"
+    },
+    {
+      "source_name": "a_handbook_for_new_stoics_how_to_thrive_i_massimo_pigliucci.md",
+      "bibkey": "2019a",
+      "additional_bibkeys": [],
+      "source_sha256": "d2d2539450c6d911e398990ef100558f0c4d575617e25e5a40542a50a4b59d53"
+    },
+    {
+      "source_name": "breakfast_with_seneca_david_fideler.md",
+      "bibkey": "fideler2022breakfast",
+      "additional_bibkeys": [],
+      "source_sha256": "482b9fd1e05ac2a45a68d6a93bc038e6e6f49a82af83ae98c64a2849da2634a4"
+    },
+    {
+      "source_name": "cato_chronicles_massimo_pigliucci.md",
+      "bibkey": "2017the",
+      "additional_bibkeys": [],
+      "source_sha256": "feaa4920951bb6b488223f73427ace568b0f00199cebdcfe454717b11ccdf027"
+    },
+    {
+      "source_name": "complete_works_of_seneca_delphi_classics_lucius_annaeus_seneca.md",
+      "bibkey": "stewart2014the",
+      "additional_bibkeys": [],
+      "source_sha256": "78132b9be71b820312308493f2a69bc4609dea29512ec66ef99ea88b8a9b36e1"
+    },
+    {
+      "source_name": "delphi_complete_works_of_cicero_cicero.txt",
+      "bibkey": "miller1913the",
+      "additional_bibkeys": [],
+      "source_sha256": "87459a3ae8db9e97da8abe55480bb8556f291a305a45804d320d27e950f1a62f"
+    },
+    {
+      "source_name": "how_to_be_a_leader_plutarch.md",
+      "bibkey": "beneker2019how",
+      "additional_bibkeys": [],
+      "source_sha256": "637fd4f6e1aa676eabfaaa078719b746db8aa3f7a6c5b1f431aea48e7264e971"
+    },
+    {
+      "source_name": "how_to_be_a_stoic_massimo_pigliucci.md",
+      "bibkey": "2017how",
+      "additional_bibkeys": [],
+      "source_sha256": "d9ab96f27ef429e6982c1d26f4bc43d7f12c73013b96acdb0f39462d0bd82279"
+    },
+    {
+      "source_name": "how_to_think_like_a_roman_emperor_the_sto_donald_j_robertson.md",
+      "bibkey": "2019how",
+      "additional_bibkeys": [],
+      "source_sha256": "6fd4abe47932251b7d2d8a884deb3520b12be5fe60e37e1bc41ffe4f4168856b"
+    },
+    {
+      "source_name": "letters_on_ethics_to_lucilius_lucius_annaeus_seneca_translated_by_marga_and_aalong.md",
+      "bibkey": "graver2015letters",
+      "additional_bibkeys": [],
+      "source_sha256": "89ec54d167144873b16e9a2af8301679d2ae70f70fff00b9f39451fe5553996d"
+    },
+    {
+      "source_name": "lives_of_the_stoics_the_art_of_living_fro_ryan_holiday.md",
+      "bibkey": "holiday2020lives",
+      "additional_bibkeys": [],
+      "source_sha256": "90176258c17868e50d5821f85630cc1ec4f7fc27edcb38ea1f414516dbeb460d"
+    },
+    {
+      "source_name": "practical_stoicism_grey_freeman.md",
+      "bibkey": "20172019practical",
+      "additional_bibkeys": [],
+      "source_sha256": "22e582abe6f632b7dad9770801514f8ba56e011609f60ee052a78f3201f7cc41"
+    },
+    {
+      "source_name": "stoic_lessons_musonius_rufus_complete_wo_chakrapani_chuck.md",
+      "bibkey": "chakrapani2018stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "f6b8d71061e33b902770715198809fab99ad94e7d5305a0f5021a05c2e18d0ba"
+    },
+    {
+      "source_name": "stoic_week_2012_live_like_a_stoic_ia_mirror.txt",
+      "bibkey": "modernstoicism2012living",
+      "additional_bibkeys": [],
+      "source_sha256": "47b9980135321fedb3b294442960036fe29201c0084936ea6efc5ba058c32aac"
+    },
+    {
+      "source_name": "stoic_week_2013_handbook.txt",
+      "bibkey": "2013the",
+      "additional_bibkeys": [],
+      "source_sha256": "5dc379618a986e7bfa9f808bcfe9b7160f3ca2ba494ca2a77c08e8737579158d"
+    },
+    {
+      "source_name": "stoic_week_for_students_handbook.txt",
+      "bibkey": "modernstoicism2022stoic",
+      "additional_bibkeys": [],
+      "source_sha256": "795da414528907eb249e1aed93e3f91d70f728edd17e5f08efdb4897e69dbce1"
+    },
+    {
+      "source_name": "stoicism_for_inner_peace_einzelganger.md",
+      "bibkey": "vaz2021stoicism",
+      "additional_bibkeys": [],
+      "source_sha256": "701c28740d21b24b54c2b928fee62af13ecf4b109d38596959d69288d61aec50"
+    },
+    {
+      "source_name": "the_practicing_stoic_ward_farnsworth.md",
+      "bibkey": "2018the",
+      "additional_bibkeys": [],
+      "source_sha256": "2e0530e5ab06886dbad55efbac5c5dc81591648070022350d77dae658da91349"
+    },
+    {
+      "source_name": "the_stoic_emergency_kit_massimo_pigliucci.md",
+      "bibkey": "pigliucci2020thea",
+      "additional_bibkeys": [],
+      "source_sha256": "8af0cbdd9e399ff119923dbb4edeb11ca03eaa4463c1c1445f00ce769b5261c2"
+    },
+    {
+      "source_name": "the_stoic_guide_to_a_happy_life_massimo_pigliucci.md",
+      "bibkey": "pigliucci2020theb",
+      "additional_bibkeys": [],
+      "source_sha256": "e988c1d52b09a6e4b423398b786ed15bb490c2f29e4defb79c72ecad39ff8174"
+    },
+    {
+      "source_name": "bokenkamp1997_xianger_commentary.txt",
+      "bibkey": "bokenkamp1997early",
+      "additional_bibkeys": [],
+      "source_sha256": "622046c557a8caae5b88aba55bc601058ba5d5ffd0808c31718f3d35f061a7bc"
+    },
+    {
+      "source_name": "ganying_jizhu_wikisource_rev2569346.txt",
+      "bibkey": "source-ganying-jizhu-wikisource-rev2569346-83115af5",
+      "additional_bibkeys": [],
+      "source_sha256": "429924d9097ef555304ca0b3ac5e343d3aaeb3b4ae2bd20a3baeaa48384f351b"
+    },
+    {
+      "source_name": "ganying_zhijiang_wikisource_rev1445117.txt",
+      "bibkey": "source-ganying-zhijiang-wikisource-rev1445117-cb5292ca",
+      "additional_bibkeys": [],
+      "source_sha256": "88266cf579447181c8e405e022076765aebc647a0cc30dc621a7a7519def38a7"
+    },
+    {
+      "source_name": "kan_ying_pien_suzuki_carus1906_archive_ocr.txt",
+      "bibkey": "suzuki1906taishang",
+      "additional_bibkeys": [],
+      "source_sha256": "7e1ea24df0f4dc12186f8e3058ea84f7f8e4c52b7e42e79194ebd4812254473a"
+    },
+    {
+      "source_name": "kan_ying_pien_suzuki_carus_archive_dli243003_witness.txt",
+      "bibkey": "source-kan-ying-pien-suzuki-carus-archive-dli243003-witness-f77b1997",
+      "additional_bibkeys": [],
+      "source_sha256": "9e00f607dd60d68bf39ac90d157139067d5e044591bb96f3552f16e35eba043d"
+    },
+    {
+      "source_name": "laojun_jiejing_wikisource_20261018.txt",
+      "bibkey": "taishangLaojunJiejingWikisource",
+      "additional_bibkeys": [],
+      "source_sha256": "c3d0c71f8824f8f4bca6ed27211764bf14f3ad12114e15727d3d5cba78809a35"
+    },
+    {
+      "source_name": "laozi_xianger_zhu_wikisource_rev2607101.txt",
+      "bibkey": "source-laozi-xianger-zhu-wikisource-rev2607101-c0cabb9a",
+      "additional_bibkeys": [],
+      "source_sha256": "3736a4622888d9e2a3d81c1abdd9112a0ed8d9912f7402d3eca91eddf736561f"
+    },
+    {
+      "source_name": "liezi_graham1960_corrected_case_order.txt",
+      "bibkey": "graham1990the",
+      "additional_bibkeys": [],
+      "source_sha256": "3ac881e9e2d998405f64b79a8f2ed548b94b0b86ed5c2ec73c6c5ab2b0fc58e0"
+    },
+    {
+      "source_name": "liezi_graham1960_reading_order.txt",
+      "bibkey": "graham1990the",
+      "additional_bibkeys": [],
+      "source_sha256": "f4b606e5c0b2dc6cfef4a8367092bb8591caae8a193828a3c7d3aa6f4e5220cf"
+    },
+    {
+      "source_name": "tao_te_ching_legge1891_gutenberg216.txt",
+      "bibkey": "legge1995taotehking",
+      "additional_bibkeys": [],
+      "source_sha256": "041568f8dfef3ac6c2deb7699756f9d26d6aa8669647f4ce611b0ed4a95b0db6"
+    },
+    {
+      "source_name": "taoist_texts_balfour1884_archive_ocr.txt",
+      "bibkey": "1884taoist",
+      "additional_bibkeys": [],
+      "source_sha256": "c572d6ee2159fd797fa914479f4ed1dd47678a42d951f7625970a02ebf63f75c"
+    },
+    {
+      "source_name": "yin_chih_wen_suzuki_carus1906_archive_ocr.txt",
+      "bibkey": "suzuki1906yin",
+      "additional_bibkeys": [],
+      "source_sha256": "2dc77c1d070b86c01066cf894c28d54128dbb7628d95d9007c8c4f3e2700acf7"
+    },
+    {
+      "source_name": "syn_lushi_chunqiu_knoblock2000.txt",
+      "bibkey": "knoblock2000the",
+      "additional_bibkeys": [],
+      "source_sha256": "e8dac5b2400c8db5882f77e49f24024ef375a379ed72434deca4b1975daef2d2"
+    },
+    {
+      "source_name": "tao_huainanzi_major2010.txt",
+      "bibkey": "major2010the",
+      "additional_bibkeys": [],
+      "source_sha256": "979a228df920c39502aef6b19bec70042dbadf78f3458a41a8da227235ee7d72"
+    },
+    {
+      "source_name": "tao_shenxian_zhuan_campany2002.txt",
+      "bibkey": "campany2002to",
+      "additional_bibkeys": [],
+      "source_sha256": "ce3aca68f415573df85e5a5622b02672202c01575906f2a47efb6e21ebd803c2"
+    },
+    {
+      "source_name": "tao_wenzi_cleary1991.txt",
+      "bibkey": "cleary2013wentzu",
+      "additional_bibkeys": [],
+      "source_sha256": "f49ef52de3d28216ed6f8708b1fd8c35afe72ad32c3694dc54222baaed501c8a"
+    },
+    {
+      "source_name": "tao_zhuangzi_watson2013.txt",
+      "bibkey": "watson2013the",
+      "additional_bibkeys": [],
+      "source_sha256": "9554073a5f77b5db4aaa993351804207c61b1126a955259b0fb835964cf33480"
+    },
+    {
+      "source_name": "taoist_texts_balfour1884_archive_ocr.txt",
+      "bibkey": "1884taoist",
+      "additional_bibkeys": [],
+      "source_sha256": "c572d6ee2159fd797fa914479f4ed1dd47678a42d951f7625970a02ebf63f75c"
+    },
+    {
+      "source_name": "twenty_two_goblins_ryder1917_gutenberg52309.txt",
+      "bibkey": "ryder1917twentytwo",
+      "additional_bibkeys": [],
+      "source_sha256": "9cefdf555b0d1c6d4b63d6e455368d39b039e75bdc4ad32016309528e9ad8fe7"
+    },
+    {
+      "source_name": "udana_sujato_paras.txt",
+      "bibkey": "sujatoudana",
+      "additional_bibkeys": [],
+      "source_sha256": "c2700976c6b15bfa8d24b3b4d68f10cce11c49ba0924624069d4fee46cb28eff"
+    },
+    {
+      "source_name": "vinaya_khandhaka_brahmali_paras.txt",
+      "bibkey": "brahmalivinayaa",
+      "additional_bibkeys": [],
+      "source_sha256": "e250428665add3859596ecab12ff920baf169d527c7225adcfc0adaab16cc194"
+    },
+    {
+      "source_name": "vinaya_suttavibhanga_bhikkhu_brahmali_paras.txt",
+      "bibkey": "brahmalivinayab",
+      "additional_bibkeys": [],
+      "source_sha256": "3b3816632b69624812354609a98c2c5d47e813d84f7eebb9992b21e6226b2a50"
+    },
+    {
+      "source_name": "vinaya_suttavibhanga_bhikkhuni_brahmali_paras.txt",
+      "bibkey": "brahmalitheravada",
+      "additional_bibkeys": [],
+      "source_sha256": "2297476e35d22576939f4f87b7c4f16ace538a189ce264034887196d597e6f6d"
+    },
+    {
+      "source_name": "yin_chih_wen_suzuki_carus1906_archive_ocr.txt",
+      "bibkey": "suzuki1906yin",
+      "additional_bibkeys": [],
+      "source_sha256": "2dc77c1d070b86c01066cf894c28d54128dbb7628d95d9007c8c4f3e2700acf7"
+    },
+    {
+      "source_name": "zhuangzi_giles1889_gutenberg59709.txt",
+      "bibkey": "giles1889chuang",
+      "additional_bibkeys": [],
+      "source_sha256": "71e7d719aa5b75b4cf234fcf02e38e5aa15a327c257ed77950504bfb758ca6c8"
+    }
+  ],
+  "case_context_bibkeys": {
+    "zzh-0546": {
+      "0": [
+        "legge1872thea"
+      ]
+    }
+  }
+}

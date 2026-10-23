@@ -1,0 +1,122 @@
+[
+  {
+    "id": "taoist|zhuangzi_31_four_evils|Avarice",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Avarice",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To insist that you know it all, that everything be done your way, snatching from others and appropriating for your own use—this is called avarice.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "edf8cabe5faf3ac67c2fd7451e04af782bf6593d604c58892172006d8c04cf11",
+    "source_scope": "Zhuangzi 31 four evils (Watson tr.): appropriating others’ affairs, not merely money.",
+    "teaching": [
+      {
+        "quote": "… To insist that you know it all, that everything be done your way, snatching from others and appropriating for your own use—this is called avarice. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The fault overlaps with officiousness, but here the marker is controlling and appropriating.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_four_evils|Avidity",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Avidity",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To be fond of plunging into great undertakings, altering and departing from the old accepted ways, hoping thereby to enhance your merit and fame—this is called avidity.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "edf8cabe5faf3ac67c2fd7451e04af782bf6593d604c58892172006d8c04cf11",
+    "source_scope": "Zhuangzi 31 four evils besetting undertakings (Watson tr.), with the stranger’s role critique.",
+    "teaching": [
+      {
+        "quote": "“As for the four evils that I spoke of, to be fond of plunging into great undertakings, altering and departing from the old accepted ways, hoping thereby to enhance your merit and fame—this is called avidity. … If you do away with the eight faults and avoid committing the four evils, then and only then will you become capable of being taught!”",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "Not all change is avidity. The fame aim is part of the definition.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_four_evils|Bigotry",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Bigotry",
+    "kind": "vice",
+    "rubric_v1_gloss": "“When men agree with you, to commend them; when they disagree with you, to refuse to see any goodness in them even when it is there—this is called bigotry.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "edf8cabe5faf3ac67c2fd7451e04af782bf6593d604c58892172006d8c04cf11",
+    "source_scope": "Zhuangzi 31 four evils (Watson tr.): agreement-based evaluation.",
+    "teaching": [
+      {
+        "quote": "… When men agree with you, to commend them; when they disagree with you, to refuse to see any goodness in them even when it is there—this is called bigotry. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "The fault is not limited to religious hostility. It requires that goodness actually be present and be denied because of disagreement.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "taoist|zhuangzi_31_four_evils|Obstinacy",
+    "tradition": "taoist",
+    "list_key": "zhuangzi_31_four_evils",
+    "list_name": "Zhuangzi's four evils (四患, ch. 31)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Obstinacy",
+    "kind": "vice",
+    "rubric_v1_gloss": "“To see your errors but refuse to change, to listen to remonstrance but go on behaving worse than before—this is called obstinacy.”",
+    "rubric_version": "v2",
+    "rubric_sha256": "edf8cabe5faf3ac67c2fd7451e04af782bf6593d604c58892172006d8c04cf11",
+    "source_scope": "Zhuangzi 31 four evils (Watson tr.), and Confucius’s response in the chapter.",
+    "teaching": [
+      {
+        "quote": "… To see your errors but refuse to change, to listen to remonstrance but go on behaving worse than before—this is called obstinacy. …",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      },
+      {
+        "quote": "… “I am aware of no error of my own, and yet why did I fall victim to these four persecutions?” … Confucius once more bowed twice, straightened up, and said, … “I would like to be allowed to go there, receive instruction, and at last learn the Great Way!”",
+        "citation": "Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking"
+      }
+    ],
+    "limits": "Disagreeing with a remonstrance one judges mistaken is not shown by the source to be obstinacy. The source leaves this case open.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "imported_draft_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]

@@ -1,0 +1,363 @@
+# Buddhist: The ten wrong and right courses of action (dasa akusala / kusala kammapatha)
+
+## Abstaining from bitter speech
+
+MN41 third verbal course, in both translations, qualified by MN58 (Chalmers), where the Buddha describes when the truth-finder speaks displeasing words.
+
+> Abandoning harsh speech, he becomes one who abstains from harsh speech: he becomes a speaker of such words as are **innocent, pleasing to the ear and lovable**, as go to the heart, are civil, desired of many and dear to many.
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+> ... the truth-finder ... never says anything which he knows to be a fact and true, but unprofitable and also displeasing and disagreeable to others; but, should it be a fact and true and profitable, but also displeasing and disagreeable to others, then the truth-finder knows the due season to state it. ... And why ?—Out of pity for creatures.
+
+MN58, tr.Chalmers, Further Dialogues I (1926), pp284–285
+
+So the fact that a hearer dislikes the content does not by itself make speech bitter.
+
+Limits: MN58 concerns the truth-finder, as stated by the Buddha. It is not a license for every correction.
+
+## Abstaining from killing
+
+MN41 bodily righteousness, Chalmers and Ñanamoli translations; addressed to householders of Sālā.
+
+> As regards bodily righteousness, a man (i) puts from him all killing and abstains from killing anything ; **laying aside cudgel and sword, he lives a life of innocence and mercy, full of kindliness and compassion for everything that lives.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Here someone, abandoning the killing of living beings, becomes one who abstains from killing living beings; **with rod and weapon laid aside, gentle and kindly, he abides compassionate to all living beings.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Both translations pair abstention with active kindliness and compassion, not bare non-killing.
+
+Limits: The source does not discuss accidents, meat-eating or defence.
+
+## Abstaining from lies
+
+MN41 first verbal course, framed by witness testimony but extending to trifling gain.
+
+> As regards righteousness in speech, (i) a man puts lying from him and abstains from lies; when cited to give testimony before assembly or village-meeting or family council or royal household or his guild he says that he does not know when he does not, and that he does know when he does, says that he did not see when he did not see and that he saw when he did see, **—never deliberately lying in the interests of himself or of other people or for some trifling gain.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> ... **he does not in full awareness speak falsehood for his own ends or for another's ends or for some trifling worldly end.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: Honest mistakes are outside 'full awareness'. The passage does not demand that one tell everything.
+
+## Abstaining from sensual misconduct
+
+MN41 third bodily course. The protected-partner wording is historical and differs between translations.
+
+> (iii) Putting ... from him all sensual misconduct, he abstains from fornication ; **he has no intercourse with girls under the charge of mother or father or brother or sister or relations, no intercourse with girls affianced and plighted and with the garlands of betrothal upon them.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Abandoning misconduct in sexual desires, he becomes one who abstains from misconduct in sexual desires: **he does not have intercourse with such women as are protected by mother, father, (father and mother), brother, sister, relatives, as have a husband, as entail a penalty, and also those that are garlanded in token of betrothal.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Ñanamoli adds 'have a husband' and 'entail a penalty', which Chalmers omits. Applying this course symmetrically to women is our editorial reading.
+
+Limits: The source states no consent, age or celibacy rules. Do not add them from memory.
+
+## Abstaining from slander
+
+MN41 second verbal course. Slander here means divisive speech, whether true or false.
+
+> (ii) All slander he puts from him ... what he hears here he does not repeat elsewhere so as to set one set of people by the ears, nor does he repeat here what he hears elsewhere so as to set another set of people by the ears; **he is a promoter of harmony and a restorer of amity, for concord is his pleasure, his joy, and his delight.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> ... **who is thus a reuniter of the divided, a promoter of friendships, enjoying concord, rejoicing in concord, delighting in concord, he becomes a speaker of words that promote concord.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: Passing on information without a divisive purpose is not addressed by the text.
+
+## Abstaining from tattle
+
+MN41 fourth verbal course (Chalmers 'tattle'; Ñanamoli 'gossip').
+
+> (iv) No tattler, he abstains from tattle, **speaking in season, according to fact, always of the profitable, of the Doctrine and Rule, in speech which is seasonable and memorable, illuminating, well-marshalled, and of great profit.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> ... as one who tells that which is seasonable, that which is factual, that which is good, that which is the Dhamma, that which is the Discipline, **he speaks in season speech worth recording, which is reasoned, definite and connected with good.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: The source does not say that all ordinary conversation is tattle.
+
+## Bitter speech
+
+MN41 third verbal unrighteousness, in both translations, qualified by MN58 (Chalmers) on displeasing but true, profitable, timely speech. Low score means showing the vice; high means resisting it.
+
+> He speaks harshly: he utters such words as are **rough, hard, hurtful to others**, censorious of others, bordering on anger and unconducive to concentration.
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+> ... the truth-finder ... never says anything which he knows to be a fact and true, but unprofitable and also displeasing and disagreeable to others; but, should it be a fact and true and profitable, but also displeasing and disagreeable to others, then the truth-finder knows the due season to state it. ... And why ?—Out of pity for creatures.
+
+MN58, tr.Chalmers, Further Dialogues I (1926), pp284–285
+
+So unwelcome content alone does not establish the vice.
+
+Limits: MN58 concerns the truth-finder, as stated by the Buddha. It is not a license for every correction.
+
+## Covetousness
+
+MN41 first mental unrighteousness: wishing another's property were one's own. Low score means showing the vice.
+
+> As regards unrighteousness of thought, a man (i) **may be covetous, coveting other people’s gear with the yearning that it were all his own.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Here someone is covetous: he is a coveter of another's chattels and property thus: 'Oh, that what is another's were mine!'
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: General desire is not this item, which is specific to another's property.
+
+## Devoid of covetousness
+
+MN41 first mental course: not wishing that another's property were one's own.
+
+> As regards righteousness in thoughts, (i) **a man is devoid of covetousness, never coveting other people’s gear with the yearning that it were all his own.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Here someone is not covetous: he is not a coveter of another's chattels and property thus: 'Oh, that what is another's were mine!'
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: The text does not condemn every desire, only coveting another's goods.
+
+## Eschewing theft
+
+MN41 bodily righteousness, second course, in both translations.
+
+> (ii) Theft he puts from him and eschews ; **taking from others only what is given to him by them, he lives an honest life.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Abandoning the taking of what is not given, he becomes one who abstains from taking what is not given; **he does not take as a thief another's chattels and property in the village or in the forest.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: The source gives no rules on ownership, debt or found property beyond 'not given'.
+
+## Lying
+
+MN41 first verbal unrighteousness. Low score means showing the vice; high means resisting it.
+
+> Here someone speaks falsehood: when summoned to a court or to a meeting, or to his relatives' presence, or to his guild, or to the royal family's presence, and questioned as a witness thus, 'So, good man, tell what you know,' then, not knowing, he says 'I know,' or knowing, he says 'I do not know,' not seeing, he says 'I see,' or seeing, he says 'I do not see'; **in full awareness he speaks falsehood for his own ends or for another's ends or for some trifling worldly end.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: Overlaps with slander and harsh speech are possible, but the courses remain distinct.
+
+## Malevolence
+
+MN41 second mental unrighteousness: wishing beings destroyed. Low score means showing the vice.
+
+> Or (ii) **he may be malevolent and wicked of heart,—wishing that creatures around him might be killed, destroyed, annihilated, or cease to be.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Or he has a mind of ill-will, with the intention of a mind affected by hate thus: 'May these beings be slain and slaughtered, may they be cut off, perish, or be annihilated!'
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: Angry words belong under bitter speech.
+
+## No malevolence
+
+MN41 second mental course: positive well-wishing, not merely absent hatred.
+
+> (ii) He harbours no malevolence or wickedness of thought ; **his wish is that creatures around him may live on in peace and happiness, safe from all enmity and oppres- sion.**
+
+MN 41, trans. Chalmers (1926)
+
+> He has no mind of ill-will, with the intention of a mind unaffected by hate thus: **'May these beings be free from enmity, affliction and anxiety, may they live happily!'**
+
+MN 41, trans. Nanamoli
+
+<details>
+<summary>the Wolf — Clear evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+seized him and ate him up
+
+Full passage:
+WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf’s right to eat him. He thus addressed him: “Sirrah, last year you grossly insulted me.” “Indeed,” bleated the Lamb in a mournful tone of voice, “I was not then born.” Then said the Wolf, “You feed in my pasture.” “No, good sir,” replied the Lamb, “I have not yet tasted grass.” Again said the Wolf, “You drink of my well.” “No,” exclaimed the Lamb, “I never yet drank water, for as yet my mother’s milk is both food and drink to me.” Upon which the Wolf seized him and ate him up, saying, “Well! I won’t remain supperless, even though you refute every one of my imputations.” The tyrant will always find a pretext for his tyranny.
+
+No-malevolence wishes beings safe from oppression. Wolf intends and accomplishes the Lamb's death, matching ill-will wishing beings slain.
+
+</details>
+
+<details>
+<summary>Lycurgus the Lacedaemonian — Clear evidence that the conduct shows this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre
+
+Full passage:
+What man among us does not admire the saying of Lycurgus the Lacedaemonian? For when he had been blinded in one eye by one of his fellow-citizens, and the people had turned over the young man to him, to take whatever vengeance upon the culprit he might desire, this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre. And when the Lacedaemonians expressed their surprise, he said, “This man when I received him at your hands was insolent and violent; I am returning him to you a reasonable and public-spirited person,”
+
+Instead of harm, he sought offender's betterment and public good, showing well-wishing toward the wrongdoer.
+
+</details>
+
+<details>
+<summary>Yen Hwúi — Neither direction is established by the described conduct.</summary>
+
+Selected act or disposition (quoted from the passage):
+a man whose angry feelings towards any particular person he did not suffer to visit upon another
+
+Full passage:
+When the Duke Ngai inquired which of the disciples were devoted to learning, Confucius answered him, "There was one Yen Hwúi who loved it--a man whose angry feelings towards any particular person he did not suffer to visit upon another; a man who would never fall into the same error twice. Unfortunately his allotted time was short, and he died, and now his like is not to be found; I have never heard of one so devoted to learning."
+
+Angry feelings exist, not positive well-wishing; but no ill-will harm shown. Neither established.
+
+</details>
+
+<details>
+<summary>old man — Some evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+Once, in a fit of anger, he drove him from his cell.
+
+Full passage:
+A  certain  old  man  had  a  faithful  disciple. Once,  in  a  fit  of  anger,  he  drove  him  from  his  cell. The  disciple  waited  all  night  outside  the  door. In  the  morning  the  old  man  opened  it,  and,  when he  saw  him,  was  struck  with  shame,  and  said, "  You are  my  father  now,  because  your  humility  and patience  have  conquered  my  sin.  Come  in  again, and  from  henceforth  be  you  the  elder  and  the father.  I  will  be  the  disciple,  for  you  have  surpassed me,  though  I  am  aged."
+
+Anger shown, but no wish for harm or destruction stated; mild conflict.
+
+</details>
+
+<details>
+<summary>Kaou Pih — Clear evidence that the conduct conflicts with this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room.
+
+Full passage:
+Years back, when the earl of Ch'ing [Woo-shang, duke Chwang, the earl] had wished to make Kaou K'eu-me one of his high ministers, duke Ch'aou [then the earl’s son Hwuh], who disliked Kaou, had remonstrated strongly against such a measure. The earl did not listen to him; but when duke Ch'aou succeeded to the State, Kaou was afraid lest he should put him to death. On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room. A superior man will say that the prince knew the man whom he disliked. Kung-tsze Tah said, “Kaou Pih [Kaou K'eu-me] indeed deserved an evil end! His revenge of an ill done to him was excessive.”
+
+He intends and carries out the duke's death, ill-will wishing beings slain, opposite of wishing safety.
+
+</details>
+
+<details>
+<summary>the old man — Some evidence that the conduct shows this virtue.</summary>
+
+Selected act or disposition (quoted from the passage):
+The old man straightway turned to him the other cheek, that he might smite him upon it also.
+
+Full passage:
+There was a certain hermit renowned among the monks. It happened that there once met him a man possessed by an evil spirit, who struck him violently upon the cheek. The old man straightway turned to him the other cheek, that he might smite him upon it also. The devil was not able to endure the flame of his humility, but immediately departed from him who was possessed.
+
+No ill-will shown toward attacker; positive well-wishing is implied only weakly by the gesture.
+
+</details>
+
+Limits: The text does not address mere irritation. It defines ill-will as wishing beings harm or destruction, and no-malevolence as wishing them peace and happiness.
+
+## Right outlook
+
+MN41 third mental course: affirming giving, fruit of deeds, worlds and realised teachers.
+
+> **He is right in outlook and correct in his conceptions; he affirms that there are indeed such things as alms, sacrifice, and oblations,—as the fruit and harvest of deeds good and bad,—as this and other** ... **worlds,—as parents and translation elsewhere—as recluses and brahmins who ... have, of and by themselves, comprehended and realized this and other worlds and made it all known to others too.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> He has right view, undistorted vision, thus: 'There is what is given and what is offered and what is sacrificed, and there is fruit and ripening of good and bad kammas, and there is this world and the other world and mother and father and spontaneously (born) beings, and good and virtuous monks and brahmans that have themselves realized by direct knowledge and declared this world and the other world.'
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: This is not generic cleverness or opinion. Editorial notes on rebirth are not primary teaching.
+
+## Sensual misconduct (fornication)
+
+MN41 third bodily unrighteousness. Translations differ. Low score means showing the vice; high means resisting it.
+
+> (ili) may be a fornicator, **having intercourse with girls under the charge of mother or father or brother or sister or relations, yes, with girls affianced and plighted, and even wearing the very garlands of betrothal.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> He is given over to misconduct in sexual desires: he has intercourse with such (women) as are protected by the mother, father, (mother and father), brother, sister, relatives, as have a husband, as entail a penalty, and also with those that are garlanded in token of betrothal.
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Ñanamoli includes husbands and penalties, which Chalmers omits. The gender-symmetric application is our editorial reading.
+
+Limits: The source states no consent or age rules. Do not add them.
+
+## Slander
+
+MN41 second verbal unrighteousness: speech meant to divide, not necessarily false. Low score means showing the vice.
+
+> He speaks maliciously: he is a repeater elsewhere of what is heard here for the purpose of causing division from these, or he is a repeater to these of what is heard elsewhere for the purpose of causing division from those, and **he is thus a divider of the united, a creator of divisions, who enjoys discord, rejoices in discord, delights in discord, he is a speaker of words that create discord.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: Repeating information without a divisive purpose is not settled by the passage.
+
+## Taking life
+
+MN41 first bodily unrighteousness. Low score means showing the vice; high means resisting it.
+
+> As regards bodily unrighteousness, a man (1) may take life,—**as a hunter with hands bathed in blood, given to killing and slaying, merciless to living creatures**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> Here someone is a killer of living beings: **he is murderous, bloody-handed, given to blows and violence, and merciless to all living beings.**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: The quoted passages do not address accidents.
+
+## Taking what is not his
+
+MN41 second bodily unrighteousness. Low score means showing the vice; high means resisting it.
+
+> (ii) may take what is not his,—**by appropriating to himself in thievish fashion the belongings of other people in village and jungle**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> He is a taker of what is not given: he takes as a thief another's chattels and property in the village or in the forest.
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: The source gives no detailed property law.
+
+## Tattle
+
+MN 41, the fourth wrong course of speech: talk out of season, without regard to fact, about what leads nowhere, rather than seasonable, factual speech connected with good.
+
+> Or (iv) he may be a tattler,— **talking out of season, without heed to fact, always talking of the unprofitable, never of the Doctrine, never of the Rule, but ever of the trivial, of the ill-timed, of the frivolous, of things leading nowhere, and unprofitable.**
+
+MN41, tr.Chalmers, Further Dialogues I (1926)
+
+> He is a gossip: as one who tells that which is unseasonable, that which is not fact, that which is not good, that which is not the Dhamma, that which is not the Discipline, and he speaks out of season speech not worth recording, which is unreasoned, indefinite, and unconnected with good.
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+> Abandoning gossip, he becomes one who abstains from gossip: as one who tells that which is seasonable, that which is factual, that which is good, that which is the Dhamma, that which is the Discipline, he speaks in season speech worth recording, which is reasoned, definite and connected with good.
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+The two translations draw the factual condition differently. Chalmers has 'without heed to fact', which faults talking without regard to whether something is so; Ñāṇamoli has 'that which is not fact'. Passing on unchecked rumour fits Chalmers' wording even if a rumour happens to be true. Both make timing and connection with good part of the fault, so true but ill-timed, pointless talk can still show the vice.
+
+Limits: The source does not make every casual remark tattle. Chalmers' 'without heed to fact' and Ñāṇamoli's 'not fact' are kept apart: unchecked talk need not be false. The source does not settle whether useful practical speech that is not about the Doctrine or the Rule fully counts as the righteous side; the farmer example rates it only as some resistance.
+
+## Wrong outlook
+
+MN41 third mental unrighteousness: specific denials, not generic opinions. Low score means showing the vice.
+
+> Or he has wrong view, distorted vision, thus: **'There is nothing given, nothing offered, nothing sacrificed, no fruit and ripening of good and bad kammas, no this world, no other world, no mother, no father, no spontaneously (born) beings,[1] no good and virtuous monks and brahmans that have themselves realized by direct knowledge and declare this world and the other world.'**
+
+MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
+
+Limits: Footnote [1] belongs to the editorial layer, not the primary discourse.

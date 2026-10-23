@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hindu|five_common_duties|Harmlessness",
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "Harmlessness",
+    "kind": "virtue",
+    "rubric_v1_gloss": "abstaining from injury to sentient beings.",
+    "rubric_version": "v2",
+    "rubric_sha256": "5527f9d37f9c9326d58d17208ea6ff2a87023d64fd6a883c852f6dfc2fc5248d",
+    "source_scope": "Not injuring living beings in thought, word or deed. Manu's summary lists it first among the duties common to all four castes.",
+    "teaching": [
+      {
+        "quote": "Harmlessness, truth, integrity, purity, control of the senses, saith Manu, is the summarised law for the four castes.",
+        "citation": "Manusmṛti 10.63, as rendered in Central Hindu College, Sanatana Dharma: An Advanced Text Book (1904), p. 318"
+      },
+      {
+        "quote": "Harmlessness : abstaining from injury to sentient beings.",
+        "citation": "Bhagavad Gītā 16.2 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 373"
+      },
+      {
+        "quote": "By thought, word, and deed, always, and in every living being, not producing pain is what is called Ahimsa , non-injuring. There is no virtue higher than this non-injuring.",
+        "citation": "Vivekananda, Raja Yoga (1899)"
+      },
+      {
+        "context": "Yoga Sūtra 2.34 in the same book counts more than one's own hand:",
+        "quote": "34. The obstructions to Yoga are killing, etc., whether committed, caused, or approved; either through avarice, or anger, or ignorance",
+        "citation": "Vivekananda, Raja Yoga, on Yoga Sūtra 2.30–34"
+      },
+      {
+        "quote": "\" Harmlessness is the highest duty,\" taught Bhishma. … \" For the twice- born man from whom no fear arises to any living creatures, for him, freed from the body, there will be no fear from any.\" … For the harmless man, full of love to all creatures, sees the Self in each and regards each as part of his own body, and such a man is the \" friend of all creatures,\" and is safe wherever he goes.",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), pp. 334–335"
+      },
+      {
+        "explanation": "These teachers read harmlessness broadly. It covers animals as well as people, and thought and speech as well as blows. Causing or approving an injury done by someone else counts against it. The textbook grounds it in seeing the one Self in every creature, so that no creature need fear the harmless person."
+      }
+    ],
+    "limits": "The quoted teachers (Śaṅkara, Vivekananda and the 1904 textbook) are later readers, not Manu, and Medhātithi's gloss on 10.63 was not checked locally. The Gītā tells the warrior Arjuna that a lawful battle is his duty (2.31); the summary verse does not settle how harmlessness weighs against such duties.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|five_common_duties|control of the senses",
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "control of the senses",
+    "kind": "virtue",
+    "rubric_v1_gloss": "not allowing them to be drawn even towards unforbidden things.",
+    "rubric_version": "v2",
+    "rubric_sha256": "5527f9d37f9c9326d58d17208ea6ff2a87023d64fd6a883c852f6dfc2fc5248d",
+    "source_scope": "Mastery of the senses by the mind: not letting sight, taste and the other senses drag one toward their objects, even permitted ones.",
+    "teaching": [
+      {
+        "quote": "Harmlessness, truth, integrity, purity, control of the senses, saith Manu, is the summarised law for the four castes.",
+        "citation": "Manusmṛti 10.63, as rendered in Central Hindu College, Sanatana Dharma: An Advanced Text Book (1904), p. 318"
+      },
+      {
+        "context": "Medhātithi on the same term in Manu 6.92:",
+        "quote": "(6) ‘Control of the Sense-organs’—not allowing them to be drawn even towards unforbidden things.",
+        "citation": "Medhātithi on Manu 6.92, trans. Ganganath Jha"
+      },
+      {
+        "context": "The Smṛticandrikā, quoted in Jha's notes:",
+        "quote": "‘indriyanigraha’ is keeping the senses from all forbidden objects",
+        "citation": "Jha's notes on Manu 6.92, quoting the Smṛticandrikā"
+      },
+      {
+        "quote": "He must learn to use his mind to control his senses, for through the senses come his chief temptations. … \" If one sense of all the senses leaks, then understanding leaks through it, as water from the leg of the water-skin.\"",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), pp. 324–325"
+      },
+      {
+        "quote": "\" The wise man should make effort to control the senses running amid the alluring objects of sense, as the driver the horses.\"",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), p. 326"
+      },
+      {
+        "quote": "We may see, hear, smell, taste and touch, but we should not ascribe our likes and dislikes to the object of the senses. … There is no harm done by the perception of objects, if the perception be not followed by likes and dislikes.",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), pp. 316–317"
+      },
+      {
+        "explanation": "Control of the senses is not closing the eyes to the world. One may see, hear and taste, so long as liking and aversion do not take the reins. Medhātithi sets the higher bar of restraint even toward permitted things; the Smṛticandrikā speaks of forbidden objects. Both place the work in the mind."
+      }
+    ],
+    "limits": "Medhātithi and the Smṛticandrikā differ on whether permitted pleasures fall under this duty; the examples avoid resting a verdict on that difference alone. Overlaps self-control (dama) in the ten marks.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|five_common_duties|integrity",
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "integrity",
+    "kind": "virtue",
+    "rubric_v1_gloss": "non-appropriation of what is not given",
+    "rubric_version": "v2",
+    "rubric_sha256": "5527f9d37f9c9326d58d17208ea6ff2a87023d64fd6a883c852f6dfc2fc5248d",
+    "source_scope": "Not taking what is not given, by stealth, force or dishonest dealing. The textbook's 'integrity' translates asteya; it concerns property and honest dealing, not general moral wholeness.",
+    "teaching": [
+      {
+        "quote": "Harmlessness, truth, integrity, purity, control of the senses, saith Manu, is the summarised law for the four castes.",
+        "citation": "Manusmṛti 10.63, as rendered in Central Hindu College, Sanatana Dharma: An Advanced Text Book (1904), p. 318"
+      },
+      {
+        "context": "The elementary volume of the same textbook series renders the verse differently:",
+        "quote": "\"Harmlessness, truth- speaking, refraining from theft, control of the senses — such is the essence of the dharma that Manu declared for all the four castes.\"",
+        "citation": "Sanatana Dharma, Elementary Text Book (Central Hindu College, 1916), pp. 180–181"
+      },
+      {
+        "context": "The Smṛticandrikā, quoted in Jha's notes on Manu 6.92:",
+        "quote": "‘asteya’ is non-appropriation of what is not given",
+        "citation": "Jha's notes on Manu 6.92, quoting the Smṛticandrikā"
+      },
+      {
+        "quote": "Not taking others’ goods by stealth or by force, is called Asteyam , non-covetousness.",
+        "citation": "Vivekananda, Raja Yoga (1899)"
+      },
+      {
+        "context": "Śaṅkara on \"purity of heart\" (Gītā 16.1):",
+        "quote": "abandonment of deception, dissimulation, falsehood and the like, in all transactions ; that is to say, transacting business in perfect honesty.",
+        "citation": "Bhagavad Gītā 16.1 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 372"
+      },
+      {
+        "context": "Śaṅkara on the demoniac who \"strive to secure by unjust means hoards of wealth\" (Gītā 16.12):",
+        "quote": "By unjust means : by robbing other men's wealth.",
+        "citation": "Bhagavad Gītā 16.12 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 378"
+      },
+      {
+        "quote": "As a general virtue it appears as truthfulness, Honesty, Integrity, Uprightness.",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), p. 320"
+      },
+      {
+        "explanation": "The glosses agree on the core: take nothing that is not given, whether by theft, force or crooked dealing. The textbook files integrity among the forms of truth, so honest dealing in trade belongs here as well as refraining from theft."
+      }
+    ],
+    "limits": "'Integrity' is the 1904 textbook's English and could mislead toward general uprightness; this rubric follows the glosses of asteya. Vivekananda's label 'non-covetousness' is his own; his definition concerns taking. The sources do not discuss found or ownerless property.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|five_common_duties|purity",
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "purity",
+    "kind": "virtue",
+    "rubric_v1_gloss": "cleanliness, both internal and external",
+    "rubric_version": "v2",
+    "rubric_sha256": "5527f9d37f9c9326d58d17208ea6ff2a87023d64fd6a883c852f6dfc2fc5248d",
+    "source_scope": "Cleanliness both outward and inward: keeping body, food and surroundings clean, and keeping the mind free of deceit and passion.",
+    "teaching": [
+      {
+        "quote": "Harmlessness, truth, integrity, purity, control of the senses, saith Manu, is the summarised law for the four castes.",
+        "citation": "Manusmṛti 10.63, as rendered in Central Hindu College, Sanatana Dharma: An Advanced Text Book (1904), p. 318"
+      },
+      {
+        "context": "The Smṛticandrikā, quoted in Jha's notes on Manu 6.92:",
+        "quote": "‘śauca’ is cleanliness, both internal and external",
+        "citation": "Jha's notes on Manu 6.92, quoting the Smṛticandrikā"
+      },
+      {
+        "quote": "Purity : of the two sorts, the external and the internal ; the one being accomplished by means of earths and water, the other consisting in the taintlessness of mind and heart, in freedom from impurities such as deception and passion.",
+        "citation": "Bhagavad Gītā 16.3 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 374"
+      },
+      {
+        "quote": "We must be clean, not only for our own sakes, but for the sake of those around us. A dirty person, dirty clothes, dirty houses, are centres of poison, public dangers. … A man may observe the rules of Shaucha to the last point of strictness, but if he be proud, passionate, harsh, vain, suspicious, he is pouring impurity into these koshas faster than any rules can wash it out.",
+        "citation": "Sanatana Dharma, Elementary Text Book (Central Hindu College, 1916), pp. 91–92"
+      },
+      {
+        "quote": "The body is purified by water, the mind by truth, the soul by knowledge and austerity, the reason by wisdom.\"",
+        "citation": "Sanatana Dharma, Elementary Text Book (Central Hindu College, 1916), p. 93"
+      },
+      {
+        "context": "The advanced textbook also keeps the Smṛti rules of ritual impurity after a birth or death in the family:",
+        "quote": "the impurity lasts from ten days to one month according to the caste of the parties concerned. … During the period of impurity sacrificial oblations, recitation of mantras, and some other religious duties have to be given up. No one must eat the food of, or touch, one impure. But the customs vary much in these respects in the different parts of the country",
+        "citation": "Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), pp. 195–197"
+      },
+      {
+        "explanation": "The textbooks teach śauca first as bodily and household cleanliness owed to others' health, then as inner purity: a scrupulously clean person who is proud, harsh or deceitful is not pure. Ritual impurity after a birth or death is a temporary state governed by rules, which the textbook says vary by caste and region."
+      }
+    ],
+    "limits": "Ritual impurity is part of the textbook's teaching but is a status, not a chosen act; do not mark anyone down merely for being in such a period. The textbooks' claims about flesh food and 'magnetic currents' are their own views.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  },
+  {
+    "id": "hindu|five_common_duties|truth",
+    "tradition": "hindu",
+    "list_key": "five_common_duties",
+    "list_name": "The summarised law for the four castes (Manusmṛti 10.63)",
+    "list_role": "alternative",
+    "primary": false,
+    "virtue": "truth",
+    "kind": "virtue",
+    "rubric_v1_gloss": "Relating facts as they are; this is truth.",
+    "rubric_version": "v2",
+    "rubric_sha256": "5527f9d37f9c9326d58d17208ea6ff2a87023d64fd6a883c852f6dfc2fc5248d",
+    "source_scope": "Speaking of things as they are, without hurtful or false words, and keeping one's pledged word.",
+    "teaching": [
+      {
+        "quote": "Harmlessness, truth, integrity, purity, control of the senses, saith Manu, is the summarised law for the four castes.",
+        "citation": "Manusmṛti 10.63, as rendered in Central Hindu College, Sanatana Dharma: An Advanced Text Book (1904), p. 318"
+      },
+      {
+        "quote": "Truth : speaking of things as they are, without giving utterance to what is unpleasant or what is false.",
+        "citation": "Bhagavad Gītā 16.2 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 373"
+      },
+      {
+        "context": "The Smṛticandrikā, quoted in Jha's notes on Manu 6.92:",
+        "quote": "‘satya’ is saying what is true, which should be agreeable also",
+        "citation": "Jha's notes on Manu 6.92, quoting the Smṛticandrikā"
+      },
+      {
+        "quote": "Truthfulness has always been a marked characteristic of the noble characters described in Hindu literature. … On the other hand, we read that when Yudhishthira for a moment in his utmost need forgot his truthfulness, and told a lie to the undoing of Drona, his war-chariot lost the power that upraised it from the earth and it sank to the ground. … Even when loss follows, the pledged word must be kept.",
+        "citation": "Sanatana Dharma, Elementary Text Book (Central Hindu College, 1916), pp. 149–150"
+      },
+      {
+        "quote": "Above and beyond all else, therefore, a boy should strive for truthfulness.",
+        "citation": "Sanatana Dharma, Elementary Text Book (Central Hindu College, 1916), p. 154"
+      },
+      {
+        "quote": "15. The speech which causes no excitement and is true, as also pleasant and beneficial, and also the practice of sacred recitation, are said to form the austerity of speech.",
+        "citation": "Bhagavad Gītā 17.15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 389–390"
+      },
+      {
+        "explanation": "Truth here covers both factual speech and kept promises: the textbook's heroes keep their word at ruinous cost, and even Yudhiṣṭhira's single lie in need is told as a fall. Śaṅkara and the Smṛticandrikā add that true speech should not be needlessly unpleasant. That governs how a truth is said; it never licenses falsehood."
+      }
+    ],
+    "limits": "The sources do not settle a conflict between true and agreeable speech, for example an unwelcome warning needed for safety. The Gītā's 'austerity of speech' combines all its qualities and is a higher standard than truthfulness alone. The Sanskrit of 10.63 was not checked locally.",
+    "examples": [],
+    "example_scale": null,
+    "status": {
+      "tested_groups": [],
+      "real_story_examples": false,
+      "source_status": "draft_v01_not_tested",
+      "production_teaching": "source quotations only"
+    }
+  }
+]
