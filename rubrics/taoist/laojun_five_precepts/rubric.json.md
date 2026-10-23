@@ -36,7 +36,7 @@ Project translation: 'Among the precepts, lewdness and wine can give rise to the
 
 This is the only precept with stated exceptions: medicine for illness and wine required by the rites. Otherwise any drinking breaks it, not only drunkenness. The text links wine with quarrels and lawsuits, and with lewdness as a source of the other evils.
 
-Limits: The text sets no quantity and does not define 酒 beyond alcoholic drink; the sense of 勢力 in the full keeping is uncertain. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
+The text sets no quantity and does not define 酒 beyond alcoholic drink; the sense of 勢力 in the full keeping is uncertain. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
 
 ## False speech
 
@@ -74,7 +74,7 @@ Project translation: 'Their words are not believed; people do not draw near them
 
 The definition is about knowledge: speech is false when it claims more than the speaker heard, saw or understood. Passing on rumour as fact counts, not only deliberate lies. Its virtue is trustworthiness (信).
 
-Limits: The text gives no exception for kind or protective untruths, and the sense of 漏泄 in the full keeping is uncertain. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
+The text gives no exception for kind or protective untruths, and the sense of 漏泄 in the full keeping is uncertain. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
 
 ## Killing
 
@@ -106,7 +106,7 @@ Project translation: 'The precept against killing belongs to the east, the pneum
 
 The precept covers animals as well as people, down to winged and crawling creatures, and its full keeping reaches intention. Among the evils of a bad age the text lists 'killing and harming living beings to nourish body and mouth' (殺害眾生。利養身口). It states no exception.
 
-Limits: The text states no exception for self-defence, war or food, and does not say whether eating meat killed by others breaks the precept. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
+The text states no exception for self-defence, war or food, and does not say whether eating meat killed by others breaks the precept. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
 
 ## Lewdness
 
@@ -144,7 +144,7 @@ Project translation: 'Lord Lao said: Among the precepts, lewdness and wine can g
 
 For lay men and women of pure faith the rule is marital; renunciants do not marry at all. Its full keeping extends to thought, and the text treats lewdness, with wine, as a root of the other evils.
 
-Limits: The text does not define conduct within marriage or discuss consent; it assumes the marriage institutions of its day. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
+The text does not define conduct within marriage or discuss consent; it assumes the marriage institutions of its day. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
 
 ## Stealing
 
@@ -182,4 +182,4 @@ Project translation: 'Kin steal from one another, not only from outsiders.' (amo
 
 Two features make the precept stricter than ordinary law: the threshold is a single coin, and unowned things not one's own are included. Theft within the family counts.
 
-Limits: The text does not say what makes a taking proper (gift, wage or purchase presumably are) or how 'unowned' applies to wild produce or finds. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.
+The text does not say what makes a taking proper (gift, wage or purchase presumably are) or how 'unowned' applies to wild produce or finds. The English is project translation from an uncollated web witness of the Daozang text; the cosmological correspondences are the text's own.

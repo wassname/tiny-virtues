@@ -12,7 +12,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p24
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p243
 
-Limits: There is no requirement of an elaborate funeral. Gibson's resurrection and Tobias claims are attributed teaching.
+There is no requirement of an elaborate funeral. Gibson's resurrection and Tobias claims are attributed teaching.
 
 ## to clothe the naked
 
@@ -30,7 +30,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p24
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p244
 
-Limits: Fashion or gift-giving among the comfortable is not this work. Gibson's merit claims are attributed. His vainglory warning applies to the corporal works, so it overlaps with this card.
+Fashion or gift-giving among the comfortable is not this work. Gibson's merit claims are attributed. His vainglory warning applies to the corporal works, so it overlaps with this card.
 
 ## to feed the hungry
 
@@ -48,7 +48,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p24
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p244
 
-Limits: Means matter: inability is not refusal. Gibson's merit claims are attributed. His motive warning is addressed to the corporal works themselves, so it overlaps with this card.
+Means matter: inability is not refusal. Gibson's merit claims are attributed. His motive warning is addressed to the corporal works themselves, so it overlaps with this card.
 
 ## to give drink to the thirsty
 
@@ -76,7 +76,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p24
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,pp239–240
 
-Limits: Gibson gives only the gloss plus shared teaching. Inability to host is not adverse.
+Gibson gives only the gloss plus shared teaching. Inability to host is not adverse.
 
 ## to visit the imprisoned
 
@@ -86,7 +86,7 @@ Gibson: relieving prisoners' wants, aiding the falsely accused, and helping rele
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,pp242–243
 
-Limits: This is not limited to literal visits. Gibson's historical claims are attributed; no judgment on guilt is implied.
+This is not limited to literal visits. Gibson's historical claims are attributed; no judgment on guilt is implied.
 
 ## to visit the sick
 
@@ -96,4 +96,4 @@ Gibson: nursing the sick and providing comforts and remedies to restore health o
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,pp241–242
 
-Limits: Remedies are not the only form of this work: comforts that lighten tediousness, and consolation, count. A brief visit is not scored as the work unless the scene shows a need met or a comfort given. The priest and Levite case is a source contrast, not a statement of their motives.
+Remedies are not the only form of this work: comforts that lighten tediousness, and consolation, count. A brief visit is not scored as the work unless the scene shows a need met or a comfort given. The priest and Levite case is a source contrast, not a statement of their motives.

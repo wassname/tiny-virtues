@@ -22,8 +22,10 @@ Pirkei Avot 1:8, trans. Kulp
 
 Bartenura's gloss concerns verdicts that track actual innocence or guilt. Judah ben Tabbai's rule (1:8) is an adjacent teaching for judges.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the husbandmen — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the husbandmen - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -56,7 +58,7 @@ No verdict is given, so the judgment-focused gloss fits only loosely. Still, kil
 </details>
 
 <details>
-<summary>Upright Gong — Neither direction is established by the described conduct.</summary>
+<summary>Upright Gong - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 When his father stole a sheep, he reported him to the authorities.
@@ -69,7 +71,7 @@ Reporting enables rendering guilty the guilty; but death sentence for sheep thef
 </details>
 
 <details>
-<summary>the Fox — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Fox - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -82,7 +84,7 @@ No verdict rendered; betrayal delivers an innocent to harm, weakly analogous to 
 </details>
 
 <details>
-<summary>Tsze-sze — Neither direction is established by the described conduct.</summary>
+<summary>Tsze-sze - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -95,7 +97,7 @@ No judgment of guilt or innocence involved; Bartenura's gloss not engaged.
 </details>
 
 <details>
-<summary>a slave — Neither direction is established by the described conduct.</summary>
+<summary>a slave - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -108,7 +110,7 @@ No verdict; possibly shields innocent master, but judgment sense not established
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Neither direction is established by the described conduct.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -120,7 +122,7 @@ The gloss concerns verdicts, and the card admits it gives no full boundary for f
 
 </details>
 
-Limits: The gloss is Bartenura's, not the Mishnah's. Judah ben Tabbai's 1:8 rule is adjacent teaching for judges, not the gloss itself. Procedure alone, without a verdict, shows justice only partly. The sources give no full boundary for non-judicial fairness.
+The gloss is Bartenura's, not the Mishnah's. Judah ben Tabbai's 1:8 rule is adjacent teaching for judges, not the gloss itself. Procedure alone, without a verdict, shows justice only partly. The sources give no full boundary for non-judicial fairness.
 
 ## peace
 
@@ -138,7 +140,7 @@ Ovadiah of Bartenura, commentary on Avot 1:18 (late fifteenth century), Sefaria 
 
 Pirkei Avot 1:1–18, Kulp/Mishnah Yomit Sefaria
 
-Limits: The gloss is Bartenura's. The sources do not resolve peace versus justice when the two conflict.
+The gloss is Bartenura's. The sources do not resolve peace versus justice when the two conflict.
 
 ## truth
 
@@ -158,4 +160,4 @@ Pirkei Avot 1:8–9, Joshua Kulp, Mishnah Yomit translation
 
 The gloss frames truth interpersonally, as part of preserving human settlement.
 
-Limits: The gloss is Bartenura's. The sources leave half-truths unaddressed.
+The gloss is Bartenura's. The sources leave half-truths unaddressed.

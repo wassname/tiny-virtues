@@ -1,1311 +1,952 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "entries": {
-    "ach-0001": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0004": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+    "hnm-0157": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     },
     "ach-0027": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0052": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0055": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0076-source": {
-      "flag_no_act": {
-        "reason": "The selected agents are two musical works being evaluated, not agents performing the selected speech; the speaker is Confucius.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0077": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0109-source": {
-      "flag_no_act": {
-        "reason": "The selected agent is the abstraction Virtue, and the selected metaphor describes its neighbours rather than conduct by that agent.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0137": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0139": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0141": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ach-0205": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ana-106": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ana-168": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ana-262": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "big-0136": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "big-0149": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "big-0433": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "big-0515": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "cas-1478": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dig-0151": {
-      "flag_ocr_garble": {
-        "reason": "The selected act retains inconsistent broken spellings of Sonadanda with punctuation and mixed glyphs, despite other name variants already being corrected.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dig-0225": {
-      "flag_ocr_garble": {
-        "reason": "The agent name and passage retain slash-and-caret scan renderings rather than a readable consistent name.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0001": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0003": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0004": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0005": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0006": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0007": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0008": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0009": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0010": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0011": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0012": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0013": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0014": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0015": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0016": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0017": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0018": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0019": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0020": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0078": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0115-source": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0159": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "dwa-0183-source": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "eph-0446": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "eph-0700": {
-      "flag_ocr_garble": {
-        "reason": "The selected act retains corrupted parenthetical script fragments and a damaged name rendering from the bilingual scan.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gld-2274": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gld-2647": {
-      "flag_ocr_garble": {
-        "reason": "A running marginal title and damaged word are interleaved into the selected threat, with a further stray title word in the passage.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-116": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-117": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-119": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-120": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-121": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-137": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "gos-155": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0039": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0116": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0127": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0138": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0157": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0158": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0385": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0443": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0470": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0637": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0690": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-0984": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hnm-1162": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hse-0016-source": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      },
-      "flag_no_act": {
-        "reason": "The selected agents are qualities identified as sources of other qualities, without a choice or conduct by a named agent.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hse-0037": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hse-0071": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hse-0077": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hse-0087": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "hse-0137": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "isg-0001": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "isg-0100-view2": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0031-view2": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0099": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0103": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0132-view2": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0159": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0160": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0168": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0191": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0202": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0204": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jrm-0216": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "jtk-2049": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lk-1605": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lnz-0408": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-0101": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-0403": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-0557": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-0676": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-0826": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-0880": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "lsc-1148": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mjc-0240": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mjc-0506": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mnc-0177": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mnc-0452": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mnc-0953": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mrg-0505": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "mrg-0723": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "phs-0022": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "phs-0063": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rei-0029": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rei-0052": {
-      "flag_no_act": {
-        "reason": "The selected interviewee is only asked a question; no answer or conduct by that agent is supplied.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rei-0093-source": {
-      "flag_no_act": {
-        "reason": "The selected recipient is only given experimental instructions; no response or epistemic choice by that recipient is selected.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0013": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0023": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0044": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0076": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0089": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0136": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0142": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "rnv-0222": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ssp-0029": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ssp-0041": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:EPI-03": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:EPI-20": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:EPI-30": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:EPI-35": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:EPI-48": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:EPI-54": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:HL-012": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:HL-045": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:MH-R-05": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:MH-R-16": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:MH-R-30": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:SW-010": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:SW-024": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:SW-036": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-049": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-072": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-109": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-119": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-120": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-158": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-200": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-201": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-226": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-284": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-286": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-290": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:ben-308": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:cic-006": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:cic-007": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-010": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-012": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-022": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-028": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-036": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-039": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-074": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-093": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-094": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-095": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-098": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-105": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-147": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-151": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-158": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-169": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-170": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:far-234": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:mus-011": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:mus-015": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:mus2-012": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:mus2-025": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-001": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-003": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-019": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-059": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-063": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-102": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-209": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-210": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pig-230": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pla-002": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:pla-007": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:plu-006": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:plu-016": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:plu-032": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:plu-038": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:plu-055": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:plu-057": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:seneca-031": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "stoic:w20": {
-      "flag_no_act": {
-        "reason": "Jamal owns the newsfeed, while the selected posting is performed by other people; his own relevant choice is not supplied.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "sxz-0029": {
-      "flag_ocr_garble": {
-        "reason": "The displayed passage retains mojibake following Guan Shuben's name; the neighbouring Chinese name gloss is visibly corrupted in the transcription.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "thc-0660": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "tic-0153": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ud-0098": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "ud-0114": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "vin-5015": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xuh-0302": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xuh-0380": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xuh-0388": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xuh-0399": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xun-0074": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xun-0258": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xun-0263": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "xun-0277": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-032": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-033": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-081": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-082": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-097": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-131": {
-      "flag_editor_header": {
-        "reason": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
-    },
-    "zhu-159": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     },
     "zhu-201": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     },
-    "zhw-0087": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+    "stoic:mus-011": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lsc-0896": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0018": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "vin-1121": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "gos-114": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:mus2-012": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rnv-0044": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:w20": {
+      "no_act": "Jamal owns the newsfeed, while the selected posting is performed by other people; his own relevant choice is not supplied."
+    },
+    "ach-0205": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "zzh-0189": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ach-0004": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:plu-055": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ud-0098": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-137": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0137": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "stoic:EPI-20": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "des-050": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:cic-007": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "cel-0331": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "rnv-0142": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "isg-0100-view2": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-169": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rnv-0089": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pig-001": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0001": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "lsc-0309": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ach-0052": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "hse-0077": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mnc-0177": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ana-203": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-284": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "sxz-0029": {
+      "ocr": "The displayed passage retains mojibake following Guan Shuben's name; the neighbouring Chinese name gloss is visibly corrupted in the transcription."
+    },
+    "jtk-5399": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "isg-0055": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:HL-012": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0141": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "dwa-0003": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "gos-213": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "zhu-326": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0005": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "thc-0488": {
+      "rubric_example": "Used as a worked example in rubric v2."
     },
     "zhw-0371": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     },
-    "zhw-0566": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+    "mil-0222": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "hnm-0470": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:EPI-59": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "hnm-1162": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ana-054": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:SW-036": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "aes-299": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-147": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "wsl-0003": {
+      "no_act": "The selected \"study to ruin our neighbour's trade\" omits \"we cannot\"; the source rejects this conduct rather than reporting its performance."
+    },
+    "twc-0501": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-226": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ado-0088": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-308": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "aes-270": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "big-0149": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0099": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rei-0029": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-033": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "big-0318": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "zhu-094": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "jrm-0202": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-009": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "cas-1225": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-074": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "big-0136": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:MH-R-16": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:HL-020": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0020": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "dwa-0013": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "gos-119": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lnz-0408": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lk-1605": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0055": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-075": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-234": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:cic-005": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "jrm-0191": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-117": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mjc-0061": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "lsc-0938": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:pig-210": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lsc-0312": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "gos-214": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "rnv-0076": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0006": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "big-0515": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rei-0052": {
+      "no_act": "The selected interviewee is only asked a question; no answer or conduct by that agent is supplied."
+    },
+    "big-0433": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "isg-0044": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:plu-007": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:pla-023": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "aes-027": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:cic-006": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0164": {
+      "no_act": "The selected positive span \"befriend an evil man\" omits its governing \"Do not\"; the passage prohibits the act and describes no performed befriending."
+    },
+    "xun-0263": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-170": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-049": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-010": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:f09": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "jrm-0031-view2": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hse-0064": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "jat-026": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "jtk-2049": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pig-019": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-109": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "xun-0277": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zhu-082": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:HL-009": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "cas-0385": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ssp-0041": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:plu-006": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "isg-0001": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "stoic:EPI-35": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "aes-046": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:pig-177": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ach-0001": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "dwa-0004": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "bed-0237": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "eph-0446": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hse-0137": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:plu-057": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:SW-024": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rnv-0027": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:EPI-48": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rei-0068": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "twc-0325": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "mrg-0505": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-036": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zhu-032": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0014": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "hnm-0138": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lsc-0880": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pig-102": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "xuh-0399": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     },
     "zzh-0489": {
-      "flag_multi_person_agent": {
-        "reason": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rnv-0013": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zzh-1263": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "mjc-0706": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0010": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "stoic:pig-003": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "thc-0380": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "vin-6802": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0008": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "lsc-0826": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-158": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "des-043": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-210": {
+      "no_act": "The selected negative clauses omit the governing rhetorical \"Who ... ?\". Seneca says sons wish for their fathers' death, not that this son refrains from it."
+    },
+    "xuh-0388": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zzh-2021": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-028": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lsc-0101": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:mus2-023": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0016": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "stoic:ben-286": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:mus-015": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zhw-0087": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ud-0114": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "phs-0022": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-155": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:MH-R-38": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-072": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "aes-224": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:MH-R-05": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rnv-0222": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-127": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0183-source": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "fil-0035": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "xuh-0302": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hse-0037": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-121": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "isg-0156": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-024": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "hnm-0039": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lk-1973": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-039": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0019": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "jrm-0216": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:EPI-03": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "xuh-0380": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:HL-043": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "vin-5015": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "thc-0162": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-200": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-158": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lsc-1141": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "xun-0258": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-095": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:SW-010": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rnv-0136": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-116": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-105": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:mus2-025": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pig-230": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mnc-0452": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "stoic:far-151": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zhu-097": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hnm-0690": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zhu-159": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-022": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:cic-016": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "jrm-0168": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:HL-045": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gld-2647": {
+      "ocr": "A running marginal title and damaged word are interleaved into the selected threat, with a further stray title word in the passage."
+    },
+    "wnz-0061": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "rnv-0023": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0159": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0078": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "rei-0093-source": {
+      "no_act": "The selected recipient is only given experimental instructions; no response or epistemic choice by that recipient is selected."
+    },
+    "zhu-131": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "hnm-0116": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:plu-032": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gos-120": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pig-063": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pla-002": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dig-0151": {
+      "ocr": "The selected act retains inconsistent broken spellings of Sonadanda with punctuation and mixed glyphs, despite other name variants already being corrected."
+    },
+    "hnm-0443": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mnc-1068": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:EPI-38": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-120": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0076-source": {
+      "no_act": "The selected agents are two musical works being evaluated, not agents performing the selected speech; the speaker is Confucius."
+    },
+    "stoic:pig-059": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ana-106": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     },
     "zzh-0898": {
-      "flag_editor_gloss_target": {
-        "reason": "The selected refusal is identified by Legge's visible bracketed explanation rather than a directly narrated refusal in this passage.",
-        "private_registry_sha256": "d055810ede0f1e6d48c185cf06b4a782ea6004b501f6f03c4d65f7c577617897"
-      }
+      "editor_gloss_target": "The selected refusal is identified by Legge's visible bracketed explanation rather than a directly narrated refusal in this passage."
+    },
+    "hnm-0158": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0132-view2": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hse-0087": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hnm-0385": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hnm-0127": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-012": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lie-008": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ana-168": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "xun-0354": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:far-093": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-119": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:seneca-007": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ssp-0019": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "lsc-0676": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mjc-0506": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ana-079": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "mnc-0282": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "gos-135": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ssp-0029": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "hnm-0637": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0159": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "thc-0332": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:plu-016": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "lsc-0281": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-201": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-094": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "big-0437": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "lsc-1098": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "hnm-0984": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-102": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "rhu-0001": {
+      "no_act": "The selected lie is explicitly rejected: \"Would she lie in her teeth to acquire an unmerited advantage? No\"; the hypothetical virtuous agent does not perform it."
+    },
+    "lsc-0403": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mjc-0240": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0012": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "dwa-0115-source": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:far-098": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "des-021": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "ana-262": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:EPI-54": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dig-0225": {
+      "ocr": "The agent name and passage retain slash-and-caret scan renderings rather than a readable consistent name."
+    },
+    "dwa-0017": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "gld-2274": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:seneca-048": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0007": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "bl-3670": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "lsc-1148": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0191": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "zhu-081": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "des-101": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:ben-290": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:MH-R-30": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0015": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "xun-0074": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0204": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "gld-4156": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "lsc-0557": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mrg-0723": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "cas-1478": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0160": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0139": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "aes-008": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "gos-109": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "dwa-0011": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "thc-0660": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "tic-0153": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "thc-0250": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "eph-0700": {
+      "ocr": "The selected act retains corrupted parenthetical script fragments and a damaged name rendering from the bilingual scan."
+    },
+    "hse-0071": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0109-source": {
+      "no_act": "The selected agent is the abstraction Virtue, and the selected metaphor describes its neighbours rather than conduct by that agent."
+    },
+    "stoic:EPI-30": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "ach-0077": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "isg-0054": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "mjc-0175": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:plu-038": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:ben-074": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:seneca-031": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "mnc-0953": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "dwa-0009": {
+      "editor_header": "The displayed passage has a registered source-specific header identifying editorial narration or its source layer."
+    },
+    "zhw-0566": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "jrm-0103": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "zhu-033": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "aes-264": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "hse-0016-source": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error.",
+      "no_act": "The selected agents are qualities identified as sources of other qualities, without a choice or conduct by a named agent."
+    },
+    "gos-095": {
+      "rubric_example": "Used as a worked example in rubric v2."
+    },
+    "stoic:pla-007": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "phs-0063": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
+    },
+    "stoic:pig-209": {
+      "several_people": "The selected agent matches the supervisor-approved multi-person name list; this is an evaluation grouping flag, not a confirmed actor error."
     }
   }
 }

@@ -22,8 +22,10 @@ Mencius, trans. Legge (1875)
 
 The benevolent embrace all in their love, but they set priorities. Family is the root of this love, and it is not a boundary on it.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the man who was going to beat an ass-driver — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -36,7 +38,7 @@ He shows no distress at suffering and beats an animal from rage. Mencius grounds
 </details>
 
 <details>
-<summary>king Wan — Clear evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -53,7 +55,7 @@ A ruler shares resources with the people, loving others and extending care. This
 </details>
 
 <details>
-<summary>the Lord — Neither direction is established by the described conduct.</summary>
+<summary>the Lord - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -66,7 +68,7 @@ Distress at harming others is benevolence's root (2A6), but Mencius centers huma
 </details>
 
 <details>
-<summary>King Wen — Some evidence that the conduct shows this virtue.</summary>
+<summary>King Wen - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -79,7 +81,7 @@ He extends care to an unclaimed stranger, which suggests a ruler's benevolence r
 </details>
 
 <details>
-<summary>The Camel — Neither direction is established by the described conduct.</summary>
+<summary>The Camel - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -94,7 +96,7 @@ Self-seeking display motivated by envy; no love of others or distress at sufferi
 </details>
 
 <details>
-<summary>Qi Xi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Qi Xi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Qi Xi observed, "I was taught that when a petty man obtains a position, one will be unlucky if one does not oppose him and when a gentleman is in trouble, one will be unlucky if one does not help him?' ... Then he went to see Viscount Xuan of Fan and persuaded him as follows: "I was taught that those who are skilled at governing are neither excessive with rewards nor arbitrary with punishments. Rewards that are excessive he fears may be given to immoral persons, and punishments that are arbitrary he fears may be applied to gentlemen. Should one be so unfortunate as to err, it would be better to err by rewarding the immoral than by punishing gentlemen.
@@ -106,7 +108,7 @@ Taking active care of a suffering worthy who is not his kin fits benevolence as 
 
 </details>
 
-Limits: Ordinary helpfulness is not automatically benevolence. Differential care (7A46) is not licence to ignore strangers. No sage biography or ritual vocabulary is required.
+Ordinary helpfulness is not automatically benevolence. Differential care (7A46) is not licence to ignore strangers. No sage biography or ritual vocabulary is required.
 
 ## Propriety
 
@@ -132,7 +134,7 @@ Analects1.12–13,Legge/Gutenberg3330
 
 Mencius4A17,Legge(1875)
 
-Limits: Rescuing the drowning sister-in-law by the hand is "a peculiar exigency," not a breach. Mencius does not say whether that rescue displays propriety.
+Rescuing the drowning sister-in-law by the hand is "a peculiar exigency," not a breach. Mencius does not say whether that rescue displays propriety.
 
 ## Righteousness
 
@@ -152,8 +154,10 @@ Mencius, trans. Legge (1875)
 
 Righteousness means doing what is right. Mere unbending persistence does not qualify, and neither does taking gain without asking whether taking it is right.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Upright Gong — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Upright Gong - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 When his father stole a sheep, he reported him to the authorities.
@@ -166,7 +170,7 @@ Exposing father contrary to fraternal/filial fruit of righteousness; reputation-
 </details>
 
 <details>
-<summary>Tsze-sze — Some evidence that the conduct shows this virtue.</summary>
+<summary>Tsze-sze - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -179,7 +183,7 @@ Choosing duty over safety mirrors Mencius's choosing righteousness over life; mi
 </details>
 
 <details>
-<summary>a prime minister who was blind — Neither direction is established by the described conduct.</summary>
+<summary>a prime minister who was blind - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 under his administration there was no corruption in government
@@ -194,7 +198,7 @@ No corruption is consistent with not taking improper gain, but it is not a descr
 </details>
 
 <details>
-<summary>the Fox — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Fox - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -207,7 +211,7 @@ Preserving life by improper means, betraying partner, contradicts choosing right
 </details>
 
 <details>
-<summary>a slave — Some evidence that the conduct shows this virtue.</summary>
+<summary>a slave - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -220,7 +224,7 @@ Giving life rather than betray loyalty and refusing bribes echoes choosing right
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -232,7 +236,7 @@ This is almost exactly Mencius's 'losing the proper nature of one's mind': they 
 
 </details>
 
-Limits: The fish/bear's-paws passage concerns giving up life for right, not seeking death. Legge's commentary interleaved in 6A10 is not Mencius.
+The fish/bear's-paws passage concerns giving up life for right, not seeking death. Legge's commentary interleaved in 6A10 is not Mencius.
 
 ## Sincerity (good faith)
 
@@ -254,8 +258,10 @@ Mencius 4B11, trans. Legge
 
 Analects 13.20, trans. Legge
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 resolved to disguise his appearance in order to secure food more easily. Encased in the skin of a sheep, he pastured with the flock deceiving the shepherd by his costume.
@@ -270,7 +276,7 @@ Deceptive, predatory conduct opposes sincere and honourable careful action.
 </details>
 
 <details>
-<summary>Saint Francis — Some evidence that the conduct shows this virtue.</summary>
+<summary>Saint Francis - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he promised ever stedfastly to bestow the help and counsel of himself and his brethren on them and on others who should profess poverty in a similar way of life; which thing he diligently performed as long as he lived, and, when nigh unto death, commanded to be evermore performed, and that not negligently
@@ -283,7 +289,7 @@ A rightful agreement, made after judging their worth, made good diligently lifel
 </details>
 
 <details>
-<summary>professors teaching simplified introductory physics — Neither direction is established by the described conduct.</summary>
+<summary>professors teaching simplified introductory physics - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 These oversimplifications are falsehoods of a sort, and the professors know this, but it would be too complex for the student to get the whole truth all at once, so placeholder-lies are used in the service of truth.
@@ -296,7 +302,7 @@ Good faith governed by right; teaching aimed at right understanding may fit Menc
 </details>
 
 <details>
-<summary>Min Sun — Neither direction is established by the described conduct.</summary>
+<summary>Min Sun - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Min carefully concealed all his grievances, and refused to indulge in any complaint; even while suffering severely from cold and hunger, he maintained his affection unabated.
@@ -311,7 +317,7 @@ Genuine unabated affection with no pretence; conduct right per Mencius, sincere 
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -324,7 +330,7 @@ He made a promise in line with right (promoting a worthy man) and made it good a
 </details>
 
 <details>
-<summary>Jesus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Jesus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -336,7 +342,7 @@ His words are sincere and match his commitment. He makes no agreement with the t
 
 </details>
 
-Limits: Good faith is governed by right. It does not mean keeping a promise at all costs.
+Good faith is governed by right. It does not mean keeping a promise at all costs.
 
 ## Wisdom
 
@@ -345,6 +351,8 @@ Mencius (Legge 1875) on 智, which Legge renders 'knowledge': the feeling of app
 > "... when men suddenly see a child about to fall into a well, they will all experience a feeling of alarm and distress. ... That feeling of distress is the principle of benevolence ; the feeling of shame and dislike is the principle of righteousness ; the feeling of modesty and complaisance is the principle of propriety ; and **the feeling of approving and disapproving is the principle of knowledge.** Men have these four principles just as they have their four limbs.
 
 Mencius 2A6, tr. Legge (1875)
+
+Legge's note on his own translation, not Mencius:
 
 > "Principle" in par. 5, is the right translation of the original term, meaning "the beginning," as the end of a clue, &c. ... "Knowledge" is the only term with which I am not satisfied. Would "wisdom" be a better word
 
@@ -362,14 +370,18 @@ Mencius 4A27, tr. Legge (1875)
 
 Mencius 7A46, tr. Legge (1875)
 
+After the case of someone who cannot keep the three years' mourning yet is particular about three or five months' mourning:
+
 > such things illustrate what I say about not knowing what is most to be attended to.
 
 Mencius 7A46, tr. Legge (1875)
 
 Here wisdom begins as moral approving and disapproving, not stored information. It bears fruit in recognising the core family duties and not abandoning them, and in knowing what matters most. Mencius does not condemn broad knowledge; what fails is getting priorities wrong.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Shên Tao — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Shên Tao - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Consequently, Shên Tao discarded all knowledge and self-interest and became a fatalist. ... Passivity was his guiding principle. "For," said he, "we can only know that we know nothing, and a little knowledge is a dangerous thing. ... "Move when pushed, come when dragged. Be like a whirling gale, like a feather in the wind, like a mill-stone going round. The mill-stone as an existence is perfectly harmless. In motion or at rest it does no more than is required, and cannot therefore incur blame. ... "For a clod cannot be without TAO,"
@@ -394,7 +406,7 @@ Becoming an inert thing that neither approves nor disapproves deliberately denie
 </details>
 
 <details>
-<summary>Confucius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Confucius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 exercised great caution
@@ -407,7 +419,7 @@ Saving his greatest caution for sacrificial fasting, war and sickness shows earn
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Neither direction is established by the described conduct.</summary>
+<summary>the third set of recluses and brahmins - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -420,7 +432,7 @@ Mencius's wisdom is moral approving and disapproving, and knowing what matters m
 </details>
 
 <details>
-<summary>The happy man — Neither direction is established by the described conduct.</summary>
+<summary>The happy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -433,7 +445,7 @@ Reason 'recommending' his affairs is loosely a kind of approving. But Mencian wi
 </details>
 
 <details>
-<summary>one of the sophists — Neither direction is established by the described conduct.</summary>
+<summary>one of the sophists - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -448,7 +460,7 @@ If he is enraged over reputation (inference), that would show misplaced earnestn
 </details>
 
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -460,4 +472,4 @@ Putting gold above what is right suggests his priorities are misordered. Mencius
 
 </details>
 
-Limits: Mencius gives four beginnings; the five-constants grouping and 'good faith' are later. Legge's preference for 'wisdom' is a translator's note. Mencius does not say how to rate a single act against an undeveloped beginning.
+Mencius gives four beginnings; the five-constants grouping and 'good faith' are later. Legge's preference for 'wisdom' is a translator's note. Mencius does not say how to rate a single act against an undeveloped beginning.

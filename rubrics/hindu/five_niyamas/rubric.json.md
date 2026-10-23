@@ -12,7 +12,7 @@ Vivekananda, Raja Yoga (1899); ch. VIII, “Raja Yoga in Brief,” a summary fre
 
 Vivekananda, Raja Yoga (1899); Yoga Aphorisms II.32–34 and commentary
 
-Limits: Ordinary hygiene alone isn't full śauca here; the in-brief section is a free Kurma Purana rendering within Vivekananda's book.
+Ordinary hygiene alone isn't full śauca here; the in-brief section is a free Kurma Purana rendering within Vivekananda's book.
 
 ## contentment
 
@@ -24,7 +24,7 @@ Central Hindu College, Sanatana Dharma: Advanced Text Book (1904)
 
 Vivekananda's supplied units only list contentment among niyamas; the definition comes from the CHC textbook.
 
-Limits: CHC attribution only. Source doesn't address resisting injustice; don't read contentment as passivity toward harm, nor deny it.
+CHC attribution only. Source doesn't address resisting injustice; don't read contentment as passivity toward harm, nor deny it.
 
 ## mortification
 
@@ -48,7 +48,7 @@ Vivekananda, Raja Yoga (1899); Yoga Aphorisms II.43 and commentary
 
 Unresolved tension: Raja Yoga in Brief names fasting as physical tapas; the introduction forbids fasting. Don't choose one.
 
-Limits: Not secular self-improvement or mere dieting. The fasting tension between Raja Yoga in Brief and the moderation passage stays unresolved. Powers are not moral virtue or Yoga proper. No claim is made about all Hindu schools.
+Not secular self-improvement or mere dieting. The fasting tension between Raja Yoga in Brief and the moderation passage stays unresolved. Powers are not moral virtue or Yoga proper. No claim is made about all Hindu schools.
 
 ## self-surrender to God
 
@@ -62,7 +62,7 @@ Vivekananda, Raja Yoga (1899); ch. VIII, “Raja Yoga in Brief,” a summary fre
 
 Vivekananda, Raja Yoga (1899)
 
-Limits: No requirement of specific religious vocabulary beyond devotion to God; obedience to humans is not this niyama.
+No requirement of specific religious vocabulary beyond devotion to God; obedience to humans is not this niyama.
 
 ## study
 
@@ -76,4 +76,4 @@ Vivekananda, Raja Yoga (1899); ch. VIII, “Raja Yoga in Brief,” a summary fre
 
 Vivekananda, Raja Yoga (1899)
 
-Limits: Not ordinary scholarship; novels-reading is mere absence, not conflict. Silence rule is stage-qualified, not anti-inquiry.
+Not ordinary scholarship; novels-reading is mere absence, not conflict. Silence rule is stage-qualified, not anti-inquiry.

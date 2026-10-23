@@ -6,22 +6,24 @@ Ghazali: Courage as the irascible faculty (anger) subjected to intellect, not me
 
 > **By ‘Courage’ we refer to the subjection of the irascible faculty to the intellect** ...
 
-Al-Ghazali, Ihya XXII, trans. Winter (1995); source line 7.
+Al-Ghazali, Ihya XXII, trans. Winter (1995).
 
 > **As for the trait of Courage, this gives rise to nobility [karam], intrepidity [najda]**, manliness [shahama], greatness of soul, ... endurance [Ultima!], clemency [hilm], steadfastness [thabat], the suppression of rage [kazm al-ghayz], dignity [waqar], affection ... and other such praiseworthy qualities.
 
-Al-Ghazali, Ihya XXII, trans. Winter (1995); source lines 6740–6744.
+Al-Ghazali, Ihya XXII, trans. Winter (1995).
 
 > The irascible faculty, when sound and balanced, is called ‘Courage’ ... Should the former faculty lose its balance and incline towards excess it is called ‘recklessness’, while should it incline towards weakness and insufficiency it is termed ‘cowardice’ and ‘languor’. ... **The mean is the praiseworthy thing** ...
 
-Al-Ghazali, Ihya XXII, trans. Winter (1995); source lines 4–5.
+Al-Ghazali, Ihya XXII, trans. Winter (1995).
 
 > striving with one’s self is Courage, which proceeds from the use of the irascible faculty under the control of the intellect and with just moderation.
 
-Al-Ghazali, Ihya XXII, trans. Winter (1995); source lines 6820–6846.
+Al-Ghazali, Ihya XXII, trans. Winter (1995).
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -34,7 +36,7 @@ Classic recklessness: irascible excess unsubjected to intellect, with vainglory;
 </details>
 
 <details>
-<summary>Zacchaeus — Neither direction is established by the described conduct.</summary>
+<summary>Zacchaeus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -47,7 +49,7 @@ Ghazali puts giving away wealth under the appetitive faculty (generosity), not u
 </details>
 
 <details>
-<summary>the huge and strong fellow — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the huge and strong fellow - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -60,7 +62,7 @@ Irascible faculty plainly unsubjected to intellect; excess yields quickness to a
 </details>
 
 <details>
-<summary>Mucius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Mucius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -73,7 +75,7 @@ His endurance and intrepidity are branches of courage, but the self-burning coul
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who rushes irrationally into danger - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -86,7 +88,7 @@ Irrational rushing is recklessness, the excess opposed to the mean, and is not g
 </details>
 
 <details>
-<summary>the timid companion — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the timid companion - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 fled away ... the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, “I’ll at him, and I’ll take care he shall learn whom he has attacked.”
@@ -98,7 +100,7 @@ Running away is the defect Ghazali calls cowardice. The later sword-drawing is d
 
 </details>
 
-Limits: Branch list is enumerative; individual branches are not separately defined here. Excess (recklessness) and defect (cowardice, languor) both conflict. Winter footnotes are translator commentary, not Ghazali.
+Branch list is enumerative; individual branches are not separately defined here. Excess (recklessness) and defect (cowardice, languor) both conflict. Winter footnotes are translator commentary, not Ghazali.
 
 ## Justice
 
@@ -120,7 +122,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
-Limits: Perfect equilibrium is attributed to the Prophet alone; others differ by degree. That is not an eligibility rule for conduct evidence.
+Perfect equilibrium is attributed to the Prophet alone; others differ by degree. That is not an eligibility rule for conduct evidence.
 
 ## Temperance
 
@@ -140,8 +142,10 @@ Al-Ghazali, Ihya XXII, trans. Winter (1995)
 
 Temperance disciplines appetite 'by the intellect and the Law'. Refusing what the Law forbids, or a chosen restraint that still meets real needs, is not the defect; 'indifference' is appetite failing even for what is lawful and needed.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Rajadatta - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -154,7 +158,7 @@ Appetite in excess, extravagance (tabdhir) undisciplined by intellect or Law, le
 </details>
 
 <details>
-<summary>the people — Some evidence that the conduct shows this virtue.</summary>
+<summary>the people - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -167,7 +171,7 @@ Not coveting beyond one's proper share is exactly Ghazali's 'contentedness with 
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Neither direction is established by the described conduct.</summary>
+<summary>Massimo Pigliucci - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -180,7 +184,7 @@ Disciplined appetite by intellect; but alcohol is still drunk most days, contrar
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Mindyrides - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -193,7 +197,7 @@ Appetite for comfort in excess, undisciplined by intellect; lacks contentedness 
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -206,7 +210,7 @@ Appetite in excess, undisciplined by intellect: cupidity, extravagance, and no c
 </details>
 
 <details>
-<summary>our minister Shaou — Some evidence that the conduct shows this virtue.</summary>
+<summary>our minister Shaou - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He  would  order  his  measures  and  movements, As  more  valuable  than  gold  or  gem.
@@ -224,7 +228,7 @@ He lacks craving thirst and greed yet acts in a measured way. This is appetite a
 
 </details>
 
-Limits: Branch results are listed for excess or defect together, not individually assigned. Within the supplied units, the defect side rests on Ghazali's balance passage: appetite inclining to defect is 'indifference', a blameworthy extreme.
+Branch results are listed for excess or defect together, not individually assigned. Within the supplied units, the defect side rests on Ghazali's balance passage: appetite inclining to defect is 'indifference', a blameworthy extreme.
 
 ## Wisdom
 
@@ -252,8 +256,10 @@ Al-Ghazali, Ihya XXII, tr. Winter, p. 21
 
 Wisdom is discernment applied in choice: true from false in belief, honesty from lies in speech, fair from foul in action. Clever intellect used for corrupt ends is its excess (cunning, swindling, deception); failing to apply it is its defect (stupidity, heedlessness). It can overlap with Justice, which governs anger and desire as Wisdom directs.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Shên Tao — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Shên Tao - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Consequently, Shên Tao discarded all knowledge and self-interest and became a fatalist. ... Passivity was his guiding principle. "For," said he, "we can only know that we know nothing, and a little knowledge is a dangerous thing. ... "Move when pushed, come when dragged. Be like a whirling gale, like a feather in the wind, like a mill-stone going round. The mill-stone as an existence is perfectly harmless. In motion or at rest it does no more than is required, and cannot therefore incur blame. ... "For a clod cannot be without TAO,"
@@ -278,7 +284,7 @@ He chooses not to apply reason at all. In Ghazali's terms that is the defect sid
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Neither direction is established by the described conduct.</summary>
+<summary>the third set of recluses and brahmins - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -291,7 +297,7 @@ Their careful conduct shows discernment in action. Holding mutually contradictor
 </details>
 
 <details>
-<summary>The happy man — Neither direction is established by the described conduct.</summary>
+<summary>The happy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -304,7 +310,7 @@ A reason-led assessment of his own affairs fits a sound rational faculty, which 
 </details>
 
 <details>
-<summary>one of the sophists — Neither direction is established by the described conduct.</summary>
+<summary>one of the sophists - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -319,7 +325,7 @@ Ghazali assigns control of anger to Justice acting as Wisdom directs. Unchecked 
 </details>
 
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -332,7 +338,7 @@ In a volitional act, desire overrode his discernment of foul action. Desire cont
 </details>
 
 <details>
-<summary>the nun Caṇḍakāḷī — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the nun Caṇḍakāḷī - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 In anger she said this:
@@ -378,7 +384,7 @@ A momentous volitional act driven by anger, not by sorting true from false, sugg
 
 </details>
 
-Limits: The excerpt does not fix the boundary between the mean and its excess, and transliterated Arabic terms are cut from the quotations. Not page-collated.
+The excerpt does not fix the boundary between the mean and its excess, and transliterated Arabic terms are cut from the quotations. Not page-collated.
 
 ## cowardice
 
@@ -392,7 +398,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
-Limits: Overlaps languor; the source gives no separate meaning. Avoiding an unnecessary fight is not cowardice.
+Overlaps languor; the source gives no separate meaning. Avoiding an unnecessary fight is not cowardice.
 
 ## cupidity
 
@@ -406,7 +412,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
-Limits: Branch list mixes excess and defect results without assignment; do not fix each to cupidity.
+Branch list mixes excess and defect results without assignment; do not fix each to cupidity.
 
 ## fraud
 
@@ -422,7 +428,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 No meaning distinct from swindling is supplied.
 
-Limits: Footnote markers on these words are Winter's; do not treat translator notes as Ghazali.
+Footnote markers on these words are Winter's; do not treat translator notes as Ghazali.
 
 ## indifference
 
@@ -432,6 +438,8 @@ Ghazali (tr. Winter): 'indifference' as the appetitive faculty's defect below Te
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
+The view in question is that spiritual discipline completely suppresses desire.
+
 > Such a view is absurd, for desire has been created for a purpose, and is an indispensable part of human nature: should the desire for food cease man would die… What is required is not the total extirpation of these things, but rather … the restoration of their balance and moderation, which is the middle point between excess and defect.
 
 Ghazali, Ihya XXII.3, trans. T. J. Winter (ITS 1995), pp 27–29
@@ -440,7 +448,7 @@ Ghazali, Ihya XXII.3, trans. T. J. Winter (ITS 1995), pp 27–29
 
 Ghazali, Ihya XXII.3, trans. T. J. Winter (ITS 1995), pp 27–29
 
-Limits: Source names food-indifference and rejects extirpating desire. It gives no quantity threshold and does not condemn fasts prescribed by Law. It does not address illness-related appetite loss. Little eating alone is not evidence of vice.
+Source names food-indifference and rejects extirpating desire. It gives no quantity threshold and does not condemn fasts prescribed by Law. It does not address illness-related appetite loss. Little eating alone is not evidence of vice.
 
 ## languor
 
@@ -456,7 +464,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 No distinct definition of languor is supplied; treat it with cowardice.
 
-Limits: Do not read languor as physical laziness; the source attaches it only to irascible defect.
+Do not read languor as physical laziness; the source attaches it only to irascible defect.
 
 ## recklessness
 
@@ -470,7 +478,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
-Limits: Mere calmness or absence of anger is not resistance; deficiency is a separate vice (cowardice/languor).
+Mere calmness or absence of anger is not resistance; deficiency is a separate vice (cowardice/languor).
 
 ## stupidity
 
@@ -484,7 +492,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
-Limits: Inexperience and mere failure are not stupidity; wrong ends belong to insanity, not this vice.
+Inexperience and mere failure are not stupidity; wrong ends belong to insanity, not this vice.
 
 ## swindling
 
@@ -498,7 +506,7 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
-Limits: Identical to fraud in this source; no independent meaning. Intelligence alone is not the vice.
+Identical to fraud in this source; no independent meaning. Intelligence alone is not the vice.
 
 ## tyranny
 
@@ -514,4 +522,4 @@ Ghazali, Ihya XXII.2, trans. T. J. Winter (ITS 1995), pp 18–23
 
 Tyranny is read as failure of that control; the source gives no further description.
 
-Limits: Source does not confine tyranny to rulers; political oppression examples are illustrations, not its definition.
+Source does not confine tyranny to rulers; political oppression examples are illustrations, not its definition.

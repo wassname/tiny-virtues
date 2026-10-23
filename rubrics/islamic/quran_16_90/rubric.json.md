@@ -16,7 +16,7 @@ Ma'arif al-Qur'an, commentary on 16:90
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 2127
 
-Limits: The Ma'arif definition is a second exegete's reading. Neither source lists specific deeds.
+The Ma'arif definition is a second exegete's reading. Neither source lists specific deeds.
 
 ## injustice
 
@@ -36,8 +36,10 @@ Ma'arif al-Qur'an, commentary on 16:90
 
 Ali stresses what is really unjust; Ma'arif stresses agreed impermissibility. Keep both readings visible.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Fox — Clear evidence that the conduct shows this vice.</summary>
+<summary>the Fox - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -50,7 +52,7 @@ Forward: Lying to and betraying a partner so that he is killed is ordinarily rec
 </details>
 
 <details>
-<summary>the son — Neither direction is established by the described conduct.</summary>
+<summary>the son - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 If a father has stolen a sheep, the son will give evidence against him.
@@ -65,7 +67,7 @@ Forward: True testimony about a theft, even against a parent, is not evidently a
 </details>
 
 <details>
-<summary>Tsze-sze — Neither direction is established by the described conduct.</summary>
+<summary>Tsze-sze - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -78,7 +80,7 @@ Forward: Staying to help defend a city against plunderers is not munkar. Fleeing
 </details>
 
 <details>
-<summary>a slave — Some evidence that the conduct resists this vice.</summary>
+<summary>a slave - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -91,7 +93,7 @@ Forward: Betraying a trust for a bribe is ordinarily recognized as forbidden (in
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Some evidence that the conduct shows this vice.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -104,7 +106,7 @@ Under Ali's reading, knowingly profiting from a fraud that disinherits the right
 </details>
 
 <details>
-<summary>the husbandmen — Clear evidence that the conduct shows this vice.</summary>
+<summary>the husbandmen - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -136,7 +138,7 @@ Both readings agree: murdering innocent agents and seizing an inheritance is rea
 
 </details>
 
-Limits: Yusuf Ali renders this 'injustice'. Ma'arif renders al-munkar as evil deeds, and the two readings differ.
+Yusuf Ali renders this 'injustice'. Ma'arif renders al-munkar as evil deeds, and the two readings differ.
 
 ## justice
 
@@ -160,8 +162,10 @@ Yusuf Ali, commentary note 2127 (1934), not Qur'an wording
 
 These verses stress impartiality: kinship, wealth, poverty, desire and enmity must not bend testimony.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Fox — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Fox - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -174,7 +178,7 @@ Self-interest makes him swerve, betraying partner to harm; injustice forbidden.
 </details>
 
 <details>
-<summary>the son — Some evidence that the conduct shows this virtue.</summary>
+<summary>the son - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 If a father has stolen a sheep, the son will give evidence against him.
@@ -189,7 +193,7 @@ The Duke of Sheh in a conversation with Confucius said, "There are some straight
 </details>
 
 <details>
-<summary>Tsze-sze — Neither direction is established by the described conduct.</summary>
+<summary>Tsze-sze - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -202,7 +206,7 @@ Fidelity to his ruler under danger is good conduct but not the impartiality stre
 </details>
 
 <details>
-<summary>a slave — Neither direction is established by the described conduct.</summary>
+<summary>a slave - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -215,7 +219,7 @@ Resisting bribes and threats shows steadfastness, but averting suspicion could d
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -228,7 +232,7 @@ The verse requires standing for justice even against one's own interest. Here se
 </details>
 
 <details>
-<summary>the husbandmen — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the husbandmen - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -260,7 +264,7 @@ Desire for gain led to murder and usurpation. Abandoning justice for one's own d
 
 </details>
 
-Limits: Ali calls justice comprehensive; this card stresses the supplied impartiality verses. They are not a full legal procedure.
+Ali calls justice comprehensive; this card stresses the supplied impartiality verses. They are not a full legal procedure.
 
 ## liberality to kith and kin
 
@@ -278,8 +282,10 @@ Qur’an 2:215, trans. Abdullah Yusuf Ali
 
 Qur’an 2:264, trans. Abdullah Yusuf Ali
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Arcesilaus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Arcesilaus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Without his knowledge, Arcesilaus put a purse under his pillow so that the man, whose modesty worked to his own disadvantage, should simply discover what he needed rather than receive it.
@@ -292,7 +298,7 @@ Forward: The recipient is a friend ('kith') who is in want, so two of the listed
 </details>
 
 <details>
-<summary>king Vessantara — Neither direction is established by the described conduct.</summary>
+<summary>king Vessantara - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -315,7 +321,7 @@ Forward: Liberality to kin means spending on kin. Here the kin themselves are gi
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Neither direction is established by the described conduct.</summary>
+<summary>someone [an indiscriminate giver] - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -328,7 +334,7 @@ Forward: Nothing in the giving is directed at kin or the needy, though some reci
 </details>
 
 <details>
-<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>A certain wealthy man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -359,7 +365,7 @@ Forward: Food goes to a begging wayfarer, which the verse lists. But it was give
 </details>
 
 <details>
-<summary>a prince — Neither direction is established by the described conduct.</summary>
+<summary>a prince - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -376,7 +382,7 @@ Forward: The recipients are subjects, not specifically kin or the needy. The pri
 </details>
 
 <details>
-<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -410,7 +416,7 @@ The fellow servant is not literally kin, but 2:215 extends spending to those in 
 
 </details>
 
-Limits: There is no Ali note on this phrase. 2:215 extends beyond kin; no amounts or rules are supplied.
+There is no Ali note on this phrase. 2:215 extends beyond kin; no amounts or rules are supplied.
 
 ## rebellion
 
@@ -430,7 +436,7 @@ Qur’an 3:135, trans. Abdullah Yusuf Ali
 
 For Ali, rebellion is inward defiance of God's Law in one's conscience. It is not disobedience to human superiors as such.
 
-Limits: Ali's gloss is brief and inward. Political or communal readings of al-baghy are not supplied here.
+Ali's gloss is brief and inward. Political or communal readings of al-baghy are not supplied here.
 
 ## the doing of good
 
@@ -446,8 +452,10 @@ Yusuf Ali, commentary note 2127 (1934), not Qur'an wording
 
 Doing good goes beyond strict claims. 42:40 still allows equal recompense, so not going beyond is not automatically wrong.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the man who was going to beat an ass-driver — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -460,7 +468,7 @@ Beating an animal that has no claim inverts 'obliging those who have no claim'. 
 </details>
 
 <details>
-<summary>king Wan — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -477,7 +485,7 @@ He grants access beyond what strict claim requires, which fits Ali's doing of go
 </details>
 
 <details>
-<summary>The Camel — Neither direction is established by the described conduct.</summary>
+<summary>The Camel - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -492,7 +500,7 @@ Act seeks own favour, not good beyond claims; no harm done to others.
 </details>
 
 <details>
-<summary>the Lord — Some evidence that the conduct shows this virtue.</summary>
+<summary>the Lord - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -505,7 +513,7 @@ Care for creatures with 'no claim' resembles Ali's obliging those without claims
 </details>
 
 <details>
-<summary>King Wen — Some evidence that the conduct shows this virtue.</summary>
+<summary>King Wen - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -518,7 +526,7 @@ The dead man explicitly has no one with a claim, and King Wen goes beyond a bare
 </details>
 
 <details>
-<summary>Qi Xi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Qi Xi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Qi Xi observed, "I was taught that when a petty man obtains a position, one will be unlucky if one does not oppose him and when a gentleman is in trouble, one will be unlucky if one does not help him?' ... Then he went to see Viscount Xuan of Fan and persuaded him as follows: "I was taught that those who are skilled at governing are neither excessive with rewards nor arbitrary with punishments. Rewards that are excessive he fears may be given to immoral persons, and punishments that are arbitrary he fears may be applied to gentlemen. Should one be so unfortunate as to err, it would be better to err by rewarding the immoral than by punishing gentlemen.
@@ -530,4 +538,4 @@ He helps someone who has no evident claim on him, which matches Ali's gloss. The
 
 </details>
 
-Limits: Ali's examples illustrate the quality; they are not an exhaustive list. Overlaps with justice and liberality.
+Ali's examples illustrate the quality; they are not an exhaustive list. Overlaps with justice and liberality.

@@ -22,7 +22,7 @@ Gibson makes charity depend on faith and hope, and says it can be lost by mortal
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,p244
 
-Limits: Not every helpful act shows theological charity. An unknown motive stays uncertain, not adverse. A stated vainglorious motive is scene evidence of an 'unworthy motive', but Gibson does not call it the loss of charity.
+Not every helpful act shows theological charity. An unknown motive stays uncertain, not adverse. A stated vainglorious motive is scene evidence of an 'unworthy motive', but Gibson does not call it the loss of charity.
 
 ## faith
 
@@ -46,7 +46,7 @@ Gibson's Judas shows that belief can coexist with despair: 'Faith may exist with
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Theological Virtues,pp222–224
 
-Limits: Gibson's ecclesial claims are attributed, not endorsed. Ordinary trust is not divine Faith, and the absence of religious words is not unbelief. Faith has a lived side ('rule of your daily lives'). Do not score misconduct against faith unless the source or scene links it to faith rather than to hope or charity. Sins opposed to faith are deferred to an instruction that is not supplied.
+Gibson's ecclesial claims are attributed, not endorsed. Ordinary trust is not divine Faith, and the absence of religious words is not unbelief. Faith has a lived side ('rule of your daily lives'). Do not score misconduct against faith unless the source or scene links it to faith rather than to hope or charity. Sins opposed to faith are deferred to an instruction that is not supplied.
 
 ## hope
 
@@ -70,4 +70,4 @@ Gibson defines presumption as 'expecting some grace without our taking the prope
 
 Gibson,Catechism Made EasyIII(1877),pp271–272;Presumption/Despair
 
-Limits: Gibson's salvation teaching is attributed. Worldly optimism is outside scope. Presumption is defined in Gibson’s discussion of presumption (pp. 271–272).
+Gibson's salvation teaching is attributed. Worldly optimism is outside scope. Presumption is defined in Gibson’s discussion of presumption (pp. 271–272).

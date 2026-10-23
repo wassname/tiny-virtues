@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 import sqlite3
 import threading
+import time
 
 import numpy as np
 from tabulate import tabulate
@@ -109,12 +110,17 @@ def packet(virtue, rows, view, *, model=MODEL):
 
 
 def parse_response(response, identities, view):
-    text = response['choices'][0]['message']['content']
+    choice = response['choices'][0]
+    provider_failed = choice.get('finish_reason') == 'error' or choice.get('error') is not None
+    text = choice['message']['content']
     try:
         parsed = json.loads(text)
     except (json.JSONDecodeError, TypeError):
-        return dict(levels={i: None for i in identities}, judge_note=None, error='invalid_json')
+        return dict(levels={i: None for i in identities}, judge_note=None,
+                    error='provider_error' if provider_failed else 'invalid_json')
     note = parsed.get('judge_note')
+    if provider_failed:
+        return dict(levels={i: None for i in identities}, judge_note=note if isinstance(note, str) else None, error='provider_error')
     answers = parsed.get('judgments')
     if not isinstance(note, str) or not isinstance(answers, dict):
         return dict(levels={i: None for i in identities}, judge_note=note if isinstance(note, str) else None, error='missing_judgments_or_note')
@@ -286,7 +292,7 @@ def committed_budget(ledger):
     return own + external_bound
 
 
-def fetch(value, out, *, allow_paid):
+def fetch(value, out, *, allow_paid, request_delay=0.0):
     key = value['key']
     path = out / 'replies' / (key + '.json')
     failed = out / 'failures' / (key + '.json')
@@ -294,6 +300,8 @@ def fetch(value, out, *, allow_paid):
         return None
     if not path.exists():
         assert allow_paid, 'Uncached evaluation request; --allow-paid is required'
+        if request_delay:
+            time.sleep(request_delay)
         req = value['actual_request']
         prices = MODELS[value['request']['model']]['prices']
         allowance = Decimal(str((len(json.dumps(req, ensure_ascii=False).encode()) + 1024) * prices['input'] + req['max_tokens'] * prices['output']))
@@ -315,6 +323,12 @@ def fetch(value, out, *, allow_paid):
             save(out/'funding_blocked'/(key+'.json'),dict(key=key,request=value['actual_request'],
                 attempt=error.record,status='not_attempted_account_credits',billing_status='rejected_before_inference'))
             raise
+        except llm.ChatRateLimited as error:
+            with funding() as ledger:
+                ledger['inflight'].pop(key)
+            save(failed, dict(key=key, request=value['actual_request'], attempt=error.record,
+                             status='rate_limited_no_retry', billing_status='rejected_before_inference'))
+            return None
         except llm.ChatRequestFailed as error:
             save(failed, dict(key=key, request=value['actual_request'], attempt=error.record,
                              status='request_failed_no_retry', billing_status='reservation_retained'))
@@ -326,6 +340,39 @@ def fetch(value, out, *, allow_paid):
     assert saved['key'] == key and saved['request'] == value['actual_request']
     record_charge(key, saved['response'])
     return saved['response']
+
+
+def recover_failed(out):
+    destination = out / 'recovery' / 'slow_pass_1'
+    assert not destination.exists(), 'The single slow recovery pass has already been prepared'
+    rows = []
+    with funding() as ledger:
+        for path in sorted((out / 'failures').glob('*.json')):
+            failure = read(path)
+            key = failure['key']
+            assert path.stem == key == item_major.digest(failure['request'])
+            assert not (out / 'replies' / (key + '.json')).exists(), 'Do not retry a returned model reply'
+            status = failure['attempt']['http_status']
+            assert status in (429, 503), f'Unclassified failed request: HTTP {status}'
+            amount = ledger['inflight'][key]
+            retained_key = key + ':unknown-before-slow-pass' if status == 503 else None
+            assert retained_key is None or retained_key not in ledger['inflight']
+            rows.append(dict(key=key, source=str(path), archive=str(destination/'failures'/path.name),
+                             http_status=status, reservation_usd=amount, retained_key=retained_key))
+        assert rows, 'No failed requests to recover'
+        save(destination/'plan.json', dict(author='PI/Sol', status='prepared', requests=rows))
+        for row in rows:
+            amount = ledger['inflight'].pop(row['key'])
+            if row['retained_key'] is not None:
+                ledger['inflight'][row['retained_key']] = amount
+            target = Path(row['archive'])
+            target.parent.mkdir(parents=True, exist_ok=True)
+            Path(row['source']).rename(target)
+    result = dict(author='PI/Sol', status='ready_for_one_slow_pass', requests=len(rows),
+                  rejected_429=sum(row['http_status'] == 429 for row in rows),
+                  retained_unknown_503=sum(row['http_status'] == 503 for row in rows))
+    save(destination/'result.json', result)
+    return result
 
 
 def record_charge(key, response):
@@ -374,6 +421,61 @@ def story_interval(rows, identities, *, seed, draws=1000):
                 undefined_draws=undefined, draws=draws)
 
 
+def comparison_metrics(comparisons, manifest, *, draws=1000):
+    selected_ids = [r['id'] for r in manifest['selected']]
+    seed = manifest.get('seed', 20261023)
+    schools = sorted({r['tradition'] for r in comparisons})
+    metrics = {}
+    for number, school in enumerate(schools + ['all']):
+        rows = [r for r in comparisons if school == 'all' or r['tradition'] == school]
+        valid = [r for r in rows if not r['missing']]
+        metrics[school] = dict(
+            r=correlation([r['prediction'] for r in valid], [r['target'] for r in valid]),
+            mae=float(np.mean([abs(r['prediction'] - r['target']) for r in valid])) if valid else None,
+            exact=None if any(r['exact'] is None for r in rows) else sum(r['exact'] for r in rows) / len(rows),
+            flips=None if any(r['flipped'] is None for r in rows) else sum(r['flipped'] for r in rows),
+            missing=sum(r['missing'] for r in rows), cells=len(rows),
+            r_resampling=story_interval([dict(id=r['id'], a=r['prediction'], b=r['target']) for r in valid],
+                                       selected_ids, seed=seed + number, draws=draws))
+    pattern, residuals = {}, {school: [] for school in metrics}
+    lookup = {(r['id'], r['virtue']): r for r in comparisons}
+    assert len(lookup) == len(comparisons), 'Duplicate story/virtue comparison'
+    for number, (name, ids) in enumerate(manifest['groups'].items()):
+        pairs, kept = [], 0
+        for story in manifest['selected']:
+            rows = [lookup[(story['id'], virtue)] for virtue in ids]
+            if any(r['missing'] for r in rows):
+                continue
+            a, b = np.array([r['prediction'] for r in rows]), np.array([r['target'] for r in rows])
+            # Constant predictions have exactly zero differences, including the story-mean baseline. -- PI/Sol
+            left = np.zeros_like(a) if np.ptp(a) == 0 else a - a.mean()
+            right = np.zeros_like(b) if np.ptp(b) == 0 else b - b.mean()
+            kept += 1
+            for row, x, y in zip(rows, left, right, strict=True):
+                pair = dict(id=story['id'], a=float(x), b=float(y))
+                residuals[row['tradition']].append(pair)
+                residuals['all'].append(pair)
+                pairs.append(pair)
+        pattern[name] = dict(r=correlation([r['a'] for r in pairs], [r['b'] for r in pairs]), stories=kept, virtues=ids,
+            resampling=story_interval(pairs, selected_ids, seed=seed + 100 + number, draws=draws))
+    for number, (school, rows) in enumerate(residuals.items()):
+        metrics[school].update(pattern_r=correlation([r['a'] for r in rows], [r['b'] for r in rows]),
+            pattern_cells=len(rows), pattern_stories=len({r['id'] for r in rows}),
+            pattern_resampling=story_interval(rows, selected_ids, seed=seed + 200 + number, draws=draws))
+    return dict(traditions={school: metrics[school] for school in schools}, overall=metrics['all'], same_pattern=pattern)
+
+
+def good_bad_baseline(manifest, *, draws=1000):
+    comparisons = []
+    for story in manifest['selected']:
+        identity = story['id']
+        mean = float(np.mean([labels[identity]['signed'] for labels in manifest['targets'].values()]))
+        for virtue, labels in manifest['targets'].items():
+            comparisons.append(dict(id=identity, virtue=virtue, tradition=virtue.split('|')[0],
+                target=labels[identity]['signed'], prediction=mean, missing=False, exact=None, flipped=None))
+    return comparison_metrics(comparisons, manifest, draws=draws)
+
+
 def summarize(out):
     manifest = read(out / 'manifest.json')
     records, notes = [], []
@@ -404,39 +506,8 @@ def summarize(out):
             mode=a['mode'], prediction=(a['prediction'] + b['prediction']) / 2 if complete else None,
             exact=complete and a['level'] == b['level'] == a['mode'],
             flipped=complete and a['level'] != b['level'], missing=not complete))
-    tradition_metrics = {}
-    selected_ids = [r['id'] for r in manifest['selected']]
-    seed = manifest.get('seed', 20261023)
-    for school_number, school in enumerate(sorted({r['tradition'] for r in comparisons})):
-        rows = [r for r in comparisons if r['tradition'] == school]
-        valid = [r for r in rows if not r['missing']]
-        tradition_metrics[school] = dict(r=correlation([r['prediction'] for r in valid], [r['target'] for r in valid]),
-            mae=float(np.mean([abs(r['prediction'] - r['target']) for r in valid])) if valid else None,
-            exact=sum(r['exact'] for r in rows) / len(rows), flips=sum(r['flipped'] for r in rows),
-            missing=sum(r['missing'] for r in rows), cells=len(rows),
-            r_resampling=story_interval([dict(id=r['id'], a=r['prediction'], b=r['target']) for r in valid],
-                                       selected_ids, seed=seed + school_number))
-    pattern, residuals = {}, {school: [] for school in tradition_metrics}
-    lookup = {(r['id'], r['virtue']): r for r in comparisons}
-    for group_number, (name, ids) in enumerate(manifest['groups'].items()):
-        predictions, labels, kept, bootstrap_rows = [], [], 0, []
-        for story in manifest['selected']:
-            rows = [lookup[(story['id'], v)] for v in ids]
-            if any(r['missing'] for r in rows):
-                continue
-            a, b = np.array([r['prediction'] for r in rows]), np.array([r['target'] for r in rows])
-            left, right = a - a.mean(), b - b.mean()
-            predictions.extend(left); labels.extend(right); kept += 1
-            for row, x, y in zip(rows, left, right, strict=True):
-                pair = dict(id=story['id'], a=float(x), b=float(y))
-                residuals[row['tradition']].append(pair)
-                bootstrap_rows.append(pair)
-        pattern[name] = dict(r=correlation(predictions, labels), stories=kept, virtues=ids,
-            resampling=story_interval(bootstrap_rows, selected_ids, seed=seed + 100 + group_number))
-    for school_number, (school, rows) in enumerate(residuals.items()):
-        tradition_metrics[school].update(pattern_r=correlation([r['a'] for r in rows], [r['b'] for r in rows]),
-            pattern_cells=len(rows), pattern_stories=len({r['id'] for r in rows}),
-            pattern_resampling=story_interval(rows, selected_ids, seed=seed + 200 + school_number))
+    metrics = comparison_metrics(comparisons, manifest)
+    tradition_metrics, pattern = metrics['traditions'], metrics['same_pattern']
     complete = [r for r in comparisons if not r['missing']]
     worst = sorted(complete, key=lambda r: -abs(r['prediction'] - r['target']))[:30]
     ledger_path = Path(read(out/'funding.json')['ledger']) if (out/'funding.json').exists() else LEDGER
@@ -444,12 +515,14 @@ def summarize(out):
     bills = {note['response_id']:note['cost_usd'] for note in notes}
     result = dict(author='PI/Sol', model=manifest['model'], provider=manifest['provider'],
                   reasoning=read(manifest['packets'][0])['request']['reasoning'], stories=len(manifest['selected']),
-                  traditions=tradition_metrics, same_pattern=pattern, largest_disagreements=worst,
+                  **metrics, largest_disagreements=worst,
                   returned_cost_usd=str(sum(Decimal(str(cost)) for cost in bills.values())),
                   shared_budget_committed_usd=str(committed_budget(ledger)),
                   failed_requests=sum((out/'failures'/(Path(path).stem+'.json')).exists() for path in manifest['packets']),
                   replies=len(notes), planned_requests=len(manifest['packets']),
-                  note_counts=dict(Counter('missing' if n['judge_note'] is None else 'empty' if n['judge_note'] == '' else 'text' for n in notes)),
+                  note_counts=dict(Counter('missing' if n['judge_note'] is None else 'empty' if n['judge_note'] == '' else 'text' for n in notes),
+                                   unreturned=len(manifest['packets'])-len(notes)),
+                  returned_errors=dict(Counter(n['error'] for n in notes if n['error'] is not None)),
                   inflight=ledger['inflight'])
     save(out / 'notes.json', notes)
     save(out / 'predictions.json', comparisons)
@@ -485,12 +558,13 @@ def summarize(out):
 
 
 def run(out, *, allow_paid=False, limit=None, threads=4, budget=4.99, final=False,
-        funding_scope=None, funding_ledger=None):
+        funding_scope=None, funding_ledger=None, request_delay=0.0):
     from inspect_ai import Task, eval
     from inspect_ai.dataset import Sample
     from inspect_ai.model import ChatMessageAssistant, ModelOutput
     from inspect_ai.solver import solver
     global LEDGER, SCOPE
+    assert 0 <= request_delay <= 60, 'Inter-request delay must be between zero and sixty seconds'
     manifest = read(out / 'manifest.json')
     if funding_scope is not None or funding_ledger is not None:
         assert funding_scope == 'fast_dev_eval' and funding_ledger is not None and not final
@@ -499,7 +573,8 @@ def run(out, *, allow_paid=False, limit=None, threads=4, budget=4.99, final=Fals
     elif final:
         LEDGER, SCOPE = FINAL_LEDGER, 'eval_major_models_20261023'
     initialize_budget(budget)
-    save(out/'funding.json',dict(ledger=str(LEDGER),scope=SCOPE,cap_usd=budget))
+    save(out/'funding.json',dict(ledger=str(LEDGER),scope=SCOPE,cap_usd=budget,
+                               threads=threads,request_delay_seconds=request_delay))
     llm.FUNDING_LEDGER = LEDGER
     paths = manifest['packets'][:limit] if limit is not None else manifest['packets']
     # One virtue at a time bounds Inspect's retained prompt/trace buffers. -- PI/Sol
@@ -510,7 +585,7 @@ def run(out, *, allow_paid=False, limit=None, threads=4, budget=4.99, final=Fals
     def predict():
         async def solve(state, generate):
             value = read(state.metadata['packet_path'])
-            response = await asyncio.to_thread(fetch, value, out, allow_paid=allow_paid)
+            response = await asyncio.to_thread(fetch, value, out, allow_paid=allow_paid, request_delay=request_delay)
             completion = response['choices'][0]['message']['content'] or '' if response is not None else ''
             state.messages.append(ChatMessageAssistant(content=completion, model=manifest['model']))
             state.output = ModelOutput.from_content(manifest['model'], completion)

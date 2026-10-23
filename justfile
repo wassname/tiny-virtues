@@ -108,6 +108,10 @@ evaluate output stories="300" labels="private/labels/jev_major_20261022":
     uv run --locked --extra eval python scripts/eval/v5.py prepare --labels '{{labels}}' --output '{{output}}' --stories {{stories}}
     uv run --locked --extra eval python scripts/eval/v5.py run --output '{{output}}' --allow-paid --budget 4.99
 
+# Compare frozen predictions and the story-mean baseline; no model calls. -- PI/Sol
+evaluate-report output *runs:
+    uv run --locked --extra eval python scripts/eval/v5.py compare --output '{{output}}' --runs {{runs}}
+
 # Rebuild only plots of current rubric-v2 labels; no model calls. -- PI/Sol
 major-plots build_dir=build output="docs/results/v5/figures":
     uv run --locked --extra plots python scripts/analysis/correlations.py --major-build '{{build_dir}}' --output '{{output}}'

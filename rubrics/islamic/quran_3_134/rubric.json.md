@@ -12,7 +12,7 @@ Qur’an 3:134, trans. Abdullah Yusuf Ali
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 453
 
-Limits: The source sets no amounts. Overlaps charity and liberality.
+The source sets no amounts. Overlaps charity and liberality.
 
 ## pardon (all) men
 
@@ -32,7 +32,7 @@ Qur’an 42:40, 42:41, trans. Abdullah Yusuf Ali
 
 Pardon allows necessary correction and self-defence. It means freedom from grievance and covering faults, not compulsory passivity.
 
-Limits: 'All' is the verse's scope. The source gives no rules for legal penalties.
+'All' is the verse's scope. The source gives no rules for legal penalties.
 
 ## who restrain anger
 
@@ -46,8 +46,10 @@ Qur'an 3:133-135, trans. Yusuf Ali
 
 Yusuf Ali, commentary note 453 (1934), not Qur'an wording
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>old man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>old man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Once, in a fit of anger, he drove him from his cell.
@@ -60,7 +62,7 @@ Acted in a fit of anger, expelling a faithful disciple: failure to restrain ange
 </details>
 
 <details>
-<summary>Lycurgus the Lacedaemonian — Clear evidence that the conduct shows this virtue.</summary>
+<summary>Lycurgus the Lacedaemonian - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre
@@ -73,7 +75,7 @@ Blinded by a citizen, offered vengeance, he refrained and reformed the man; rest
 </details>
 
 <details>
-<summary>Varana — Neither direction is established by the described conduct.</summary>
+<summary>Varana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he saw, on the way, a family quarrel, through which some were slain. Distressed, he hastened to the Exalted One, and told him.
@@ -102,7 +104,7 @@ Varana is distressed, not angered, by others' violence and seeks guidance; no an
 </details>
 
 <details>
-<summary>Yen Hwúi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Yen Hwúi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a man whose angry feelings towards any particular person he did not suffer to visit upon another
@@ -115,7 +117,7 @@ Yen Hwui did have angry feelings but restrained them from spreading to others. P
 </details>
 
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 seized him and ate him up
@@ -128,7 +130,7 @@ Wolf invents grievances ('you grossly insulted me') as pretext, then kills. Moti
 </details>
 
 <details>
-<summary>Kaou Pih — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Kaou Pih - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room.
@@ -140,4 +142,4 @@ Kaou kills the duke from fear of punishment over old dislike; harbors grievance,
 
 </details>
 
-Limits: Restraint does not forbid necessary correction. 3:135 covers one's own faults separately.
+Restraint does not forbid necessary correction. 3:135 covers one's own faults separately.

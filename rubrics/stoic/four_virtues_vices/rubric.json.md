@@ -6,18 +6,20 @@ Musonius: enduring hardship and not fearing death, grounded in the conviction th
 
 > ... the child who is trained properly, whether boy or girl, **must be accustomed to endure hardship, not to fear death, not to be disheartened in the face of any misfortune**; he must in short be accustomed to every situation which calls for courage.
 
-Musonius Rufus, Lectures, trans. Lutz (1947); source line 2636.
+Musonius Rufus, Lectures, trans. Lutz (1947).
 
 > ... since fearlessness and intrepidity and boldness are the product of courage, **how else would a man acquire them than by having a firm conviction that death and hardships are not evils?** For these are the things, death and hardships, I repeat, which unbalance and frighten men when they believe that they are evils ...
 
-Musonius Rufus, Lectures, trans. Lutz (1947); source line 2750.
+Musonius Rufus, Lectures, trans. Lutz (1947).
 
 > For a woman too of the right sort must have courage and be wholly free of cowardice, **so that she will neither be swayed by hardships nor by fear**; otherwise, how will she be said to have self-control, if by threat or force she can be constrained to yield to shame?
 
-Musonius Rufus, Lectures, trans. Lutz (1947); source line 2626.
+Musonius Rufus, Lectures, trans. Lutz (1947).
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -30,7 +32,7 @@ Not fearing death appears, but senseless self-mutilation lacks understanding and
 </details>
 
 <details>
-<summary>Mucius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Mucius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -43,7 +45,7 @@ He bears burning voluntarily and does not fear hardship or death, so he is not d
 </details>
 
 <details>
-<summary>Zacchaeus — Neither direction is established by the described conduct.</summary>
+<summary>Zacchaeus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -56,7 +58,7 @@ Accepting the loss of wealth amid disapproval is weakly a matter of not being sw
 </details>
 
 <details>
-<summary>the huge and strong fellow — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the huge and strong fellow - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -69,7 +71,7 @@ Being unbalanced by words treats insult as an evil; Musonius ties courage to not
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who rushes irrationally into danger - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -82,7 +84,7 @@ Courage requires conviction from philosophy, not irrational daring; physical dar
 </details>
 
 <details>
-<summary>the timid companion — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the timid companion - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 fled away ... the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, “I’ll at him, and I’ll take care he shall learn whom he has attacked.”
@@ -94,13 +96,11 @@ Musonius explicitly counts repelling attack as courage. Fleeing while a companio
 
 </details>
 
-Limits: Musonius explicitly includes repelling attack. Physical daring or fighting success alone does not establish courage.
+Musonius explicitly includes repelling attack. Physical daring or fighting success alone does not establish courage.
 
 ## cowardice
 
 Musonius: being swayed by hardships or fear, so that one yields to shame under threat or force.
-
-Labels derive from `stoic|four_virtues_vices|courage`.
 
 > For a woman too of the right sort must have courage and be wholly free of cowardice, so that she will neither be swayed by hardships nor by fear; **otherwise, how will she be said to have self-control, if by threat or force she can be constrained to yield to shame?** Nay more, it is necessary for women to be able to repel attack, unless indeed they are willing to appear more cowardly than hens and other female birds which fight with creatures much larger than themselves to defend their young.
 
@@ -110,8 +110,10 @@ Musonius Rufus, Lecture IV, tr.Cora E.Lutz(1947)
 
 Musonius Rufus, Lecture VIII, tr.Cora E.Lutz(1947)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the timid companion — Clear evidence that the conduct shows this vice.</summary>
+<summary>the timid companion - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 fled away ... the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, “I’ll at him, and I’ll take care he shall learn whom he has attacked.”
@@ -124,7 +126,7 @@ He is swayed by fear and fails to help repel an attack on his companion, which c
 </details>
 
 <details>
-<summary>Mucius — Clear evidence that the conduct resists this vice.</summary>
+<summary>Mucius - Clear evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -137,7 +139,7 @@ Forward: Mucius chose to submit to severe pain by fire while in enemy hands. Thi
 </details>
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Neither direction is established by the described conduct.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -150,7 +152,7 @@ Forward: Enduring self-mutilation to the death is not shrinking from pain, so it
 </details>
 
 <details>
-<summary>the huge and strong fellow — Neither direction is established by the described conduct.</summary>
+<summary>the huge and strong fellow - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -163,7 +165,7 @@ Forward: The man is thrown off balance by a minor hardship, an insult. In Musoni
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Neither direction is established by the described conduct.</summary>
+<summary>the man who rushes irrationally into danger - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -176,7 +178,7 @@ Forward: Rushing into danger without reason is the opposite failure to cowardice
 </details>
 
 <details>
-<summary>Thrasea — Some evidence that the conduct resists this vice.</summary>
+<summary>Thrasea - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Thrasea was so disgusted that he walked out and refused to vote. ... He was refusing to dignify brazen corruption and evil. ... All Thrasea could do now was try to exert some moral authority, to tell people, “This is not normal.” So he did, refusing consent, refusing to rubber-stamp, whatever little that was worth.
@@ -194,13 +196,11 @@ Cowardice is yielding to shame under threat. Thrasea refuses to yield where his 
 
 </details>
 
-Limits: Avoiding needless danger is not cowardice. Musonius's claims about the Amazons and about women are attributed source evidence, not adopted claims.
+Avoiding needless danger is not cowardice. Musonius's claims about the Amazons and about women are attributed source evidence, not adopted claims.
 
 ## folly
 
 Seneca 37: being driven by impulse and passion rather than led by reason's forethought about what to undertake.
-
-Labels derive from `stoic|four_virtues_vices|wisdom`.
 
 > **Folly is low, abject, mean, slavish, and exposed to many of the cruellest passions.** ...You will learn from her [reason] what you should undertake, and how it should be done; you will not blunder into things. 5. You can show me no man who knows how he began to crave that which he craves. **He has not been led to that pass by forethought; he has been driven to it by impulse.** ...It is disgraceful, instead of proceeding ahead, to be carried along...
 
@@ -212,13 +212,11 @@ Diogenes Laertius7.92–93, tr.R.D.Hicks(1925)
 
 Seneca's 'forethought' concerns what ought to be undertaken. Mere calculation is not wisdom.
 
-Limits: A deliberate wrongdoer is not wise merely for planning. Folly may co-occur with other vices but is not marked for every bad act.
+A deliberate wrongdoer is not wise merely for planning. Folly may co-occur with other vices but is not marked for every bad act.
 
 ## injustice
 
 Musonius XX: covetous, grasping acquisition, and failing duties to city, friends and gods. Lecture IV adds wronging others.
-
-Labels derive from `stoic|four_virtues_vices|justice`.
 
 > Furthermore, luxury begets injustice because it also begets covetousness. ...**nor again in his effort to acquire can he fail to be grasping and unjust; for no man would succeed in acquiring much by just methods.** In still another way the man of luxurious habits would be unjust, for he would hesitate to undertake the necessary burdens for his city without abandoning his extravagant life, and if it seemed necessary to suffer deprivation on behalf of his friends or relatives he would not submit to it... Thus he would in all ways be unjust toward his city, toward his friends, and toward the gods, in failing to do what it is his duty to do.
 
@@ -228,8 +226,10 @@ Musonius Rufus, Lecture XX, tr.Cora E.Lutz(1947)
 
 Musonius Rufus, Lecture IV, tr.Cora E.Lutz(1947)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Fox — Clear evidence that the conduct shows this vice.</summary>
+<summary>the Fox - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -242,7 +242,7 @@ Forward: He deceives and betrays his partner to save himself, delivering the Ass
 </details>
 
 <details>
-<summary>Tsze-sze — Some evidence that the conduct resists this vice.</summary>
+<summary>Tsze-sze - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -255,7 +255,7 @@ Forward: As a minister, he refuses to flee danger so that the ruler is not left 
 </details>
 
 <details>
-<summary>the son — Neither direction is established by the described conduct.</summary>
+<summary>the son - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 If a father has stolen a sheep, the son will give evidence against him.
@@ -270,7 +270,7 @@ Forward: The son seeks no gain, and his testimony may serve the city's justice, 
 </details>
 
 <details>
-<summary>a slave — Some evidence that the conduct resists this vice.</summary>
+<summary>a slave - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -283,7 +283,7 @@ Forward: He refuses gain (bribes) and bears torture and death to keep faith with
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Some evidence that the conduct shows this vice.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -296,7 +296,7 @@ Acquiring a large estate through another's crime, on suspicion of fraud, is gras
 </details>
 
 <details>
-<summary>the husbandmen — Clear evidence that the conduct shows this vice.</summary>
+<summary>the husbandmen - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -328,7 +328,7 @@ Murder for the sake of acquisition is the clearest grasping injustice, and it wr
 
 </details>
 
-Limits: Eriphyle is only named, not described. Unrelated vices are not injustice unless they wrong others or fail a duty.
+Eriphyle is only named, not described. Unrelated vices are not injustice unless they wrong others or fail a duty.
 
 ## justice
 
@@ -348,8 +348,10 @@ Musonius Rufus, Lectures, trans. Lutz (1947)
 
 The concern extends to 'fellow men', not just one's own group.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Romulus — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Romulus - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 when he decided that it was more expedient for him to reign alone than to share the throne with another, he slew his brother. He threw to the winds his brotherly affection and his human feelings, to secure what seemed to him — but was not — expedient
@@ -362,7 +364,7 @@ Selfish grab of more than his share, harming a fellow man, with specious excuse;
 </details>
 
 <details>
-<summary>king Wan — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -379,7 +381,7 @@ He fairly shares and avoids disproportionate punishment, a king helping his peop
 </details>
 
 <details>
-<summary>the Lord — Neither direction is established by the described conduct.</summary>
+<summary>the Lord - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -392,7 +394,7 @@ Musonius' justice concerns fellow men, fairness and duties; harm-avoidance towar
 </details>
 
 <details>
-<summary>King Wen — Some evidence that the conduct shows this virtue.</summary>
+<summary>King Wen - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -405,7 +407,7 @@ He carries out a role-based duty, which is some fit with justice as doing one's 
 </details>
 
 <details>
-<summary>the man who was going to beat an ass-driver — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -418,7 +420,7 @@ He refrains from harming the Athenian, which shows some restraint, but he redire
 </details>
 
 <details>
-<summary>The Camel — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>The Camel - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -432,13 +434,11 @@ Selfish desire to divert another's due praise conflicts with shunning selfishnes
 
 </details>
 
-Limits: Arbitration by 'just deserts' is stated for kings and is applied here to private arbiters. Do not stretch justice into compassion.
+Arbitration by 'just deserts' is stated for kings and is applied here to private arbiters. Do not stretch justice into compassion.
 
 ## profligacy (intemperance)
 
 Musonius: gluttony, drunkenness and related disgraceful vices of excess; 'wantonness', escapable only through self-control.
-
-Labels derive from `stoic|four_virtues_vices|temperance`.
 
 > **Gluttony, drunkenness, and other related vices, which are vices of excess and bring disgrace upon those guilty of them,** show that self-control is most necessary for every human being, male and female alike; for the only way of escape from wantonness is through self-control; there is no other.
 
@@ -450,8 +450,10 @@ Musonius Rufus, Lecture VIII, tr.Cora E.Lutz(1947)
 
 'Profligacy' is DL's label. Lutz's 'intemperance/wantonness' wording is matched to it without checking the Greek.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Clear evidence that the conduct shows this vice.</summary>
+<summary>Rajadatta - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -464,7 +466,7 @@ Forward: Spending a thousand a day on a courtesan until ruined is wantonness and
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct resists this vice.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -477,7 +479,7 @@ Forward: This is a deliberate, regular effort to curb desires and rise above ple
 </details>
 
 <details>
-<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) — Neither direction is established by the described conduct.</summary>
+<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Of liquids, pure water is necessary to health, and infusions of herbs in it, such as tea, coffee and cocoa, taken in moderation, are harmless and often useful.
@@ -490,7 +492,7 @@ Forward: Moderate use of harmless drinks is a fitting pleasure, not a vice of ex
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct shows this vice.</summary>
+<summary>Mindyrides - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -503,7 +505,7 @@ Forward: Lying on rose-leaves and being so soft that a fold or the sight of work
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct shows this vice.</summary>
+<summary>Apicius - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -516,7 +518,7 @@ Forward: This is a paradigm of gluttony as a vice of excess and extravagance, an
 </details>
 
 <details>
-<summary>the people — Some evidence that the conduct resists this vice.</summary>
+<summary>the people - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -528,7 +530,7 @@ Citizens who do not grab beyond their share under open access are resisting want
 
 </details>
 
-Limits: Fitting meals/pleasures are not vice. Musonius includes adultery/chastity alongside excess, not as a required feature of every case. Ancient legal penalties are his report, not a current legal claim or moral test.
+Fitting meals/pleasures are not vice. Musonius includes adultery/chastity alongside excess, not as a required feature of every case. Ancient legal penalties are his report, not a current legal claim or moral test.
 
 ## temperance
 
@@ -546,8 +548,10 @@ Musonius Rufus, Lectures, trans. Lutz (1947)
 
 Musonius Rufus, Lectures, trans. Lutz (1947)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Rajadatta - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -560,7 +564,7 @@ Squandering all his money on a courtesan shows uncurbed desire and extravagance,
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct shows this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -573,7 +577,7 @@ Voluntary fasting, weekly abstinence, cold exposure: deliberate curbing of desir
 </details>
 
 <details>
-<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) — Neither direction is established by the described conduct.</summary>
+<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Of liquids, pure water is necessary to health, and infusions of herbs in it, such as tea, coffee and cocoa, taken in moderation, are harmless and often useful.
@@ -586,7 +590,7 @@ Moderate taking of harmless infusions fits measure but is ordinary consumption; 
 </details>
 
 <details>
-<summary>Mindyrides — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Mindyrides - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -599,7 +603,7 @@ Mindyrides' softness from luxury, unable to bear seeing labor or folded rose-lea
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -612,7 +616,7 @@ Apicius's uncurbed craving for luxury, extravagance and despair at losing meals 
 </details>
 
 <details>
-<summary>the people — Some evidence that the conduct shows this virtue.</summary>
+<summary>the people - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -624,7 +628,7 @@ Given open access, they restrain greed and take only their share. This is restra
 
 </details>
 
-Limits: Ordinary eating, sleep or obedience is not automatically temperance. The source asks for curbing desire, not abstaining from every bodily need.
+Ordinary eating, sleep or obedience is not automatically temperance. The source asks for curbing desire, not abstaining from every bodily need.
 
 ## wisdom
 
@@ -672,8 +676,10 @@ Epictetus, Handbook 5 (Oldfather)
 
 Epictetus, Discourses 3.2 (Oldfather)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>one of the sophists — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of the sophists - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -688,7 +694,7 @@ Raging over a slight to one's reputation treats an indifferent external as a rea
 </details>
 
 <details>
-<summary>The happy man — Some evidence that the conduct shows this virtue.</summary>
+<summary>The happy man - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -701,7 +707,7 @@ His contentment rests on his reason's judgement about circumstances, which are i
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Neither direction is established by the described conduct.</summary>
+<summary>the third set of recluses and brahmins - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -714,7 +720,7 @@ For the Stoics pleasure is an indifferent thing, so using it carefully without b
 </details>
 
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -727,7 +733,7 @@ Treating wealth, an indifferent, as worth an unjust act is the error of judging 
 </details>
 
 <details>
-<summary>the nun Caṇḍakāḷī — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the nun Caṇḍakāḷī - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 In anger she said this:
@@ -774,7 +780,7 @@ A major life choice made in the heat of anger is the rash assent driven by passi
 </details>
 
 <details>
-<summary>Xu You — Some evidence that the conduct shows this virtue.</summary>
+<summary>Xu You - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Xu You gave up the world not because he was forced to do so, but because he comprehended the true nature of things.
@@ -786,4 +792,4 @@ Office and the world are indifferents, and he chooses from understanding, not co
 
 </details>
 
-Limits: Skill in argument is neither sufficient nor contrary evidence for wisdom. Hicks prints 'wisdom' at 7.92 and 'prudence' at 7.102; no equivalence with Musonius's 'understanding' is asserted. The Musonius and Epictetus links to the definition are this guide's synthesis.
+Skill in argument is neither sufficient nor contrary evidence for wisdom. Hicks prints 'wisdom' at 7.92 and 'prudence' at 7.102; no equivalence with Musonius's 'understanding' is asserted. The Musonius and Epictetus links to the definition are this guide's synthesis.

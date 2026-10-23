@@ -10,7 +10,7 @@ Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues I
 
 Gap: the source says five, but this printing enumerates four. No fifth duty is supplied.
 
-Limits: Showing one duty can be clear evidence. Footnote glosses by Buddhaghosa are commentary, not the sutta itself.
+Showing one duty can be clear evidence. Footnote glosses by Buddhaghosa are commentary, not the sutta itself.
 
 ## A clansman's ministry to friends and familiars (north)
 
@@ -20,7 +20,7 @@ A clansman's five duties to friends as the northern quarter.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: Showing one duty can be clear evidence. The source lists the duties without elaborating them.
+Showing one duty can be clear evidence. The source lists the duties without elaborating them.
 
 ## A clansman's ministry to recluses and brahmins (zenith)
 
@@ -30,7 +30,7 @@ A clansman's duties toward recluses and brahmins as the zenith.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: 'Five ways' is read here as act, speech and mind plus two further duties. The source does not show which recluses qualify.
+'Five ways' is read here as act, speech and mind plus two further duties. The source does not show which recluses qualify.
 
 ## A husband's ministry to his wife (west)
 
@@ -40,7 +40,7 @@ A husband's five duties to his wife as the western quarter.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: These are historical household norms, attributed. Bracketed 'over' clarifies OCR. No marriage doctrine is added.
+These are historical household norms, attributed. Bracketed 'over' clarifies OCR. No marriage doctrine is added.
 
 ## A master's ministry to servants and employees (nadir)
 
@@ -50,7 +50,7 @@ An 'Ariyan master's' five duties to servants and employees.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: The relations include historical servitude, which is attributed, not endorsed. The footnote glosses on leave are commentary.
+The relations include historical servitude, which is attributed, not endorsed. The footnote glosses on leave are commentary.
 
 ## A wife's love for her husband
 
@@ -60,7 +60,7 @@ A wife's reciprocal ways of loving her husband.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: These are historical role norms, attributed rather than endorsed. Do not read them as generic obedience.
+These are historical role norms, attributed rather than endorsed. Do not read them as generic obedience.
 
 ## Friends' love for the clansman
 
@@ -70,7 +70,7 @@ Friends' reciprocal ways of loving the clansman.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: This is reciprocal to the clansman's ministry. The source does not define the limits of protection.
+This is reciprocal to the clansman's ministry. The source does not define the limits of protection.
 
 ## Parents' love for the child
 
@@ -80,7 +80,7 @@ Parents' five reciprocal ways of loving the child.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: Arranged marriage reflects historical norms and is attributed, not endorsed. No consent doctrine is supplied.
+Arranged marriage reflects historical norms and is attributed, not endorsed. No consent doctrine is supplied.
 
 ## Pupils' ministry to teachers (south)
 
@@ -90,7 +90,7 @@ Pupils' five duties toward teachers as the southern quarter.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: The translator footnote on 'obedience' is commentary, not the Buddha. Do not read the duties as generic obedience.
+The translator footnote on 'obedience' is commentary, not the Buddha. Do not read the duties as generic obedience.
 
 ## Recluses' and brahmins' love for the clansman
 
@@ -100,7 +100,7 @@ Recluses' and brahmins' six reciprocal ways of loving the clansman.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: 'The way to heaven' is the source's religious claim, attributed. No religious vocabulary is required in cases.
+'The way to heaven' is the source's religious claim, attributed. No religious vocabulary is required in cases.
 
 ## Servants' and employees' love for their master
 
@@ -110,7 +110,7 @@ Servants' reciprocal ways of loving a master who ministers to them.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: The duties are reciprocal to a ministering master. Per the translator footnote, obedience is not in this list.
+The duties are reciprocal to a ministering master. Per the translator footnote, obedience is not in this list.
 
 ## Teachers' love for the pupil
 
@@ -120,4 +120,4 @@ Teachers' reciprocal ways of loving the pupil.
 
 Dīgha Nikāya 31, §§27–33, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 180–183
 
-Limits: The duties are framed as reciprocal to the pupil's ministry. The source does not say what applies when that ministry is absent.
+The duties are framed as reciprocal to the pupil's ministry. The source does not say what applies when that ministry is absent.

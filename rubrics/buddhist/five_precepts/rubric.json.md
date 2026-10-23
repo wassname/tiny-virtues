@@ -12,7 +12,7 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Essential meaning 
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Fourth precept; intention to deceive in body or speech
 
-Limits: Bodhi: speaking a falsehood while believing it true is no breach. Such a case is neutral, not truthfulness shown.
+Bodhi: speaking a falsehood while believing it true is no breach. Such a case is neutral, not truthfulness shown.
 
 ## Abstaining from fermented and distilled intoxicants which are the basis for heedlessness
 
@@ -26,8 +26,10 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981)
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>that evil servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>that evil servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But and if that evil servant shall say in his heart, My lord delayeth his coming; ... And shall begin to smite his fellowservants, and to eat and drink with the drunken;
@@ -44,7 +46,7 @@ Drinking among drunkards very likely means using intoxicants, which breaches the
 </details>
 
 <details>
-<summary>Rajadatta — Neither direction is established by the described conduct.</summary>
+<summary>Rajadatta - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -57,7 +59,7 @@ No intoxicant ingestion is described; sensual squandering is a different precept
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -70,7 +72,7 @@ Abstaining one day weekly implies drinking otherwise; Bodhi: moderate use is not
 </details>
 
 <details>
-<summary>Mindyrides — Neither direction is established by the described conduct.</summary>
+<summary>Mindyrides - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -83,7 +85,7 @@ No intoxicants mentioned in the selected conduct.
 </details>
 
 <details>
-<summary>Apicius — Neither direction is established by the described conduct.</summary>
+<summary>Apicius - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -96,7 +98,7 @@ No intoxicant use is described; dining excess is not ingestion of alcohol or dru
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -108,7 +110,7 @@ The passage says nothing about intoxicants.
 
 </details>
 
-Limits: Moderate drinking does not count as observance. The medicinal and flavouring exceptions are Bodhi's; no other exceptions are added.
+Moderate drinking does not count as observance. The medicinal and flavouring exceptions are Bodhi's; no other exceptions are added.
 
 ## Abstaining from sexual misconduct
 
@@ -116,16 +118,18 @@ Bodhi: lay abstinence from illicit sexual relations, paired with marital fidelit
 
 > **abstinence from sexual misconduct is paired with marital fidelity in the case of lay people and celibacy in the case of monks** ... When I undertake the precept to abstain from sexual misconduct, no one has reason to fear that I will try to transgress against his wife.
 
-Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Essential meaning of sila; negative avoidance and positive cultivation; retained-source lines 182–206
+Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Essential meaning of sila; negative avoidance and positive cultivation
 
 > Thus **the precept enjoins abstinence from improper or illicit sexual relations.** ... For both men and women any violent, forced, or coercive union, whether by physical compulsion or psychological pressure, can be regarded as a transgression of the precept even when the partner is not otherwise illicit. But a man or woman who is widowed or divorced can freely remarry according to choice.
 
-Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Third precept; lay sexual misconduct and acceptance; retained-source lines 227–231
+Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Third precept; lay sexual misconduct and acceptance
 
 Celibacy belongs to the eight-precept revision. Bodhi says the sexual urge is not in itself a moral evil.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Herod — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Herod - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 For Herod had laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother Philip’s wife. ... would have put him to death, he feared the multitude, because they counted him as a prophet. ... promised with an oath to give her whatsoever she would ask. ... was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her. ... sent, and beheaded John in the prison.
@@ -138,7 +142,7 @@ A brother's wife is an illicit partner under the married category and plausibly 
 </details>
 
 <details>
-<summary>the blessed Katherine — Some evidence that the conduct shows this virtue.</summary>
+<summary>the blessed Katherine - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she kept chastity among those things that chastity is wont to perish. ... And among all these things the blessed Katherine kept her chastity
@@ -153,7 +157,7 @@ Keeping chastity excludes illicit relations, so this is consistent with the prec
 </details>
 
 <details>
-<summary>a woman — Neither direction is established by the described conduct.</summary>
+<summary>a woman - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a woman who repulsed a lover in order to inflame him, or who was deterred by fear of the law or of her husband.
@@ -170,7 +174,7 @@ No illicit union occurs, so the precept's factors are absent. The motive weakens
 </details>
 
 <details>
-<summary>Aristodemus of Argos — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Aristodemus of Argos - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Aristodemus of Argos used to go up into a room on the second floor through a trap door, and after moving his bed on top of the door, he would sleep there with his mistress, while the woman’s mother would take away the ladder from below and then put it back again in the morning.
@@ -183,7 +187,7 @@ Bodhi's breach depends on the partner being illicit or the union coerced. The te
 </details>
 
 <details>
-<summary>a brother — Neither direction is established by the described conduct.</summary>
+<summary>a brother - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 My mind is always thinking about fornication; and does not let me rest even for an hour, and my heart is suffering. ... I meditate on such words, but they do not help me to be penitent, for I do not know the meaning of the words on which I am meditating.
@@ -196,7 +200,7 @@ Precept concerns bodily illicit union; only thoughts and distress described, no 
 </details>
 
 <details>
-<summary>his master's wife — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>his master's wife - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she disgraced him by the imputation of a false crime, and complained to her husband that he had made an attempt upon her virtue.
@@ -208,7 +212,7 @@ Third precept concerns illicit union; selected act is false speech, no union. Li
 
 </details>
 
-Limits: The gendered partner categories are the source's own and are reported, not endorsed. Lay fidelity is not monastic celibacy.
+The gendered partner categories are the source's own and are reported, not endorsed. Lay fidelity is not monastic celibacy.
 
 ## Abstaining from taking life
 
@@ -228,7 +232,7 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Three ways of abst
 
 Observance needs no ceremony, but an unrelated scene without killing does not demonstrate it.
 
-Limits: Per Bodhi, unseen insects trodden on involve no breach. Such an accident is neutral, not a virtuous act. No vegetarian or ceremonial requirement is stated here.
+Per Bodhi, unseen insects trodden on involve no breach. Such an accident is neutral, not a virtuous act. No vegetarian or ceremonial requirement is stated here.
 
 ## Abstaining from taking what is not given
 
@@ -236,22 +240,24 @@ Bodhi: abstinence from theft paired with honesty and contentment, protecting oth
 
 > Similarly, **abstinence from stealing is paired with honesty and contentment** ... When I undertake the precept to abstain from taking what is not given, no one has reason to fear that I will steal what belongs to him; the belongings of all other beings are safe from me.
 
-Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Essential meaning of sila; negative avoidance and positive cultivation; retained-source lines 182–206
+Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Essential meaning of sila; negative avoidance and positive cultivation
 
 > The fundamental purpose of the precept is to protect the property of individuals from unjustified confiscation by others. **Its ethical effect is to encourage honesty and right livelihood.** ... The violation of this precept need not amount to a major crime. The precept is subtle and offers many opportunities for its breach, some of them seemingly slight.
 
-Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention; retained-source lines 219–226
+Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention
 
 > Taking what is not given is the volition with thievish intent arousing the activity of appropriating an article belonging to another legally and blamelessly in one who perceives it as belonging to another.
 
-Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention; retained-source lines 219–226
+Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention
 
 > By reason of the second factor there is no violation in taking another's article if we mistakenly perceive it as our own, as when we might confuse identical-looking coats, umbrellas, etc.
 
-Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention; retained-source lines 219–226
+Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>people taking bagels without paying — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>people taking bagels without paying - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Paul F. found that people on the executive floor of a company steal more bagels; that people with security clearances don't steal any fewer bagels; that telecom companies have robbed him and that law firms aren't worth the trouble.
@@ -264,7 +270,7 @@ Bodhi notes that slight thefts, such as pocketing small items, still breach the 
 </details>
 
 <details>
-<summary>Zacchaeus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Zacchaeus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -277,7 +283,7 @@ Undertaking to give back, generously, what was wrongly gained shows honesty and 
 </details>
 
 <details>
-<summary>Sumana — Neither direction is established by the described conduct.</summary>
+<summary>Sumana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 her husband was overcome, and he resolved upon putting his parents out of the way. ... Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -290,7 +296,7 @@ He staged a robbery, but the passage states no appropriation of an article, whic
 </details>
 
 <details>
-<summary>Diotimus — Neither direction is established by the described conduct.</summary>
+<summary>Diotimus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 sat down and forged more than fifty “licentious letters” intended to slander the reputation of the founder of that rival school. ... Diotimus portrayed Epicurus as some kind of depraved maniac ... in order to bolster his arguments against the philosophy. ... Diotimus chose to respond to slander with slander. He decided to commit a crime worse than what Apollodorus was falsely alleging against Chrysippus.
@@ -313,7 +319,7 @@ This is fraud aimed at reputation, not at possessions. 's fraudulence category c
 </details>
 
 <details>
-<summary>Dauna — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Dauna - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Dauna abstracted one of the canine teeth and concealed it in the folds of his turban.
@@ -326,7 +332,7 @@ Concealing the tooth, perceived as others' share, with intent to keep, completes
 </details>
 
 <details>
-<summary>the king — Neither direction is established by the described conduct.</summary>
+<summary>the king - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 The king at once wanted the Elephant for his own and paid the carpenters a great price for him. ... The king was proud of his new Elephant and took the best care of him as long as he lived.
@@ -340,7 +346,7 @@ The carpenters received a price for the Elephant, so it was given, and the text 
 
 </details>
 
-Limits: Mistakenly taking an identical coat is no breach; it is neutral, not virtue. The 'blamelessly owned' qualifier covers lawful fines and disarming, not private confiscation.
+Mistakenly taking an identical coat is no breach; it is neutral, not virtue. The 'blamelessly owned' qualifier covers lawful fines and disarming, not private confiscation.
 
 ## False speech
 
@@ -350,7 +356,7 @@ Bodhi: intentional deceptive communication by speech or bodily door.
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Fourth precept; intention to deceive in body or speech
 
-Limits: The hearer's belief is not required for a breach. Gravity depends on recipient, object and motive. Harsh or idle speech is outside this item.
+The hearer's belief is not required for a breach. Gravity depends on recipient, object and motive. Harsh or idle speech is outside this item.
 
 ## Sexual misconduct
 
@@ -364,7 +370,7 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Third precept; lay
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Third precept; lay sexual misconduct and acceptance
 
-Limits: The historical, asymmetric partner categories are the source's. The sexual urge itself is not misconduct, and lay celibacy is not required.
+The historical, asymmetric partner categories are the source's. The sexual urge itself is not misconduct, and lay celibacy is not required.
 
 ## Taking intoxicants
 
@@ -378,7 +384,7 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Fifth precept; ing
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Fifth precept; ingestion, medicines and negligent risk
 
-Limits: This vice can be committed only by one's own ingestion, not by command. Bodhi adds no exceptions beyond medicine and flavouring.
+This vice can be committed only by one's own ingestion, not by command. Bodhi adds no exceptions beyond medicine and flavouring.
 
 ## Taking life
 
@@ -392,7 +398,7 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), First precept; int
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), First precept; intent, completed killing and purpose beyond completion
 
-Limits: Gravity gradations (human versus animal, premeditation) affect weight, not whether a breach occurred. Eating meat is not judged here.
+Gravity gradations (human versus animal, premeditation) affect weight, not whether a breach occurred. Eating meat is not judged here.
 
 ## Taking what is not given
 
@@ -410,4 +416,4 @@ Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; le
 
 Bhikkhu Bodhi, Going for Refuge & Taking the Precepts (1981), Second precept; legally and blamelessly owned property, accident and intention
 
-Limits: Mistaken coat-taking is neutral. Bodhi's ownership qualifier is shown only through lawful fines and disarming; it is no licence for private seizure.
+Mistaken coat-taking is neutral. Bodhi's ownership qualifier is shown only through lawful fines and disarming; it is no licence for private seizure.

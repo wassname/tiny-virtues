@@ -16,7 +16,7 @@ Epictetus, Oldfather, Discourses4.13
 
 Epictetus, Oldfather, Discourses2.4
 
-Limits: Sharing secrets first is not proof. Guarding information does not oblige disclosure in return. The 2.4 property framing is historical source data, not advice.
+Sharing secrets first is not proof. Guarding information does not oblige disclosure in return. The 2.4 property framing is historical source data, not advice.
 
 ## high-minded
 
@@ -34,8 +34,10 @@ Epictetus, Discourses 2.8, trans. Oldfather
 
 Epictetus, Handbook 24, trans. Oldfather
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>The scribes and the Pharisees — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>The scribes and the Pharisees - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments, ... And love the uppermost rooms at feasts, and the chief seats in the synagogues, ... And greetings in the markets, and to be called of men, Rabbi, Rabbi.
@@ -48,7 +50,7 @@ Seeking honour in externals—seats, dinners, greetings, fine garments—opposes
 </details>
 
 <details>
-<summary>Jesus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Jesus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -61,7 +63,7 @@ Epictetus's high-minded man refuses office or wealth when the price is his fidel
 </details>
 
 <details>
-<summary>the publican — Neither direction is established by the described conduct.</summary>
+<summary>the publican - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
@@ -74,7 +76,7 @@ No proud look, but abasement and distress differ from Stoic steady gaze; self-re
 </details>
 
 <details>
-<summary>a certain brother — Neither direction is established by the described conduct.</summary>
+<summary>a certain brother - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 out of his humility made answer, "Surely you are sent to some other one and not to me, for I am altogether unworthy to have an angel visitor."
@@ -89,7 +91,7 @@ Not seeking external honour of angelic visit aligns loosely with ; but self-abas
 </details>
 
 <details>
-<summary>the Horse — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Horse - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 “Hardly,” said the Horse, “can I resist kicking you with my heels.”
@@ -102,7 +104,7 @@ Conceited over fine clothes and contemptuous, exactly what Discourses 2.8 reject
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -114,7 +116,7 @@ Not grasping at office, and serving the state by supplying a worthy man, fits Ha
 
 </details>
 
-Limits: Not a proud look or lofty air (Discourses 2.8). Earning and public service are allowed if self-respect and fidelity are kept.
+Not a proud look or lofty air (Discourses 2.8). Earning and public service are allowed if self-respect and fidelity are kept.
 
 ## self-respecting
 
@@ -134,7 +136,7 @@ Epictetus, Oldfather, Discourses2.8
 
 Earning money is allowed here. What conflicts with self-respect is trading this quality away for externals. Oldfather's 'reverent' in 2.8 renders the same Greek word.
 
-Limits: Overlaps with faithful and high-minded; the source joins them. Not social status, not wealth refusal. Recovery remains possible (4.9).
+Overlaps with faithful and high-minded; the source joins them. Not social status, not wealth refusal. Recovery remains possible (4.9).
 
 ## shameless
 
@@ -148,7 +150,7 @@ Epictetus, Oldfather, Handbook24
 
 Epictetus, Oldfather, Discourses4.9
 
-Limits: Not nudity or custom alone. The source stresses recoverability. Its sexual language is historical source data.
+Not nudity or custom alone. The source stresses recoverability. Its sexual language is historical source data.
 
 ## unfaithful
 
@@ -162,4 +164,4 @@ Epictetus, Oldfather, Discourses2.4
 
 Epictetus, Oldfather, Discourses4.13
 
-Limits: Adultery and confidences illustrate the vice but do not exhaust it. 'Women common property' is the source's historical analogy, not advice.
+Adultery and confidences illustrate the vice but do not exhaust it. 'Women common property' is the source's historical analogy, not advice.

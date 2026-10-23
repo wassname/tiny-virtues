@@ -12,7 +12,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill records versions that omit 'adultery'. KJV keeps it. Repentance affects salvation in Gill's view, not whether the act occurred.
+Gill records versions that omit 'adultery'. KJV keeps it. Repentance affects salvation in Gill's view, not whether the act occurred.
 
 ## drunkenness
 
@@ -22,7 +22,7 @@ Paul's 'drunkenness'; Gill: excess in drink that intoxicates the mind and enfeeb
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: This is not an abstinence rule. Gill condemns excess.
+This is not an abstinence rule. Gill condemns excess.
 
 ## emulations
 
@@ -32,7 +32,7 @@ Paul's 'emulations' ('zeals'); Gill: bad zeals, passions rising at another's hon
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Not every zeal is condemned.
+Not every zeal is condemned.
 
 ## envyings
 
@@ -58,7 +58,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Neither sense is exclusive. Gill notes that interpreters 'generally' exclude Christ-faith, while he includes it.
+Neither sense is exclusive. Gill notes that interpreters 'generally' exclude Christ-faith, while he includes it.
 
 ## fornication
 
@@ -68,7 +68,7 @@ Paul's 'fornication'; Gill: uncleanness between persons in a single state.
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: This records Gill's reading, not a modern endorsement or replacement. The verdict on consensual single sex is his.
+This records Gill's reading, not a modern endorsement or replacement. The verdict on consensual single sex is his.
 
 ## gentleness
 
@@ -80,7 +80,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill says longsuffering 'is usually accompanied with' gentleness; he does not state the converse. Gentleness is related to longsuffering but not identical with it. Gill opposes both to wrath and murders.
 
-Limits: Gill's gentleness paragraph has no separate negative definition. The adverse example relies only on his opposition list.
+Gill's gentleness paragraph has no separate negative definition. The adverse example relies only on his opposition list.
 
 ## goodness
 
@@ -94,7 +94,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Paul, Galatians5:13–26, KJV1611, PG10witness
 
-Limits: Gill ties acceptability to God with faith. This is not a rule that a tale must state faith before goodness can be evidenced.
+Gill ties acceptability to God with faith. This is not a rule that a tale must state faith before goodness can be evidenced.
 
 ## hatred
 
@@ -104,7 +104,7 @@ Paul's 'hatred' ('enmities'); Gill: internal hatred of any person, even enemies,
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill targets hatred of persons. Opposing wrongdoing is not itself hatred. 'Enmities' is the original-language note.
+Gill targets hatred of persons. Opposing wrongdoing is not itself hatred. 'Enmities' is the original-language note.
 
 ## heresies
 
@@ -114,7 +114,7 @@ Paul's 'heresies'; Gill: self-invented tenets subverting Gospel fundamentals, pr
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: 'Fundamentals' are judged from Gill's Particular Baptist standpoint. Other traditions draw them differently, and this is not a claim of Christian unanimity.
+'Fundamentals' are judged from Gill's Particular Baptist standpoint. Other traditions draw them differently, and this is not a claim of Christian unanimity.
 
 ## idolatry
 
@@ -124,7 +124,7 @@ Paul's 'idolatry'; Gill prefers worship of other gods or images, while noting a 
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill reports the covetousness reading as 'some understand' and prefers the worship sense. Covetousness cases remain distributional, not settled.
+Gill reports the covetousness reading as 'some understand' and prefers the worship sense. Covetousness cases remain distributional, not settled.
 
 ## joy
 
@@ -138,7 +138,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill says joy in others' good is 'at least part of the sense', a hedged reading. Joy in God is his primary sense.
+Gill says joy in others' good is 'at least part of the sense', a hedged reading. Joy in God is his primary sense.
 
 ## lasciviousness
 
@@ -148,7 +148,7 @@ Paul's 'lasciviousness'; Gill: wantonness, lustful dalliance, impure words and f
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill's examples ('and the like') are open-ended. Overlap with uncleanness and revellings is legitimate.
+Gill's examples ('and the like') are open-ended. Overlap with uncleanness and revellings is legitimate.
 
 ## longsuffering
 
@@ -162,7 +162,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill subordinates 'patient waiting' to bearing present evils. He does not deny that patient waiting is part of the sense.
+Gill subordinates 'patient waiting' to bearing present evils. He does not deny that patient waiting is part of the sense.
 
 ## love
 
@@ -180,7 +180,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill frames love through regeneration; this is his theology, not a requirement that a tale name it. His objects of love are alternatives, not a checklist.
+Gill frames love through regeneration; this is his theology, not a requirement that a tale name it. His objects of love are alternatives, not a checklist.
 
 ## meekness
 
@@ -194,7 +194,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Paul, Galatians5:13–26, KJV1611, PG10witness
 
-Limits: Gill defines meekness as humility, not merely mildness. His regeneration framing is theology, not a requirement for a tale.
+Gill defines meekness as humility, not merely mildness. His regeneration framing is theology, not a requirement for a tale.
 
 ## murders
 
@@ -204,7 +204,7 @@ Paul's 'murders'; Gill: destroying men's lives, often the consequence of earlier
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill gives no doctrine on war, execution, self-defence or accident; these are unresolved gaps. Do not extend 'murders' to all harm.
+Gill gives no doctrine on war, execution, self-defence or accident; these are unresolved gaps. Do not extend 'murders' to all harm.
 
 ## peace
 
@@ -218,7 +218,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill's 'if possible' qualifies peace with all men. Peace with God and peace with humans are distinct senses; either can be evidenced.
+Gill's 'if possible' qualifies peace with all men. Peace with God and peace with humans are distinct senses; either can be evidenced.
 
 ## revellings
 
@@ -228,7 +228,7 @@ Paul's 'revellings'; Gill: nocturnal riotings in eating, drinking, dancing, sing
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill's 'such like' means the list is illustrative. Version renderings (Syriac, Arabic) are reported alternatives, not exclusive senses.
+Gill's 'such like' means the list is illustrative. Version renderings (Syriac, Arabic) are reported alternatives, not exclusive senses.
 
 ## seditions
 
@@ -238,7 +238,7 @@ Paul's 'seditions' ('divisions'); Gill: schisms and factions in domestic, civil 
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill does not say when separation or dissent is justified. Do not treat every departure or protest as sedition.
+Gill does not say when separation or dissent is justified. Do not treat every departure or protest as sedition.
 
 ## strife
 
@@ -248,7 +248,7 @@ Paul's 'strife' ('strifes'); Gill: perpetual contradictions and cavilings, in wo
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill's 'perpetual' indicates a pattern of cavilling. Ordinary disagreement is not strife.
+Gill's 'perpetual' indicates a pattern of cavilling. Ordinary disagreement is not strife.
 
 ## temperance
 
@@ -262,7 +262,7 @@ Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
 Gill, Galatians5:24, Exposition1746–63
 
-Limits: Do not infer bodily mortification or total abstinence. Gill denies that 'flesh' means the natural body.
+Do not infer bodily mortification or total abstinence. Gill denies that 'flesh' means the natural body.
 
 ## uncleanness
 
@@ -272,7 +272,7 @@ Paul's 'uncleanness'; Gill: all unchastity in thought, word or action, especiall
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill's 'unnatural lusts' examples are his reading. No thought-consent doctrine is supplied, so do not invent one.
+Gill's 'unnatural lusts' examples are his reading. No thought-consent doctrine is supplied, so do not invent one.
 
 ## variance
 
@@ -282,7 +282,7 @@ Paul's 'variance' ('contentions'); Gill: quarrelling with reproachful words, sco
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill specifies reproachful quarrelling. Honest disagreement without reproach is not established as variance.
+Gill specifies reproachful quarrelling. Honest disagreement without reproach is not established as variance.
 
 ## witchcraft
 
@@ -292,7 +292,7 @@ Paul's 'witchcraft'; Gill: real or pretended league with the devil, including al
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill's 'all kind of magic' is broad. Whether stage illusion without any claimed spirit counts is unresolved; no precise ritual rule is supplied.
+Gill's 'all kind of magic' is broad. Whether stage illusion without any claimed spirit counts is unresolved; no precise ritual rule is supplied.
 
 ## wrath
 
@@ -302,4 +302,4 @@ Paul's 'wrath' ('wraths'); Gill: violent emotions moving to revenge and seeking 
 
 Gill, Galatians5:19–23, Exposition1746–63 (Particular Baptist commentary)
 
-Limits: Gill does not condemn all displeasure; his definition centres on revenge and seeking hurt.
+Gill does not condemn all displeasure; his definition centres on revenge and seeking hurt.

@@ -18,36 +18,31 @@ import pyarrow.parquet as pq
 from tiny_virtues import case_flags
 from tiny_virtues.case_input import require_selected_target
 from tiny_virtues.major_cells import story_hash
-from tiny_virtues.release import COLLECTIONS, SOURCE_SCHOOLS, parquet_rows
+from tiny_virtues.release import COLLECTIONS, SOURCE_SCHOOLS, STORY_FIELDS, VIRTUE_FIELDS, FLAG_NAMES, GENRES, parquet_rows
 from tiny_virtues.rubric_accounting import replace_json
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO = 'wassname/tiny-virtues'
 TOTAL_STORIES, TOTAL_VIRTUES = 6149, 569
 DATA_FILES = {f'data/{name}.parquet': f'data/release/{name}.parquet'
-              for name in ('stories', 'rubrics')}
+              for name in ('stories', 'virtues')}
 ASSETS = ['docs/sources.bib', 'data/provenance/source_file_bib_map.json',
     *['docs/results/rubric_nshot/'+name for name in ('README.md','table.md','verdicts.md','meanings.md','figure.png')],
     'docs/results/v5/correlations.json',
     *['docs/results/v5/figures/'+stem+suffix for stem in
       ('main_item_correlations_global','main_item_correlations','main_item_correlations_clusters','tradition_correlations') for suffix in ('.png','.svg')],
-    *[str(path.parent.relative_to(ROOT)/name) for path in sorted((ROOT/'rubrics').glob('*/*/rubric.json'))
-      for name in ('rubric.json','rubric.json.md')],
+    *[str(path.parent.relative_to(ROOT)/'rubric.json.md') for path in sorted((ROOT/'rubrics').glob('*/*/rubric.json'))],
 ]
 CODE_FILES = ['justfile', 'pyproject.toml', 'uv.lock',
     *[str(path.relative_to(ROOT)) for path in sorted((ROOT/'src/tiny_virtues').glob('*.py'))],
     'scripts/label.py', 'scripts/build_dataset.py', 'scripts/eval/v5.py', 'scripts/publish.py',
     'scripts/analysis/correlations.py', 'scripts/prepare_inputs.py', 'scripts/fast_dev_run.py',
     'scripts/label_all_virtues.py']
-PUBLISH = ['LICENSE', 'README.md', 'data/release/manifest.json', *DATA_FILES, *CODE_FILES,
+PUBLISH = ['LICENSE', 'README.md', 'data/eval_ids.json', 'data/release/manifest.json', *DATA_FILES, *CODE_FILES,
     'data/release/rubrics.json', case_flags.PUBLIC_REGISTRY, *ASSETS,
     *['data/release/assets/docs/examples/jev_v2/'+name for name in ('request.json','reply.json','hashes.json')],
     'examples/use_dataset.py']
-CASE_FIELDS = {
-    'id','collection','quote','agent','target_act_quote','case_context','source_header','input_sha256',
-    'story','source_school','source','source_verdict','flags','flag_sources','span_warnings',*case_flags.FLAGS,
-    'modernised','label_status','virtue_labels','legacy_labels',
-}
+CASE_FIELDS = STORY_FIELDS
 FORBIDDEN_FIELDS = {
     'snippet','book_scene','passage','full_passage','full_text','source_text','original','fixed','source_context',
     'source_header_registry_sha256','source_units','source_bindings','reference_provenance',
@@ -92,7 +87,7 @@ def check_value(value, location):
             check_value(child, location)
     elif isinstance(value, str):
         checked = value
-        if location.endswith('.case_context.attribution'):
+        if location.endswith(('.case_context.attribution','.context.attribution')):
             for locator in attribution_locators(value):
                 checked = checked.replace(locator,'[source locator]')
         assert not PRIVATE_PATH.search(checked) and not SECRET.search(value), f'{location}: private path or credential'
@@ -144,6 +139,20 @@ def check_case_text(row):
         f'{row["id"]}: label belongs to another judging input'
 
 
+def check_public_case(row):
+    assert tuple(row) == CASE_FIELDS, f'{row["id"]}: unexpected public columns/order'
+    assert all(isinstance(row[key],str) and row[key].strip() for key in ('id','story','actor','act','source','bibkey')), row['id']
+    assert row['tradition'] in SOURCE_SCHOOLS, f'{row["id"]}: unknown source tradition'
+    assert row['tale'] is None or isinstance(row['tale'],str) and row['tale'].strip() and row['tale'] not in GENRES
+    assert type(row['fold']) is int and 0 <= row['fold'] < 5
+    assert isinstance(row['flags'],list) and len(row['flags'])==len(set(row['flags']))
+    assert set(row['flags']) <= set(FLAG_NAMES.values()) | {'rubric_example'}
+    assert isinstance(row['context'],list)
+    for part in row['context']:
+        assert set(part)=={'attribution','quote'} and all(isinstance(v,str) and v.strip() for v in part.values())
+    require_selected_target(dict(id=row['id'],quote=row['story'],target_act_quote=row['act']))
+
+
 def publish_source(root,name):
     assert name in PUBLISH
     source = DATA_FILES[name] if name in DATA_FILES else 'data/release/assets/'+name if name in ASSETS else name
@@ -164,6 +173,8 @@ def freeze_release(root):
         major_virtues=80, direct_major_virtues=66, derived_major_virtues=14,
         major_complete_stories=assembly['stories'], rubrics=assembly['rubrics'],
         source_flag_registry_sha256=assembly['source_flag_registry_sha256'],label_schema=assembly['label_schema'],
+        shuffle_seed=assembly['shuffle_seed'],fold_seed=assembly['fold_seed'],
+        tale_named_stories=assembly['tale_named_stories'],genre_values_removed=assembly['genre_values_removed'],
         files={name:sha(publish_source(root,name)) for name in PUBLISH if name!='data/release/manifest.json'})
     replace_json(root/'data/release/manifest.json',result)
     return result
@@ -178,6 +189,7 @@ def validate_release(root,*,staged=False):
     assert set(manifest['collection_counts']) <= COLLECTIONS and sum(manifest['collection_counts'].values()) == manifest['total_stories']
     assert set(manifest['source_school_counts']) <= SOURCE_SCHOOLS and sum(manifest['source_school_counts'].values()) == manifest['total_stories']
     assert all(len(manifest['label_schema']['level_meanings'][kind])==5 for kind in ('virtues','vices'))
+    assert manifest['shuffle_seed']==manifest['fold_seed']==20261023
     assert set(manifest['files']) == set(PUBLISH)-{'data/release/manifest.json'}, 'Release manifest must bind the exact publish inputs'
     for name,digest in manifest['files'].items():
         path = root/name if staged else publish_source(root,name)
@@ -199,10 +211,10 @@ def reject_full_sources(directory,root):
 def leak_checks(directory):
     assert {p.relative_to(directory).as_posix() for p in directory.rglob('*') if p.is_file()} == set(PUBLISH), 'Unexpected published file'
     ids,configs,complete = set(),Counter(),0
-    collections,schools = Counter(),Counter()
+    schools,flag_counts,tale_folds = Counter(),Counter(),{}
     rubrics = read(directory/'data/release/rubrics.json')
     source_flags = read(directory/case_flags.PUBLIC_REGISTRY)
-    assert set(source_flags) == {'schema_version','entries'} and source_flags['schema_version'] == 1
+    assert set(source_flags) == {'schema_version','entries'} and source_flags['schema_version'] == 2
     major = {identity for identity,rubric in rubrics.items() if rubric['primary']}
     assert len(rubrics) == TOTAL_VIRTUES and len(major) == 80, 'Public virtue inventory differs'
     for name in PUBLISH:
@@ -214,39 +226,33 @@ def leak_checks(directory):
                        for group in range(metadata.num_row_groups) for column in range(metadata.num_columns)), 'Public Parquet must use Zstandard'
             for row in parquet_rows(path):
                 check_value(row,name)
-                if path.name == 'rubrics.parquet':
-                    assert row['id'] in rubrics and row['rubric_version'] == 'v2', 'Unmapped public rubric'
+                if path.name == 'virtues.parquet':
+                    assert row['id'] in rubrics and tuple(row)==VIRTUE_FIELDS, 'Unmapped public virtue or unexpected definition fields'
                     configs[name] += 1
                     continue
-                assert set(row) <= CASE_FIELDS, f'{name}: unexpected case field'
-                assert row['collection'] in COLLECTIONS, f'{name}: wrong story collection'
-                assert row['source_school'] in SOURCE_SCHOOLS, f'{name}: unknown source school'
+                check_public_case(row)
                 assert row['id'] not in ids, f'Duplicate public story: {row["id"]}'
                 ids.add(row['id']); configs[name] += 1
-                collections[row['collection']] += 1; schools[row['source_school']] += 1
-                assert not row['flag_held'] and row['target_act_quote'] is not None and row['virtue_labels'], 'Only rubric v2-labelled stories may enter the public release'
-                assert isinstance(row['agent'],str) and row['agent'].strip(), row['id']
+                schools[row['tradition']] += 1; flag_counts.update(row['flags'])
+                if row['tale'] is not None:
+                    assert row['tale'] not in tale_folds or tale_folds[row['tale']]==row['fold'], 'A tale spans multiple folds'
+                    tale_folds[row['tale']] = row['fold']
                 current = row['virtue_labels']
                 assert isinstance(current,dict) and set(current) == major and all(isinstance(cell,dict) for cell in current.values()), 'Incomplete fresh major-virtue labels'
-                require_selected_target(row)
-                check_case_text(row)
-                refs = row['flag_sources']
-                assert isinstance(refs, dict) and set(refs) <= set(case_flags.FLAGS), 'Unexpected flag receipt fields'
-                case_flags.validate_public(row | dict(flag_sources={key:value for key,value in refs.items() if value is not None}),source_flags)
+                reasons = source_flags['entries'].get(row['id'],{})
+                assert set(row['flags'])==set(reasons), 'Public flags differ from the registered output'
+                for reason in reasons.values():
+                    case_flags.validate_reason(reason)
                 for identity,cell in current.items():
-                    assert set(cell)=={'shows','against','signed','probabilities'}, 'Unexpected public label fields'
+                    assert set(cell)=={'signed','probabilities'}, 'Unexpected public label fields'
                     probabilities=cell['probabilities']
                     assert isinstance(probabilities,list) and len(probabilities)==5
                     assert all(type(p) in (int,float) and math.isfinite(p) and 0<=p<=1 for p in probabilities)
                     assert math.isclose(sum(probabilities),1,abs_tol=1e-8)
                     assert math.isclose(cell['signed'],sum(i*p for i,p in enumerate(probabilities))/2-1,abs_tol=1e-8)
-                    positive=probabilities[4]+.5*probabilities[3];negative=probabilities[0]+.5*probabilities[1]
-                    expected=(positive,negative) if rubrics[identity]['kind']=='virtue' else (negative,positive)
-                    assert all(math.isclose(actual,want,abs_tol=1e-8) for actual,want in zip((cell['shows'],cell['against']),expected)), 'Evidence weights do not match the probability vector'
                     if 'derived_from' in rubrics[identity]:
                         parent=current[rubrics[identity]['derived_from']]
                         assert cell['signed']==parent['signed'] and cell['probabilities']==parent['probabilities']
-                        assert (cell['shows'],cell['against'])==(parent['against'],parent['shows'])
                 assert sum('derived_from' in rubrics[identity] for identity in current)==14
                 complete += 1
         elif path.suffix == '.json':
@@ -259,13 +265,15 @@ def leak_checks(directory):
                 check_value(text,name)
     check_readme_links(directory)
     manifest = validate_release(directory,staged=True)
-    flag_shas = {value['private_registry_sha256'] for flags in source_flags['entries'].values() for value in flags.values()}
-    assert flag_shas <= {manifest['source_flag_registry_sha256']}, 'Public flag registry belongs to another source review'
+    assert dict(flag_counts)=={key:value for key,value in manifest['source_flag_counts'].items() if value}, 'Public flag counts differ from the manifest'
+    evaluation_ids=read(directory/'data/eval_ids.json')
+    assert evaluation_ids['seed']==20261023 and len(evaluation_ids['ids'])==len(set(evaluation_ids['ids']))
+    assert set(evaluation_ids['ids']) <= ids, 'An evaluation story is absent from the release'
     assert set(manifest['label_schema']['rubric_versions'])==major, 'Public rubric versions differ from the labels'
     assert set(source_flags['entries']) <= ids, 'Public flag registry contains unknown story IDs'
     assert len(ids)==manifest['total_stories'] and complete==manifest['major_complete_stories'], 'Public coverage does not match the manifest'
-    assert dict(collections) == manifest['collection_counts'] and dict(schools) == manifest['source_school_counts'], 'Public origin counts differ from the manifest'
-    assert configs['data/rubrics.parquet'] == TOTAL_VIRTUES
+    assert dict(schools)==manifest['source_school_counts'], 'Public source-tradition counts differ from the manifest'
+    assert configs['data/virtues.parquet'] == TOTAL_VIRTUES
     assert all(configs[name]>0 for name in DATA_FILES)
     return dict(stories=len(ids),configs=dict(configs))
 
@@ -277,9 +285,17 @@ def check_readme_links(directory):
     missing = []
     for link in links:
         url = urlsplit(link.split(' ',1)[0].strip('<>\"\''))
-        if url.scheme or not url.path:
+        if not url.path:
             continue
-        path = (directory/unquote(url.path)).resolve()
+        prefix='/'+REPO+'/blob/main/'
+        if url.scheme:
+            if url.netloc=='github.com' and url.path.startswith(prefix):
+                relative=url.path[len(prefix):]
+            else:
+                continue
+        else:
+            relative=url.path
+        path = (directory/unquote(relative)).resolve()
         assert path.is_relative_to(directory.resolve()), f'Readme link leaves public stage: {link}'
         if not path.exists():
             missing.append(link)
@@ -344,11 +360,50 @@ def push(*,approved=False,root=ROOT):
         run('push',remote,'main')
 
 
+def verify_public(*,viewer_only=False):
+    import httpx
+    from datasets import disable_progress_bars, get_dataset_config_names, load_dataset
+    from huggingface_hub import HfApi
+    disable_progress_bars()
+    info=HfApi().dataset_info(REPO)
+    assert info.private is False
+    path=ROOT/'.local/public-hub.json'
+    report=read(path) if viewer_only and path.exists() else dict(author='PI/Sol',repo=REPO,load_dataset={})
+    previous=report.get('revision');report['revision']=info.sha
+    expected=read(ROOT/'data/release/manifest.json')
+    configs={'stories':('test',expected['total_stories']),'virtues':('train',expected['rubrics'])}
+    files=HfApi().list_repo_files(REPO,repo_type='dataset',revision=info.sha)
+    assert 'data/rubrics.parquet' not in files and any(name.startswith('rubrics/') and name.endswith('.md') for name in files), 'Old rubric config remains, or method pages are missing'
+    if not viewer_only or previous!=info.sha or not report['load_dataset']:
+        assert set(get_dataset_config_names(REPO,revision=info.sha))==set(configs)
+        for config,(split,count) in configs.items():
+            data=load_dataset(REPO,config,split=split,revision=info.sha)
+            assert len(data)==count
+            if config=='stories':
+                check_public_case(data[0])
+            else:
+                assert tuple(data[0])==VIRTUE_FIELDS
+            report['load_dataset'][config]=dict(split=split,rows=len(data),status='passed')
+    report['viewer']={}
+    with httpx.Client(timeout=30) as client:
+        for config,(split,_) in configs.items():
+            response=client.get('https://datasets-server.huggingface.co/first-rows',params=dict(dataset=REPO,config=config,split=split))
+            body=response.json();rows=body.get('rows',[])
+            fields=set(STORY_FIELDS if config=='stories' else VIRTUE_FIELDS)
+            current=bool(rows) and set(rows[0]['row'])==fields
+            report['viewer'][config]=dict(status='passed' if response.status_code==200 and current else 'pending_or_error',
+                split=split,http=response.status_code,current_schema=current,error=body.get('error'))
+    report['viewer_ready']=all(row['status']=='passed' for row in report['viewer'].values())
+    path.parent.mkdir(exist_ok=True);replace_json(path,report)
+    return report
+
+
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('action',choices=['assemble','stage','push','show-card'])
+    parser.add_argument('action',choices=['assemble','stage','push','show-card','verify'])
     parser.add_argument('--build',type=Path,default=ROOT/'private/build/major_v2')
     parser.add_argument('--approved',action='store_true')
+    parser.add_argument('--viewer-only',action='store_true')
     args=parser.parse_args()
     if args.action=='assemble':
         from tiny_virtues.release import assemble
@@ -360,6 +415,11 @@ def main():
         print(json.dumps(stage(),indent=2))
     elif args.action=='show-card':
         print((ROOT/'README.md').read_text(),end='')
+    elif args.action=='verify':
+        result=verify_public(viewer_only=args.viewer_only)
+        print(json.dumps(result,indent=2))
+        if not result['viewer_ready']:
+            raise SystemExit(1)
     else:
         push(approved=args.approved)
 

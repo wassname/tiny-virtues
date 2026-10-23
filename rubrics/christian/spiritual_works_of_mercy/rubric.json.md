@@ -12,7 +12,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp248–249
 
-Limits: Gibson does not address legal self-defence or protecting others from harm. Do not infer a duty of passivity there.
+Gibson does not address legal self-defence or protecting others from harm. Do not infer a duty of passivity there.
 
 ## to comfort the sorrowful
 
@@ -26,7 +26,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,p2
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Corporal Works of Mercy,pp241–242
 
-Limits: This overlaps legitimately with counsel. Gibson's claims about heavenly reward are attributed.
+This overlaps legitimately with counsel. Gibson's claims about heavenly reward are attributed.
 
 ## to convert the sinner
 
@@ -36,7 +36,7 @@ Gibson: aiding sinners' conversion by prayer, good example and pious exhortation
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp246–248
 
-Limits: Laity are not excluded. Not every kind act is conversion work. Gibson's promises of salvation are attributed.
+Laity are not excluded. Not every kind act is conversion work. Gibson's promises of salvation are attributed.
 
 ## to counsel the doubtful
 
@@ -50,7 +50,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,p2
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp246–248
 
-Limits: Overlap with comforting is legitimate. Gibson gives no detailed definition of 'doubtful', so the scope boundary is partly unresolved.
+Overlap with comforting is legitimate. Gibson gives no detailed definition of 'doubtful', so the scope boundary is partly unresolved.
 
 ## to forgive injuries
 
@@ -64,7 +64,7 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp248–249
 
-Limits: Gibson does not say that forgiveness requires waiving justice or restitution. That question is unresolved.
+Gibson does not say that forgiveness requires waiving justice or restitution. That question is unresolved.
 
 ## to instruct the ignorant
 
@@ -74,7 +74,7 @@ Gibson: teaching others the truths, doctrines and precepts of religion.
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp246–248
 
-Limits: Duties of one's state of life are included. Gibson's ecclesial claims are attributed.
+Duties of one's state of life are included. Gibson's ecclesial claims are attributed.
 
 ## to pray for the living and the dead
 
@@ -88,4 +88,4 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Spiritual Works of Mercy,pp249–250
 
-Limits: Claims about purgatory and the efficacy of prayer are Gibson's attributed teaching, not established fact.
+Claims about purgatory and the efficacy of prayer are Gibson's attributed teaching, not established fact.

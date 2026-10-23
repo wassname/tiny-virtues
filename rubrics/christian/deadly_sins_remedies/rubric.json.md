@@ -14,7 +14,7 @@ Chaucer, Parson's Tale §73
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Abstinence restrains eating and drinking. It is meritorious only when done for virtue, with patience and charity, for God's sake; abstaining only for health is not counted meritorious. Its companions are temperance that keeps the mean, sufficiency that seeks no rich food, measure that restrains appetite by reason, and sobriety in drink.
 
-Limits: The companions are not separate items here. Fasting with impatience or pride is 'litel worth'; abstaining for health alone is not condemned, only not meritorious.
+The companions are not separate items here. Fasting with impatience or pride is 'litel worth'; abstaining for health alone is not condemned, only not meritorious.
 
 ## avarice
 
@@ -38,7 +38,7 @@ Chaucer, Parson's Tale §64
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Avarice is greed for earthly things: buying up much and giving nothing to the needy. Coveting is wanting what one lacks; avarice proper is keeping what one has without rightful need. It can be for learning or fame as well as land and goods. The miser trusts his money more than Christ, and coveting breeds lords' exactions beyond what is due.
 
-Limits: Keeping goods 'with rightful need' is not avarice; the Tale sets no amount. Its long passage on lords and serfs (§§64-67) is not summarised.
+Keeping goods 'with rightful need' is not avarice; the Tale sets no amount. Its long passage on lords and serfs (§§64-67) is not summarised.
 
 ## chastity and continence
 
@@ -62,7 +62,7 @@ Chaucer, Parson's Tale §83
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Chastity and continence restrain the disordered stirrings of the flesh, and the merit grows with the restraint. They are kept in marriage, by faithfulness of body, and in widowhood. Marital union for children or to render the debt is meritorious; to avoid lechery it is venial; for burning delight alone it is deadly. Practical remedies are withdrawing occasions such as ease, food and drink, and avoiding company that tempts.
 
-Limits: The Tale's marriage teaching includes a wife's subjection to her husband (§80); that historical claim is not used to judge chastity. Its ranking of virginity, widowhood and marriage concerns merit, not whether an act shows chastity.
+The Tale's marriage teaching includes a wife's subjection to her husband (§80); that historical claim is not used to judge chastity. Its ranking of virginity, widowhood and marriage concerns merit, not whether an act shows chastity.
 
 ## envy
 
@@ -76,6 +76,8 @@ Chaucer, Parson's Tale §30
 
 Chaucer, Parson's Tale §30
 
+On backbiting, which comes of envy:
+
 > Som man preiseth his neighebore by a wikke entente; / for he maketh alwey a wikked knotte atte laste ende. ... The fifte spece is this; for to consente gladly and herkne gladly to the harm that men speke of other folk.
 
 Chaucer, Parson's Tale §30
@@ -86,7 +88,7 @@ Chaucer, Parson's Tale §30
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Envy is sorrow at another's prosperity and joy at his harm; it has no pleasure of its own. It grows into backbiting (praise with a sting at the end, twisting good deeds, gladly hearing slander), grumbling, bitterness at a neighbour's good deeds, and secret malice.
 
-Limits: Wanting a good one lacks, without sorrow at another's having it, is not shown to be envy. Grumbling has other roots too (pride, avarice, ire).
+Wanting a good one lacks, without sorrow at another's having it, is not shown to be envy. Grumbling has other roots too (pride, avarice, ire).
 
 ## fortitude
 
@@ -100,6 +102,8 @@ Chaucer, Parson's Tale §60
 
 Chaucer, Parson's Tale §60
 
+Of magnanimity, its first species:
+
 > ther bihoveth greet corage agains Accidie, lest that it ne swolwe the soule by the sinne of sorwe, or destroye it by wanhope. / This vertu maketh folk to undertake harde thinges and grevouse thinges, by hir owene wil, wysely and resonably.
 
 Chaucer, Parson's Tale §61
@@ -110,7 +114,7 @@ Chaucer, Parson's Tale §61
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Fortitude here is strength to despise wearisome things, to endure long the fitting labours, and to finish good works begun. Its species include great courage that takes on hard things willingly, wisely and reasonably, against sorrow and despair, and constancy. It also wisely keeps itself from wicked perils, so recklessness is not this virtue.
 
-Limits: 'Covenable' (fitting) bounds it: enduring needless or wicked toil is not shown to be this virtue. This is the remedy of sloth, not battlefield courage.
+'Covenable' (fitting) bounds it: enduring needless or wicked toil is not shown to be this virtue. This is the remedy of sloth, not battlefield courage.
 
 ## gentleness
 
@@ -128,13 +132,15 @@ Chaucer, Parson's Tale §49
 
 Chaucer, Parson's Tale §49
 
+Of good ire against wickedness:
+
 > This Ire is with debonairetee, and it is wrooth withouten bitternesse
 
 Chaucer, Parson's Tale §33
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Gentleness holds back the heart's stirrings so they do not break out in anger. It harms no one by word or deed and does not grow heated against reason when harmed. It may come from nature or be perfected by grace. It differs from patience, which bears wrongs; gentleness governs one's own impulses, and it can accompany good ire against a misdeed.
 
-Limits: The Tale gives no worked case of gentleness alone; the contrast with patience comes from its pairing of the two remedies.
+The Tale gives no worked case of gentleness alone; the contrast with patience comes from its pairing of the two remedies.
 
 ## gluttony
 
@@ -148,13 +154,15 @@ Chaucer, Parson's Tale §70
 
 Chaucer, Parson's Tale §70
 
+Gregory's five species:
+
 > The firste is, for to ete biforn tyme to ete. The seconde is, whan a man get him to delicat mete or drinke. / The thridde is, whan men taken to muche over mesure. The fourthe is curiositee, with greet entente to maken and apparaillen his mete. The fifthe is, for to eten to gredily.
 
 Chaucer, Parson's Tale §71
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Gluttony is unmeasured appetite for eating or drinking, or indulging it. Drunkenness buries reason and is deadly; but being caught unawares by strong drink through inexperience, weakness or fatigue is only venial. Gregory's species are eating before time, seeking delicacies, taking too much, fussing over dishes, and eating too greedily.
 
-Limits: Venial drunkenness is still a fault, but less. Eating more for real bodily need is not 'unmesurable'.
+Venial drunkenness is still a fault, but less. Eating more for real bodily need is not 'unmesurable'.
 
 ## humility
 
@@ -174,7 +182,7 @@ Chaucer, Parson's Tale §29
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Humility is true knowledge of oneself: claiming no worth from one's deserts and remembering one's frailty. In the heart it does not despise others and does not mind being thought little of. In speech it praises another's goodness without belittling it. In deeds it puts others first, takes the lowest place, and gladly accepts good counsel and the judgement of superiors.
 
-Limits: The Tale asks assent to 'good' counsel; it does not require following bad counsel. Self-belittling that denies a real good is not clearly this virtue, which rests on 'verray knoweleche'.
+The Tale asks assent to 'good' counsel; it does not require following bad counsel. Self-belittling that denies a real good is not clearly this virtue, which rests on 'verray knoweleche'.
 
 ## lechery
 
@@ -198,7 +206,7 @@ Chaucer, Parson's Tale §76
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Lechery is forbidden in desire as well as deed. Its approaches are lustful looking, wanton touching, foul words, kissing and the act itself. Its species include fornication between the unmarried, deflowering a virgin, adultery, sins by those vowed to chastity, lust within marriage sought only for pleasure, incest and sins against nature. Within marriage the Tale grades union: for children or to render the marital debt it is meritorious, to avoid lechery it is venial, and only for burning delight it is deadly.
 
-Limits: The Tale recalls Old Law death penalties for adultery (§74) and Christ's pardon of the adulteress (§76); these are its historical claims, not measures of an act.
+The Tale recalls Old Law death penalties for adultery (§74) and Christ's pardon of the adulteress (§76); these are its historical claims, not measures of an act.
 
 ## love of God and neighbour
 
@@ -222,7 +230,7 @@ Chaucer, Parson's Tale §31
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Love of God and of neighbour go together. Love wills the neighbour every good: in words, by kind admonition, correction, comfort and prayer; in deeds, by doing to him as one would have done to oneself and harming neither body, goods nor soul. The enemy is a neighbour too: answer his hatred with love, his insults with prayer, and his harm with good.
 
-Limits: Love includes correction ('chastysinge'), so a fitting rebuke is not a failure of love. The Tale gives no separate account of love of God apart from love of neighbour.
+Love includes correction ('chastysinge'), so a fitting rebuke is not a failure of love. The Tale gives no separate account of love of God apart from love of neighbour.
 
 ## mercy and pity
 
@@ -246,7 +254,7 @@ Chaucer, Parson's Tale §68
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Mercy is being moved by another's distress; pity follows it in doing works of mercy. Its kinds are lending, giving, forgiving and releasing debts, inner compassion, and also correcting where needed. It relieves avarice because the miser delights in keeping his treasure instead of rescuing his neighbour.
 
-Limits: Being moved without any help, when help was possible, shows less than the Tale's 'parfourninge'. The Tale does not say how much must be given.
+Being moved without any help, when help was possible, shows less than the Tale's 'parfourninge'. The Tale does not say how much must be given.
 
 ## patience
 
@@ -262,8 +270,10 @@ Chaucer, Parson's Tale §33: qualification concerning good and wicked ire
 
 good ire is compatible with debonairetee, but is not itself proof of patience.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the resentful monk — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the resentful monk - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Because of that, the first monk became resentful. Soon afterwards the other monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the other monk died from thirst.
@@ -336,7 +346,7 @@ Wrath over a corrective word, avenged by deed; Augustine's ire as will to be ave
 </details>
 
 <details>
-<summary>the abbot Macarius — Some evidence that the conduct shows this virtue.</summary>
+<summary>the abbot Macarius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he received no answer at all. ... willingly, even joyfully, Macarius used to speak to such a man of whatever he wished to hear.
@@ -349,7 +359,7 @@ He bears wicked words gladly and without wrath, which is the Parson's very pictu
 </details>
 
 <details>
-<summary>a wheelwright — Neither direction is established by the described conduct.</summary>
+<summary>a wheelwright - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 put his staff through the nave of a wheel, and turn it round
@@ -362,7 +372,7 @@ No harm or ire involved (christian_chaucer-remedies).
 </details>
 
 <details>
-<summary>the heretics of Thawattie — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the heretics of Thawattie - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They prevailed upon Thondarie, a woman entirely devoted to their interests, to spread the rumour that she had spent a night in the apartments of Buddha.
@@ -375,7 +385,7 @@ A premeditated wish to destroy his reputation by word fits the 'wicked will to b
 </details>
 
 <details>
-<summary>one of them which were with Jesus — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of them which were with Jesus - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear
@@ -388,7 +398,7 @@ Wounding the man himself is not 'good ire' directed only at the misdeed. It show
 </details>
 
 <details>
-<summary>Sumana — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Sumana - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -400,7 +410,7 @@ Not shown wroth, but he fails to suffer the annoyances sweetly and instead harms
 
 </details>
 
-Limits: Unmodernised Middle English. The four grievances (§51) are examples, not necessary conditions. Premeditated vengeful ire is called deadly sin.
+Unmodernised Middle English. The four grievances (§51) are examples, not necessary conditions. Premeditated vengeful ire is called deadly sin.
 
 ## pride
 
@@ -422,13 +432,15 @@ Chaucer, Parson's Tale §25
 
 Chaucer, Parson's Tale §27
 
+After condemning costly array:
+
 > I speke this for the sinne of superfluitee, and nat for reasonable honestetee, whan reson it requyreth.
 
 Chaucer, Parson's Tale §27
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Pride is the root sin. Its twigs include boasting of harm or good done, hypocrisy (showing oneself as one is not), disdain of one's neighbour, arrogance (claiming goods one lacks, or deserving them), refusing correction, and craving to be greeted and seated first. Pride planned or habitual is deadly; a sudden lapse quickly withdrawn is grievous but not deadly. Seemly dress suited to one's state is not condemned.
 
-Limits: The twigs overlap other sins (impatience, strife, vainglory); one twig is enough to show some pride.
+The twigs overlap other sins (impatience, strife, vainglory); one twig is enough to show some pride.
 
 ## reasonable generosity
 
@@ -446,13 +458,15 @@ Chaucer, Parson's Tale §68
 
 Chaucer, Parson's Tale §69
 
+Among the signs of true gentility:
+
 > to be liberal, that is to seyn, large by mesure; for thilke that passeth mesure is folye and sinne.
 
 Chaucer, Parson's Tale §28
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Reasonable largesse is giving by measure, mindful of what Christ gave and that one keeps only what is spent in good works. Its counterfeit is fool-largesse or waste: giving for vainglory and renown, or where one should not give. Such gifts are sin, not alms.
 
-Limits: The Tale sets no amounts; 'by mesure' means fitted to need and to one's means.
+The Tale sets no amounts; 'by mesure' means fitted to need and to one's means.
 
 ## sloth
 
@@ -484,7 +498,7 @@ Chaucer, Parson's Tale §59
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Sloth is weariness toward good: doing duties with reluctance, slackness, excuses and idleness, and neglecting even bodily provision. Its branches include refusing hardship, dread of beginning good work, despair of God's mercy, oversleeping without reason, negligence about doing things well, and dropping a good work or a charge at the first difficulty.
 
-Limits: Sleep or rest with a reasonable cause is not condemned. The Tale places despair here; Cassian puts it under dejection, a different division.
+Sleep or rest with a reasonable cause is not condemned. The Tale places despair here; Cassian puts it under dejection, a different division.
 
 ## wrath
 
@@ -508,4 +522,4 @@ Chaucer, Parson's Tale §33
 
 The quotations are unmodernised Middle English; the explanation gives their plain sense. Wicked ire is the will to be avenged by word or deed. Sudden anger that reason does not consent to is venial; anger with a planned, consented will to vengeance is deadly, and rancour keeps it alive. Good ire, zeal against wickedness, is angry at the misdeed and not the man, without bitterness. It is not this sin.
 
-Limits: Stories often leave unstated whether anger targets the deed or the man and whether it seeks vengeance; do not assume either.
+Stories often leave unstated whether anger targets the deed or the man and whether it seeks vengeance; do not assume either.

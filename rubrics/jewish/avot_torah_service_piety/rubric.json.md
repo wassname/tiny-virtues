@@ -14,7 +14,7 @@ Ovadiah of Bartenura, commentary on Avot 1:2 (late fifteenth century), Sefaria C
 
 Merely not offering is not shown to conflict with it. The sources give no regulations and no universal duty.
 
-Limits: The obstruction example is a constructed inference, not a narrated prohibition. No era/community exclusion or post-Temple conduct rule is supplied.
+The obstruction example is a constructed inference, not a narrated prohibition. No era/community exclusion or post-Temple conduct rule is supplied.
 
 ## the Torah
 
@@ -36,7 +36,7 @@ Pirkei Avot 2:1–16, Kulp
 
 Pirkei Avot 4:1–10, Kulp
 
-Limits: Learning that is not Torah study or practice is not this item. Bartenura's cosmic reading is commentary, not a standard for conduct.
+Learning that is not Torah study or practice is not this item. Bartenura's cosmic reading is commentary, not a standard for conduct.
 
 ## the practice of acts of piety
 
@@ -50,8 +50,10 @@ Pirkei Avot ch. 1, trans. Kulp, with Bartenura
 
 Pirkei Avot ch. 1, trans. Kulp, with Bartenura
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Romulus — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Romulus - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 when he decided that it was more expedient for him to reign alone than to share the throne with another, he slew his brother. He threw to the winds his brotherly affection and his human feelings, to secure what seemed to him — but was not — expedient
@@ -64,7 +66,7 @@ Slaying a brother is contrary to lovingkindness acts, though the item names posi
 </details>
 
 <details>
-<summary>King Wen — Clear evidence that the conduct shows this virtue.</summary>
+<summary>King Wen - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -77,7 +79,7 @@ Burying the dead is explicitly named in Bartenura's list. The act is concrete, n
 </details>
 
 <details>
-<summary>the Lord — Neither direction is established by the described conduct.</summary>
+<summary>the Lord - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -90,7 +92,7 @@ Bartenura names concrete acts (mourners, sick, dead, guests); mindful avoidance 
 </details>
 
 <details>
-<summary>king Wan — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -107,7 +109,7 @@ This resembles 'let thy house be wide open, poor members of household', a concre
 </details>
 
 <details>
-<summary>the man who was going to beat an ass-driver — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -120,7 +122,7 @@ He performs no lovingkindness act from Bartenura's list. Gratuitous beating runs
 </details>
 
 <details>
-<summary>The Camel — Neither direction is established by the described conduct.</summary>
+<summary>The Camel - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -134,4 +136,4 @@ No lovingkindness acts like comforting or hospitality; dancing for self-glory.
 
 </details>
 
-Limits: 'And the like' is open-ended. Bartenura's list is not exhaustive, and kind feelings alone are not the concrete acts he names.
+'And the like' is open-ended. Bartenura's list is not exhaustive, and kind feelings alone are not the concrete acts he names.

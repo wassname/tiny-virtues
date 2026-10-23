@@ -12,8 +12,10 @@ Vivekananda, Raja Yoga (1899); retained lines 549–549
 
 Vivekananda, Raja Yoga (1899); retained lines 1091–1094
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Aristodemus of Argos — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Aristodemus of Argos - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Aristodemus of Argos used to go up into a room on the second floor through a trap door, and after moving his bed on top of the door, he would sleep there with his mistress, while the woman’s mother would take away the ladder from below and then put it back again in the morning.
@@ -26,7 +28,7 @@ A habitual sexual relationship clearly departs from chastity in deed under Vivek
 </details>
 
 <details>
-<summary>the blessed Katherine — Some evidence that the conduct shows this virtue.</summary>
+<summary>the blessed Katherine - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she kept chastity among those things that chastity is wont to perish. ... And among all these things the blessed Katherine kept her chastity
@@ -41,7 +43,7 @@ Chastity kept 'among all these things' matches Vivekananda's 'always, and in all
 </details>
 
 <details>
-<summary>a spouse — Neither direction is established by the described conduct.</summary>
+<summary>a spouse - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Sometimes a spouse looks after their own interests and neglects the other. Or, even worse, a spouse lives in the same house, but their attention is elsewhere and they are not willing to work with or agree with the other.
@@ -54,7 +56,7 @@ No sexual thought, word or deed is described; the neglect concerns cooperation, 
 </details>
 
 <details>
-<summary>a woman — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>a woman - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a woman who repulsed a lover in order to inflame him, or who was deterred by fear of the law or of her husband.
@@ -71,7 +73,7 @@ Vivekananda requires chastity in thought, word and deed. The coquettish refusal 
 </details>
 
 <details>
-<summary>a brother — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>a brother - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 My mind is always thinking about fornication; and does not let me rest even for an hour, and my heart is suffering. ... I meditate on such words, but they do not help me to be penitent, for I do not know the meaning of the words on which I am meditating.
@@ -84,7 +86,7 @@ Brahmacharya demands chastity in thought always; constant sexual thoughts confli
 </details>
 
 <details>
-<summary>his master's wife — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>his master's wife - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she disgraced him by the imputation of a false crime, and complained to her husband that he had made an attempt upon her virtue.
@@ -96,7 +98,7 @@ Chastity in word and deed; the slander arises from frustrated sexual passion, a 
 
 </details>
 
-Limits: Supplied units give no married-householder treatment; don't invent an exception or a monks-only restriction.
+Supplied units give no married-householder treatment; don't invent an exception or a monks-only restriction.
 
 ## non-killing
 
@@ -118,8 +120,10 @@ Vivekananda, Raja Yoga (1899), on Yoga Aphorisms 2.33-34
 
 Vivekananda, Raja Yoga (1899), on Yoga Aphorisms 2.30-31
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the man who was going to beat an ass-driver — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -132,7 +136,7 @@ Vivekananda's ahimsa forbids producing pain in any living being, explicitly anim
 </details>
 
 <details>
-<summary>the Lord — Clear evidence that the conduct shows this virtue.</summary>
+<summary>the Lord - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -145,7 +149,7 @@ Vigilance not to harm even tiny creatures, in thought and deed, exemplifies ahim
 </details>
 
 <details>
-<summary>king Wan — Neither direction is established by the described conduct.</summary>
+<summary>king Wan - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -162,7 +166,7 @@ He permits catching pheasants and hares, which enables killing animals. He does 
 </details>
 
 <details>
-<summary>King Wen — Neither direction is established by the described conduct.</summary>
+<summary>King Wen - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -175,7 +179,7 @@ No pain is produced or prevented in any living being, so neither direction is es
 </details>
 
 <details>
-<summary>The Camel — Neither direction is established by the described conduct.</summary>
+<summary>The Camel - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -190,7 +194,7 @@ Envious thought could be mental injury per Vivekananda, but no harm caused to an
 </details>
 
 <details>
-<summary>Qi Xi — Neither direction is established by the described conduct.</summary>
+<summary>Qi Xi - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Qi Xi observed, "I was taught that when a petty man obtains a position, one will be unlucky if one does not oppose him and when a gentleman is in trouble, one will be unlucky if one does not help him?' ... Then he went to see Viscount Xuan of Fan and persuaded him as follows: "I was taught that those who are skilled at governing are neither excessive with rewards nor arbitrary with punishments. Rewards that are excessive he fears may be given to immoral persons, and punishments that are arbitrary he fears may be applied to gentlemen. Should one be so unfortunate as to err, it would be better to err by rewarding the immoral than by punishing gentlemen.
@@ -202,7 +206,7 @@ The selected argument reduces pain: it frees a bound man and prefers leniency. T
 
 </details>
 
-Limits: Source gives no exceptions (self-defence, food, duty); do not supply any. Universality is Vivekananda's reading of sutra 2.31.
+Source gives no exceptions (self-defence, food, duty); do not supply any. Universality is Vivekananda's reading of sutra 2.31.
 
 ## non-receiving of any gifts
 
@@ -220,7 +224,7 @@ Vivekananda, Raja Yoga (1899); Yoga Aphorisms II.31 and commentary
 
 Vivekananda, Raja Yoga (1899); Yoga Aphorisms II.32–34 and commentary
 
-Limits: Source's rule is literal; do not soften to bribery avoidance. The source is silent on necessities like alms.
+Source's rule is literal; do not soften to bribery avoidance. The source is silent on necessities like alms.
 
 ## non-stealing
 
@@ -238,8 +242,10 @@ Vivekananda, Raja Yoga (1899); retained lines 1095–1104
 
 Vivekananda, Raja Yoga (1899); retained lines 1091–1094
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>people taking bagels without paying — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>people taking bagels without paying - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Paul F. found that people on the executive floor of a company steal more bagels; that people with security clearances don't steal any fewer bagels; that telecom companies have robbed him and that law firms aren't worth the trouble.
@@ -252,7 +258,7 @@ Taking bagels without paying from an honor-system basket is taking others' goods
 </details>
 
 <details>
-<summary>Zacchaeus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Zacchaeus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -265,7 +271,7 @@ Renouncing goods gained wrongly and giving wealth away show non-covetousness, wh
 </details>
 
 <details>
-<summary>Sumana — Neither direction is established by the described conduct.</summary>
+<summary>Sumana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 her husband was overcome, and he resolved upon putting his parents out of the way. ... Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -278,7 +284,7 @@ Sumana abandoned his parents while impersonating a robber, but no goods are said
 </details>
 
 <details>
-<summary>Diotimus — Neither direction is established by the described conduct.</summary>
+<summary>Diotimus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 sat down and forged more than fifty “licentious letters” intended to slander the reputation of the founder of that rival school. ... Diotimus portrayed Epicurus as some kind of depraved maniac ... in order to bolster his arguments against the philosophy. ... Diotimus chose to respond to slander with slander. He decided to commit a crime worse than what Apollodorus was falsely alleging against Chrysippus.
@@ -301,7 +307,7 @@ Diotimus forged letters to slander a rival. No goods were taken.
 </details>
 
 <details>
-<summary>Dauna — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Dauna - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Dauna abstracted one of the canine teeth and concealed it in the folds of his turban.
@@ -314,7 +320,7 @@ Dauna secretly took a relic tooth while entrusted to divide; taking by stealth. 
 </details>
 
 <details>
-<summary>the king — Neither direction is established by the described conduct.</summary>
+<summary>the king - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 The king at once wanted the Elephant for his own and paid the carpenters a great price for him. ... The king was proud of his new Elephant and took the best care of him as long as he lived.
@@ -328,7 +334,7 @@ He pays for the animal openly, which is neither stealth nor force, so it is the 
 
 </details>
 
-Limits: Source equates asteya with non-covetousness without elaborating mere wanting; do not grade bare desire beyond the contrary-thought teaching.
+Source equates asteya with non-covetousness without elaborating mere wanting; do not grade bare desire beyond the contrary-thought teaching.
 
 ## truthfulness
 
@@ -342,8 +348,10 @@ Raja Yoga in Brief, freely translated from Kurma Purana
 
 Vivekananda, Raja Yoga (1899), 2.33-34 commentary
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Kite — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Kite - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 there is nothing that I would not have promised, however much I knew that I must fail in the performance
@@ -356,7 +364,7 @@ Willingness to promise knowingly falsely does not relate facts as they are.
 </details>
 
 <details>
-<summary>Min Sun — Neither direction is established by the described conduct.</summary>
+<summary>Min Sun - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Min carefully concealed all his grievances, and refused to indulge in any complaint; even while suffering severely from cold and hunger, he maintained his affection unabated.
@@ -371,7 +379,7 @@ No false relating of facts; withholding complaint is not lying under supplied un
 </details>
 
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 resolved to disguise his appearance in order to secure food more easily. Encased in the skin of a sheep, he pastured with the flock deceiving the shepherd by his costume.
@@ -386,7 +394,7 @@ Disguise misrepresents facts, though no lie spoken; truth defined as relating fa
 </details>
 
 <details>
-<summary>professors teaching simplified introductory physics — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>professors teaching simplified introductory physics - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 These oversimplifications are falsehoods of a sort, and the professors know this, but it would be too complex for the student to get the whole truth all at once, so placeholder-lies are used in the service of truth.
@@ -399,7 +407,7 @@ Vivekananda says even a very mild lie is still a lie; relating facts not as they
 </details>
 
 <details>
-<summary>Saint Francis — Some evidence that the conduct shows this virtue.</summary>
+<summary>Saint Francis - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he promised ever stedfastly to bestow the help and counsel of himself and his brethren on them and on others who should profess poverty in a similar way of life; which thing he diligently performed as long as he lived, and, when nigh unto death, commanded to be evermore performed, and that not negligently
@@ -412,7 +420,7 @@ Source defines truth as relating facts; promise fulfilment not addressed directl
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -424,4 +432,4 @@ His assessment matches what he told Ao privately ('I am not your equal' in moral
 
 </details>
 
-Limits: Supplied passages do not address truth conflicting with non-injury; do not resolve it from memory. The definition is from Raja Yoga in Brief, said to be freely translated from the Kurma Purana; the passage about causing and approving lies is Vivekananda's commentary.
+Supplied passages do not address truth conflicting with non-injury; do not resolve it from memory. The definition is from Raja Yoga in Brief, said to be freely translated from the Kurma Purana; the passage about causing and approving lies is Vivekananda's commentary.

@@ -14,8 +14,10 @@ Epictetus, Handbook 10
 
 this item is 'bear' (anechou) only; 'forbear'/abstinence (apechou) is a separate imperative.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the resentful monk — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the resentful monk - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Because of that, the first monk became resentful. Soon afterwards the other monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the other monk died from thirst.
@@ -88,7 +90,7 @@ Did not bear a (minor) wrong-seeming word; impression carried him away into reta
 </details>
 
 <details>
-<summary>the abbot Macarius — Some evidence that the conduct shows this virtue.</summary>
+<summary>the abbot Macarius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he received no answer at all. ... willingly, even joyfully, Macarius used to speak to such a man of whatever he wished to hear.
@@ -101,7 +103,7 @@ Bearing reviling calmly, even joyfully, is the Handbook's own example of enduran
 </details>
 
 <details>
-<summary>the heretics of Thawattie — Neither direction is established by the described conduct.</summary>
+<summary>the heretics of Thawattie - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 They prevailed upon Thondarie, a woman entirely devoted to their interests, to spread the rumour that she had spent a night in the apartments of Buddha.
@@ -114,7 +116,7 @@ No wrong done to them is described; envy of a rival's reputation may hint at fai
 </details>
 
 <details>
-<summary>one of them which were with Jesus — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of them which were with Jesus - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear
@@ -127,7 +129,7 @@ This is a want of endurance under a wrong. Fragment 10 does not list which wrong
 </details>
 
 <details>
-<summary>Sumana — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Sumana - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -140,7 +142,7 @@ Faced with his wife's complaints, he fails to bear what he ought, letting impres
 </details>
 
 <details>
-<summary>Eumer — Neither direction is established by the described conduct.</summary>
+<summary>Eumer - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 whilst unfolding in cunning words his pretended embassy, he started up on a sudden, and unsheathing the dagger under his garment, assaulted the king.
@@ -152,7 +154,7 @@ No wrong done to Eumer is described, so there is no wrong for him to bear or fai
 
 </details>
 
-Limits: Fragment 10 does not enumerate which wrongs must be borne. The Handbook passages are related teaching, not commentary on the fragment.
+Fragment 10 does not enumerate which wrongs must be borne. The Handbook passages are related teaching, not commentary on the fragment.
 
 ## forbear
 
@@ -168,7 +170,7 @@ Epictetus, Oldfather, Handbook10
 
 The qualifier is 'which we ought to forbear.' The report gives no list of such pleasures, and that remains a gap.
 
-Limits: This is a report at second hand. Not all pleasure is bad, and no list of forbidden pleasures is given.
+This is a report at second hand. Not all pleasure is bad, and no list of forbidden pleasures is given.
 
 ## want of endurance
 
@@ -182,7 +184,7 @@ Gellius17.19, viaFavorinus, Oldfather Epictetusfragment10
 
 Epictetus, Oldfather, Handbook10
 
-Limits: 'Which we have to bear' is undefined. No claim is made that all pain is good or that every wrong must be borne. This is a report at second hand.
+'Which we have to bear' is undefined. No claim is made that all pain is good or that every wrong must be borne. This is a report at second hand.
 
 ## want of self-control
 
@@ -196,4 +198,4 @@ Gellius17.19, viaFavorinus, Oldfather Epictetusfragment10
 
 Epictetus, Oldfather, Discourses4.9
 
-Limits: This is a report at second hand. 'Which we ought to forbear' is unlisted. No Christian vows or invented list of forbidden pleasures.
+This is a report at second hand. 'Which we ought to forbear' is unlisted. No Christian vows or invented list of forbidden pleasures.

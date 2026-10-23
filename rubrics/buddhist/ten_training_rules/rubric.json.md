@@ -12,7 +12,7 @@ Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali
 
 R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
-Limits: No medicinal or quantity rule supplied; none invented.
+No medicinal or quantity rule supplied; none invented.
 
 ## Abstention from dancing, singing, music, and seeing shows
 
@@ -26,7 +26,7 @@ R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
 Bodhi, Going for Refuge, Eight Precepts III
 
-Limits: Discipline against craving, not proof such arts harm others; lay non-undertakers are not at fault.
+Discipline against craving, not proof such arts harm others; lay non-undertakers are not at fault.
 
 ## Abstention from eating at the wrong time
 
@@ -40,7 +40,7 @@ R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
 Bodhi, Going for Refuge, Eight Precepts III
 
-Limits: No list of allowed drinks or medicines supplied; not a universal moral harm.
+No list of allowed drinks or medicines supplied; not a universal moral harm.
 
 ## Abstention from high and luxurious resting places
 
@@ -54,7 +54,7 @@ R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
 Vinaya, Khandhaka 5.10.4–5, trans. Bhikkhu Brahmali
 
-Limits: No numerical height supplied. Training context matters: monks/novices and lay observers who undertake it; not every householder bed is a breach.
+No numerical height supplied. Training context matters: monks/novices and lay observers who undertake it; not every householder bed is a breach.
 
 ## Abstention from killing living beings
 
@@ -68,7 +68,7 @@ Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali
 
 R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
-Limits: Hardy defines no exceptions; none added. Kd 1.56 gives only the list.
+Hardy defines no exceptions; none added. Kd 1.56 gives only the list.
 
 ## Abstention from lying
 
@@ -82,7 +82,7 @@ Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali
 
 R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
-Limits: Source gives no exceptions or definition of intent; none added.
+Source gives no exceptions or definition of intent; none added.
 
 ## Abstention from receiving gold, silver, and money
 
@@ -96,7 +96,7 @@ Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali
 
 R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
-Limits: Not in the eight lay precepts; no definition of money or permitted arrangements supplied.
+Not in the eight lay precepts; no definition of money or permitted arrangements supplied.
 
 ## Abstention from sexual activity
 
@@ -114,7 +114,7 @@ R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
 Bodhi, Going for Refuge, Eight Precepts III
 
-Limits: Celibacy training, not the five-precept misconduct rule. Novices and eight-precept lay observers undertake it; ordinary marriage is not itself a breach.
+Celibacy training, not the five-precept misconduct rule. Novices and eight-precept lay observers undertake it; ordinary marriage is not itself a breach.
 
 ## Abstention from stealing
 
@@ -128,7 +128,7 @@ Vinaya, Khandhaka 1.56, trans. Bhikkhu Brahmali
 
 R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
-Limits: Source gives no theory of ownership or value; none added.
+Source gives no theory of ownership or value; none added.
 
 ## Abstention from wearing garlands and using scents and cosmetics
 
@@ -142,4 +142,4 @@ R. Spence Hardy, A Manual of Budhism (1853), §21, “The Sila Precepts”
 
 Bodhi, Going for Refuge, Eight Precepts III
 
-Limits: Source addresses bodily adornment; medicinal ointment is not settled here.
+Source addresses bodily adornment; medicinal ointment is not settled here.

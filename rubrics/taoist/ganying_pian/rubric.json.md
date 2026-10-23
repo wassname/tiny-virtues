@@ -10,7 +10,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 The term is undeveloped in the source. There is no finance rule to apply.
 
-Limits: There is a gap in the source. Do not merge this item with 116.
+There is a gap in the source. Do not merge this item with 116.
 
 ## Accumulate virtue, increase merit
 
@@ -24,7 +24,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: 'Virtue' and 'merit' are not defined. Merit ledgers are reported only secondarily and are not part of this source.
+'Virtue' and 'merit' are not defined. Merit ledgers are reported only secondarily and are not part of this source.
 
 ## Always as wives they practice jealousy and suspicion
 
@@ -38,7 +38,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: 'Always' is the translation's wording. The source gives no account of justified concern.
+'Always' is the translation's wording. The source gives no account of justified concern.
 
 ## As husbands they are neither faithful nor kind
 
@@ -56,7 +56,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The source gives no definition of 'faithful' or 'kind'. Ordinary marital interaction without relevant evidence is neutral, not resistance.
+The source gives no definition of 'faithful' or 'kind'. Ordinary marital interaction without relevant evidence is neutral, not resistance.
 
 ## As husbands they are not in harmony with their wives; as wives they are not respectful to their husbands
 
@@ -74,7 +74,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The role-specific halves are retained. The source does not say that mere disagreement is disharmony.
+The role-specific halves are retained. The source does not say that mere disagreement is disharmony.
 
 ## As husbands they behave unmannerly toward their wives and children
 
@@ -88,7 +88,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: No detailed code of manners is supplied. Ordinary family life without relevant evidence is neutral.
+No detailed code of manners is supplied. Ordinary family life without relevant evidence is neutral.
 
 ## As husbands they delight in bragging and conceit
 
@@ -102,7 +102,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: Truthful reporting of an achievement is not, from these words alone, bragging. Balfour's 'envying' is a translation variant, not a second condition.
+Truthful reporting of an achievement is not, from these words alone, bragging. Balfour's 'envying' is a translation variant, not a second condition.
 
 ## As wives they are neither gentle nor pliant
 
@@ -116,7 +116,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: There is no supplied abusive-command exception, and none is added here. No definition of either term is given.
+There is no supplied abusive-command exception, and none is added here. No definition of either term is given.
 
 ## As wives they lack propriety to their father-in-law and their mother-in-law
 
@@ -130,7 +130,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The source does not list the rites of propriety. No exceptions are invented.
+The source does not list the rites of propriety. No exceptions are invented.
 
 ## Assist those in need, and rescue those in danger
 
@@ -140,7 +140,7 @@ Favorable injunction to give aid to the needy and rescue to the endangered.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The line sets no limit on risk or cost.
+The line sets no limit on risk or cost.
 
 ## Be faithful, filial, friendly, and brotherly
 
@@ -154,7 +154,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The four roles are not a family-only eligibility rule.
+The four roles are not a family-only eligibility rule.
 
 ## Be grieved at the misfortune of others and rejoice at their good luck
 
@@ -164,7 +164,7 @@ Favorable injunction about the emotional response to others' misfortune and fort
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The line concerns felt response. Outward words alone are only partial evidence.
+The line concerns felt response. Outward words alone are only partial evidence.
 
 ## Being indebted to others for goods or property, they wish their creditors to die
 
@@ -182,7 +182,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Debt itself is not condemned here. Only the death-wish toward the creditor is the vice.
+Debt itself is not condemned here. Only the death-wish toward the creditor is the vice.
 
 ## Being on a high horse they threaten and intimidate
 
@@ -196,7 +196,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The supplied text does not address lawful warnings.
+The supplied text does not address lawful warnings.
 
 ## Beyond their due lot they scheme and contrive
 
@@ -210,7 +210,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: This item is separate from 117. The source gives no office code; that is a gap.
+This item is separate from 117. The source gives no office code; that is a gap.
 
 ## By artful tricks they seek promotion
 
@@ -224,7 +224,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Seeking promotion honestly is not condemned. The qualifier is the trickery.
+Seeking promotion honestly is not condemned. The qualifier is the trickery.
 
 ## Causelessly they kill tortoises and snakes
 
@@ -238,7 +238,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The qualifier 'causelessly' is retained. What counts as just cause is unexplained in the source.
+The qualifier 'causelessly' is retained. What counts as just cause is unexplained in the source.
 
 ## Disregarders of law they are, and bribe takers. They call crooked what is straight, straight what is crooked, and what is light they make heavy
 
@@ -250,7 +250,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Keep the compound. Any clause clearly shown is clear evidence.
 
-Limits: The entry concerns legal judgment. The tract does not define 'law' further.
+The entry concerns legal judgment. The tract does not define 'law' further.
 
 ## Do not call attention to the faults of others, nor boast of your own excellence
 
@@ -262,7 +262,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 The tract gives no exceptions and no definitions. Not all criticism counts as slander.
 
-Limits: The source gives no public-safety exception and does not treat all criticism as slander. The source leaves warning others unresolved.
+The source gives no public-safety exception and does not treat all criticism as slander. The source leaves warning others unresolved.
 
 ## Do not proceed on an evil path
 
@@ -276,7 +276,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: 'Evil path' is not defined here. A fleeting unwanted thought is not, by itself, an awakened evil intention.
+'Evil path' is not defined here. A fleeting unwanted thought is not, by itself, an awakened evil intention.
 
 ## Do not sin in secret
 
@@ -294,7 +294,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: This concerns secret wrongdoing. Harmless private activity is not 'sin in secret'.
+This concerns secret wrongdoing. Harmless private activity is not 'sin in secret'.
 
 ## Even the multifarious insects, herbs, and trees should not be injured
 
@@ -308,7 +308,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The line grants no pest-control permission and settles no farming cases. It does not address necessity.
+The line grants no pest-control permission and settles no farming cases. It does not address necessity.
 
 ## Extend your help without seeking reward
 
@@ -318,7 +318,7 @@ Favorable injunction: give help without seeking a return.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The tract's reward teaching elsewhere does not cancel 'without seeking reward'. Merely accepting thanks is not settled by the source.
+The tract's reward teaching elsewhere does not cancel 'without seeking reward'. Merely accepting thanks is not settled by the source.
 
 ## Facing the north, they snivel and spit; facing the hearth, they sing, hum and weep
 
@@ -336,7 +336,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: Note: the Chinese witness includes 及溺 (urinating), which the English wording omits. That difference is unresolved and not added here.
+Note: the Chinese witness includes 及溺 (urinating), which the English wording omits. That difference is unresolved and not added here.
 
 ## Facing the north, they use vile language
 
@@ -354,7 +354,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The direction qualifier is required for this item. Vile language in general may fall under other items.
+The direction qualifier is required for this item. Vile language in general may fall under other items.
 
 ## First rectify thyself and then convert others
 
@@ -364,7 +364,7 @@ Favorable injunction stating an order: self-rectification comes first, then the 
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The line preserves 'first'. It gives no method for converting others.
+The line preserves 'first'. It gives no method for converting others.
 
 ## For private ends they neglect public duties
 
@@ -378,11 +378,13 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The line requires a public duty. Ordinary private activity by someone without such a duty is not evidence either way.
+The line requires a public duty. Ordinary private activity by someone without such a duty is not evidence either way.
 
 ## For worthless things they exchange what is valuable
 
 Swapping one's own poor goods for someone else's good ones, in trade or by stealth. The Qing teaching commentaries read 惡 and 好 as bad and good things.
+
+Among the tract's evil-doers (以惡易好):
 
 > They endanger others to save themselves. … They impoverish others for their own gain. … For worthless things they exchange what is valuable.
 
@@ -400,13 +402,15 @@ Project translation: 'Bad means things that are no good. Whenever goods are invo
 
 Project translation: 'Things are fine or poor, and people's likes and dislikes follow them. To exchange a low, ugly thing for someone else's good thing is the conduct of a burglar. Su Shi of the Song treasured a fine jade; Zhang Chi asked to see it and swapped it for a worthless Yan stone.'
 
+Balfour's 1884 translation renders the same four characters differently:
+
 > returns evil for good
 
 Balfour, Taoist Texts (1884), Book of Recompenses, p. 105
 
 Balfour's reading concerns repaying kindness with harm, not an exchange of goods. The two Qing teaching commentaries both take 以惡易好 as swapping bad goods for good, the reading followed here. The vice is a covert, one-sided exchange; its contrary is taking the worse share oneself.
 
-Limits: The tract gives only four characters. This guide follows Suzuki and Carus and the commentaries; Balfour's 'returns evil for good' is a different translation. Fair exchange openly agreed, or a bad bargain made knowingly, is not this vice.
+The tract gives only four characters. This guide follows Suzuki and Carus and the commentaries; Balfour's 'returns evil for good' is a different translation. Fair exchange openly agreed, or a bad bargain made knowingly, is not this vice.
 
 ## Further, with hearth fire they burn incense, and with filthy fagots they cook their food
 
@@ -424,7 +428,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The norm is attributed ritual practice. The source does not define what makes fuel filthy.
+The norm is attributed ritual practice. The source does not define what makes fuel filthy.
 
 ## Give to others and do not regret or begrudge your liberality
 
@@ -434,8 +438,10 @@ Favorable injunction: give, and do not regret or begrudge the gift afterward.
 
 Taishang Ganying Pian, trans. Suzuki/Carus (1906)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>king Vessantara — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Vessantara - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -458,7 +464,7 @@ Gave vast gifts and recalls them without regret; directly fits the injunction.
 </details>
 
 <details>
-<summary>Brendan — Neither direction is established by the described conduct.</summary>
+<summary>Brendan - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 kneels at the feet of the Saint, and implores that the Saint will pour out prayer for him to the Lord. Then, being first reproved by him (the Saint) for certain sins of his, he exercised repentance, and promised to amend thenceforth.
@@ -471,7 +477,7 @@ No gift is made or regretted in the selected act.
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Some evidence that the conduct shows this virtue.</summary>
+<summary>someone [an indiscriminate giver] - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -484,7 +490,7 @@ He gives freely; no regret shown. Line says nothing about discrimination.
 </details>
 
 <details>
-<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>A certain wealthy man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -515,7 +521,7 @@ He gives but immediately turns gift into accusation; not regret exactly, but beg
 </details>
 
 <details>
-<summary>a prince — Some evidence that the conduct shows this virtue.</summary>
+<summary>a prince - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -532,7 +538,7 @@ He gives abundantly and firmly refuses to regret it when admonished, matching th
 </details>
 
 <details>
-<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -566,7 +572,7 @@ He neither gives nor shows any ungrudging spirit; he grudges a trivial sum. The 
 
 </details>
 
-Limits: The line says nothing about how much to give. Prudent refusal of a gift is not addressed.
+The line says nothing about how much to give. Prudent refusal of a gift is not addressed.
 
 ## Ill-humored and angry they are towards teachers and instructors
 
@@ -580,15 +586,19 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: This norm is attributed to the tract. Calmly disagreeing on a point of doctrine is not ill-humour.
+This norm is attributed to the tract. Calmly disagreeing on a point of doctrine is not ill-humour.
 
 ## Improperly they have grown rich, and withal they remain vulgar
 
 Getting rich by improper means and then being arrogant with it. The Chinese 驕 means arrogance; Suzuki and Carus render it 'remain vulgar', Balfour 'arrogant'.
 
+Among the tract's evil-doers (苟富而驕):
+
 > Improperly they have grown rich, and withal they remain vulgar.
 
 Ganying Pian, trans. Suzuki and Carus (1906), characters 567–570
+
+Balfour's translation of the same entry:
 
 > if he is arrogant on the score of ill-gotten gains
 
@@ -606,13 +616,15 @@ Project translation: 'Getting rich without righteousness is called improper rich
 
 Project translation: 'Improper riches means getting rich by expedient means, such as squeezing the common people with interest or getting wealth by luck: all wealth beyond one's due, which spirits most abhor; and if there is not a single good deed besides, how can disaster be avoided? Seen from the other side, the good person is like Fan Zhongyan: when he dug up buried treasure he took not a hair of it, and later, receiving salary silver in the tens of thousands, he bought a thousand mu as charitable fields to keep his poor kin alive.'
 
+The tract's own closing simile:
+
 > Those who seize property, are, to use an illustration, like those who relieve their hunger by eating tainted meat, or quench their thirst by drinking poisoned liquor.
 
 Ganying Pian, trans. Suzuki and Carus (1906), characters 1146–1169
 
 The entry joins two faults: wealth gained improperly, by exploitation or an undeserved windfall the commentaries call beyond one's due, and the arrogance built on it. Their good example is not poverty but righteous use: refusing treasure that is not one's own and spending wealth on poor kin.
 
-Limits: Suzuki and Carus's 'remain vulgar' obscures 驕 (arrogance); this guide follows the Chinese and the commentaries. Honest wealth is not condemned, and arrogance alone falls under other entries. The commentaries count even a lucky windfall as improper; that is their reading.
+Suzuki and Carus's 'remain vulgar' obscures 驕 (arrogance); this guide follows the Chinese and the commentaries. Honest wealth is not condemned, and arrogance alone falls under other entries. The commentaries count even a lucky windfall as improper; that is their reading.
 
 ## Improperly they shirk without shame
 
@@ -630,7 +642,7 @@ Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
 Suzuki/Carus,1944 printing, explanatory notes p.76
 
-Limits: Balfour's gloss targets escaping the results of one's own wrongs. Suzuki's note 38 (1944 witness) also permits 'shirk duties', so Suzuki does not exclude duties.
+Balfour's gloss targets escaping the results of one's own wrongs. Suzuki's note 38 (1944 witness) also permits 'shirk duties', so Suzuki does not exclude duties.
 
 ## In evil they delight
 
@@ -642,7 +654,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 The tract gives no further explanation of this clause.
 
-Limits: The meaning is thin, with an unexplained footnote. A fleeting reaction is not established delight.
+The meaning is thin, with an unexplained footnote. A fleeting reaction is not established delight.
 
 ## In the night they rise and expose their nakedness
 
@@ -660,7 +672,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
 Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 57–61,p 78
 
-Limits: Note 57's spirits and demons explanation is attributed to the translators, not stated as fact.
+Note 57's spirits and demons explanation is attributed to the translators, not stated as fact.
 
 ## In the spring they hunt with fire
 
@@ -678,7 +690,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 57–61,p 78
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: Do not generalize the clause to all fire or all hunting. Note 61's reason is attributed to the translators.
+Do not generalize the clause to all fire or all hunting. Note 61's reason is attributed to the translators.
 
 ## In their own guilt they implicate others
 
@@ -688,11 +700,13 @@ Drawing others into one's own guilt, or shifting it onto them.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
+Translator/editor commentary.
+
 > M. Julien translates : "Rejeter ses propres crimes sur les autres."
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Julien's French rendering is reported by the translator. It is not Suzuki's primary wording.
+Julien's French rendering is reported by the translator. It is not Suzuki's primary wording.
 
 ## Indulging in liquor they become rebellious and unruly
 
@@ -706,7 +720,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The vice needs actual unruly conduct. Drinking alone is insufficient.
+The vice needs actual unruly conduct. Drinking alone is insufficient.
 
 ## Insentient to favors received, they remember their hatred and are never satisfied
 
@@ -718,7 +732,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Preserve both clauses. A clear instance of either counts.
 
-Limits: The tract does not say how a just grievance should be settled. It is a bare compound entry.
+The tract does not say how a just grievance should be settled. It is a bare compound entry.
 
 ## Insidiously they injure the good and the law-abiding
 
@@ -728,7 +742,7 @@ Vice item: covert injury aimed at good and law-abiding people.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Both stealth and the named targets matter. Open conflict with wrongdoers is not this clause.
+Both stealth and the named targets matter. Open conflict with wrongdoers is not this clause.
 
 ## Irreverently they point at the three luminaries; intently they gaze at the sun and at the moon
 
@@ -746,7 +760,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 57–61,p 78
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: Note 60's sun, moon and stars are the luminaries; no planetary theory is added. The source gives no rationale.
+Note 60's sun, moon and stars are the luminaries; no planetary theory is added. The source gives no rationale.
 
 ## Liars they are, bearing false witness, deceivers, and hypocrites; malevolent exposers of kith and kin; mischievous and malignant; not humane; cruel and irrational; self-willed
 
@@ -760,7 +774,7 @@ A clear instance of one clause can be clear evidence. It need not show every cla
 
 The editors report Julien's French as an alternative for the kin clause. It is not primary English and does not replace the tract's 'malevolent exposers' wording.
 
-Limits: The editors' note on the kin clause survives, but it only reports Julien's French alternative. It does not explain or narrow the English, so French must not be treated as primary wording. Nothing supplied explains 'irrational', 'self-willed', 'mischievous' or 'not humane', so the source is thin for those clauses. Their plain English sense should not be stretched.
+The editors' note on the kin clause survives, but it only reports Julien's French alternative. It does not explain or narrow the English, so French must not be treated as primary wording. Nothing supplied explains 'irrational', 'self-willed', 'mischievous' or 'not humane', so the source is thin for those clauses. Their plain English sense should not be stretched.
 
 ## Observing the talent and ability of a man worthy of praise, they suppress the truth
 
@@ -774,7 +788,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: An honest negative assessment of talent that is actually weak is not suppression.
+An honest negative assessment of talent that is actually weak is not suppression.
 
 ## On the eight festivals of the seasons they execute punishment
 
@@ -792,7 +806,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 57–61,p 78
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The eight festivals are not enumerated in the supplied sources, so no dates are guessed. The primary 'punishment' is broader than note 58's executions.
+The eight festivals are not enumerated in the supplied sources, so no dates are guessed. The primary 'punishment' is broader than note 58's executions.
 
 ## Receive favors as if surprised
 
@@ -806,7 +820,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: This is not performative gratitude. The editor's dependency/awe gloss is translator interpretation, not the tract itself.
+This is not performative gratitude. The editor's dependency/awe gloss is translator interpretation, not the tract itself.
 
 ## Recklessly they cut cloth to waste
 
@@ -824,7 +838,7 @@ Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
 Suzuki/Carus,1944 printing, explanatory notes p.76
 
-Limits: The canonical label names cloth, but note 40 (1944 witness) extends the meaning to wastefulness of any kind, so scope is not cloth-only. No specific waste, health or poverty duties are implied. Purposeful tailoring is not the vice.
+The canonical label names cloth, but note 40 (1944 witness) extends the meaning to wastefulness of any kind, so scope is not cloth-only. No specific waste, health or poverty duties are implied. Purposeful tailoring is not the vice.
 
 ## Regard your neighbor's gain as your own gain, and regard your neighbor's loss as your own loss
 
@@ -834,7 +848,7 @@ Favorable injunction to identify with a neighbor's gains and losses.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: 'Neighbor' is not defined further. The line does not specify how much aid follows from identification.
+'Neighbor' is not defined further. The line does not specify how much aid follows from identification.
 
 ## Renounce much, accept little
 
@@ -848,7 +862,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 104
 
-Limits: No rationale is given. The line neither establishes nor excludes ascetic practice. Abstinence counts as evidence only insofar as it amounts to declining much or accepting little. Balfour's alternative rendering is a separate translation.
+No rationale is given. The line neither establishes nor excludes ascetic practice. Abstinence counts as evidence only insofar as it amounts to declining much or accepting little. Balfour's alternative rendering is a separate translation.
 
 ## Right and wrong they confound. Their avowals and disavowals are not as they ought to be
 
@@ -858,7 +872,7 @@ The translated primary tract names confounding right and wrong, and avowals and 
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The editors' note survives but only reports Julien's French alternative. It is not primary English and must not override the tract's wording. Neither text defines the standard behind 'ought'. Cases should therefore show a plain mismatch with the merits, such as tracking power or face rather than right and wrong.
+The editors' note survives but only reports Julien's French alternative. It is not primary English and must not override the tract's wording. Neither text defines the standard behind 'ought'. Cases should therefore show a plain mismatch with the merits, such as tracking power or face rather than right and wrong.
 
 ## Seeing a man imperfect in his bodily features they ridicule him
 
@@ -872,7 +886,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Neutrally describing an impairment is not ridicule. The vice is mockery.
+Neutrally describing an impairment is not ridicule. The vice is mockery.
 
 ## Seeing the wealth of others, they wish them bankrupt and ruined
 
@@ -890,7 +904,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Ordinary economic competition is not covered unless it involves wishing ruin. Mere absence of envy is not resistance.
+Ordinary economic competition is not covered unless it involves wishing ruin. Mere absence of envy is not resistance.
 
 ## Seeing their neighbor lose his vantage they gossip of his failure
 
@@ -902,7 +916,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Balfour's nearby clause 'attributes the misfortunes of others to their sins' is a related but separate wording.
 
-Limits: Needed factual reports are not gossip. The target is gossip about the failure.
+Needed factual reports are not gossip. The target is gossip about the failure.
 
 ## Shamelessly greedy they are for wealth
 
@@ -918,7 +932,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 The qualifier 'shamelessly' matters. Seeking honest earnings is not this vice.
 
-Limits: The source does not mark a threshold between ordinary ambition and greed.
+The source does not mark a threshold between ordinary ambition and greed.
 
 ## Show endurance in humiliation and bear no grudge
 
@@ -930,8 +944,10 @@ Suzuki and Carus (1906), Treatise on Action and Response, characters 245–248
 
 the injunction has two parts, endurance in humiliation and absence of a grudge.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the resentful monk — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the resentful monk - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Because of that, the first monk became resentful. Soon afterwards the other monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the other monk died from thirst.
@@ -1004,7 +1020,7 @@ Took offence at rebuke and held a grudge acted on lethally; clear conflict.
 </details>
 
 <details>
-<summary>the abbot Macarius — Some evidence that the conduct shows this virtue.</summary>
+<summary>the abbot Macarius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he received no answer at all. ... willingly, even joyfully, Macarius used to speak to such a man of whatever he wished to hear.
@@ -1017,7 +1033,7 @@ Both parts are met: he endures the humiliation, and he bears no grudge, since he
 </details>
 
 <details>
-<summary>Eumer — Neither direction is established by the described conduct.</summary>
+<summary>Eumer - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 whilst unfolding in cunning words his pretended embassy, he started up on a sudden, and unsheathing the dagger under his garment, assaulted the king.
@@ -1030,7 +1046,7 @@ The passage shows no humiliation suffered by Eumer. The assassination is hostile
 </details>
 
 <details>
-<summary>the heretics of Thawattie — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the heretics of Thawattie - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They prevailed upon Thondarie, a woman entirely devoted to their interests, to spread the rumour that she had spent a night in the apartments of Buddha.
@@ -1043,7 +1059,7 @@ Their repeated attempt to destroy the Buddha's reputation suggests grudge-bearin
 </details>
 
 <details>
-<summary>one of them which were with Jesus — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of them which were with Jesus - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear
@@ -1056,7 +1072,7 @@ Retaliating with violence rather than enduring fails the 'endurance' part. The h
 </details>
 
 <details>
-<summary>Sumana — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Sumana - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -1068,7 +1084,7 @@ He was deceived but no humiliation endurance is tested; he does not endure the h
 
 </details>
 
-Limits: The primary text gives no definitions. The appended Hearth tale is separate narrative, not a definition of or commentary on 245–248.
+The primary text gives no definitions. The appended Hearth tale is separate narrative, not a definition of or commentary on 245–248.
 
 ## Stay evil and promote goodness
 
@@ -1082,7 +1098,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 104
 
-Limits: 'Stay' does not mean 'remain'. The Balfour wording is an alternative translation, not Suzuki/Carus wording. The tract specifies no methods of checking evil.
+'Stay' does not mean 'remain'. The Balfour wording is an alternative translation, not Suzuki/Carus wording. The tract specifies no methods of checking evil.
 
 ## Stealthily they despise their superiors and parents
 
@@ -1092,7 +1108,7 @@ Vice item: secret contempt toward superiors and parents.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Stealth and contempt are both named. Open, respectful disagreement is not this vice.
+Stealth and contempt are both named. Open, respectful disagreement is not this vice.
 
 ## Take pity on orphans, assist widows; respect the old, be kind to children
 
@@ -1102,7 +1118,7 @@ Favorable injunction naming four groups: orphans, widows, the old, and children.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The named groups do not make the line a general test of benevolence. The amount of aid required is unspecified.
+The named groups do not make the line a general test of benevolence. The amount of aid required is unspecified.
 
 ## The last day of the month and the last day of the year they sing and dance. The first day of the month, the first day of the year, they start roaring and scolding
 
@@ -1120,7 +1136,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: Keep both halves and the source's timing. Balfour's dates differ somewhat, and that difference is unresolved.
+Keep both halves and the source's timing. Balfour's dates differ somewhat, and that difference is unresolved.
 
 ## The right way leads forward; the wrong way backward
 
@@ -1136,7 +1152,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Orientation toward the right way, not literal movement.
 
-Limits: The forward/backward sense is disputed. The tract does not define 'right way'. No literal movement doctrine should be inferred.
+The forward/backward sense is disputed. The tract does not define 'right way'. No literal movement doctrine should be inferred.
 
 ## Their deportment is irrational
 
@@ -1150,7 +1166,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: This is not epistemic or Bayesian rationality. Mere mistakes or poor logic are not this vice; the note ties it to unrighteousness.
+This is not epistemic or Bayesian rationality. Mere mistakes or poor logic are not this vice; the note ties it to unrighteousness.
 
 ## Their heart is venomous while they show a compassionate face
 
@@ -1164,7 +1180,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: This vice requires real malicious intent. Courtesy alone is not covered.
+This vice requires real malicious intent. Courtesy alone is not covered.
 
 ## Their lusty desires exceed all measure
 
@@ -1180,7 +1196,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 The 'without measure' qualifier is essential. Desire as such is not condemned.
 
-Limits: The source gives no measure.
+The source gives no measure.
 
 ## Their mouth asserts what their heart denies
 
@@ -1196,7 +1212,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Marked reading: the speaker knowingly asserts the contrary of what he holds. Changing one's mind honestly is a different thing.
 
-Limits: The source gives no developed definition. It does not settle politeness cases.
+The source gives no developed definition. It does not settle politeness cases.
 
 ## Their unbridled ambition makes for power, and through the degradation of others they seek success
 
@@ -1210,7 +1226,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: Competition or ambition alone is not established as the vice. The qualifiers 'unbridled' and 'degradation' matter.
+Competition or ambition alone is not established as the vice. The qualifiers 'unbridled' and 'degradation' matter.
 
 ## They accuse heaven and find fault with man
 
@@ -1228,7 +1244,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The misfortune context comes from Balfour. Reporting someone else's actual wrongdoing is not the vice.
+The misfortune context comes from Balfour. Reporting someone else's actual wrongdoing is not the vice.
 
 ## They adulterate the genuine, and they seek profit in illegitimate business
 
@@ -1246,7 +1262,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 46–48,pp 76–77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The licensing scope is the translators' gloss. It does not endorse any current law.
+The licensing scope is the translators' gloss. It does not endorse any current law.
 
 ## They agitate and disturb the public order
 
@@ -1256,7 +1272,7 @@ Agitation that disrupts public order and government.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The source is thin. It does not say whether peaceful petition or criticism counts, so treat such cases as unestablished.
+The source is thin. It does not say whether peaceful petition or criticism counts, so treat such cases as unestablished.
 
 ## They appropriate the accomplishments of their neighbor and conceal his good qualities. They make known his foibles and expose his secrets. They squander his property and cause divisions in his family
 
@@ -1276,7 +1292,7 @@ Suzuki/Carus,1944 printing, explanatory notes p.76
 
 Any single named clause can be clear evidence. Balfour's 'deformities' and 'pries' differ from Suzuki's 'foibles' and 'expose'.
 
-Limits: Note 37, from the 1944 witness, glosses the family clause as family relations. Ordinary discretion or honest testimony is not automatically 'exposure'.
+Note 37, from the 1944 witness, glosses the family clause as family relations. Ordinary discretion or honest testimony is not automatically 'exposure'.
 
 ## They are careful in hiding their shortcomings
 
@@ -1290,7 +1306,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The injunction targets taking care to conceal one's own faults. Treating ordinary privacy, such as about an illness, as outside the vice is an inference from 'shortcomings', not a source rule. Balfour's 'harbours vice in himself' differs from Suzuki's 'hiding'. No note material for this line is retained.
+The injunction targets taking care to conceal one's own faults. Treating ordinary privacy, such as about an illness, as outside the vice is an inference from 'shortcomings', not a source rule. Balfour's 'harbours vice in himself' differs from Suzuki's 'hiding'. No note material for this line is retained.
 
 ## They are greedy and covetous without satiety
 
@@ -1304,7 +1320,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The source gives no threshold for satiety.
+The source gives no threshold for satiety.
 
 ## They are partial in their hatred and partial in their love
 
@@ -1318,7 +1334,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The source gives no complete theory of partiality. Do not infer that all special affection is a vice.
+The source gives no complete theory of partiality. Do not infer that all special affection is a vice.
 
 ## They assist others in doing wrong
 
@@ -1332,7 +1348,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: Helping with lawful tasks is not resistance. The translation difference between assisting and instigating remains.
+Helping with lawful tasks is not resistance. The translation difference between assisting and instigating remains.
 
 ## They attack that which is dear to others
 
@@ -1346,7 +1362,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The supplied text does not define 'dear'. Lawful loss alone is unaddressed.
+The supplied text does not define 'dear'. Lawful loss alone is unaddressed.
 
 ## They betray and deceive the simple-minded
 
@@ -1360,7 +1376,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The target is the simple-minded. The source gives no further definition.
+The target is the simple-minded. The source gives no further definition.
 
 ## They blame the wind and rail at the rain
 
@@ -1374,7 +1390,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Do not treat comments about weather as this vice. The tie to one's misfortune is Balfour's.
+Do not treat comments about weather as this vice. The tie to one's misfortune is Balfour's.
 
 ## They borrow and accept without intention to return
 
@@ -1390,7 +1406,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Suzuki's wording turns on intention. A borrower who means to repay but is temporarily unable is not identical.
 
-Limits: The two translations differ. The source does not resolve them.
+The two translations differ. The source does not resolve them.
 
 ## They break into others' houses to take their property and valuables
 
@@ -1404,8 +1420,10 @@ Ganying Pian, tr.Suzuki/Carus (1906), canonical ordinal75; source lines7200–72
 
 Ganying Pian, tr.Balfour (1884), p105; source lines11311–11335
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Mr. Hsiang — Clear evidence that the conduct shows this vice.</summary>
+<summary>Mr. Hsiang - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Accordingly, he climbed over walls and broke into houses, grabbing everything he could see or lay hands upon.
@@ -1418,7 +1436,7 @@ Literally broke into houses taking everything, exactly the injunction.
 </details>
 
 <details>
-<summary>Sumana — Neither direction is established by the described conduct.</summary>
+<summary>Sumana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 her husband was overcome, and he resolved upon putting his parents out of the way. ... Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -1431,7 +1449,7 @@ There is no house-breaking or seizure of valuables.
 </details>
 
 <details>
-<summary>Diotimus — Neither direction is established by the described conduct.</summary>
+<summary>Diotimus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 sat down and forged more than fifty “licentious letters” intended to slander the reputation of the founder of that rival school. ... Diotimus portrayed Epicurus as some kind of depraved maniac ... in order to bolster his arguments against the philosophy. ... Diotimus chose to respond to slander with slander. He decided to commit a crime worse than what Apollodorus was falsely alleging against Chrysippus.
@@ -1454,7 +1472,7 @@ There is no house-breaking or theft.
 </details>
 
 <details>
-<summary>people taking bagels without paying — Some evidence that the conduct shows this vice.</summary>
+<summary>people taking bagels without paying - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Paul F. found that people on the executive floor of a company steal more bagels; that people with security clearances don't steal any fewer bagels; that telecom companies have robbed him and that law firms aren't worth the trouble.
@@ -1467,7 +1485,7 @@ The bagels were left in offices; there was no breaking into houses. The act is t
 </details>
 
 <details>
-<summary>Dauna — Some evidence that the conduct shows this vice.</summary>
+<summary>Dauna - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Dauna abstracted one of the canine teeth and concealed it in the folds of his turban.
@@ -1480,7 +1498,7 @@ He stole but did not break into houses; the specific vice is not shown, though p
 </details>
 
 <details>
-<summary>Zacchaeus — Neither direction is established by the described conduct.</summary>
+<summary>Zacchaeus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -1492,7 +1510,7 @@ Housebreaking is not involved. Returning wrongly taken property only loosely opp
 
 </details>
 
-Limits: The line targets others' houses taken for property. Entering one's own house is irrelevant.
+The line targets others' houses taken for property. Entering one's own house is irrelevant.
 
 ## They break up betrothals
 
@@ -1506,7 +1524,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: No supplied commentary addresses honest warnings of real danger. Leave such cases uncertain.
+No supplied commentary addresses honest warnings of real danger. Leave such cases uncertain.
 
 ## They cannot see beauty without cherishing in their hearts thoughts of seduction
 
@@ -1524,7 +1542,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The vice is cherishing seduction, not perceiving beauty. Mere noticing proves neither showing nor resisting.
+The vice is cherishing seduction, not perceiving beauty. Mere noticing proves neither showing nor resisting.
 
 ## They claim having done acts of favor and disclaim being at fault
 
@@ -1538,7 +1556,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: Accurately stating real favors is not the vice. The line targets false claims and denial of actual faults.
+Accurately stating real favors is not the vice. The line targets false claims and denial of actual faults.
 
 ## They compel respectable people to become lowly
 
@@ -1552,7 +1570,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The two readings differ. The source does not define 'respectable'.
+The two readings differ. The source does not define 'respectable'.
 
 ## They conceal and keep a treacherous heart
 
@@ -1570,7 +1588,7 @@ Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: This is not every private thought or reserve. The vice is a concealed wicked design.
+This is not every private thought or reserve. The vice is a concealed wicked design.
 
 ## They cringe to superiors to curry favor
 
@@ -1580,7 +1598,7 @@ Fawning on superiors in order to win favor.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The purpose 'to curry favor' is part of the entry. Respect for superiors alone is not the vice.
+The purpose 'to curry favor' is part of the entry. Respect for superiors alone is not the vice.
 
 ## They crush that which is excellent in others
 
@@ -1594,7 +1612,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: Fair criticism is not addressed. The line targets suppressing real excellence.
+Fair criticism is not addressed. The line targets suppressing real excellence.
 
 ## They curse and swear to seek vindication
 
@@ -1608,7 +1626,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Not every truthful clarification is covered.
+Not every truthful clarification is covered.
 
 ## They curse themselves, they curse others
 
@@ -1622,7 +1640,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The source does not define the forms of cursing. Harsh criticism is not automatically a curse.
+The source does not define the forms of cursing. Harsh criticism is not automatically a curse.
 
 ## They deceive the uninformed
 
@@ -1636,7 +1654,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The tract gives only the bare line. It does not say who counts as 'uninformed' or offer any rationale beyond its general retribution frame.
+The tract gives only the bare line. It does not say who counts as 'uninformed' or offer any rationale beyond its general retribution frame.
 
 ## They deceive their father and their superiors
 
@@ -1650,7 +1668,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The source does not define the full set of 'superiors' beyond the father.
+The source does not define the full set of 'superiors' beyond the father.
 
 ## They delight in fraud, they delight in robbery, they make raids and commit depredations to get rich
 
@@ -1664,7 +1682,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Honest gain is not condemned. The means named are fraud, robbery and raiding.
+Honest gain is not condemned. The means named are fraud, robbery and raiding.
 
 ## They destroy the crops and fields of others
 
@@ -1678,7 +1696,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The line targets others' crops. Working one's own field is not evidence either way.
+The line targets others' crops. Working one's own field is not evidence either way.
 
 ## They disobey and dislike the commands of their superiors
 
@@ -1692,7 +1710,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The source gives no abusive-command exception, and none is invented. It also does not list who counts as a superior.
+The source gives no abusive-command exception, and none is invented. It also does not list who counts as a superior.
 
 ## They disobey the instructions of father and mother
 
@@ -1706,7 +1724,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: This norm is attributed to the tract, not endorsed as complete modern advice.
+This norm is attributed to the tract, not endorsed as complete modern advice.
 
 ## They disparage others that achieve merit
 
@@ -1716,7 +1734,7 @@ Belittling or damaging others' accomplishments.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The source is thin. The Chinese 毀 may include destroying an achievement, not only speaking against it.
+The source is thin. The Chinese 毀 may include destroying an achievement, not only speaking against it.
 
 ## They disregard their seniors and rebel against those whom they serve
 
@@ -1726,7 +1744,7 @@ Vice item: disregarding seniors or teachers, and rebelling against those one ser
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The source gives no account of unjust masters. Ordinary obedience alone is not a high score.
+The source gives no account of unjust masters. Ordinary obedience alone is not a high score.
 
 ## They do many clandestine and wrong deeds
 
@@ -1744,11 +1762,15 @@ Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
+The Qing Plain Lectures on the tract:
+
 > 隱，是不光明。僻，是不正大。瞞心昧己，只向暗僻中，做貪利邪淫，損人等事，這句最是暗空虧心的惡。○對面看來，善人生平做事，件件可對人說的，就是積陰德，也不是故意揀人不見聞的事做。
 
 太上感應篇直講 (Qing vernacular lectures; Wikisource text)
 
 Project translation: '隱 means not open to the light; 僻 means not upright. Deceiving their own hearts, they do greedy, lewd and harmful things only in dark, out-of-the-way places; this is the most hidden and conscience-betraying evil. Seen from the other side, the good person does things each of which could be told to others; even in storing up hidden merit, they do not deliberately pick what others will not see or hear.'
+
+The Qing Collected Notes:
 
 > 隱僻非止一事，如姦盜邪淫之類，凡不可使天知，不可對人言者，皆是也。
 
@@ -1758,7 +1780,7 @@ Project translation: 'Hidden and crooked deeds are not one thing only: adultery,
 
 The vice joins secrecy to wrong. The commentaries' test, whether a deed could be told to others, is applied to wrongful deeds such as theft and lewdness; the Plain Lectures count good done without seeking recognition as open and upright, not hidden. Balfour's 'occult or secret practices' sits among his list of taboo observances and is a different reading, kept separate.
 
-Limits: Secrecy by itself is not wrongdoing, and the Plain Lectures do not count good done without seeking recognition as hidden. Not doing a hidden wrong counts as resistance in these examples only when the scene supplies the chance and the choice. Balfour's 'occult' is a translation variant. The English of the Qing commentaries is project translation.
+Secrecy by itself is not wrongdoing, and the Plain Lectures do not count good done without seeking recognition as hidden. Not doing a hidden wrong counts as resistance in these examples only when the scene supplies the chance and the choice. Balfour's 'occult' is a translation variant. The English of the Qing commentaries is project translation.
 
 ## They employ drugs to kill trees
 
@@ -1772,7 +1794,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Source gap: the clause gives no motive and no exceptions. No forest-management exemption is invented here.
+Source gap: the clause gives no motive and no exceptions. No forest-management exemption is invented here.
 
 ## They endanger others to save themselves
 
@@ -1782,7 +1804,7 @@ Putting others in danger to secure one's own safety.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Not all self-rescue is the vice. The defining element is endangering others for oneself.
+Not all self-rescue is the vice. The defining element is endangering others for oneself.
 
 ## They even call on bright spirits to make them witness their degrading deeds
 
@@ -1796,7 +1818,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: This is attributed religious data. The source gives no further gloss.
+This is attributed religious data. The source gives no further gloss.
 
 ## They give away evil in marriage and they sell wrongs
 
@@ -1814,7 +1836,7 @@ Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
 Suzuki/Carus,1944 printing, explanatory notes p.76
 
-Limits: Note 39 identifies the phrase as Chinese but gives no literal explanation. No marriage transaction is implied or reconstructed. The intent qualifier is from Balfour.
+Note 39 identifies the phrase as Chinese but gives no literal explanation. No marriage transaction is implied or reconstructed. The intent qualifier is from Balfour.
 
 ## They harass and tyrannize over their subordinates
 
@@ -1828,7 +1850,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Ordinary direction of subordinates is not condemned. The target is harassment and tyranny.
+Ordinary direction of subordinates is not condemned. The target is harassment and tyranny.
 
 ## They harbor and keep a treacherous heart
 
@@ -1850,7 +1872,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: 'Heart' is figurative. Mere privacy or silence is not treachery.
+'Heart' is figurative. Mere privacy or silence is not treachery.
 
 ## They hold in contempt the lives of Heaven's people
 
@@ -1860,11 +1882,13 @@ Treating human lives as contemptible.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
+Translator/editor commentary.
+
 > The expression "heaven's people" is a Confucian term, which is used in China in the same way as in Christian countries the phrase "God's people" would mean all those who bear God's image and are dear to the Deity.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The Christian analogy is a later translator's comparison, not the ancient tract's wording. Victims need not profess any faith.
+The Christian analogy is a later translator's comparison, not the ancient tract's wording. Victims need not profess any faith.
 
 ## They impede and obstruct the professions and crafts
 
@@ -1874,11 +1898,13 @@ Obstructing skilled labor and professions, per the translator's broad gloss on F
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
+Translator/editor commentary.
+
 > The words Fang-Shu, here rendered "divination" and "craft," denote first of all the practice of diviners; but it is here used in a general sense and applies to all skilled labor, especially the professions.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The broad gloss is the translator's. It is not limited to divination, and not every regulation is shown to be obstruction.
+The broad gloss is the translator's. It is not limited to divination, and not every regulation is shown to be obstruction.
 
 ## They impoverish others for their own gain
 
@@ -1888,7 +1914,7 @@ Reducing others' means to enrich oneself.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The tract does not address fair competition or ordinary trade gains.
+The tract does not address fair competition or ordinary trade gains.
 
 ## They indulge in comforts and enjoyments without measure
 
@@ -1902,7 +1928,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Happiness is not condemned. The qualifier is 'without measure'.
+Happiness is not condemned. The qualifier is 'without measure'.
 
 ## They invent and circulate vile talk, traducing and slandering innocent men
 
@@ -1918,7 +1944,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 The targets are innocent and the talk is false. Truthful correction falls outside this vice.
 
-Limits: The source gives no test for deciding who counts as innocent.
+The source gives no test for deciding who counts as innocent.
 
 ## They kill the baby and cause abortion of the unborn
 
@@ -1932,7 +1958,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: The source gives no modern medical or legal argument or exceptions.
+The source gives no modern medical or legal argument or exceptions.
 
 ## They make and do what is not useful
 
@@ -1948,7 +1974,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
 No theory of usefulness is supplied.
 
-Limits: Do not label leisure or the arts as useless from personal taste. The source's criterion of usefulness is unresolved.
+Do not label leisure or the arts as useless from personal taste. The source's criterion of usefulness is unresolved.
 
 ## They make light of the spirit of their ancestor
 
@@ -1962,7 +1988,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: This is a religious and ritual norm. It does not establish that spirits exist, and missing a rite is not by itself contempt.
+This is a religious and ritual norm. It does not establish that spirits exist, and missing a rite is not by itself contempt.
 
 ## They malign the righteous and dispossess the wise
 
@@ -1972,7 +1998,7 @@ Disparaging upright people and pushing worthy people out.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The tract does not say how to identify 'the righteous' or 'the wise'.
+The tract does not say how to identify 'the righteous' or 'the wise'.
 
 ## They misdirect the water and light fires to destroy the people's homes
 
@@ -1986,7 +2012,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The stated purpose is destroying homes. An accidental fire with no such purpose is not established as the vice.
+The stated purpose is destroying homes. An accidental fire with no such purpose is not established as the vice.
 
 ## They molest orphans and wrong widows
 
@@ -1996,7 +2022,7 @@ Bullying orphans and pressuring or wronging widows.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The source is a bare line with no further definition of the wrongs meant.
+The source is a bare line with no further definition of the wrongs meant.
 
 ## They murder men to take their property, or have them ousted to take their places
 
@@ -2006,7 +2032,7 @@ Killing for property, or ousting someone to seize their position.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The purpose (property or place) belongs to the entry. Killings for other reasons fall under other items.
+The purpose (property or place) belongs to the entry. Killings for other reasons fall under other items.
 
 ## They oppress their subordinates and appropriate their merit
 
@@ -2018,7 +2044,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Either clause clearly shown is clear evidence.
 
-Limits: The source does not define 'oppress'. Ordinary direction or discipline of subordinates is not by itself shown to be oppression.
+The source does not define 'oppress'. Ordinary direction or discipline of subordinates is not by itself shown to be oppression.
 
 ## They patronize the unscrupulous and do harm to the inoffensive
 
@@ -2028,7 +2054,7 @@ Rewarding the unrighteous and harming or punishing the innocent.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The Chinese wording is about rewards and punishments. The tract does not detail particular offices.
+The Chinese wording is about rewards and punishments. The tract does not detail particular offices.
 
 ## They point at heaven and earth to make them witnesses of their mean thoughts
 
@@ -2046,7 +2072,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 46–48,pp 76–77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Note 47 is the translators' attributed gloss. Ordinary astronomy is not this vice.
+Note 47 is the translators' attributed gloss. Ordinary astronomy is not this vice.
 
 ## They rail at spirits and claim to be right themselves
 
@@ -2062,7 +2088,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 This is attributed source data. It makes no claim that spirits exist.
 
-Limits: This applies the tract's view and makes no theological endorsement.
+This applies the tract's view and makes no theological endorsement.
 
 ## They reject a good cause and espouse a wrong cause, spurning what is near, longing for the distant
 
@@ -2082,7 +2108,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 46–48,pp 76–77
 
 These are distinct attributed readings, not interchangeable explanations.
 
-Limits: Julien is nested French commentary, not the English primary text.
+Julien is nested French commentary, not the English primary text.
 
 ## They rely on their wives' and other women's gossip
 
@@ -2096,7 +2122,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The gendered wording is the source's. Balfour's parental contrast is not a necessary condition of Suzuki's clause.
+The gendered wording is the source's. Balfour's parental contrast is not a necessary condition of Suzuki's clause.
 
 ## They resist and provoke father and elders
 
@@ -2122,7 +2148,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: A fair reward merely being present is not resistance. Resistance requires specific fair or corrective conduct.
+A fair reward merely being present is not resistance. Resistance requires specific fair or corrective conduct.
 
 ## They ridicule and scorn reason and virtue
 
@@ -2138,7 +2164,7 @@ Suzuki/Carus (1906), editorial note
 
 Per the editors, the scorned objects are tao and teh, not generic formal rationality. Mocking virtuous conduct or teachings on the Way fits. No religious vocabulary or Taoist actor is required.
 
-Limits: Only the first sentence of the editors' note survives. Its continuation after 'We are at' is missing and may have qualified the gloss. The tao/teh explanation is the translators'/editors', not the primary tract's. The source does not exclude ordinary moral virtues such as honesty from 'virtue'. It does not require cases to use religious words or involve a Taoist actor. Do not read 'reason' as mere logical or formal rationality.
+Only the first sentence of the editors' note survives. Its continuation after 'We are at' is missing and may have qualified the gloss. The tao/teh explanation is the translators'/editors', not the primary tract's. The source does not exclude ordinary moral virtues such as honesty from 'virtue'. It does not require cases to use religious words or involve a Taoist actor. Do not read 'reason' as mere logical or formal rationality.
 
 ## They scatter and waste the five cereals
 
@@ -2156,7 +2182,7 @@ Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
 Suzuki/Carus,1944 printing, explanatory notes p.76
 
-Limits: Note 42 (1944 witness) extends the line to wilful waste of food, so scope is not grains only. The five cereals are not individually enumerated in any supplied unit.
+Note 42 (1944 witness) extends the line to wilful waste of food, so scope is not grains only. The five cereals are not individually enumerated in any supplied unit.
 
 ## They sell and buy vainglory
 
@@ -2170,7 +2196,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: Merited honor is not addressed by the supplied text.
+Merited honor is not addressed by the supplied text.
 
 ## They shoot the flying, chase the running, expose the hiding, surprise nestlings, close up entrance holes, upset nests, injure the pregnant, and break the egg
 
@@ -2180,7 +2206,7 @@ Harming creatures in each of the named ways; every listed clause counts.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The tract states no necessity or pest-control exceptions. It does not address eating generally.
+The tract states no necessity or pest-control exceptions. It does not address eating generally.
 
 ## They shorten the foot, they narrow the measure, they lighten the scales, they reduce the peck
 
@@ -2194,7 +2220,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The vice targets cheating customers, not honest changes of units.
+The vice targets cheating customers, not honest changes of units.
 
 ## They slander others, yet themselves feign honesty
 
@@ -2208,7 +2234,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The vice requires slander together with a pretence of honesty. Bluntness alone is not covered.
+The vice requires slander together with a pretence of honesty. Bluntness alone is not covered.
 
 ## They slander their fellow-students
 
@@ -2218,7 +2244,7 @@ False or malicious speech against those who study alongside one.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The source is a bare line. It does not define slander's boundaries, such as true but harmful speech.
+The source is a bare line. It does not define slander's boundaries, such as true but harmful speech.
 
 ## They slay the yielding and slaughter those who have surrendered
 
@@ -2228,7 +2254,7 @@ Killing those who have yielded or surrendered.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The target is the yielding or surrendered. Fighting combatants who are still armed is not addressed, and courage is not the topic.
+The target is the yielding or surrendered. Fighting combatants who are still armed is not addressed, and courage is not the topic.
 
 ## They spit at falling stars and point at the many-colored rainbow
 
@@ -2242,7 +2268,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: This is a ritual prohibition as given. No rationale is supplied; note 59 is only a word-gloss.
+This is a ritual prohibition as given. No rationale is supplied; note 59 is only a word-gloss.
 
 ## They spoil a worker's utensils to hamper his efficiency
 
@@ -2256,7 +2282,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The purpose clause matters. Accidental damage is not established as the vice.
+The purpose clause matters. Accidental damage is not established as the vice.
 
 ## They step over the well and they step over the hearth. They jump over the food and jump over a person
 
@@ -2274,7 +2300,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 49–56,p 77
 
 Ganying Pian, trans. Frederic H. Balfour(1884), p 106
 
-Limits: This is a ritual norm, not a cleanliness rule. The deities are Balfour's explanation.
+This is a ritual norm, not a cleanliness rule. The deities are Balfour's explanation.
 
 ## They stir up party strife and law suits
 
@@ -2288,7 +2314,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Legitimate legal complaints are not condemned by this clause.
+Legitimate legal complaints are not condemned by this clause.
 
 ## They take up the new and forget the old
 
@@ -2302,7 +2328,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: This is not a Taoist rejection of new ideas or technology. Suzuki's broader wording leaves the scope partly unresolved.
+This is not a Taoist rejection of new ideas or technology. Suzuki's broader wording leaves the scope partly unresolved.
 
 ## They terrify and threaten to overawe others
 
@@ -2312,7 +2338,7 @@ Terrifying and threatening others in order to overawe them.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
-Limits: A primary injunction only. The source does not define the threshold at which a firm warning becomes this vice.
+A primary injunction only. The source does not define the threshold at which a firm warning becomes this vice.
 
 ## They trouble and annoy many people
 
@@ -2326,7 +2352,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: Suzuki's operative wording is 'many people'; Balfour instead says 'dumb creatures'. These worked examples follow Suzuki. The alternative remains a source uncertainty, not an invented joint definition. 'Many' is not quantified.
+Suzuki's operative wording is 'many people'; Balfour instead says 'dumb creatures'. These worked examples follow Suzuki. The alternative remains a source uncertainty, not an invented joint definition. 'Many' is not quantified.
 
 ## They upset others' plans so as to prevent their success
 
@@ -2340,7 +2366,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The purpose clause matters. Open, legitimate objection is not addressed by the supplied text.
+The purpose clause matters. Open, legitimate objection is not addressed by the supplied text.
 
 ## They use charms for the sake of controling others
 
@@ -2358,7 +2384,7 @@ Suzuki/Carus,1944 Open Court printing(copyright 1906), notes 43–44,p 76
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The guide makes no claim that the magic works. Note 44's Julien French is a nested alternative reading, not the English source text.
+The guide makes no claim that the magic works. Note 44's Julien French is a nested alternative reading, not the English source text.
 
 ## They vilify and disparage the holy and the wise
 
@@ -2368,7 +2394,7 @@ Vilifying sages and worthies.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The tract does not identify who counts as 'holy' or 'wise'.
+The tract does not identify who counts as 'holy' or 'wise'.
 
 ## They wish others to incur loss
 
@@ -2382,7 +2408,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: A wish suffices. The source does not address fleeting, unendorsed thoughts.
+A wish suffices. The source does not address fleeting, unendorsed thoughts.
 
 ## Though they know their mistakes they do not correct them; though they know the good they do not do it
 
@@ -2396,7 +2422,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Honest mistakes that are not yet recognized do not show this vice.
+Honest mistakes that are not yet recognized do not show this vice.
 
 ## Unprovoked they join factious associations
 
@@ -2414,7 +2440,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Suzuki/Carus,1944 Open Court printing(copyright 1906), note 45,p 76
 
-Limits: Note 45 is historical context only. It does not ban all associations or all political activity.
+Note 45 is historical context only. It does not ban all associations or all political activity.
 
 ## When seeing the success and prosperity of others they wish them to run down and fail
 
@@ -2432,7 +2458,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: Fairly criticising someone's real wrongdoing is not covered by this clause. Envy that is felt and then actively checked counts as resistance.
+Fairly criticising someone's real wrongdoing is not covered by this clause. Envy that is felt and then actively checked counts as resistance.
 
 ## When their requests are not granted they begin to curse and wax hateful
 
@@ -2446,7 +2472,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Do not extend this to every disagreement. Feeling disappointment without cursing or hatred is not the vice.
+Do not extend this to every disagreement. Feeling disappointment without cursing or hatred is not the vice.
 
 ## When they ever give charity they regret it afterwards
 
@@ -2470,7 +2496,7 @@ Adding harshness or anger while witnessing a killing or execution.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The Chinese 見殺加怒 is broader than 'execution'. The source does not judge the execution itself.
+The Chinese 見殺加怒 is broader than 'execution'. The source does not judge the execution itself.
 
 ## With a compassionate heart turn toward all creatures
 
@@ -2484,7 +2510,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The line gives no account of what compassion requires in practice. Ordinary politeness is not automatically compassion.
+The line gives no account of what compassion requires in practice. Ordinary politeness is not automatically compassion.
 
 ## With brutality they do harm and damage
 
@@ -2494,7 +2520,7 @@ Vice item: doing harm and damage with brutality or hard-heartedness.
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: The clause gives no account of legitimate force. 'Brutality' is not defined further.
+The clause gives no account of legitimate force. 'Brutality' is not defined further.
 
 ## With filthy food they feed the poor
 
@@ -2508,15 +2534,19 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: Filthy does not mean cheap or leftover.
+Filthy does not mean cheap or leftover.
 
 ## With heresies they mislead others
 
 Using 'left ways' (左道), sorcery and pretended revelation, to delude people, usually for money or a following. The Qing commentaries define it by deception, not by belonging to a different one of the three teachings.
 
+Among the tract's evil-doers (左道惑眾):
+
 > With heresies they mislead others.
 
 Ganying Pian, trans. Suzuki and Carus (1906), characters 875–878
+
+Balfour's translation of the same entry:
 
 > puts them in positions of perplexity by left-handed dealings
 
@@ -2536,7 +2566,7 @@ Project translation: 'Left ways are sorcery: small ones like the incense-joining
 
 The fault lies in deluding people, with sorcery, false revelations or threats of calamity, to get money, followers or licence. The commentaries explicitly exempt the differing ways of the three teachings; open, honest teaching is the remedy.
 
-Limits: 'Heresy' is Suzuki and Carus's word; in the commentaries 左道 means sorcery and deceptive cults. The Plain Lectures endorse suppressing the White Lotus and similar sects by punishment or troops; that is its historical position, recorded here, not a standard for judging peaceful religious difference. Sincere teaching of another religion is not shown to be this vice by these sources.
+'Heresy' is Suzuki and Carus's word; in the commentaries 左道 means sorcery and deceptive cults. The Plain Lectures endorse suppressing the White Lotus and similar sects by punishment or troops; that is its historical position, recorded here, not a standard for judging peaceful religious difference. Sincere teaching of another religion is not shown to be this vice by these sources.
 
 ## With the members of their own family they are angry and quarrelsome
 
@@ -2554,7 +2584,7 @@ Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
 Suzuki/Carus,1944 printing, explanatory notes p.76
 
-Limits: Own kin is the target; an unrelated dispute is not this vice.
+Own kin is the target; an unrelated dispute is not this vice.
 
 ## With unrestrained barbarism they kill and stab
 
@@ -2568,7 +2598,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
-Limits: The supplied text does not address self-defense or lawful force. The qualifiers 'unrestrained' and 'tyrannical' matter.
+The supplied text does not address self-defense or lawful force. The qualifiers 'unrestrained' and 'tyrannical' matter.
 
 ## With violence they seize, with violence they demand
 
@@ -2582,7 +2612,7 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus(1906)
 
 Ganying Pian, trans. Frederic H. Balfour(1884), pp 105–106
 
-Limits: The means is violence. Lawful, non-violent requests are not this vice.
+The means is violence. Lawful, non-violent requests are not this vice.
 
 ## Without festive occasions they prepare cattle for food
 
@@ -2600,7 +2630,7 @@ Ganying Pian, trans. Frederic H. Balfour (1884), p 105
 
 Suzuki/Carus,1944 printing, explanatory notes p.76
 
-Limits: Note 41 (1944 witness) attributes the rule to a custom of the translators' time: festivals or due occasion. It is not a vegetarian rule or a current universal ethnographic fact. The two translations' qualifiers differ.
+Note 41 (1944 witness) attributes the rule to a custom of the translators' time: festivals or due occasion. It is not a vegetarian rule or a current universal ethnographic fact. The two translations' qualifiers differ.
 
 ## Yet there are some people whose behavior is unrighteous
 
@@ -2614,4 +2644,4 @@ Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
 Ganying Pian, trans. D. T. Suzuki and Paul Carus (1906)
 
-Limits: 'Unrighteous' is not defined beyond the listed deeds. High scores mean resistance. Absence of a vice is not resistance.
+'Unrighteous' is not defined beyond the listed deeds. High scores mean resistance. Absence of a vice is not resistance.

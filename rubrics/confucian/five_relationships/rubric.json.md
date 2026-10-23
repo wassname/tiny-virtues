@@ -18,7 +18,7 @@ Mencius4B30, tr. Legge1875, pp267–268: common list and Chang-tsze
 
 Mencius warns that father-son reproof alienates. Xiaojing 15, a separate text, urges resisting wrong commands. These sources differ.
 
-Limits: 3A4 names affection without detailing duties. Xiaojing's counsel to resist wrong commands is separately attributed and in tension with 4A18. The role is actual father and son, not other pairs.
+3A4 names affection without detailing duties. Xiaojing's counsel to resist wrong commands is separately attributed and in tension with 4A18. The role is actual father and son, not other pairs.
 
 ## Attention to separate functions between husband and wife
 
@@ -36,7 +36,7 @@ LiKi BookX, NeiZe sectionII §§13–15, tr. James Legge, SBE27(1885), pp470–4
 
 LiKi BookX, NeiZe sectionII §§13–15, tr. James Legge, SBE27(1885), pp470–471
 
-Limits: Concrete examples apply the related elite-household rite, not Mencius's own gloss. Storage is shared at seventy; this sets no rule for other relations.
+Concrete examples apply the related elite-household rite, not Mencius's own gloss. Storage is shared at seventy; this sets no rule for other relations.
 
 ## Fidelity between friends
 
@@ -56,7 +56,7 @@ Classic of Filial Piety, chapter XV, Ivan Chen, The Book of Filial Duty (1908)
 
 Li Yun, a related text, counts truthfulness in speech among the things advantageous to men.
 
-Limits: Mencius does not define 信 here. Overlap with reproof is drawn from 4B30 and Xiaojing and is not a complete account.
+Mencius does not define 信 here. Overlap with reproof is drawn from 4B30 and Xiaojing and is not a complete account.
 
 ## Proper distinction between old and young
 
@@ -76,7 +76,7 @@ Li Ki, Li Yun, section II §§19-20, James Legge, SBE 27 (1885), p. 380
 
 Li Yun, a related text, makes the order reciprocal: elders owe kindness and juniors owe deference.
 
-Limits: 3A4 leaves the distinction unexplained. The details come from Li Yun and are not Mencius's words. The item is not obedience between arbitrary strangers.
+3A4 leaves the distinction unexplained. The details come from Li Yun and are not Mencius's words. The item is not obedience between arbitrary strangers.
 
 ## Righteousness between ruler and subject
 
@@ -96,4 +96,4 @@ Mencius3B2, tr. Legge1875, pp217–218: ritual-wife comparison and great-man tea
 
 Xiaojing and Li Yun (where ruler benevolence and minister loyalty are paired) are related teachings, not Mencius's words.
 
-Limits: 3A4 does not define righteousness in this relation. The details here come from separately attributed Xiaojing and 3B2 great-man context.
+3A4 does not define righteousness in this relation. The details here come from separately attributed Xiaojing and 3B2 great-man context.

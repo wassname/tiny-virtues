@@ -141,6 +141,10 @@ class ChatFundingBlocked(ChatRequestFailed):
     pass
 
 
+class ChatRateLimited(ChatRequestFailed):
+    pass
+
+
 def chat(model, content, *, attempts=6, funding_scope=None, **kw):
     """Bound chat attempts explicitly; retain complete HTTP responses and transport failures. -- PI/Sol"""
     if model.startswith(('openai-codex/', 'pi:')):  # 'pi:anthropic/claude-opus-5-5' = Claude subscription, not OpenRouter
@@ -157,6 +161,8 @@ def chat(model, content, *, attempts=6, funding_scope=None, **kw):
                 return r.json()
             if r.status_code == 402:
                 raise ChatFundingBlocked(record)
+            if r.status_code == 429:
+                raise ChatRateLimited(record)
             if r.status_code not in (200, 408, 429) and r.status_code < 500 and r.text.strip():  # empty bodies and errors inside a 200 are transient (seen via OpenRouter)
                 raise RuntimeError(f'{r.status_code}: {r.text[:500]}')
         except (httpx.TransportError, json.JSONDecodeError) as error:

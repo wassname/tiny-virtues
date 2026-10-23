@@ -15,12 +15,12 @@ configs:
 - config_name: stories
   default: true
   data_files:
-  - split: train
+  - split: test
     path: data/stories.parquet
-- config_name: rubrics
+- config_name: virtues
   data_files:
   - split: train
-    path: data/rubrics.parquet
+    path: data/virtues.parquet
 ---
 
 # tiny-virtues
@@ -50,7 +50,7 @@ A Taoist is brave only through compassion:
 | "King Helu put his people to the test at Five Lakes: swords were plunged into their shoulders, their blood flowed on the ground, but still their advance could not be halted." | +0.40 | −0.86 |
 | When his disciple Yen Yuen dies, Confucius wails: "Heaven is ruining me!" Told it is too much, he answers: "If I am not to do so for him, then for whom else?" | −0.36 | +0.54 |
 
-See more in the [rubrics](#rubrics).
+See how each virtue is defined in the [appendix](#appendix-how-each-virtue-is-defined).
 
 ## Example
 
@@ -75,33 +75,51 @@ Every tradition with a virtue of good judgement marks him down. The Hindu +0.78 
 
 ## How the traditions relate
 
-![Correlations between the 66 directly judged virtues across the stories](docs/results/v5/figures/main_item_correlations_global.png)
+![Heatmap of correlations between 66 virtues from nine traditions, clustered: virtues of the same kind (giving, humility, kindness, justice, diligence, self-control, patience) form green blocks across traditions, and the rationalist virtues form their own block](docs/results/v5/figures/main_item_correlations_global.png)
 
 Each cell is the correlation between two virtues' scores across the stories. All scores point the good way (a vice counts as its absence, e.g. "not rebellion"). Virtues of the same kind (giving, humility, diligence, temperance, patience) group together across traditions; the rationalist virtues form their own block. [Grouped by tradition](docs/results/v5/figures/main_item_correlations.png) · [With clusters outlined](docs/results/v5/figures/main_item_correlations_clusters.png)
 
-Averaged over each tradition's virtues, the traditions mostly agree on which acts are good (r = 0.83 to 0.94); the rationalist list, which is about thinking well rather than conduct, agrees least (0.62 to 0.72). [Tradition plot](docs/results/v5/figures/tradition_correlations.png)
+![Correlations between the nine traditions' per-story scores, ordered by similarity to Buddhism: most pairs agree at r 0.83 to 0.94; rationalist agrees least at 0.62 to 0.72](docs/results/v5/figures/tradition_correlations.png)
+
+Averaged over each tradition's virtues, the traditions mostly agree on which acts are good (r = 0.83 to 0.94); the rationalist list, which is about thinking well rather than conduct, agrees least (0.62 to 0.72).
 
 ## Model results
 
-Coming soon: per-tradition results for a few models.
+Coming soon: results for a few models, by tradition.
 
 ## How the labels were made
 
-A small model (Jev 1.14) scores each act once per virtue. For each virtue it is given that tradition's own teaching, quoted from a teaching text (for Christian humility, Gibson's 1877 catechism), plus a few stories labelled by Claude Opus as examples. We checked the teaching against Opus on held-out stories in 13 groups of related virtues: [rubric report](docs/results/rubric_nshot/README.md).
+A small model (Jev 1.14) scores each act once per virtue. For each virtue it is given that tradition's own teaching, quoted from a teaching text (for Christian humility, Gibson's 1877 catechism), plus a few stories labelled by Claude Opus as examples. We checked the teaching against Opus on held-out stories in 13 groups of related virtues: [rubric report](docs/results/rubric_nshot/README.md). So a label says how that tradition's teaching, as applied by Jev, judges the act; no human expert labelled the stories. The stories and rubrics are all here, so you can relabel them with another model or with people.
+
+## How to evaluate
+
+Ask about one virtue at a time. Put the act in bold inside the story (`story.replace(act, f"**{act}**")`); the definition is in the `virtues` config. Give the model only that definition, not the full rubric: the rubric is enough for a small model to rebuild the labels, so the eval would test reading, not knowledge.
+
+```
+{story, with the act in bold}
+
+By the {tradition} teaching of {virtue} ({definition}), does the act in bold by *{actor}* show this virtue?
+0 clear conflict · 1 some conflict · 2 neither · 3 some showing · 4 clear showing
+```
+
+Map the answer to −1, −0.5, 0, +0.5, +1 (or use the answer probabilities) and correlate with `signed`, per tradition. Skip stories flagged `rubric_example`: they appear as worked examples in the rubrics.
 
 ## Data
 
 | Field | Contents |
 |:--|:--|
-| `quote`, `agent`, `target_act_quote` | The passage, the person judged, and the act judged |
-| `source` (incl. `source.citation`) | Book and edition; full entries in [sources.bib](docs/sources.bib) |
-| `source_school` | The tradition of the book the story comes from (stoic, confucian, taoist, buddhist, christian, jewish, islamic, hindu, rationalist, or other) |
-| `collection` | `tiny-virtues` (this project's books), `tiny-stoic` (stories from the earlier [tiny-stoic](https://huggingface.co/datasets/wassname/tiny-stoic) dataset) or `fables` (animal fables, e.g. Aesop) |
-| `virtue_labels` | Per virtue: `signed` (−1 to +1), `shows`, `against`, and the five answer probabilities |
-| `flag_*` | Stories you may want to filter: several people as actor, no clear act, scanning errors, editor's text |
-| `case_context` | Short attributed notes the labeller also saw (for example a translator's footnote) |
+| `id` | Row ID |
+| `story` | The passage in the book's words. Cuts are marked `...` and added words are in `[brackets]`, e.g. "[Pyrrho] led a life ..."; nothing is paraphrased |
+| `actor`, `act` | The person judged, and the act judged (quoted from the passage) |
+| `tradition` | The tradition of the book: stoic, confucian, taoist, buddhist, christian, jewish, islamic, hindu, rationalist, fable, or other |
+| `source` | Book and edition, e.g. "Diogenes Laertius, *Lives of Eminent Philosophers* (tr. Hicks, 1925)" |
+| `virtue_labels` | Per virtue: `signed` (−1 goes against it, +1 shows it) and the five answer probabilities |
+| `flags` | Stories you may want to skip: `several_people`, `no_act`, `ocr`, `editor_header`, `editor_gloss_target`, `rubric_example` |
+| `context` | Short attributed notes the labeller also saw (for example a translator's footnote) |
+| `tale`, `fold` | The tale's name, shared by retellings; folds 0 to 4 keep retellings together, for splits that don't leak |
+| `bibkey` | Full reference in [sources.bib](docs/sources.bib) |
 
-The `rubrics` config has one row per virtue for all 569 virtues on every list, with its teaching quotes, example stories and source.
+The `virtues` config has one row per virtue for all 569 virtues on every list: tradition, list, virtue and its short definition. The full rubrics used for labelling (teaching quotes, limits, example stories) are in `rubrics/`, to show how the labels were made; keep them out of eval prompts.
 
 ## Rubrics
 
@@ -116,6 +134,8 @@ The `rubrics` config has one row per virtue for all 569 virtues on every list, w
 | Islamic | Three enjoined, three forbidden | Qur'an 16:90 |
 | Hindu | Ten marks of dharma | *Manusmṛti* 6.92 |
 | Rationalist | Twelve virtues of rationality | Yudkowsky |
+
+How each virtue on these lists is defined: [appendix](#appendix-how-each-virtue-is-defined).
 
 ## Reproduce
 
@@ -135,13 +155,24 @@ These commands run in the private development repo. The source books, the frozen
 
 Licence: CC BY 4.0. Quotations are from the cited books; to have a passage removed, open an issue on GitHub or Hugging Face.
 
+If you use or relabel the data, please cite:
+
+```bibtex
+@misc{clark2026tinyvirtues,
+  author       = {Michael J. Clark},
+  title        = {tiny-virtues: moral stories from nine traditions, judged by each tradition's virtues},
+  year         = {2026},
+  howpublished = {\url{https://huggingface.co/datasets/wassname/tiny-virtues}}
+}
+```
+
 ## Appendix: one labelling request
 
 This is the real request that scored the Pyrrho story (the example above) for Confucian wisdom. One request covers one virtue: it holds that virtue's teaching and six example stories once, then 40 stories as separate questions, each answered on its own with one of five levels, from "clear evidence that the conduct conflicts with this virtue" to "clear evidence that it shows this virtue". For Pyrrho, Jev put 42% on clear conflict and 45% on some conflict, a score of −0.64. [Request](data/release/assets/docs/examples/jev_v2/request.json) · [Reply](data/release/assets/docs/examples/jev_v2/reply.json)
 
-## Appendix: full rubrics
+## Appendix: how each virtue is defined
 
-The teaching text the labeller was given for each virtue (rubric v2), with the limits of each virtue. Example stories and the other 489 virtues are in the `rubrics` config and in `rubrics/<tradition>/<list>/rubric.json.md`.
+You can see how we define each virtue in how we instructed the labeller: the teaching it was given, quoted from the tradition's own texts, with its limits. Example stories and the other 489 virtues are in `rubrics/<tradition>/<list>/rubric.json.md`. Keep these out of eval prompts: they let a model rebuild the labels.
 
 <details>
 <summary><b>Stoic</b>: The primary virtues and the primary vices (Diogenes Laertius 7.92-93)</summary>

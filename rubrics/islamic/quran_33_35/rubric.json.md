@@ -16,7 +16,7 @@ Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3718
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3719
 
-Limits: 'Includes all the virtues' overlaps the other nine. A real case need not use religious words.
+'Includes all the virtues' overlaps the other nine. A real case need not use religious words.
 
 ## believing men and women
 
@@ -30,7 +30,7 @@ Qur’an 33:35, trans. Abdullah Yusuf Ali
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3720
 
-Limits: Note 3720 gives no creedal list. Overlaps submission and remembrance.
+Note 3720 gives no creedal list. Overlaps submission and remembrance.
 
 ## devout men and women
 
@@ -44,7 +44,7 @@ Qur’an 33:35, trans. Abdullah Yusuf Ali
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3720
 
-Limits: Ali's brief phrase is the only gloss. Charity is a special case of this service.
+Ali's brief phrase is the only gloss. Charity is a special case of this service.
 
 ## men and women who are patient and constant
 
@@ -64,8 +64,10 @@ Qur'an 2:177, patience in suffering, adversity and panic
 
 suffering and right endeavour are alternative settings; constancy in right endeavour needs no suffering.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the resentful monk — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the resentful monk - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Because of that, the first monk became resentful. Soon afterwards the other monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the other monk died from thirst.
@@ -138,7 +140,7 @@ He failed to bear correction patiently and acted out resentment, abandoning righ
 </details>
 
 <details>
-<summary>a wheelwright — Neither direction is established by the described conduct.</summary>
+<summary>a wheelwright - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 put his staff through the nave of a wheel, and turn it round
@@ -151,7 +153,7 @@ Ordinary work act; no suffering or evident constancy (islamic_ali_33_35_commenta
 </details>
 
 <details>
-<summary>the heretics of Thawattie — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the heretics of Thawattie - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They prevailed upon Thondarie, a woman entirely devoted to their interests, to spread the rumour that she had spent a night in the apartments of Buddha.
@@ -164,7 +166,7 @@ Slander campaigns are not right endeavour, and no endurance of suffering is show
 </details>
 
 <details>
-<summary>one of them which were with Jesus — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of them which were with Jesus - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear
@@ -177,7 +179,7 @@ A panicked violent response is not patience in adversity. But the card notes tha
 </details>
 
 <details>
-<summary>Sumana — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Sumana - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -190,7 +192,7 @@ He abandons constancy in caring for his parents under domestic pressure, failing
 </details>
 
 <details>
-<summary>Eumer — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Eumer - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 whilst unfolding in cunning words his pretended embassy, he started up on a sudden, and unsheathing the dagger under his garment, assaulted the king.
@@ -202,7 +204,7 @@ Treacherous murder is not right endeavour, and he endures no suffering, so this 
 
 </details>
 
-Limits: Ali's notes are brief commentary, not Qur'an wording. 42:40–42 permits defence; it is not a definition of, or universal exception to, patience.
+Ali's notes are brief commentary, not Qur'an wording. 42:40–42 permits defence; it is not a definition of, or universal exception to, patience.
 
 ## men and women who engage much in Allah's praise
 
@@ -216,7 +218,7 @@ Qur’an 33:35, trans. Abdullah Yusuf Ali
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3720
 
-Limits: No specific forms of dhikr are supplied. Overlaps belief and devotion.
+No specific forms of dhikr are supplied. Overlaps belief and devotion.
 
 ## men and women who fast (and deny themselves)
 
@@ -230,7 +232,7 @@ Qur’an 33:35, trans. Abdullah Yusuf Ali
 
 Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3720
 
-Limits: No Ramadan or fasting rules are supplied here. Abstinence alone is ambiguous.
+No Ramadan or fasting rules are supplied here. Abstinence alone is ambiguous.
 
 ## men and women who give in Charity
 
@@ -248,8 +250,10 @@ Yusuf Ali, commentary note 3720 (1934), not Qur'an wording
 
 Qur'an 2:264, trans. Yusuf Ali
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>A certain wealthy man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -280,7 +284,7 @@ Charity cancelled by reminders and injury per 2:264; host follows meal with repr
 </details>
 
 <details>
-<summary>Arcesilaus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Arcesilaus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Without his knowledge, Arcesilaus put a purse under his pillow so that the man, whose modesty worked to his own disadvantage, should simply discover what he needed rather than receive it.
@@ -293,7 +297,7 @@ Help to a poor, ill person; secrecy avoids reminders of generosity and display c
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Neither direction is established by the described conduct.</summary>
+<summary>someone [an indiscriminate giver] - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -306,7 +310,7 @@ Not identified as help to poor; could include them. Neither established.
 </details>
 
 <details>
-<summary>king Vessantara — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Vessantara - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -329,7 +333,7 @@ Generous giving without seeking return or show matches 2:264; recipients' povert
 </details>
 
 <details>
-<summary>a prince — Neither direction is established by the described conduct.</summary>
+<summary>a prince - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -346,7 +350,7 @@ Gifts to his people may help some poor, but they are not targeted charity, and t
 </details>
 
 <details>
-<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -380,7 +384,7 @@ He gives no help to an unfortunate debtor and adds injury, which conflicts with 
 
 </details>
 
-Limits: No zakat rules or amounts are supplied. Overlaps liberality and spending in adversity.
+No zakat rules or amounts are supplied. Overlaps liberality and spending in adversity.
 
 ## men and women who guard their chastity
 
@@ -388,14 +392,16 @@ Qur'an33:35, with Abdullah Yusuf Ali's1934explanation of chastity in note3720.
 
 > 033.035 Y: ...**for men and women who guard their chastity**...
 
-Quran, Abdullah Yusuf Ali translation, Gutenberg16955; precise electronic revision unspecified; retained-source lines 13–13
+Quran, Abdullah Yusuf Ali translation, Gutenberg16955; precise electronic revision unspecified
 
 > 3720 The virtues referred to are ... **(8) chastity, purity in sex life, purity in motive, thought, word, and deed**...
 
-Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3720; retained-source lines 14–14
+Abdullah Yusuf Ali, Holy Quran commentary (1934), note 3720
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>his master's wife — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>his master's wife - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she disgraced him by the imputation of a false crime, and complained to her husband that he had made an attempt upon her virtue.
@@ -408,7 +414,7 @@ Purity in motive and word; accusation stems from base passion and falsely sexual
 </details>
 
 <details>
-<summary>the blessed Katherine — Some evidence that the conduct shows this virtue.</summary>
+<summary>the blessed Katherine - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she kept chastity among those things that chastity is wont to perish. ... And among all these things the blessed Katherine kept her chastity
@@ -423,7 +429,7 @@ Constant, guarded chastity matches the verse closely. The passage does not detai
 </details>
 
 <details>
-<summary>a brother — Neither direction is established by the described conduct.</summary>
+<summary>a brother - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 My mind is always thinking about fornication; and does not let me rest even for an hour, and my heart is suffering. ... I meditate on such words, but they do not help me to be penitent, for I do not know the meaning of the words on which I am meditating.
@@ -436,7 +442,7 @@ Purity in thought sought; impure thoughts present but he resists, meditates and 
 </details>
 
 <details>
-<summary>Aristodemus of Argos — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Aristodemus of Argos - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Aristodemus of Argos used to go up into a room on the second floor through a trap door, and after moving his bed on top of the door, he would sleep there with his mistress, while the woman’s mother would take away the ladder from below and then put it back again in the morning.
@@ -449,7 +455,7 @@ Keeping a mistress fits poorly with 'purity in sex life'. The supplied unit give
 </details>
 
 <details>
-<summary>a woman — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>a woman - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a woman who repulsed a lover in order to inflame him, or who was deterred by fear of the law or of her husband.
@@ -466,7 +472,7 @@ Yusuf Ali includes purity in motive and thought. Inflaming a lover is impure in 
 </details>
 
 <details>
-<summary>Marcus Aurelius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Marcus Aurelius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he chose to preserve his sexual innocence for a few years into his adulthood. ... when he was later troubled by strong sexual cravings, he overcame them and “never touched Benedicta or Theodotus” ... At one point, for instance, he described sex to himself, perhaps as an ancient physician might, as merely the rubbing together of body parts followed by a convulsion and the ejaculation of some mucus. ... he was aiming to neutralize *inappropriate* sexual urges of the kind he struggled to overcome.
@@ -478,7 +484,7 @@ He guarded himself in deed and in thought by working against inappropriate urges
 
 </details>
 
-Limits: There is no marriage, consent or celibacy law here. Do not infer one.
+There is no marriage, consent or celibacy law here. Do not infer one.
 
 ## men and women who humble themselves
 
@@ -496,8 +502,10 @@ Yusuf Ali, commentary note 3720 (1934), not Qur'an wording
 
 Qur'an 4:36, trans. Yusuf Ali
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>The scribes and the Pharisees — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>The scribes and the Pharisees - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments, ... And love the uppermost rooms at feasts, and the chief seats in the synagogues, ... And greetings in the markets, and to be called of men, Rabbi, Rabbi.
@@ -510,7 +518,7 @@ Seeking chief seats and honorific titles is vainglory and superiority, against 4
 </details>
 
 <details>
-<summary>the publican — Some evidence that the conduct shows this virtue.</summary>
+<summary>the publican - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
@@ -523,7 +531,7 @@ Self-abasement before God without comparing himself favourably to others avoids 
 </details>
 
 <details>
-<summary>T‘ang the Completer — Neither direction is established by the described conduct.</summary>
+<summary>T‘ang the Completer - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 T‘ang the Completer established himself by observing what Ch‘ie of the Hsia dynasty had done, therefore he made his mind the ruler of his actions and carefully controlled them.
@@ -542,7 +550,7 @@ Learning from another's fall carries a slight implication against arrogance, but
 </details>
 
 <details>
-<summary>a certain brother — Some evidence that the conduct shows this virtue.</summary>
+<summary>a certain brother - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 out of his humility made answer, "Surely you are sent to some other one and not to me, for I am altogether unworthy to have an angel visitor."
@@ -557,7 +565,7 @@ Avoids attitude of superiority by declining special status, fitting note 3720's 
 </details>
 
 <details>
-<summary>the Horse — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Horse - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 “Hardly,” said the Horse, “can I resist kicking you with my heels.”
@@ -570,7 +578,7 @@ Contempt and threat toward a fellow wayfarer is arrogance and superiority; 4:36 
 </details>
 
 <details>
-<summary>Jesus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Jesus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -582,7 +590,7 @@ Refusing the glory of the world's kingdoms is avoidance of vainglory, and the st
 
 </details>
 
-Limits: There is no rule against acknowledging one's skill. Neither the verse nor note 3720 specifies before whom one humbles oneself; do not add detail.
+There is no rule against acknowledging one's skill. Neither the verse nor note 3720 specifies before whom one humbles oneself; do not add detail.
 
 ## true men and women
 
@@ -596,8 +604,10 @@ Quran33:35, trans. Yusuf Ali
 
 Yusuf Ali, commentary note3720 (1934), not Quran wording
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 resolved to disguise his appearance in order to secure food more easily. Encased in the skin of a sheep, he pastured with the flock deceiving the shepherd by his costume.
@@ -612,7 +622,7 @@ Truth in intention and deed is violated by deliberate deceptive disguise.
 </details>
 
 <details>
-<summary>professors teaching simplified introductory physics — Neither direction is established by the described conduct.</summary>
+<summary>professors teaching simplified introductory physics - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 These oversimplifications are falsehoods of a sort, and the professors know this, but it would be too complex for the student to get the whole truth all at once, so placeholder-lies are used in the service of truth.
@@ -625,7 +635,7 @@ Love of truth in intention and word: intention serves truth, but words knowingly
 </details>
 
 <details>
-<summary>Saint Francis — Some evidence that the conduct shows this virtue.</summary>
+<summary>Saint Francis - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he promised ever stedfastly to bestow the help and counsel of himself and his brethren on them and on others who should profess poverty in a similar way of life; which thing he diligently performed as long as he lived, and, when nigh unto death, commanded to be evermore performed, and that not negligently
@@ -638,7 +648,7 @@ Truth in word and deed: steadfast performance of his pledge.
 </details>
 
 <details>
-<summary>Min Sun — Neither direction is established by the described conduct.</summary>
+<summary>Min Sun - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Min carefully concealed all his grievances, and refused to indulge in any complaint; even while suffering severely from cold and hunger, he maintained his affection unabated.
@@ -653,7 +663,7 @@ Affection sincere in intention; concealing grievances unaddressed by sources.
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -666,7 +676,7 @@ His intention, his promise and his later deed line up. That is truth in word and
 </details>
 
 <details>
-<summary>Jesus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Jesus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -678,4 +688,4 @@ Yusuf Ali's broad gloss covers truth in intention and deed. Word and conduct are
 
 </details>
 
-Limits: No rules on reticence or permitted concealment are supplied.
+No rules on reticence or permitted concealment are supplied.

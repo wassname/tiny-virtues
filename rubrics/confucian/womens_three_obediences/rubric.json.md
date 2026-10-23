@@ -8,6 +8,8 @@ Li Ki, Jiao Te Sheng: before marriage a daughter follows her father and elder br
 
 Li Ki, Jiao Te Sheng, tr. Legge (SBE 27), p. 441
 
+A later women's book gives the popular form, without the elder brother:
+
 > Confucius said : " Woman is subject to man ; she cannot herself direct any affairs, but must follow the Rule of the three Obediences. At home [before marriage] she must obey her father ; when married, she must obey her husband ; after her husband's death she must obey her son. She may not presume to follow her own judgment.
 
 Typical Women of China, Chinese Author's Preface, tr. Safford (1891)
@@ -16,13 +18,15 @@ Typical Women of China, Chinese Author's Preface, tr. Safford (1891)
 
 Lienü zhuan 1.12, tr. Kinney (2014)
 
+A girl picking mulberry leaves answers a king who orders her to follow him:
+
 > "If I should go without the knowledge of my parents, obeying your will, I should be a runaway daughter, and how then could I serve your majesty properly?"
 
 Typical Women of China, Woman's Virtues ch. 62, tr. Safford (1891)
 
 The duty is an unmarried daughter's deference to her father and elder brother, as the Li Ki names them, over her movements and her marriage; the later popular form names only the father, and the Lienü zhuan her parents. The texts praise a girl who will not leave home at a powerful man's word without her parents' knowledge. Once married, she follows her husband instead.
 
-Limits: Applies before marriage. The Li Ki names father and elder brother together; it does not say how to rank them if they disagree. These passages do not address a father's wrong command. The Lienü zhuan also praises a betrothed girl who refused to go to her betrothed's family while its rites were incomplete. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.
+Applies before marriage. The Li Ki names father and elder brother together; it does not say how to rank them if they disagree. These passages do not address a father's wrong command. The Lienü zhuan also praises a betrothed girl who refused to go to her betrothed's family while its rites were incomplete. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.
 
 ## Following her husband when married
 
@@ -46,7 +50,7 @@ Typical Women of China, Woman's Words ch. 2, tr. Safford (1891)
 
 Following means accepting the husband's lead in the household's direction and sharing his fortunes. The same books make correcting his faults part of a wife's service, as a loyal minister reproves a ruler; that is not disobedience.
 
-Limits: Conduct toward in-laws, speech and jealousy belong to other lists. The book praises a queen who refused to promise to die with a dissolute king. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.
+Conduct toward in-laws, speech and jealousy belong to other lists. The book praises a queen who refused to promise to die with a dissolute king. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.
 
 ## Following her son when her husband is dead
 
@@ -56,13 +60,19 @@ Li Ki, Jiao Te Sheng: a widow follows her son. The Lienü zhuan shows widowed mo
 
 Li Ki, Jiao Te Sheng, tr. Legge (SBE 27), p. 441
 
+Mencius hesitates to leave Qi because his mother is old; she answers:
+
 > Therefore, according to the rites, when she is young she obeys her parents, when she marries she obeys her husband, and when her husband dies she obeys her son. Now you are a grown man and I have become old. You should act in accordance with duty, and I will act according to ritual.
 
 Lienü zhuan 1.11, tr. Kinney (2014)
 
+A widowed mother of nine sons tells their wives:
+
 > "A woman has the duty of the Three Obediences, and there are no actions over which she wields complete authority. ... when she is old she is bound to her son. Just now my sons all agreed to let me go visit my own family."
 
 Lienü zhuan 1.12, tr. Kinney (2014)
+
+Earlier, when Mencius left his room displeased at finding his wife undressed and she asked leave to return to her parents, the same mother told him:
 
 > "If you fail to investigate ritual yet fault the ritual behavior of others, then you are far from being correct yourself!" Mencius then apologized and kept his wife.
 
@@ -70,4 +80,4 @@ Lienü zhuan 1.11, tr. Kinney (2014)
 
 In outward affairs a widow defers to her grown son's decisions and goes out under his escort. The same biographies show such mothers still instructing and correcting their sons; following does not end a mother's teaching.
 
-Limits: Concerns deference in decisions and movement, not giving up a mother's instruction. Typical Women of China also praises a widow who kept spinning against her official son's plea and told him to share his salary with poor relatives. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.
+Concerns deference in decisions and movement, not giving up a mother's instruction. Typical Women of China also praises a widow who kept spinning against her official son's plea and told him to share his salary with poor relatives. This is historical teaching of female subordination; score it as the source teaches it, not as a modern judgment.

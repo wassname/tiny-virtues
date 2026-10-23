@@ -16,7 +16,7 @@ Li Ki, BookXXVIII, SectionII§§1–12, Legge1885, pp312–314
 
 Doctrine of the Mean chapter 20, Li Ki Book XXVIII §12
 
-Limits: Not every generic kindness. Distinct from Li Yun's ruler-specific benevolence.
+Not every generic kindness. Distinct from Li Yun's ruler-specific benevolence.
 
 ## Fortitude
 
@@ -24,14 +24,16 @@ Third universal virtue; Zhongyong distinguishes southern, northern and the super
 
 > **to know to be ashamed is near to fortitude.**
 
-Doctrine of the Mean (Li Ki XXVIII), trans. Legge (1885); source lines 16164–16172.
+Doctrine of the Mean (Li Ki XXVIII), trans. Legge (1885).
 
 > 17. To show forbearance and gentleness in teaching others; and not to return conduct towards one’s self which is contrary to the right path:—this is the fortitude of the South, and the good man makes it his study. 18. To lie under arms, and to die without regret:—this is the bravery of the North, and the bold make it their study. 19. Therefore, **the superior man cultivates a (friendly) harmony, and is not weak;**— ... If bad ways prevail, he will die sooner than change;—how firm is he in his fortitude!’
 
-Doctrine of the Mean (Li Ki XXVIII), trans. Legge (1885); source lines 15594–15614.
+Doctrine of the Mean (Li Ki XXVIII), trans. Legge (1885).
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -44,7 +46,7 @@ Dying without regret for nothing parodies northern boldness; no harmony, middle,
 </details>
 
 <details>
-<summary>Thrasea — Some evidence that the conduct shows this virtue.</summary>
+<summary>Thrasea - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Thrasea was so disgusted that he walked out and refused to vote. ... He was refusing to dignify brazen corruption and evil. ... All Thrasea could do now was try to exert some moral authority, to tell people, “This is not normal.” So he did, refusing consent, refusing to rubber-stamp, whatever little that was worth.
@@ -63,7 +65,7 @@ The superior man does not change his conduct when bad ways prevail, and knowing 
 </details>
 
 <details>
-<summary>Kappa — Neither direction is established by the described conduct.</summary>
+<summary>Kappa - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Kappa, hearing the Master discourse in so many figures on the nature and destiny of the body-complex, in fear, and aversion at his own body, besought him in distress for ordination.
@@ -93,7 +95,7 @@ Aversion at his former self-indulgence loosely resembles 'knowing shame', which 
 </details>
 
 <details>
-<summary>the huge and strong fellow — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the huge and strong fellow - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -106,7 +108,7 @@ Southern fortitude is forbearance, not returning wrong conduct; storming at insu
 </details>
 
 <details>
-<summary>Mucius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Mucius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -119,7 +121,7 @@ He dies-without-regret style resolve resembles northern bravery. He accepts the 
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who rushes irrationally into danger - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -131,7 +133,7 @@ At most he shows 'the bold' northern bravery, without harmony or the middle way.
 
 </details>
 
-Limits: Northern bravery is a distinguished variety, not shown as the superior man's firmness, though not excluded outright. 'Near to' shame is an approach, not a definition. Applying 'stands erect in the middle' to factions is interpretive.
+Northern bravery is a distinguished variety, not shown as the superior man's firmness, though not excluded outright. 'Near to' shame is an approach, not a definition. Applying 'stands erect in the middle' to factions is interpretive.
 
 ## Wisdom
 
@@ -155,4 +157,4 @@ Doctrine of the Mean 6-7, tr. Legge (SBE 28)
 
 Wisdom here is first knowing one's duties in the five relationships, however that knowledge is reached. The text says love of learning is near to it, and shows it in inquiry, careful discrimination of the good, and holding to what has been chosen. Shun's wisdom is generous inquiry: he takes hold of both extremes and determines the mean between them for the people's use.
 
-Limits: The text says learning is 'near to' wisdom; it does not define wisdom itself. It does not settle how to weigh a single act of inquiry against sustained practice. This item overlaps with Mencian wisdom; the difference is emphasis, not opposition.
+The text says learning is 'near to' wisdom; it does not define wisdom itself. It does not settle how to weigh a single act of inquiry against sustained practice. This item overlaps with Mencian wisdom; the difference is emphasis, not opposition.

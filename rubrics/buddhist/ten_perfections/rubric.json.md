@@ -20,7 +20,7 @@ Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
 Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
-Limits: Stubbornness toward harmful aims is not this determination. Its object is the requisites and others' good.
+Stubbornness toward harmful aims is not this determination. Its object is the requisites and others' good.
 
 ## Energy
 
@@ -28,22 +28,26 @@ Dhammapala (tr. Bodhi): energy as bodily and mental work for others' welfare.
 
 > **The perfection of energy is bodily and mental work for the welfare of others, accompanied by compassion and skillful means.**
 
-Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996); source line 201.
+Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996).
 
 > (5) **Energy has the characteristic of striving; its function is to fortify; its manifestation is indefatigability**; an occasion for the arousing of energy, or a sense of spiritual urgency, is its proximate cause.
 
-Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996); source line 213.
+Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996).
+
+“Them” refers to greed, hatred and delusion.
 
 > **Energy opposes them by arousing the true way free from both listlessness and restlessness.**
 
-Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996); source line 337.
+Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996).
 
 > When energy is aroused to excess because it has not been examined with equanimity, it cannot perform its proper function of striving.
 
-Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996); source lines 315–325.
+Dhammapala, Treatise on the Paramis, trans. Bhikkhu Bodhi, BPS Wheel 409/411 (1978/1996).
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -56,7 +60,7 @@ Violent restless exertion harming each other, no welfare of others or compassion
 </details>
 
 <details>
-<summary>Yu — Some evidence that the conduct shows this virtue.</summary>
+<summary>Yu - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Yu, Gun's son, dared not ... harbor resentment against Shun but, on the contrary, served him, being appointed minister of works in charge of clearing the water courses.
@@ -69,7 +73,7 @@ Tireless bodily work on flood control serves others' welfare. The text shows no 
 </details>
 
 <details>
-<summary>Mucius — Neither direction is established by the described conduct.</summary>
+<summary>Mucius - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -82,7 +86,7 @@ Striving for his city, his effort lacks the compassion and skillful means of the
 </details>
 
 <details>
-<summary>the huge and strong fellow — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the huge and strong fellow - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -95,7 +99,7 @@ Energy is work for others' welfare, free of restlessness. Rage is restless hatre
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who rushes irrationally into danger - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -108,7 +112,7 @@ Restlessness without equanimity defiles energy. There is no welfare of others in
 </details>
 
 <details>
-<summary>the timid companion — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the timid companion - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 fled away ... the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, “I’ll at him, and I’ll take care he shall learn whom he has attacked.”
@@ -120,7 +124,7 @@ He does no work for his endangered companion's welfare, and his later show is re
 
 </details>
 
-Limits: Busyness or physical vigor alone is not this perfection. Its aim is others' welfare, free of both listlessness and restlessness.
+Busyness or physical vigor alone is not this perfection. Its aim is others' welfare, free of both listlessness and restlessness.
 
 ## Equanimity
 
@@ -140,7 +144,7 @@ Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
 Because equanimity is accompanied by compassion, impartiality here is not indifference to harm.
 
-Limits: Indifference to others' suffering is not taught as equanimity. The source does not discuss non-response to harm in detail.
+Indifference to others' suffering is not taught as equanimity. The source does not discuss non-response to harm in detail.
 
 ## Giving
 
@@ -164,8 +168,10 @@ Dhammapala, Treatise on the Paramis, trans. Bodhi
 
 Handing something over is not enough: harmful gifts and unwilling dependants are excluded. Bodhi's introduction applies the perfections to all aspirants, not to bodhisattvas alone.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>A certain wealthy man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -196,7 +202,7 @@ Food given with intent to annoy and burden the ascetic with guilt; Dhammapala ex
 </details>
 
 <details>
-<summary>king Vessantara — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Vessantara - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -219,7 +225,7 @@ Motiveless-of-reward relinquishing for wisdom fits definition; but giving wife a
 </details>
 
 <details>
-<summary>Brendan — Neither direction is established by the described conduct.</summary>
+<summary>Brendan - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 kneels at the feet of the Saint, and implores that the Saint will pour out prayer for him to the Lord. Then, being first reproved by him (the Saint) for certain sins of his, he exercised repentance, and promised to amend thenceforth.
@@ -232,7 +238,7 @@ The selected act is kneeling, seeking prayer, and repenting; no giving is involv
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Some evidence that the conduct shows this virtue.</summary>
+<summary>someone [an indiscriminate giver] - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -245,7 +251,7 @@ Giving without discriminating over recipients is not a defilement; Dhammapala tr
 </details>
 
 <details>
-<summary>a prince — Some evidence that the conduct shows this virtue.</summary>
+<summary>a prince - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -262,7 +268,7 @@ Lavish relinquishing of inherited wealth to troops and people dispels greed, tho
 </details>
 
 <details>
-<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -296,7 +302,7 @@ A small debt was something he could give away to someone in need. He grasps it w
 
 </details>
 
-Limits: Even-handed giving does not license harmful gifts.
+Even-handed giving does not license harmful gifts.
 
 ## Loving-kindness
 
@@ -318,7 +324,7 @@ Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
 Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
-Limits: Indulgent pleasantness is not benevolence. The source also links loving-kindness to compassion without collapsing the two.
+Indulgent pleasantness is not benevolence. The source also links loving-kindness to compassion without collapsing the two.
 
 ## Patience
 
@@ -338,8 +344,10 @@ Dhammapala, Treatise on the Perfections (Bhikkhu Bodhi translation), Section (iv
 
 outward quiet that hides aversion or hostility does not meet the non-aversion qualification.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the resentful monk — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the resentful monk - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Because of that, the first monk became resentful. Soon afterwards the other monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the other monk died from thirst.
@@ -412,7 +420,7 @@ Resentment at a fair admonition led to refusing help, causing death; clear avers
 </details>
 
 <details>
-<summary>the abbot Macarius — Some evidence that the conduct shows this virtue.</summary>
+<summary>the abbot Macarius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he received no answer at all. ... willingly, even joyfully, Macarius used to speak to such a man of whatever he wished to hear.
@@ -425,7 +433,7 @@ He endures verbal harm with joy rather than aversion, and then serves the insult
 </details>
 
 <details>
-<summary>a wheelwright — Neither direction is established by the described conduct.</summary>
+<summary>a wheelwright - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 put his staff through the nave of a wheel, and turn it round
@@ -438,7 +446,7 @@ Using a staff to turn a wheel involves no harm endured; patience not engaged (bu
 </details>
 
 <details>
-<summary>the heretics of Thawattie — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the heretics of Thawattie - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They prevailed upon Thondarie, a woman entirely devoted to their interests, to spread the rumour that she had spent a night in the apartments of Buddha.
@@ -451,7 +459,7 @@ The heretics actively scheme slander out of hostility to the Buddha's reputation
 </details>
 
 <details>
-<summary>one of them which were with Jesus — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of them which were with Jesus - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear
@@ -464,7 +472,7 @@ He met harm with violent opposition rather than tolerance and non-aversion. The 
 </details>
 
 <details>
-<summary>Sumana — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Sumana - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -476,7 +484,7 @@ Sumana, harassed by his wife's deceit and demands, fails to endure; instead he v
 
 </details>
 
-Limits: Prescribed reflections are aids, not required beliefs. Unshown compassion or skillful means limits confirmation; it is not evidence of weaker endurance.
+Prescribed reflections are aids, not required beliefs. Unshown compassion or skillful means limits confirmation; it is not evidence of weaker endurance.
 
 ## Renunciation
 
@@ -498,7 +506,7 @@ Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
 Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
-Limits: Mere physical abstinence or loss of means is not renunciation unless it is preceded by the perception of unsatisfactoriness.
+Mere physical abstinence or loss of means is not renunciation unless it is preceded by the perception of unsatisfactoriness.
 
 ## Truthfulness
 
@@ -524,8 +532,10 @@ Dhammapala, Treatise on the Paramis, trans. Bodhi
 
 Dhammapala, Treatise on the Paramis, trans. Bodhi
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Kite — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Kite - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 there is nothing that I would not have promised, however much I knew that I must fail in the performance
@@ -538,7 +548,7 @@ The Kite admits promising what he knew he could not perform, deceptive speech to
 </details>
 
 <details>
-<summary>Min Sun — Neither direction is established by the described conduct.</summary>
+<summary>Min Sun - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Min carefully concealed all his grievances, and refused to indulge in any complaint; even while suffering severely from cold and hunger, he maintained his affection unabated.
@@ -553,7 +563,7 @@ Silent endurance involves no stated falsehood; concealing grievances is silence 
 </details>
 
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 resolved to disguise his appearance in order to secure food more easily. Encased in the skin of a sheep, he pastured with the flock deceiving the shepherd by his costume.
@@ -568,7 +578,7 @@ Deception is by costume, not speech; this perfection concerns non-deceptiveness 
 </details>
 
 <details>
-<summary>professors teaching simplified introductory physics — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>professors teaching simplified introductory physics - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 These oversimplifications are falsehoods of a sort, and the professors know this, but it would be too complex for the student to get the whole truth all at once, so placeholder-lies are used in the service of truth.
@@ -581,7 +591,7 @@ Professors knowingly state falsehoods, conflicting with verifying in accordance 
 </details>
 
 <details>
-<summary>Saint Francis — Some evidence that the conduct shows this virtue.</summary>
+<summary>Saint Francis - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he promised ever stedfastly to bestow the help and counsel of himself and his brethren on them and on others who should profess poverty in a similar way of life; which thing he diligently performed as long as he lived, and, when nigh unto death, commanded to be evermore performed, and that not negligently
@@ -594,7 +604,7 @@ His promise proved non-deceptive, being diligently performed; speech-truth link 
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -606,7 +616,7 @@ He keeps his stated word at the cost of the office and reports his own judgment 
 
 </details>
 
-Limits: This perfection concerns deceptiveness in speech. The source does not here resolve compassionate silence or tactful omission. The definition includes 'accompanied by compassion and skillful means,' but the supplied units do not say how to score truthful speech lacking them.
+This perfection concerns deceptiveness in speech. The source does not here resolve compassionate silence or tactful omission. The definition includes 'accompanied by compassion and skillful means,' but the supplied units do not say how to score truthful speech lacking them.
 
 ## Virtue
 
@@ -632,7 +642,7 @@ Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
 Dhammapala, A Treatise on the Paramis, tr. Bhikkhu Bodhi
 
-Limits: Ordinary politeness alone is not treated as sufficient.
+Ordinary politeness alone is not treated as sufficient.
 
 ## Wisdom
 
@@ -654,9 +664,13 @@ Dhammapāla, Treatise on the Pāramīs, trans. Bhikkhu Bodhi
 
 Dhammapāla, Treatise on the Pāramīs, trans. Bhikkhu Bodhi
 
+In one analysis of stages the treatise reports:
+
 > the three stages in the perfection of wisdom, as the discrimination between what is beneficial and harmful to beings
 
 Dhammapāla, Treatise on the Pāramīs, trans. Bhikkhu Bodhi
+
+The giving subsection (not itself labelled wisdom) shows the same discernment in conduct:
 
 > But he does not give things that issue in affliction to others, such as weapons, poisons, and intoxicants. … And he does not give unsuitable food or drink to a person who is sick, even though he might ask for it, and he does not give what is suitable beyond the proper measure.
 
@@ -668,12 +682,16 @@ Dhammapāla, Treatise on the Pāramīs, trans. Bhikkhu Bodhi
 
 Wisdom here is insight aimed at the welfare of beings. In conduct it shows as discerning real benefit and harm rather than simply pleasing whoever asks, and as learning, questioning, reflecting on impermanence, letting go of attachment and helping others do the same. The treatise deliberately makes wisdom the condition of giving, patience and energy, so overlap with those qualities is expected.
 
+Bhikkhu Bodhi's modern introduction (not Dhammapāla) adds that in Theravāda tradition:
+
 > the qualities themselves are universal requisites for deliverance, which all must fulfill to at least a minimal degree to merit the fruits of the liberating path.
 
 Bhikkhu Bodhi, introduction to the Treatise on the Pāramīs
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -686,7 +704,7 @@ Wisdom is tied to rooting out craving for belongings. Coveting and stealing show
 </details>
 
 <details>
-<summary>Xu You — Some evidence that the conduct shows this virtue.</summary>
+<summary>Xu You - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Xu You gave up the world not because he was forced to do so, but because he comprehended the true nature of things.
@@ -699,7 +717,7 @@ Penetrating the nature of things and then letting go of attachment and greed mat
 </details>
 
 <details>
-<summary>Confucius — Neither direction is established by the described conduct.</summary>
+<summary>Confucius - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 exercised great caution
@@ -712,7 +730,7 @@ Caution about war and sickness implies some discernment of what helps or harms p
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the third set of recluses and brahmins - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -725,7 +743,7 @@ Dhammapāla lists adherence to perverted views as a cause of delusion. He also s
 </details>
 
 <details>
-<summary>The happy man — Some evidence that the conduct shows this virtue.</summary>
+<summary>The happy man - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -738,7 +756,7 @@ Dhammapāla links remaining unaffected by gain and loss to wisdom and names disc
 </details>
 
 <details>
-<summary>one of the sophists — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of the sophists - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -752,4 +770,4 @@ Dhammapāla directly names others' wrongs provoking impatience as a sign of lack
 
 </details>
 
-Limits: The treatise describes the bodhisattva's path, including meditative and supernormal knowledge, and gives no rule for rating a single ordinary act. Reading one act as evidence of wisdom is this rubric's convention, never a claim of perfected attainment. The treatise names no single vice opposite wisdom; delusion and its listed causes are the nearest contraries. Extraordinary gifts of limbs, life or kingdom belong to the bodhisattva path, not to ordinary duty.
+The treatise describes the bodhisattva's path, including meditative and supernormal knowledge, and gives no rule for rating a single ordinary act. Reading one act as evidence of wisdom is this rubric's convention, never a claim of perfected attainment. The treatise names no single vice opposite wisdom; delusion and its listed causes are the nearest contraries. Extraordinary gifts of limbs, life or kingdom belong to the bodhisattva path, not to ordinary duty.

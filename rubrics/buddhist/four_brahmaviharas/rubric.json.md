@@ -14,8 +14,10 @@ Hardy, Manual of Budhism (1853), commentary
 
 Hardy's mark is the afflicted and the wish to end their sorrow; not every kindness is compassion. DN 13 renders it 'pity'.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the man who was going to beat an ass-driver — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -28,7 +30,7 @@ He beats an ass with many stripes in anger; compassion pervades all living thing
 </details>
 
 <details>
-<summary>the Lord — Some evidence that the conduct shows this virtue.</summary>
+<summary>the Lord - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -41,7 +43,7 @@ Lord's vigilant care awakens compassion even for tiny creatures in water, matchi
 </details>
 
 <details>
-<summary>King Wen — Neither direction is established by the described conduct.</summary>
+<summary>King Wen - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -54,7 +56,7 @@ Hardy's mark is the afflicted and their sorrow. A skeleton has no sorrow to remo
 </details>
 
 <details>
-<summary>king Wan — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -71,7 +73,7 @@ Sharing the park benefits commoners, but no affliction or wish to end sorrow is 
 </details>
 
 <details>
-<summary>The Camel — Neither direction is established by the described conduct.</summary>
+<summary>The Camel - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -86,7 +88,7 @@ Camel acts from envy to divert favour; no afflicted party or wish to end sorrow.
 </details>
 
 <details>
-<summary>Qi Xi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Qi Xi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Qi Xi observed, "I was taught that when a petty man obtains a position, one will be unlucky if one does not oppose him and when a gentleman is in trouble, one will be unlucky if one does not help him?' ... Then he went to see Viscount Xuan of Fan and persuaded him as follows: "I was taught that those who are skilled at governing are neither excessive with rewards nor arbitrary with punishments. Rewards that are excessive he fears may be given to immoral persons, and punishments that are arbitrary he fears may be applied to gentlemen. Should one be so unfortunate as to err, it would be better to err by rewarding the immoral than by punishing gentlemen.
@@ -98,7 +100,7 @@ Shuxiang is plainly afflicted, and Qi Xi acts to end that affliction. This match
 
 </details>
 
-Limits: Not every kindness is compassion.
+Not every kindness is compassion.
 
 ## Love
 
@@ -114,7 +116,7 @@ Dīgha Nikāya 13, §§76–79, trans. T. W. Rhys Davids (1899), p. 318
 
 The full ideal leaves no being aside. Bounded goodwill can be evidence without attaining the whole ideal; hostile exclusion conflicts.
 
-Limits: Bounded goodwill need not be non-evidence; hostile exclusion differs from limited reach. The sources describe a boundless ideal, not narrative scenes.
+Bounded goodwill need not be non-evidence; hostile exclusion differs from limited reach. The sources describe a boundless ideal, not narrative scenes.
 
 ## Poise
 
@@ -130,7 +132,7 @@ R. Spence Hardy, A Manual of Budhism (1853), p. 505, Brahma-wiharopeksha
 
 Only the Brahma-vihāra variety applies; it remains free of hate, so mere coldness or quietness is not poise.
 
-Limits: Other Upeksha subtypes (e.g., neither pleasure nor displeasure) are not this item.
+Other Upeksha subtypes (e.g., neither pleasure nor displeasure) are not this item.
 
 ## Sympathy
 
@@ -146,4 +148,4 @@ R. Spence Hardy, A Manual of Budhism (1853), §§34–35, karuna and mudita
 
 Joy must concern another's success; joy at one's own gain is not muditā.
 
-Limits: Not pity for suffering (Compassion).
+Not pity for suffering (Compassion).

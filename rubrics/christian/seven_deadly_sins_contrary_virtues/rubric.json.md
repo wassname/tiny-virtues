@@ -4,13 +4,11 @@
 
 Here: anger as a daughter of pride that cannot bear injury and desires revenge.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|meekness`.
-
 > **Anger is one of the favourite daughters of Pride; for the proud man cannot put up with an injury or affront, but immediately desires to revenge himself.**
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
-Limits: Gibson's full Fifth Commandment treatment is not supplied. In the carter scene, the urge is restrained and good is returned, which fits meekness as restraining 'all desire of revenge' (Gibson’s teaching on meekness). This is a reading of that scene, not a universal rule. An episode in which the revenge desire is actually endorsed or acted on (as with Aman) still shows the vice even if some urge elsewhere is checked.
+Gibson's full Fifth Commandment treatment is not supplied. In the carter scene, the urge is restrained and good is returned, which fits meekness as restraining 'all desire of revenge' (Gibson’s teaching on meekness). This is a reading of that scene, not a universal rule. An episode in which the revenge desire is actually endorsed or acted on (as with Aman) still shows the vice even if some urge elsewhere is checked.
 
 ## brotherly love
 
@@ -20,8 +18,10 @@ Contrary of envy: treating a neighbour's interests, joys and sorrows as one's ow
 
 Gibson, Catechism Made Easy III (1877), 17th instruction
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>The Camel — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>The Camel - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -36,7 +36,7 @@ Gibson: envy is sorrow at another's good, directly contrary to brotherly love. C
 </details>
 
 <details>
-<summary>Qi Xi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Qi Xi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Qi Xi observed, "I was taught that when a petty man obtains a position, one will be unlucky if one does not oppose him and when a gentleman is in trouble, one will be unlucky if one does not help him?' ... Then he went to see Viscount Xuan of Fan and persuaded him as follows: "I was taught that those who are skilled at governing are neither excessive with rewards nor arbitrary with punishments. Rewards that are excessive he fears may be given to immoral persons, and punishments that are arbitrary he fears may be applied to gentlemen. Should one be so unfortunate as to err, it would be better to err by rewarding the immoral than by punishing gentlemen.
@@ -49,7 +49,7 @@ He works actively for a neighbour's release, which shows the promotion of anothe
 </details>
 
 <details>
-<summary>the Lord — Neither direction is established by the described conduct.</summary>
+<summary>the Lord - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -62,7 +62,7 @@ Brotherly love concerns neighbours' interests as one's own, contrary to envy; ca
 </details>
 
 <details>
-<summary>king Wan — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -79,7 +79,7 @@ Opening his park promotes the people's interests alongside his own.
 </details>
 
 <details>
-<summary>King Wen — Some evidence that the conduct shows this virtue.</summary>
+<summary>King Wen - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -92,7 +92,7 @@ Taking on the role of the dead man's host weakly resembles treating a neighbour'
 </details>
 
 <details>
-<summary>the man who was going to beat an ass-driver — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -104,7 +104,7 @@ Brotherly love concerns a neighbour's interests. The ass-driver is spared, but h
 
 </details>
 
-Limits: Gibson calls the full form 'the perfection of Charity', an aim rather than a prerequisite.
+Gibson calls the full form 'the perfection of Charity', an aim rather than a prerequisite.
 
 ## chastity
 
@@ -112,18 +112,20 @@ Contrary of lust, taught under the sixth and ninth commandments: words, actions,
 
 > Thus you see that God is not satisfied with a mere outward observance of his Divine Law, but as he is the Creator and Lord of our souls as well as of our bodies, **he requires that not only our words and actions, but even our very thoughts and desires, should be innocent and pure.**
 
-Henry Gibson, Catechism Made Easy, vol.II (1874); retained-source lines 11400–11430
+Henry Gibson, Catechism Made Easy, vol.II (1874)
 
 > **it is necessary that we should keep a constant guard over our senses — that is, over our eyes, our tongue, our ears, &c. — which are, as it were, the doors by which the unclean spirit enters into our hearts.**
 
-Henry Gibson, Catechism Made Easy, vol.II (1874); retained-source lines 11728–11734
+Henry Gibson, Catechism Made Easy, vol.II (1874)
 
 > if ever your eyes rest by chance on any dangerous object, turn them ... away at once and say some short prayer in yonr heart to our dear Lord or his Blessed Mother.
 
-Henry Gibson, Catechism Made Easy, vol.II (1874); retained-source lines 11728–11796
+Henry Gibson, Catechism Made Easy, vol.II (1874)
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>Aristodemus of Argos — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Aristodemus of Argos - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Aristodemus of Argos used to go up into a room on the second floor through a trap door, and after moving his bed on top of the door, he would sleep there with his mistress, while the woman’s mother would take away the ladder from below and then put it back again in the morning.
@@ -136,7 +138,7 @@ A habitual sexual relationship with a mistress is outward unchaste action as Gib
 </details>
 
 <details>
-<summary>the blessed Katherine — Some evidence that the conduct shows this virtue.</summary>
+<summary>the blessed Katherine - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she kept chastity among those things that chastity is wont to perish. ... And among all these things the blessed Katherine kept her chastity
@@ -151,7 +153,7 @@ The passage reports that she kept chastity despite many named occasions of dange
 </details>
 
 <details>
-<summary>a brother — Neither direction is established by the described conduct.</summary>
+<summary>a brother - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 My mind is always thinking about fornication; and does not let me rest even for an hour, and my heart is suffering. ... I meditate on such words, but they do not help me to be penitent, for I do not know the meaning of the words on which I am meditating.
@@ -164,7 +166,7 @@ Persistent fornication thoughts that trouble him; he suffers, seeks counsel and 
 </details>
 
 <details>
-<summary>a woman — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>a woman - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a woman who repulsed a lover in order to inflame him, or who was deterred by fear of the law or of her husband.
@@ -181,7 +183,7 @@ She outwardly refuses, but one motive is inflaming a lover (cultivating lust); t
 </details>
 
 <details>
-<summary>his master's wife — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>his master's wife - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 she disgraced him by the imputation of a false crime, and complained to her husband that he had made an attempt upon her virtue.
@@ -194,7 +196,7 @@ Selected act is false accusation after rebuffed lustful advances; it continues f
 </details>
 
 <details>
-<summary>Marcus Aurelius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Marcus Aurelius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he chose to preserve his sexual innocence for a few years into his adulthood. ... when he was later troubled by strong sexual cravings, he overcame them and “never touched Benedicta or Theodotus” ... At one point, for instance, he described sex to himself, perhaps as an ancient physician might, as merely the rubbing together of body parts followed by a convulsion and the ejaculation of some mucus. ... he was aiming to neutralize *inappropriate* sexual urges of the kind he struggled to overcome.
@@ -206,24 +208,24 @@ He abstained in deed and worked against the desire itself rather than dwelling o
 
 </details>
 
-Limits: Gibson tells the reader to turn the eyes away at once and pray when they rest by chance on a dangerous object. A chance sight met this way is not presented as a fault. Deliberately dwelling afterward, or listening 'with pleasure', is treated as an unguarded beginning of falls. Mortal guilt requires full and deliberate consent (Gibson's teaching on consent). No broader rule about involuntary motions is claimed beyond the catechism's 'wilful pleasure'. Bernard's frozen-pond penance is an attributed narrative, not a required test.
+Gibson tells the reader to turn the eyes away at once and pray when they rest by chance on a dangerous object. A chance sight met this way is not presented as a fault. Deliberately dwelling afterward, or listening 'with pleasure', is treated as an unguarded beginning of falls. Mortal guilt requires full and deliberate consent (Gibson's teaching on consent). No broader rule about involuntary motions is claimed beyond the catechism's 'wilful pleasure'. Bernard's frozen-pond penance is an attributed narrative, not a required test.
 
 ## covetousness
 
 Inordinate love of riches, producing hardness of heart and anxiety.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|liberality`.
-
 > 2. Covetousness, or Avarice, is the inordinate love of riches
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
 > **Covetousness produces great hardness of heart, rendering those who are possessed with it, cruel and unfeeling, not only to the poor, but often to their own relations and even to their very parents.** Add to this, that it renders the mind restless, anxious and suspicious
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>the servant — Some evidence that the conduct shows this vice.</summary>
+<summary>the servant - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -258,7 +260,7 @@ Gibson names hardness of heart, cruelty and lack of feeling as the fruits of cov
 </details>
 
 <details>
-<summary>king Vessantara — Clear evidence that the conduct resists this vice.</summary>
+<summary>king Vessantara - Clear evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -281,7 +283,7 @@ Forward: Total renunciation of possessions without seeking any return is the cle
 </details>
 
 <details>
-<summary>A certain wealthy man — Neither direction is established by the described conduct.</summary>
+<summary>A certain wealthy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -312,7 +314,7 @@ Forward: The motive is malice or provocation, not love of riches, and he does gi
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Some evidence that the conduct resists this vice.</summary>
+<summary>someone [an indiscriminate giver] - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -325,7 +327,7 @@ Forward: Giving freely is not a love of riches, so it leans slightly towards res
 </details>
 
 <details>
-<summary>a prince — Some evidence that the conduct resists this vice.</summary>
+<summary>a prince - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -342,7 +344,7 @@ Forward: Distributing treasure on a large scale and openly refusing to hoard str
 </details>
 
 <details>
-<summary>scribes and Pharisees — Some evidence that the conduct shows this vice.</summary>
+<summary>scribes and Pharisees - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 ye devour widows’ houses, and for a pretence make long prayer
@@ -354,7 +356,7 @@ For this vice, showing it is adverse. 'Devour' indicates excessive acquisition f
 
 </details>
 
-Limits: Wealth itself is not the vice; Gibson's term is 'inordinate love'. The vice can grow unnoticed, so the subject's own denial does not settle the question.
+Wealth itself is not the vice; Gibson's term is 'inordinate love'. The vice can grow unnoticed, so the subject's own denial does not settle the question.
 
 ## diligence
 
@@ -362,14 +364,16 @@ Contrary of sloth: generous fervour in God's service, covering spiritual and tem
 
 > **we must cultivate the opposite virtue of Diligence, which is a generous fervour in the service of God.** The diligent man is not disheartened by labour or difficulties ; he is ever pressing on in the practice of virtue. Continually on his guard against the fatal habit of idleness, he is always engaged in some useful employment, and performs his duties, both spiritual and temporal, with fervour and exactness.
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
 > Thus he does not bury his talent in the ground like the slothful servant of the Gospel, but multiplies it by turning every grace and opportunity to good account.
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>NIta — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>NIta - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.
@@ -389,7 +393,7 @@ Forward: Under the guide, conflict requires negligence or careless performance o
 </details>
 
 <details>
-<summary>One of the Dukes of Chow — Some evidence that the conduct shows this virtue.</summary>
+<summary>One of the Dukes of Chow - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.
@@ -402,7 +406,7 @@ Forward: He does temporal duties of office promptly and in volume, which fits 'u
 </details>
 
 <details>
-<summary>one of my associates — Neither direction is established by the described conduct.</summary>
+<summary>one of my associates - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 I have small means and a large family, and cannot bear up with my load of poverty. ... And, as is known, I have some small skill in the science of accounts. If, through your respected interest, any office can be obtained that may be the means of quieting my mind, I shall not, during the remainder of life, be able to express my sense of its gratitude.
@@ -415,7 +419,7 @@ Forward: Seeking useful employment to meet a family duty points slightly toward 
 </details>
 
 <details>
-<summary>Dhananjani — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Dhananjani - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He uses the king to fleece the brahmins and householders, and uses them to fleece the king.
@@ -446,7 +450,7 @@ Busy exploitation is not diligence in virtue per ; he lacks earnest spiritual pr
 </details>
 
 <details>
-<summary>Somamitta — Some evidence that the conduct shows this virtue.</summary>
+<summary>Somamitta - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 went  to  Kassapa  the  Great, ... attending  his  lectures,
@@ -472,7 +476,7 @@ Guarded against idleness, pursued spiritual progress, turned opportunity to good
 </details>
 
 <details>
-<summary>the people — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the people - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Immediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.
@@ -486,36 +490,34 @@ The guide says conflict requires omission or negligence of duties. They omit tem
 
 </details>
 
-Limits: Diligence is generous fervour in God's service, shown in the practice of virtue, and it covers both spiritual and temporal duties performed with fervour and exactness. Busy activity, effort, or intense religious feeling does not establish diligence by itself; the effort must be turned 'to good account' in the practice of virtue. A wrongly directed zealous act may conflict with another virtue without being sloth. Lack of evidence for diligence is level 2 (neither direction established), not conflict. Conflict requires negligence, lukewarmness, omission, postponement, or careless performance of duties.
+Diligence is generous fervour in God's service, shown in the practice of virtue, and it covers both spiritual and temporal duties performed with fervour and exactness. Busy activity, effort, or intense religious feeling does not establish diligence by itself; the effort must be turned 'to good account' in the practice of virtue. A wrongly directed zealous act may conflict with another virtue without being sloth. Lack of evidence for diligence is level 2 (neither direction established), not conflict. Conflict requires negligence, lukewarmness, omission, postponement, or careless performance of duties.
 
 ## envy
 
 Sorrow at another's good, counted as one's own loss; opposed to charity.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|brotherly love`.
-
 > **6. Envy comes next among the Seven Capital Vices. It is "sorrow at another's good," which the envious man considers as his own loss.** This sin is directly opposed to that precept of Charity which teaches us to love our neighbour as ourselves
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
-Limits: Simply not noticing another's success is absence of envy, not resistance.
+Simply not noticing another's success is absence of envy, not resistance.
 
 ## gluttony
 
 Inordinate love of eating and drinking, including drunkenness.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|temperance`.
-
 > 5. Gluttony, which includes Drunkenness, is the inordinate love of eating and drinking.
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
 > **The glutton, or the drunkard, is like a beast of the field, a slave to his own appetites, for he is led by them rather than by reason or the Law of God.**
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>Apicius — Clear evidence that the conduct shows this vice.</summary>
+<summary>Apicius - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -528,7 +530,7 @@ Forward: An 'addiction' to fine dining that consumed a huge fortune, ending in s
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct resists this vice.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -541,7 +543,7 @@ Forward: Regular fasting and planned abstinence from alcohol are deliberate deni
 </details>
 
 <details>
-<summary>Rajadatta — Neither direction is established by the described conduct.</summary>
+<summary>Rajadatta - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -554,7 +556,7 @@ Forward: The excess is sexual or luxury spending on a courtesan, not eating or d
 </details>
 
 <details>
-<summary>Mindyrides — Neither direction is established by the described conduct.</summary>
+<summary>Mindyrides - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -567,7 +569,7 @@ Forward: This is softness and luxury in comfort, not eating or drinking. It coun
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -580,7 +582,7 @@ The story mentions no eating or drinking. Restraint in covetousness touches glut
 </details>
 
 <details>
-<summary>our minister Shaou — Some evidence that the conduct resists this vice.</summary>
+<summary>our minister Shaou - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 He  would  order  his  measures  and  movements, As  more  valuable  than  gold  or  gem.
@@ -598,7 +600,7 @@ The ode explicitly denies both a glutton's greed and a drunkard's thirst, which 
 
 </details>
 
-Limits: Ordinary eating is not gluttony; Gibson's term is 'inordinate love'. The Monica story is an attributed narrative from Butler.
+Ordinary eating is not gluttony; Gibson's term is 'inordinate love'. The Monica story is an attributed narrative from Butler.
 
 ## humility
 
@@ -614,8 +616,10 @@ Gibson, Catechism Made Easy III (1877), 17th instruction
 
 Gibson's 'False Humility' story shows that self-deprecating words alone do not establish humility.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>The scribes and the Pharisees — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>The scribes and the Pharisees - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments, ... And love the uppermost rooms at feasts, and the chief seats in the synagogues, ... And greetings in the markets, and to be called of men, Rabbi, Rabbi.
@@ -628,7 +632,7 @@ Doing works to be seen and loving chief seats and titles is claiming esteem as a
 </details>
 
 <details>
-<summary>the publican — Clear evidence that the conduct shows this virtue.</summary>
+<summary>the publican - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
@@ -641,7 +645,7 @@ Gibson cites the publican as humble exemplar; standing afar, lowered eyes, askin
 </details>
 
 <details>
-<summary>T‘ang the Completer — Neither direction is established by the described conduct.</summary>
+<summary>T‘ang the Completer - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 T‘ang the Completer established himself by observing what Ch‘ie of the Hsia dynasty had done, therefore he made his mind the ruler of his actions and carefully controlled them.
@@ -660,7 +664,7 @@ Self-control is not Gibson's humility. The later exaltation in the passage is an
 </details>
 
 <details>
-<summary>a certain brother — Some evidence that the conduct shows this virtue.</summary>
+<summary>a certain brother - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 out of his humility made answer, "Surely you are sent to some other one and not to me, for I am altogether unworthy to have an angel visitor."
@@ -675,7 +679,7 @@ Esteems himself unworthy of honour, refusing a privileged visitation; narrator s
 </details>
 
 <details>
-<summary>the Horse — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Horse - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 “Hardly,” said the Horse, “can I resist kicking you with my heels.”
@@ -688,7 +692,7 @@ Proud of trappings, he despises the laden Ass; Gibson: the proud man thinks well
 </details>
 
 <details>
-<summary>Jesus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Jesus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -700,7 +704,7 @@ Refusing worldly glory and directing all worship and service to God matches Gibs
 
 </details>
 
-Limits: Self-deprecating speech is not sufficient (Serapion story).
+Self-deprecating speech is not sufficient (Serapion story).
 
 ## liberality
 
@@ -714,8 +718,10 @@ Gibson, Catechism Made Easy III (1877), 17th instruction
 
 Gibson, Catechism Made Easy III (1877), 17th instruction
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -750,7 +756,7 @@ He refuses even patience to a pleading debtor, the reverse of generous use of go
 </details>
 
 <details>
-<summary>Arcesilaus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Arcesilaus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Without his knowledge, Arcesilaus put a purse under his pillow so that the man, whose modesty worked to his own disadvantage, should simply discover what he needed rather than receive it.
@@ -763,7 +769,7 @@ Generous use of goods for relief of a poor friend matches Gibson's liberality; m
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Neither direction is established by the described conduct.</summary>
+<summary>someone [an indiscriminate giver] - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -776,7 +782,7 @@ Generous use of goods, but not stated for God or the poor; feasts to anybody amb
 </details>
 
 <details>
-<summary>king Vessantara — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Vessantara - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -799,7 +805,7 @@ Immense non-acquisitive giving opposes covetousness; but giving persons exceeds 
 </details>
 
 <details>
-<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>A certain wealthy man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -830,7 +836,7 @@ Meal given to a holy man but aimed at annoyance, not God's honour or relief of p
 </details>
 
 <details>
-<summary>a prince — Some evidence that the conduct shows this virtue.</summary>
+<summary>a prince - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -846,25 +852,23 @@ Generous use of goods for his people opposes covetousness, but there is no expli
 
 </details>
 
-Limits: Giving is measured 'according to our means'. The reward stories are Gibson's illustrations, not conditions.
+Giving is measured 'according to our means'. The reward stories are Gibson's illustrations, not conditions.
 
 ## lust
 
 Impurity in deed, look, word, thought or desire. Mortal guilt requires full deliberate consent.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|chastity`.
-
 > A. The ninth commandment forbids all lustful thoughts and desires, and all wilful pleasure in the irregular motions of the flesh.
 
-Henry Gibson, Catechism Made Easy, vol.II (1874); retained-source lines 11515–11540
+Henry Gibson, Catechism Made Easy, vol.II (1874)
 
 > all indecent liberties either with ourselves or others, all unchaste looks, immodest talk, impure thoughts and desires, are, **if fully and deliberately consented to, mortal sins**
 
-Henry Gibson, Catechism Made Easy, vol.II (1874); retained-source lines 11596–11604
+Henry Gibson, Catechism Made Easy, vol.II (1874)
 
 The ninth commandment forbids 'wilful' pleasure. Gibson's chance-sight advice treats unchosen sights as occasions to turn away from, not as sin already committed.
 
-Limits: Do not treat involuntary temptation as consented mortal sin. Bernard's bodily penance is not a universal test.
+Do not treat involuntary temptation as consented mortal sin. Bernard's bodily penance is not a universal test.
 
 ## meekness
 
@@ -882,8 +886,10 @@ Gibson, Catechism Made Easy III (1877)
 
 Gibson, Catechism Made Easy III (1877)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>old man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>old man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Once, in a fit of anger, he drove him from his cell.
@@ -896,7 +902,7 @@ Angry expulsion of an innocent disciple opposes meekness; no injury received is 
 </details>
 
 <details>
-<summary>Lycurgus the Lacedaemonian — Clear evidence that the conduct shows this virtue.</summary>
+<summary>Lycurgus the Lacedaemonian - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre
@@ -909,7 +915,7 @@ Received grave injury, restrained revenge, rendered good for evil by raising the
 </details>
 
 <details>
-<summary>Yen Hwúi — Neither direction is established by the described conduct.</summary>
+<summary>Yen Hwúi - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a man whose angry feelings towards any particular person he did not suffer to visit upon another
@@ -922,7 +928,7 @@ Not visiting anger on innocents limits wrongful revenge, but no statement on res
 </details>
 
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 seized him and ate him up
@@ -935,7 +941,7 @@ Meekness restrains revenge on injury and renders not evil for evil. Wolf claims 
 </details>
 
 <details>
-<summary>Kaou Pih — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Kaou Pih - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room.
@@ -948,7 +954,7 @@ Having been opposed (injury of remonstrance), he renders lethal evil instead of 
 </details>
 
 <details>
-<summary>the old man — Clear evidence that the conduct shows this virtue.</summary>
+<summary>the old man - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The old man straightway turned to him the other cheek, that he might smite him upon it also.
@@ -960,36 +966,34 @@ On receiving injury he restrains revenge and offers the other cheek, with narrat
 
 </details>
 
-Limits: The good outcomes Gibson reports (conversions, success) are fruits, not conditions. The full treatment of anger in vol. II is not supplied.
+The good outcomes Gibson reports (conversions, success) are fruits, not conditions. The full treatment of anger in vol. II is not supplied.
 
 ## pride
 
 Excessive self-esteem, contempt of others, and taking God's glory for oneself.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|humility`.
-
 > **Pride, my dear children, is an excessive self-esteem.** The proud man always thinks well of himself and despises others; moreover, he attributes to himself whatever good there is, or that he thinks there is in him, thereby robbing God, from whom all good proceeds, of that glory which is his due. It is in this that the heinousness of Pride consists, it is both a lie and a theft
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
-Limits: Gibson's punishment stories illustrate pride; they do not define it. Simply not boasting is absence of pride, not resistance to it.
+Gibson's punishment stories illustrate pride; they do not define it. Simply not boasting is absence of pride, not resistance to it.
 
 ## sloth
 
 Spiritual laziness in God's service, with allied bodily laziness.
 
-Labels derive from `christian|seven_deadly_sins_contrary_virtues|diligence`.
-
 > **It is a laziness of soul which makes us negligent and lukewarm in the service of God.** The slothful man either omits his spiritual duties or puts them off from day to day; and when he does perform them, it is with reluctance and in a careless and negligent manner.
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
 > It is by indulging these habits of bodily laziness, that people fall by degrees into the deadly sin of Spiritual Sloth.
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 14780–15350
+Henry Gibson, Catechism Made Easy, vol.III (1877)
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>NIta — Clear evidence that the conduct shows this vice.</summary>
+<summary>NIta - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.
@@ -1009,7 +1013,7 @@ Forward: Both parts of Gibson's description are present as stated facts. The spi
 </details>
 
 <details>
-<summary>One of the Dukes of Chow — Some evidence that the conduct resists this vice.</summary>
+<summary>One of the Dukes of Chow - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.
@@ -1022,7 +1026,7 @@ Forward: The Duke refuses to put business off even briefly, the opposite of post
 </details>
 
 <details>
-<summary>Dhananjani — Neither direction is established by the described conduct.</summary>
+<summary>Dhananjani - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He uses the king to fleece the brahmins and householders, and uses them to fleece the king.
@@ -1053,7 +1057,7 @@ Forward: Fleecing others is active, profit-seeking injustice, closer to covetous
 </details>
 
 <details>
-<summary>Somamitta — Some evidence that the conduct resists this vice.</summary>
+<summary>Somamitta - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 went  to  Kassapa  the  Great, ... attending  his  lectures,
@@ -1079,7 +1083,7 @@ Forward: His motive is stated: he left to avoid the influence of a 'sluggard' gi
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Immediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.
@@ -1094,7 +1098,7 @@ There is neglect, but not laziness of soul or lukewarmness; their fault is exces
 </details>
 
 <details>
-<summary>one of my associates — Neither direction is established by the described conduct.</summary>
+<summary>one of my associates - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 I have small means and a large family, and cannot bear up with my load of poverty. ... And, as is known, I have some small skill in the science of accounts. If, through your respected interest, any office can be obtained that may be the means of quieting my mind, I shall not, during the remainder of life, be able to express my sense of its gratitude.
@@ -1106,7 +1110,7 @@ Forward: Seeking work is the opposite of 'disgust for work', so it is some evide
 
 </details>
 
-Limits: Rest is not sloth. The vice is negligence in God's service; bodily laziness is its allied path, not its definition.
+Rest is not sloth. The vice is negligence in God's service; bodily laziness is its allied path, not its definition.
 
 ## temperance
 
@@ -1120,8 +1124,10 @@ Gibson, Catechism Made Easy III (1877), 17th instruction
 
 Gibson, Catechism Made Easy III (1877), 17th instruction
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Apicius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -1134,7 +1140,7 @@ An addiction to fine dining with enormous spending is an inordinate love of eati
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct shows this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -1147,7 +1153,7 @@ Fasting and alcohol-free days are self-denial in little things over food and dri
 </details>
 
 <details>
-<summary>Rajadatta — Neither direction is established by the described conduct.</summary>
+<summary>Rajadatta - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -1160,7 +1166,7 @@ The spending was on a courtesan, not eating or drinking; this item covers only f
 </details>
 
 <details>
-<summary>Mindyrides — Neither direction is established by the described conduct.</summary>
+<summary>Mindyrides - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -1173,7 +1179,7 @@ Item is restricted to eating and drinking; rose-leaf bed and forbidding labor in
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -1186,7 +1192,7 @@ This item is limited to food and drink. The stores may include food, but the tex
 </details>
 
 <details>
-<summary>our minister Shaou — Some evidence that the conduct shows this virtue.</summary>
+<summary>our minister Shaou - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He  would  order  his  measures  and  movements, As  more  valuable  than  gold  or  gem.
@@ -1204,4 +1210,4 @@ The ode directly says he lacks a drunkard's thirst and a glutton's greed, which 
 
 </details>
 
-Limits: Limited to food and drink. The broader moderation in all things belongs to the separate cardinal Temperance item.
+Limited to food and drink. The broader moderation in all things belongs to the separate cardinal Temperance item.

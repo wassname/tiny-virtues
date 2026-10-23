@@ -8,7 +8,7 @@ Gibson: keeping back by fraud the hire of labourers, such as reapers.
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Four Sins Crying to Heaven,pp274–275
 
-Limits: Fraud is key: honest disputes or inability to pay are not established fraud. Claims of divine vengeance are attributed.
+Fraud is key: honest disputes or inability to pay are not established fraud. Claims of divine vengeance are attributed.
 
 ## oppression of the poor
 
@@ -18,7 +18,7 @@ Gibson: cruel oppression of the poor, especially the widow and orphan.
 
 Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Four Sins Crying to Heaven,pp274–275
 
-Limits: Gibson gives the victims and the prophetic warnings but no detailed means. His claims of divine chastisement are attributed.
+Gibson gives the victims and the prophetic warnings but no detailed means. His claims of divine chastisement are attributed.
 
 ## sodomy
 
@@ -50,7 +50,7 @@ Gibson, Catechism Made Easy II, p. 209
 
 Gibson calls it 'an unnatural sin of impurity' and does not say more; Spirago speaks of the Sodomites' 'unnatural sins'. Aquinas narrows the 'vice of sodomy' to sexual union with one of the same sex, one of four unnatural vices. Other unchaste acts, such as adultery, are impurity but not this sin. Under Gibson's teaching, desire fully consented to is grievous, so refusing it resists the sin.
 
-Limits: Gibson's own term may be wider than Aquinas's narrow 'vice of sodomy'; the two are kept apart, not merged. This records the catechism's teaching, not a modern legal, medical or moral standard. Genesis 19's narrative details are not in Gibson's text and are not used.
+Gibson's own term may be wider than Aquinas's narrow 'vice of sodomy'; the two are kept apart, not merged. This records the catechism's teaching, not a modern legal, medical or moral standard. Genesis 19's narrative details are not in Gibson's text and are not used.
 
 ## wilful murder
 
@@ -62,4 +62,4 @@ Rev.Henry Gibson, Catechism Made Easy,vol.III(1877), Four Sins Crying to Heaven,
 
 Gibson does not define the edges of wilfulness, such as accident or defence. Those boundaries are a source gap.
 
-Limits: Claims about vengeance are attributed. These examples are not modern legal standards.
+Claims about vengeance are attributed. These examples are not modern legal standards.

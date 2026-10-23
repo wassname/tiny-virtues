@@ -8,7 +8,7 @@ Zhuangzi 31 four evils (Watson tr.): appropriating others’ affairs, not merely
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The fault overlaps with officiousness, but here the marker is controlling and appropriating.
+The fault overlaps with officiousness, but here the marker is controlling and appropriating.
 
 ## Avidity
 
@@ -18,7 +18,7 @@ Zhuangzi 31 four evils besetting undertakings (Watson tr.), with the stranger’
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: Not all change is avidity. The fame aim is part of the definition.
+Not all change is avidity. The fame aim is part of the definition.
 
 ## Bigotry
 
@@ -28,7 +28,7 @@ Zhuangzi 31 four evils (Watson tr.): agreement-based evaluation.
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The fault is not limited to religious hostility. It requires that goodness actually be present and be denied because of disagreement.
+The fault is not limited to religious hostility. It requires that goodness actually be present and be denied because of disagreement.
 
 ## Obstinacy
 
@@ -42,4 +42,4 @@ Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: Disagreeing with a remonstrance one judges mistaken is not shown by the source to be obstinacy. The source leaves this case open.
+Disagreeing with a remonstrance one judges mistaken is not shown by the source to be obstinacy. The source leaves this case open.

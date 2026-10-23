@@ -14,7 +14,7 @@ MN58, tr.Chalmers, Further Dialogues I (1926), pp284–285
 
 So the fact that a hearer dislikes the content does not by itself make speech bitter.
 
-Limits: MN58 concerns the truth-finder, as stated by the Buddha. It is not a license for every correction.
+MN58 concerns the truth-finder, as stated by the Buddha. It is not a license for every correction.
 
 ## Abstaining from killing
 
@@ -30,7 +30,7 @@ MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
 Both translations pair abstention with active kindliness and compassion, not bare non-killing.
 
-Limits: The source does not discuss accidents, meat-eating or defence.
+The source does not discuss accidents, meat-eating or defence.
 
 ## Abstaining from lies
 
@@ -44,7 +44,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: Honest mistakes are outside 'full awareness'. The passage does not demand that one tell everything.
+Honest mistakes are outside 'full awareness'. The passage does not demand that one tell everything.
 
 ## Abstaining from sensual misconduct
 
@@ -60,7 +60,7 @@ MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
 Ñanamoli adds 'have a husband' and 'entail a penalty', which Chalmers omits. Applying this course symmetrically to women is our editorial reading.
 
-Limits: The source states no consent, age or celibacy rules. Do not add them from memory.
+The source states no consent, age or celibacy rules. Do not add them from memory.
 
 ## Abstaining from slander
 
@@ -74,7 +74,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: Passing on information without a divisive purpose is not addressed by the text.
+Passing on information without a divisive purpose is not addressed by the text.
 
 ## Abstaining from tattle
 
@@ -88,7 +88,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: The source does not say that all ordinary conversation is tattle.
+The source does not say that all ordinary conversation is tattle.
 
 ## Bitter speech
 
@@ -104,7 +104,7 @@ MN58, tr.Chalmers, Further Dialogues I (1926), pp284–285
 
 So unwelcome content alone does not establish the vice.
 
-Limits: MN58 concerns the truth-finder, as stated by the Buddha. It is not a license for every correction.
+MN58 concerns the truth-finder, as stated by the Buddha. It is not a license for every correction.
 
 ## Covetousness
 
@@ -118,7 +118,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: General desire is not this item, which is specific to another's property.
+General desire is not this item, which is specific to another's property.
 
 ## Devoid of covetousness
 
@@ -132,7 +132,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: The text does not condemn every desire, only coveting another's goods.
+The text does not condemn every desire, only coveting another's goods.
 
 ## Eschewing theft
 
@@ -146,7 +146,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: The source gives no rules on ownership, debt or found property beyond 'not given'.
+The source gives no rules on ownership, debt or found property beyond 'not given'.
 
 ## Lying
 
@@ -156,7 +156,7 @@ MN41 first verbal unrighteousness. Low score means showing the vice; high means 
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: Overlaps with slander and harsh speech are possible, but the courses remain distinct.
+Overlaps with slander and harsh speech are possible, but the courses remain distinct.
 
 ## Malevolence
 
@@ -170,7 +170,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: Angry words belong under bitter speech.
+Angry words belong under bitter speech.
 
 ## No malevolence
 
@@ -184,8 +184,10 @@ MN 41, trans. Chalmers (1926)
 
 MN 41, trans. Nanamoli
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Wolf — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 seized him and ate him up
@@ -198,7 +200,7 @@ No-malevolence wishes beings safe from oppression. Wolf intends and accomplishes
 </details>
 
 <details>
-<summary>Lycurgus the Lacedaemonian — Clear evidence that the conduct shows this virtue.</summary>
+<summary>Lycurgus the Lacedaemonian - Clear evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre
@@ -211,7 +213,7 @@ Instead of harm, he sought offender's betterment and public good, showing well-w
 </details>
 
 <details>
-<summary>Yen Hwúi — Neither direction is established by the described conduct.</summary>
+<summary>Yen Hwúi - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a man whose angry feelings towards any particular person he did not suffer to visit upon another
@@ -224,7 +226,7 @@ Angry feelings exist, not positive well-wishing; but no ill-will harm shown. Nei
 </details>
 
 <details>
-<summary>old man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>old man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Once, in a fit of anger, he drove him from his cell.
@@ -237,7 +239,7 @@ Anger shown, but no wish for harm or destruction stated; mild conflict.
 </details>
 
 <details>
-<summary>Kaou Pih — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Kaou Pih - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room.
@@ -250,7 +252,7 @@ He intends and carries out the duke's death, ill-will wishing beings slain, oppo
 </details>
 
 <details>
-<summary>the old man — Some evidence that the conduct shows this virtue.</summary>
+<summary>the old man - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The old man straightway turned to him the other cheek, that he might smite him upon it also.
@@ -262,7 +264,7 @@ No ill-will shown toward attacker; positive well-wishing is implied only weakly 
 
 </details>
 
-Limits: The text does not address mere irritation. It defines ill-will as wishing beings harm or destruction, and no-malevolence as wishing them peace and happiness.
+The text does not address mere irritation. It defines ill-will as wishing beings harm or destruction, and no-malevolence as wishing them peace and happiness.
 
 ## Right outlook
 
@@ -276,7 +278,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: This is not generic cleverness or opinion. Editorial notes on rebirth are not primary teaching.
+This is not generic cleverness or opinion. Editorial notes on rebirth are not primary teaching.
 
 ## Sensual misconduct (fornication)
 
@@ -292,7 +294,7 @@ MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
 Ñanamoli includes husbands and penalties, which Chalmers omits. The gender-symmetric application is our editorial reading.
 
-Limits: The source states no consent or age rules. Do not add them.
+The source states no consent or age rules. Do not add them.
 
 ## Slander
 
@@ -302,7 +304,7 @@ MN41 second verbal unrighteousness: speech meant to divide, not necessarily fals
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: Repeating information without a divisive purpose is not settled by the passage.
+Repeating information without a divisive purpose is not settled by the passage.
 
 ## Taking life
 
@@ -316,7 +318,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: The quoted passages do not address accidents.
+The quoted passages do not address accidents.
 
 ## Taking what is not his
 
@@ -330,7 +332,7 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: The source gives no detailed property law.
+The source gives no detailed property law.
 
 ## Tattle
 
@@ -344,13 +346,15 @@ MN41, tr.Chalmers, Further Dialogues I (1926)
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
+The same discourse describes the righteous counterpart:
+
 > Abandoning gossip, he becomes one who abstains from gossip: as one who tells that which is seasonable, that which is factual, that which is good, that which is the Dhamma, that which is the Discipline, he speaks in season speech worth recording, which is reasoned, definite and connected with good.
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
 The two translations draw the factual condition differently. Chalmers has 'without heed to fact', which faults talking without regard to whether something is so; Ñāṇamoli has 'that which is not fact'. Passing on unchecked rumour fits Chalmers' wording even if a rumour happens to be true. Both make timing and connection with good part of the fault, so true but ill-timed, pointless talk can still show the vice.
 
-Limits: The source does not make every casual remark tattle. Chalmers' 'without heed to fact' and Ñāṇamoli's 'not fact' are kept apart: unchecked talk need not be false. The source does not settle whether useful practical speech that is not about the Doctrine or the Rule fully counts as the righteous side; the farmer example rates it only as some resistance.
+The source does not make every casual remark tattle. Chalmers' 'without heed to fact' and Ñāṇamoli's 'not fact' are kept apart: unchecked talk need not be false. The source does not settle whether useful practical speech that is not about the Doctrine or the Rule fully counts as the righteous side; the farmer example rates it only as some resistance.
 
 ## Wrong outlook
 
@@ -360,4 +364,4 @@ MN41 third mental unrighteousness: specific denials, not generic opinions. Low s
 
 MN41, tr.Nanamoli, ed.Khantipalo (BPS1993, ATI2013)
 
-Limits: Footnote [1] belongs to the editorial layer, not the primary discourse.
+Footnote [1] belongs to the editorial layer, not the primary discourse.

@@ -20,13 +20,15 @@ Epictetus, Discourses 2.1 (Oldfather)
 
 Epictetus, Discourses 2.1 (Oldfather)
 
+Among unconditional duties:
+
 > to take proper care of health
 
 Diogenes Laertius 7.109 (Hicks)
 
 Caution is reasonable avoidance. Diogenes names no object; Epictetus places it in one's own moral purpose, guarding against wrong judgement and choice. Care for health and safety is an appropriate act toward indifferents; it counts as caution only when the agent is shown guarding his own judgement. Gellius reports that a first start is not yet fear.
 
-Limits: Diogenes and Epictetus differ in specificity; the difference is kept. Reverence and modesty are not defined; modesty is not the same as shame, which Diogenes places under fear as 'fear of disgrace'. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.
+Diogenes and Epictetus differ in specificity; the difference is kept. Reverence and modesty are not defined; modesty is not the same as shame, which Diogenes places under fear as 'fear of disgrace'. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.
 
 ## desire or craving
 
@@ -54,7 +56,7 @@ Diogenes Laertius 7.111 (Hicks)
 
 Craving is reaching toward something against reason; its rational counterpart is wishing. Anger (craving to punish), wrath, hatred and partisanship belong to it. 'Love' here means narrowly an effort to win affection because of visible beauty. Choosing a preferred indifferent is not itself craving; it becomes craving when the thing is treated as a good, as avarice treats money. Yonge's 'lust' is this passion.
 
-Limits: The source sets no rule on marriage or household life; affection falls under wishing, not under this 'love'.
+The source sets no rule on marriage or household life; affection falls under wishing, not under this 'love'.
 
 ## fear
 
@@ -82,7 +84,7 @@ Epictetus, Discourses 2.1 (Oldfather)
 
 Fear is assent to the expectation that an evil is coming; terror, shame (fear of disgrace), shrinking from action and agony in suspense are its kinds. Epictetus treats it as caution aimed at things outside one's moral purpose. An involuntary start before assent is not yet fear. Physical avoidance with no stated dread is not evidence of fear.
 
-Limits: Gellius's report is about fright and is not stretched further. Shame here is a species of fear and is not modesty. Resisting fear in one act does not certify sagehood.
+Gellius's report is about fright and is not stretched further. Shame here is a species of fear and is not modesty. Resisting fear in one act does not certify sagehood.
 
 ## grief
 
@@ -114,7 +116,7 @@ Diogenes Laertius 7.117 (Hicks)
 
 Grief is the soul shrinking at something judged a present evil; pity, envy and lasting distress are its kinds. No good feeling answers to it. Epictetus allows outward sympathy, even groaning with a mourner, while not grieving inwardly. Freedom from grief is not callousness, which Diogenes calls the bad man's apathy.
 
-Limits: Pity counts as grief here, as the source lists it; resisting pity does not mean refusing help. A momentary change of face with nothing more known is not established as the passion. Gellius's report on a first start concerns fright and is not extended here.
+Pity counts as grief here, as the source lists it; resisting pity does not mean refusing help. A momentary change of face with nothing more known is not established as the passion. Gellius's report on a first start concerns fright and is not extended here.
 
 ## joy
 
@@ -138,7 +140,7 @@ Cicero, Tusculan Disputations 4.6-7 (Yonge)
 
 Joy is calm, reasonable elation; its forms are delight, mirth and cheerfulness. Diogenes counts it an accessory of virtue and virtuous acts. Pleasure is elation that outruns reason at gaining what merely seems choiceworthy. Yonge's Cicero also uses 'joy' for the passion; read his 'immoderate joy' as Diogenes's pleasure.
 
-Limits: No worked case of joy is given. 'Delight' appears under both joy and pleasure, so the word does not settle which is present. Gladness at a preferred indifferent, such as health, is not shown to be joy merely because the thing is preferred. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.
+No worked case of joy is given. 'Delight' appears under both joy and pleasure, so the word does not settle which is present. Gladness at a preferred indifferent, such as health, is not shown to be joy merely because the thing is preferred. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.
 
 ## pleasure
 
@@ -162,7 +164,7 @@ Epictetus, Handbook 34 (Oldfather)
 
 Pleasure is elation that outruns reason at gaining what merely seems choiceworthy; malevolent joy, ravishment by sound, transport and boastfulness are its kinds. Its rational counterpart is joy. Epictetus's counsel is to delay before an impression of pleasure and not be carried away.
 
-Limits: Not every enjoyment is the passion; the source defines it by irrationality. The remark that good men are 'austere' (7.117) is not turned into a rule for ordinary readers.
+Not every enjoyment is the passion; the source defines it by irrationality. The remark that good men are 'austere' (7.117) is not turned into a rule for ordinary readers.
 
 ## wishing
 
@@ -186,4 +188,4 @@ Diogenes Laertius 7.113 (Hicks)
 
 Wishing is reasonable reaching toward a good; its forms are well-wishing, friendliness, respect and affection. It stands against hatred, anger and contentiousness, which fall under craving. Affection under wishing differs from the passion of 'love', defined narrowly as an effort to win affection because of visible beauty.
 
-Limits: The source names no list of proper objects. An ordinary preference among indifferents is not shown to be wishing. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.
+The source names no list of proper objects. An ordinary preference among indifferents is not shown to be wishing. Diogenes reports that only the wise have the good feelings; one act gives evidence of a good feeling, not of sagehood.

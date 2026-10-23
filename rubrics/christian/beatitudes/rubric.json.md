@@ -10,7 +10,7 @@ Gibson, Catechism Made EasyIII1877, Eight Beatitudes pp251–258
 
 The saints are examples, not templates. The incidental details of Aloysius's conduct are not requirements.
 
-Limits: Gibson emphasizes sexual purity but frames the quality as innocence generally. Do not require a monastic or saintly profile.
+Gibson emphasizes sexual purity but frames the quality as innocence generally. Do not require a monastic or saintly profile.
 
 ## the meek
 
@@ -22,7 +22,7 @@ Gibson, Catechism Made EasyIII1877, Eight Beatitudes pp251–258
 
 The quality concerns the response to injury. Mere quietness or lack of assertiveness does not count.
 
-Limits: The source's claims about the earthly success of the meek are promises, not criteria. Do not require that an enemy be converted.
+The source's claims about the earthly success of the meek are promises, not criteria. Do not require that an enemy be converted.
 
 ## the merciful
 
@@ -32,7 +32,7 @@ Gibson: showing mercy and compassion through works of mercy, such as feeding the
 
 Gibson, Catechism Made EasyIII1877, Eight Beatitudes pp251–258
 
-Limits: The conversion that followed the alms is a reported teaching story, not verified. Mercy here does not require the giver to be sinless.
+The conversion that followed the alms is a reported teaching story, not verified. Mercy here does not require the giver to be sinless.
 
 ## the peace-makers
 
@@ -54,7 +54,7 @@ Gibson, Catechism Made EasyIII1877, Eight Beatitudes pp251–258
 
 Gibson locates this quality in the heart's affection, not in the amount a person owns.
 
-Limits: Poverty by itself is not the quality.
+Poverty by itself is not the quality.
 
 ## they that hunger and thirst after justice
 
@@ -66,7 +66,7 @@ Gibson, Catechism Made EasyIII1877, Eight Beatitudes pp251–258
 
 The quality is the desire and the striving, not completed sanctity and not a thirst for vengeance.
 
-Limits: The source refers back to an earlier treatment of justice that is not supplied. Do not fill that gap from memory.
+The source refers back to an earlier treatment of justice that is not supplied. Do not fill that gap from memory.
 
 ## they that mourn
 
@@ -88,4 +88,4 @@ Gibson, Catechism Made EasyIII1877, Eight Beatitudes pp251–258
 
 Suffering alone, or punishment for a real wrong, is not this quality.
 
-Limits: The later vindication in the Vincent story is a reported outcome, not a criterion. No explicit Christian wording is required in ordinary virtue cases.
+The later vindication in the Vincent story is a reported outcome, not a criterion. No explicit Christian wording is required in ordinary virtue cases.

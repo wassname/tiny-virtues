@@ -12,7 +12,7 @@ Laozi, Daodejing 24, trans. James Legge(1891)
 
 Laozi, Daodejing 22, trans. James Legge(1891)
 
-Limits: This does not ban stating views. The boundary between stating a view and asserting it is undecided in the source.
+This does not ban stating views. The boundary between stating a view and asserting it is undecided in the source.
 
 ## Displaying himself
 
@@ -26,7 +26,7 @@ Laozi, Daodejing 24, trans. James Legge(1891)
 
 Laozi, Daodejing 22, trans. James Legge(1891)
 
-Limits: The four faults overlap in ch. 24, so they are not exclusive types. Visibility imposed by a duty is not decided by the text.
+The four faults overlap in ch. 24, so they are not exclusive types. Visibility imposed by a duty is not decided by the text.
 
 ## Self-conceit
 
@@ -40,7 +40,7 @@ Laozi, Daodejing 24, trans. James Legge(1891)
 
 Laozi, Daodejing 22, trans. James Legge(1891)
 
-Limits: Legge uses 'self-conceited' in ch. 24 and 'self-complacency' in ch. 22. Accurate self-knowledge is not decided by the text.
+Legge uses 'self-conceited' in ch. 24 and 'self-complacency' in ch. 22. Accurate self-knowledge is not decided by the text.
 
 ## Vaunting himself
 
@@ -54,4 +54,4 @@ Laozi, Daodejing 24, trans. James Legge(1891)
 
 Laozi, Daodejing 22, trans. James Legge(1891)
 
-Limits: This fault overlaps with self-display. Required reports or records are not judged by the text.
+This fault overlaps with self-display. Required reports or records are not judged by the text.

@@ -12,8 +12,10 @@ Cicero, On Duties 1.42-43, trans. Miller (1913)
 
 Charity is positive help measured by justice. It is not every pleasant act, and not religious faith.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>A certain wealthy man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>A certain wealthy man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 A certain wealthy man designed to annoy the ascetic. So he brought him to his dwelling, and pointed out a seat, and then served him with fish. After the meal, the man sat on one side, and said, "This food was prepared on purpose for you, by killing living creatures. Not upon my head is this wrong, but upon yours!"
@@ -44,7 +46,7 @@ Favour designed to harm the recipient morally; Cicero calls harmful favours syco
 </details>
 
 <details>
-<summary>Arcesilaus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Arcesilaus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Without his knowledge, Arcesilaus put a purse under his pillow so that the man, whose modesty worked to his own disadvantage, should simply discover what he needed rather than receive it.
@@ -57,7 +59,7 @@ Helps a worthy friend in need, harms no one; means unstated but not adverse. Fit
 </details>
 
 <details>
-<summary>king Vessantara — Neither direction is established by the described conduct.</summary>
+<summary>king Vessantara - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 gave away whatsoever is in the world considered most difficult to bestow
@@ -80,7 +82,7 @@ Giving away wife and children risks injury to them and others; Cicero requires n
 </details>
 
 <details>
-<summary>someone [an indiscriminate giver] — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>someone [an indiscriminate giver] - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 gives a benefit to just anybody
@@ -93,7 +95,7 @@ Giving to enemies and dishonorable people ignores Cicero's requirement of propor
 </details>
 
 <details>
-<summary>a prince — Neither direction is established by the described conduct.</summary>
+<summary>a prince - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He opened the hand of liberality, displayed his munificence, and bestowed innumerable gifts upon his troops and people.
@@ -110,7 +112,7 @@ Indiscriminate largesse, possibly imprudent for the state's means and unproporti
 </details>
 
 <details>
-<summary>the servant — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the servant - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest. ... And he would not: but went and cast him into prison, till he should pay the debt.
@@ -144,7 +146,7 @@ Cicero measures kindness by justice, and collecting a just debt is not itself in
 
 </details>
 
-Limits: If a scene leaves means or recipient worth unknown, that uncertainty is not adverse evidence.
+If a scene leaves means or recipient worth unknown, that uncertainty is not adverse evidence.
 
 ## justice
 
@@ -166,8 +168,10 @@ Cicero, On Duties 1, trans. Miller (1913)
 
 Good faith is foundational, but it is governed by the no-harm and common-interest principles.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Fox — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Fox - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -180,7 +184,7 @@ Unprovoked harm to partner and breach of partnership good faith; fear-motivated 
 </details>
 
 <details>
-<summary>Tsze-sze — Some evidence that the conduct shows this virtue.</summary>
+<summary>Tsze-sze - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -193,7 +197,7 @@ Staying to shield the city from plunderers is opposing wrong and keeps faith wit
 </details>
 
 <details>
-<summary>the son — Neither direction is established by the described conduct.</summary>
+<summary>the son - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 If a father has stolen a sheep, the son will give evidence against him.
@@ -208,7 +212,7 @@ Truth and opposing wrong support justice; harm to parent and duty to family comp
 </details>
 
 <details>
-<summary>a slave — Some evidence that the conduct shows this virtue.</summary>
+<summary>a slave - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -221,7 +225,7 @@ Good faith, fidelity to trust, is the foundation of justice; he keeps it against
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -234,7 +238,7 @@ Both offices of justice are breached: they took property beyond their own lot, a
 </details>
 
 <details>
-<summary>the husbandmen — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the husbandmen - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -266,4 +270,4 @@ The servants came only to collect the agreed fruits, so the harm was unprovoked.
 
 </details>
 
-Limits: The provocation qualifier is the source's own; it does not license unconditional pacifism or all conquest. The excused advocate (1.32) shows no breach, not positive justice.
+The provocation qualifier is the source's own; it does not license unconditional pacifism or all conquest. The excused advocate (1.32) shows no breach, not positive justice.

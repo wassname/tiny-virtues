@@ -12,7 +12,7 @@ Laozi, Daodejing 46, trans. James Legge(1891)
 
 Laozi, Daodejing 44, trans. James Legge(1891)
 
-Limits: This does not condemn earning or acquiring as such, and the text sets no threshold for 'sufficient'.
+This does not condemn earning or acquiring as such, and the text sets no threshold for 'sufficient'.
 
 ## To be discontented with one's lot
 
@@ -26,7 +26,7 @@ Laozi, Daodejing 46, trans. James Legge(1891)
 
 Laozi, Daodejing 44, trans. James Legge(1891)
 
-Limits: The text does not define what one's lot is, and the case of real deprivation is unresolved.
+The text does not define what one's lot is, and the case of real deprivation is unresolved.
 
 ## To sanction ambition
 
@@ -42,4 +42,4 @@ Laozi, Daodejing 44, trans. James Legge(1891)
 
 Legge renders this 'sanction ambition'.
 
-Limits: This reading depends on Legge's rendering. It does not condemn every goal or the act of earning a living.
+This reading depends on Legge's rendering. It does not condemn every goal or the act of earning a living.

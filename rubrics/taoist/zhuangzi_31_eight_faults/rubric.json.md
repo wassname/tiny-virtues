@@ -8,7 +8,7 @@ Zhuangzi 31 eight faults (Watson tr.).
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The marker is delight, not falsehood. Watson’s “calumny” should not be read as requiring slander.
+The marker is delight, not falsehood. Watson’s “calumny” should not be read as requiring slander.
 
 ## Flattery
 
@@ -18,7 +18,7 @@ Zhuangzi 31 eight faults (Watson tr.).
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The fault is speech unmoored from right and wrong, not praise as such. It overlaps with treachery’s “without thought for right or wrong.”
+The fault is speech unmoored from right and wrong, not praise as such. It overlaps with treachery’s “without thought for right or wrong.”
 
 ## Maliciousness
 
@@ -28,7 +28,7 @@ Zhuangzi 31 eight faults (Watson tr.).
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The fault requires an agent who divides people. The source gives no motive requirement and no exceptions.
+The fault requires an agent who divides people. The source gives no motive requirement and no exceptions.
 
 ## Obsequiousness
 
@@ -38,7 +38,7 @@ Zhuangzi 31 eight faults (Watson tr.): the stranger’s definition, spoken to Co
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The source gives only a one-sentence definition, and gives no reason for the nod requirement. Ordinary deference is not resistance.
+The source gives only a one-sentence definition, and gives no reason for the nod requirement. Ordinary deference is not resistance.
 
 ## Officiousness
 
@@ -52,7 +52,7 @@ Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The fault turns on business that is not one’s own. Helping when one is asked, or acting within one’s role, is not evidence of it.
+The fault turns on business that is not one’s own. Helping when one is asked, or acting within one’s role, is not evidence of it.
 
 ## Sycophancy
 
@@ -62,7 +62,7 @@ Zhuangzi 31 eight faults (Watson tr.): a fault of speech and service.
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: Agreement alone is not this fault. The source does not explain why the echoer draws the other out.
+Agreement alone is not this fault. The source does not explain why the echoer draws the other out.
 
 ## Treachery
 
@@ -72,7 +72,7 @@ Zhuangzi 31 eight faults (Watson tr.): two-faced probing, not every betrayal.
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: Watson’s “treachery” is technical. It overlaps with flattery’s disregard of right and wrong.
+Watson’s “treachery” is technical. It overlaps with flattery’s disregard of right and wrong.
 
 ## Wickedness
 
@@ -82,4 +82,4 @@ Zhuangzi 31 eight faults (Watson tr.): a defined term, not any immoral act.
 
 Zhuangzi 31 The Old Fisherman, trans. Burton Watson 2013, stranger speaking
 
-Limits: The term is narrow, unlike generic English “wickedness.” Harm done without false praise belongs elsewhere.
+The term is narrow, unlike generic English “wickedness.” Harm done without false praise belongs elsewhere.

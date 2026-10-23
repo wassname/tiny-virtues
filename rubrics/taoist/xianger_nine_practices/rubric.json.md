@@ -4,6 +4,8 @@
 
 Calming emotion and thought so that the body's pneumas circulate: a specific morning-and-evening practice, extended to not being swept along by passions or by the crowd.
 
+The fifth of the Nine Practices (行清靜):
+
 > Practice clarity and stillness.
 
 Nine Practices, trans. Bokenkamp, Early Daoist Scriptures (1997), p. 49
@@ -28,11 +30,13 @@ Project translation: 'People of the Dao should value their essence and spirit, t
 
 Clarity and stillness is first a cultivation practice, a daily calming so that pneuma circulates. The commentary ties it to conduct: emotions are regulated until they melt, gains and losses are met without rancour, and one does not drift with the crowd. Even rulers are told to put stillness first.
 
-Limits: The meditative and physiological core cannot be seen in most single acts; conduct is evidence of it, not the practice itself. Calm is not indifference to others' suffering. Overlaps desirelessness. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+The meditative and physiological core cannot be seen in most single acts; conduct is evidence of it, not the practice itself. Calm is not indifference to others' suffering. Overlaps desirelessness. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice desirelessness
 
 Freedom from 'deviant' worldly desires, for wealth, rank, glory and fine things, rather than from all wanting: the adept still desires life and the Dao.
+
+The seventh of the Nine Practices (行無欲):
 
 > Practice desirelessness.
 
@@ -58,11 +62,13 @@ Project translation: 'What the Dao speaks of is only being without selfishness a
 
 Desirelessness targets worldly desire for precious goods, wealth, rank, glory, fine clothes and food, and leaves the adept's longing for life and the Dao intact. In conduct it shows as not coveting, and as checking the heart when it stirs.
 
-Limits: The text openly keeps a desire for long life and heavenly reward, so this is not total desirelessness. Meeting basic needs is not condemned; precept 19 forbids only strenuous seeking after wealth. Overlaps knowing sufficiency. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+The text openly keeps a desire for long life and heavenly reward, so this is not total desirelessness. Meeting basic needs is not condemned; precept 19 forbids only strenuous seeking after wealth. Overlaps knowing sufficiency. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice flexibility and weakness
 
 Being supple and weak like water: going to the low place, giving way instead of forcing, and benefiting others without struggle.
+
+The second of the Nine Practices (行柔弱):
 
 > Practice flexibility and weakness.
 
@@ -86,11 +92,13 @@ Project translation: 'The Dao is very vast, yet it dwells in suppleness and weak
 
 This is water's disposition: taking the low place, giving way rather than struggling, and still benefiting others. The commentary also reads it bodily, as making oneself supple like an infant by gathering pneuma. In conduct it shows as yielding instead of forcing one's way; it is not passivity toward others' needs.
 
-Limits: The practice is partly physiological (pneuma and bodily suppleness), which single acts rarely reveal. 'Weakness' is not cowardice or refusing help: water 'constantly benefits'. Overlaps yielding to others. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+The practice is partly physiological (pneuma and bodily suppleness), which single acts rarely reveal. 'Weakness' is not cowardice or refusing help: water 'constantly benefits'. Overlaps yielding to others. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice good deeds
 
 Doing and accumulating good: kindness, trustworthy speech, and instructing others in goodness. In this text good deeds feed the body's essence and earn heaven's reward.
+
+The sixth of the Nine Practices (行諸善):
 
 > Practice good deeds.
 
@@ -104,6 +112,8 @@ Xiang'er commentary on Laozi 8, trans. Stephen R. Bokenkamp, Early Daoist Script
 
 Bokenkamp, introduction to the Xiang'er (1997), p. 51
 
+Bokenkamp's summary of the commentary's teaching on reward:
+
 > the people will even perform good in secret, out of the fear that if their rulers and masters were to reward them, they would be deprived of Heaven's reward
 
 Bokenkamp, introduction to the Xiang'er (1997), pp. 54–55
@@ -116,11 +126,13 @@ Project translation: 'He constantly does good; seeing evil people, he does not a
 
 Good deeds here include everyday kindness and trustworthiness and the religious good of teaching others the precepts. They are to be accumulated and done sincerely; done for human reward they forfeit heaven's. This practice is the positive counterpart of the precept "Do not commit any of the various evil acts."
 
-Limits: The motive structure (longevity, heavenly tallies) is part of the teaching. The commentary's attack on Confucian morality as insincere is its own polemic. Ordinary work is not itself a good deed. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+The motive structure (longevity, heavenly tallies) is part of the teaching. The commentary's attack on Confucian morality as insincere is its own polemic. Ordinary work is not itself a good deed. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice knowing how to cease with sufficiency
 
 Knowing when one has enough and stopping there: not pressing on for higher rank or more wealth, and turning surplus to giving.
+
+The eighth of the Nine Practices (行知止足):
 
 > Practice knowing how to cease with sufficiency.
 
@@ -156,11 +168,13 @@ Xiang'er precepts, trans. Bokenkamp (1997), pp. 49–50
 
 This is the one Nine Practices item the commentary names in its own words (知止足). Knowing sufficiency means accepting the name, rank or means one has without strenuous seeking for more, keeping one's grain to what suffices, and turning surplus into gifts. It binds rich and poor alike: the poor should not despise themselves and grasp for wealth.
 
-Limits: The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so these passages on Laozi 22–36 are quoted in Chinese with project translation; 裁自如 is uncertain. The text sets no measure of sufficiency; meeting real need is not grasping.
+The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so these passages on Laozi 22–36 are quoted in Chinese with project translation; 裁自如 is uncertain. The text sets no measure of sufficiency; meeting real need is not grasping.
 
 ## Practice lacking falseness
 
 Wu wei read as 'lacking artifice': not acting from wilful, contrived passions, which this text equates with not doing evil. It is not idleness.
+
+The first of the Nine Practices (行無為):
 
 > Practice lacking falseness.
 
@@ -174,6 +188,8 @@ Bokenkamp, introduction to the Xiang'er (1997), pp. 51–52
 
 Xiang'er commentary on Laozi 10, trans. Stephen R. Bokenkamp, Early Daoist Scriptures (1997), pp. 90–91
 
+Bokenkamp's footnote on the line 'let there be no false action [wu wei]':
+
 > Here wu wei is glossed as "not performing evil deeds."
 
 Bokenkamp, footnote to his translation of the Xiang'er commentary on Laozi 10, Early Daoist Scriptures (1997), p. 91
@@ -186,11 +202,13 @@ Project translation: 'It is the nature of the Dao not to do evil deeds; therefor
 
 So 'lacking falseness' is not a call to inaction. It forbids acting from contrived will and passion, which the commentary equates with doing evil, and commends acting from a stilled heart in line with the precepts. In conduct it shows as refraining from scheming or wilful wrong.
 
-Limits: Bokenkamp notes that wu wei is usually translated 'inaction' or 'nonintervention'; his 'lacking falseness' follows this text's reading of wei as 'contrived'. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+Bokenkamp notes that wu wei is usually translated 'inaction' or 'nonintervention'; his 'lacking falseness' follows this text's reading of wei as 'contrived'. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice lacking fame
 
 Not seeking fame, glory or honour, hiding one's good deeds, and withdrawing once one's work is done.
+
+The fourth of the Nine Practices (行無名):
 
 > Practice lacking fame.
 
@@ -216,11 +234,13 @@ Project translation: 'Therefore they act in silence and do not wish their merit 
 
 The commentary treats fame as dangerous to the body and offensive to the Dao. Lacking fame shows as declining credit and honour, doing good in secret, refusing to be hailed as a sage, and withdrawing after success as Fan Li did. Good conduct that becomes known without one's seeking is not a fault.
 
-Limits: The stated rationale is bodily longevity and heavenly reward, not modesty for its own sake. Accepting an office one is given is not ruled out; the commentary objects to strenuous seeking. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+The stated rationale is bodily longevity and heavenly reward, not modesty for its own sake. Accepting an office one is given is not ruled out; the commentary objects to strenuous seeking. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice maintaining the feminine. Do not initiate actions.
 
 Patterning oneself on the stable, receptive 'feminine' (earth). In this text it chiefly means a man conserving his essence by restraint in sexual activity, and not pushing himself first.
+
+The third of the Nine Practices (行守雌，勿先動):
 
 > Practice maintaining the feminine. Do not initiate actions.
 
@@ -246,11 +266,13 @@ Project translation: '[On 'know the male, keep to the female':] It means making 
 
 Here 'feminine' is not a social role assigned to women. The commentary asks men to model themselves on the earth's stability: to conserve essence, to limit intercourse to reproduction (stopping at fifty and resting even when young), and to reject sexual techniques that 'borrow' a partner's essence. 'Do not initiate actions' fits the same frame: he 'should not work to give himself priority'.
 
-Limits: Bokenkamp's link of 'do not initiate actions' to sexual practice is his scholarly judgement ('most likely'). The rule addresses men's bodies; applying it to women or to social initiative in general is not attested, and starting a needed task is not shown to violate it. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+Bokenkamp's link of 'do not initiate actions' to sexual practice is his scholarly judgement ('most likely'). The rule addresses men's bodies; applying it to women or to social initiative in general is not attested, and starting a needed task is not shown to violate it. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
 
 ## Practice yielding to others
 
 Giving way to others: taking the lesser share, stepping aside, bearing anger rather than giving it, and not contending over right and wrong.
+
+The ninth of the Nine Practices (行推讓):
 
 > Practice yielding to others.
 
@@ -274,4 +296,4 @@ Project translation: 'Whether I am right or wrong, do not contend with them. …
 
 Yielding is concrete here: giving others the larger share, stepping aside rather than making others step aside, accepting others' anger instead of venting one's own, and leaving a quarrel over who is right instead of pressing it.
 
-Limits: The Nine Practices list gives only the heading; its meaning comes from associated precepts and from an explanation the commentary itself marks as 'another explanation'. The sources speak of one's own share and one's own quarrels, not of surrendering others' rightful claims entrusted to one. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.
+The Nine Practices list gives only the heading; its meaning comes from associated precepts and from an explanation the commentary itself marks as 'another explanation'. The sources speak of one's own share and one's own quarrels, not of surrendering others' rightful claims entrusted to one. The retrieved Bokenkamp excerpt ends at the commentary on Laozi 16, so passages on Laozi 17–37 are quoted in Chinese with project translation.

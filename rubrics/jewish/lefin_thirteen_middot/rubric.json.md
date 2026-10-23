@@ -14,8 +14,10 @@ Lefin, Cheshbon ha-Nefesh XI, trans. Landesman/Silverstein
 
 Lefin's 'narrow parameters' also condemn indifference to others' opinions; calmness is not detachment.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>old man — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>old man - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Once, in a fit of anger, he drove him from his cell.
@@ -28,7 +30,7 @@ Acting in anger without consideration creates strife, contrary to calm dealings.
 </details>
 
 <details>
-<summary>Lycurgus the Lacedaemonian — Some evidence that the conduct shows this virtue.</summary>
+<summary>Lycurgus the Lacedaemonian - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre
@@ -41,7 +43,7 @@ Considered response avoiding strife; corrective strictness without overstepping,
 </details>
 
 <details>
-<summary>Varana — Neither direction is established by the described conduct.</summary>
+<summary>Varana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he saw, on the way, a family quarrel, through which some were slain. Distressed, he hastened to the Exalted One, and told him.
@@ -70,7 +72,7 @@ He reports to the Buddha without strife; no interpersonal calm or shouting descr
 </details>
 
 <details>
-<summary>Yen Hwúi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Yen Hwúi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a man whose angry feelings towards any particular person he did not suffer to visit upon another
@@ -83,7 +85,7 @@ Keeping anger from spilling onto others avoids needless animosity in dealings. M
 </details>
 
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 seized him and ate him up
@@ -96,7 +98,7 @@ Lefin requires dealings that avoid strife and not overstepping bounds. Wolf's ac
 </details>
 
 <details>
-<summary>Kaou Pih — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Kaou Pih - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room.
@@ -108,7 +110,7 @@ Assassination arouses maximal strife, overstepping all bounds, though perhaps ca
 
 </details>
 
-Limits: The chapter heading and the supplied gloss differ in wording; both are cited. Lefin's concern is interpersonal dealings, not inner serenity generally.
+The chapter heading and the supplied gloss differ in wording; both are cited. Lefin's concern is interpersonal dealings, not inner serenity generally.
 
 ## Cleanliness
 
@@ -126,7 +128,7 @@ Lefin, Cheshbon ha-Nefesh V, §§84–86, pp 141–143; Landesman/Silverstein En
 
 Lefin, Cheshbon ha-Nefesh V, §§84–86, pp 141–143; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Lefin's stated conclusion from the stranger's appearance is to take care of yourself. Nested Talmudic sayings remain the Sages' attribution.
+Lefin's stated conclusion from the stranger's appearance is to take care of yourself. Nested Talmudic sayings remain the Sages' attribution.
 
 ## Decisiveness
 
@@ -148,7 +150,7 @@ Lefin, Cheshbon ha-Nefesh IV, §§81–83, pp 135–139; Landesman/Silverstein E
 
 Lefin, Cheshbon ha-Nefesh IV, §§81–83, pp 135–139; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Lefin admits outcomes can rarely be known precisely, so a later bad result does not by itself show conflict. The translation's 'obstinancy' is retained as printed.
+Lefin admits outcomes can rarely be known precisely, so a later bad result does not by itself show conflict. The translation's 'obstinancy' is retained as printed.
 
 ## Diligence
 
@@ -166,8 +168,10 @@ Lefin, Cheshbon ha-Nefesh IX, §§93–95, pp161–163; Landesman/Silverstein En
 
 Lefin, Cheshbon ha-Nefesh IX, §§93–95, pp161–163; Landesman/Silverstein English edition, Feldheim1995
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>NIta — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>NIta - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.
@@ -187,7 +191,7 @@ Forward: Lefin counts even short indulgence beyond what obligations require as i
 </details>
 
 <details>
-<summary>One of the Dukes of Chow — Some evidence that the conduct shows this virtue.</summary>
+<summary>One of the Dukes of Chow - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.
@@ -200,7 +204,7 @@ Forward: Not wasting a moment is shown almost literally: even meal and toilet ti
 </details>
 
 <details>
-<summary>Dhananjani — Neither direction is established by the described conduct.</summary>
+<summary>Dhananjani - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He uses the king to fleece the brahmins and householders, and uses them to fleece the king.
@@ -231,7 +235,7 @@ Active but in extortion; diligence concerns worthwhile activity; insufficient to
 </details>
 
 <details>
-<summary>Somamitta — Some evidence that the conduct shows this virtue.</summary>
+<summary>Somamitta - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 went  to  Kassapa  the  Great, ... attending  his  lectures,
@@ -257,7 +261,7 @@ Sought worthwhile study rather than wasting time near sloth; fits Lefin.
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Immediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.
@@ -272,7 +276,7 @@ They are active, not idle. Whether the pursuit is worthwhile or wasted is unclea
 </details>
 
 <details>
-<summary>one of my associates — Some evidence that the conduct shows this virtue.</summary>
+<summary>one of my associates - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I have small means and a large family, and cannot bear up with my load of poverty. ... And, as is known, I have some small skill in the science of accounts. If, through your respected interest, any office can be obtained that may be the means of quieting my mind, I shall not, during the remainder of life, be able to express my sense of its gratitude.
@@ -284,7 +288,7 @@ Forward: Trying to find something to do for himself and his family fits Lefin's 
 
 </details>
 
-Limits: Necessary rest and refreshment are not conflict; Lefin says the intellect tires and must return to tasks. Busyness without reward or purpose is not addressed.
+Necessary rest and refreshment are not conflict; Lefin says the intellect tires and must return to tasks. Busyness without reward or purpose is not addressed.
 
 ## Equanimity
 
@@ -302,7 +306,7 @@ Lefin, Cheshbon ha-Nefesh I, §§67–71, pp 109–115; Landesman/Silverstein En
 
 Lefin, Cheshbon ha-Nefesh I, §§67–71, pp 109–115; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Lefin's nerve and animal-spirit physiology is a historical source claim.
+Lefin's nerve and animal-spirit physiology is a historical source claim.
 
 ## Frugality
 
@@ -324,7 +328,7 @@ Lefin, Cheshbon ha-Nefesh VIII, §§91–92, pp 153–159; Landesman/Silverstein
 
 Lefin, Cheshbon ha-Nefesh VIII, §§91–92, pp 153–159; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Generous charity is not itself needless spending; Lefin's objection concerns prestige and money that is not one's own. The miser boundary is a source gap.
+Generous charity is not itself needless spending; Lefin's objection concerns prestige and money that is not one's own. The miser boundary is a source gap.
 
 ## Humility
 
@@ -342,7 +346,7 @@ Lefin, Cheshbon ha-Nefesh VI, §§87–89, pp 145–147; Landesman/Silverstein E
 
 Lefin, Cheshbon ha-Nefesh VI, §§87–89, pp 145–147; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Lefin says honor-desire was implanted for a purpose, so enjoying deserved admiration is not automatically conflict; the malady is its degeneration.
+Lefin says honor-desire was implanted for a purpose, so enjoying deserved admiration is not automatically conflict; the malady is its degeneration.
 
 ## Order
 
@@ -360,7 +364,7 @@ Lefin, Cheshbon ha-Nefesh III, §§78–80, pp 129–133; Landesman/Silverstein 
 
 Lefin, Cheshbon ha-Nefesh III, §§78–80, pp 129–133; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: The dream-process psychology is a historical claim. Mere tidiness for display is not shown here as the trait; Lefin's focus is boundaries and freed attention.
+The dream-process psychology is a historical claim. Mere tidiness for display is not shown here as the trait; Lefin's focus is boundaries and freed attention.
 
 ## Patience
 
@@ -378,8 +382,10 @@ Lefin, Cheshbon HaNefesh, Patience §76, printed page 123: avoidable and unavoid
 
 Lefin, Cheshbon HaNefesh, Patience §§76–77, printed page 125: effort, providence and vain regret
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the heretics of Thawattie — Neither direction is established by the described conduct.</summary>
+<summary>the heretics of Thawattie - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 They prevailed upon Thondarie, a woman entirely devoted to their interests, to spread the rumour that she had spent a night in the apartments of Buddha.
@@ -392,7 +398,7 @@ No unavoidable misfortune befalls them in the selected act.
 </details>
 
 <details>
-<summary>the resentful monk — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the resentful monk - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Because of that, the first monk became resentful. Soon afterwards the other monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the other monk died from thirst.
@@ -465,7 +471,7 @@ Lefin's patience concerns unavoidable misfortune; a rebuke isn't that, so confli
 </details>
 
 <details>
-<summary>one of them which were with Jesus — Neither direction is established by the described conduct.</summary>
+<summary>one of them which were with Jesus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear
@@ -478,7 +484,7 @@ Lefin's patience applies once an event is unavoidable. The card's limits say tha
 </details>
 
 <details>
-<summary>Sumana — Neither direction is established by the described conduct.</summary>
+<summary>Sumana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -491,7 +497,7 @@ Lefin's patience concerns unavoidable loss; Sumana's troubles were remediable, a
 </details>
 
 <details>
-<summary>Eumer — Neither direction is established by the described conduct.</summary>
+<summary>Eumer - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 whilst unfolding in cunning words his pretended embassy, he started up on a sudden, and unsheathing the dagger under his garment, assaulted the king.
@@ -504,7 +510,7 @@ Lefin's patience concerns unavoidable misfortune; the passage shows no misfortun
 </details>
 
 <details>
-<summary>the abbot Macarius — Neither direction is established by the described conduct.</summary>
+<summary>the abbot Macarius - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he received no answer at all. ... willingly, even joyfully, Macarius used to speak to such a man of whatever he wished to hear.
@@ -516,7 +522,7 @@ Insult is an injury he could not prevent, and he adds no grief to it. But Lefin'
 
 </details>
 
-Limits: Concerns unavoidable or unremediable loss after prior effort. Constructive regret, repentance and remedy for avoidable harm are not conflicts; not all regret is suppressed.
+Concerns unavoidable or unremediable loss after prior effort. Constructive regret, repentance and remedy for avoidable harm are not conflicts; not all regret is suppressed.
 
 ## Righteousness
 
@@ -534,8 +540,10 @@ Lefin, Cheshbon ha-Nefesh VII, §90, pp149–151; Landesman/Silverstein English 
 
 Lefin, Cheshbon ha-Nefesh VII, §90, pp149–151; Landesman/Silverstein English edition, Feldheim1995
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Sumana — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Sumana - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 her husband was overcome, and he resolved upon putting his parents out of the way. ... Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -548,7 +556,7 @@ Deceiving and abandoning his blind parents is a grave hateful act toward neighbo
 </details>
 
 <details>
-<summary>Zacchaeus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Zacchaeus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -561,7 +569,7 @@ The pledge both corrects 'taking advantage' and 'informing' (false accusation) a
 </details>
 
 <details>
-<summary>Aristo — Neither direction is established by the described conduct.</summary>
+<summary>Aristo - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Aristo, who had so arrogantly claimed that he could make a wise decision in any circumstance, stupidly gave the money to the wrong brother.
@@ -578,7 +586,7 @@ He accepted a deposit in good faith, as commends, but carelessness lost it. The 
 </details>
 
 <details>
-<summary>Diotimus — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Diotimus - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 sat down and forged more than fifty “licentious letters” intended to slander the reputation of the founder of that rival school. ... Diotimus portrayed Epicurus as some kind of depraved maniac ... in order to bolster his arguments against the philosophy. ... Diotimus chose to respond to slander with slander. He decided to commit a crime worse than what Apollodorus was falsely alleging against Chrysippus.
@@ -601,7 +609,7 @@ Forged slander does to a neighbour what one would hate done to oneself. It also 
 </details>
 
 <details>
-<summary>people taking bagels without paying — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>people taking bagels without paying - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Paul F. found that people on the executive floor of a company steal more bagels; that people with security clearances don't steal any fewer bagels; that telecom companies have robbed him and that law firms aren't worth the trouble.
@@ -614,7 +622,7 @@ Exploiting an honor system breaches good faith and the bans on theft and taking 
 </details>
 
 <details>
-<summary>Dauna — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Dauna - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Dauna abstracted one of the canine teeth and concealed it in the folds of his turban.
@@ -626,7 +634,7 @@ As trusted arbiter, he betrayed good faith by theft; his peacemaking is some pos
 
 </details>
 
-Limits: Lefin admits not knowing how the whole Torah condenses into this precept. The emphasis on loving believers and the Noachide footnote are attributed scope, not eligibility tests.
+Lefin admits not knowing how the whole Torah condenses into this precept. The emphasis on loving believers and the Noachide footnote are attributed scope, not eligibility tests.
 
 ## Separation
 
@@ -644,7 +652,7 @@ Lefin, Cheshbon ha-Nefesh XIII, §§104–111, pp 177–181; Landesman/Silverste
 
 Lefin, Cheshbon ha-Nefesh XIII, §§104–111, pp 177–181; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Lefin holds that sudden onset alone is not conflict. Repeated lapses can coexist with continued effort; the marital clause addresses a husband.
+Lefin holds that sudden onset alone is not conflict. Repeated lapses can coexist with continued effort; the marital clause addresses a husband.
 
 ## Silence
 
@@ -662,7 +670,7 @@ Lefin, Cheshbon ha-Nefesh X, §§96–98, pp 165–169; Landesman/Silverstein En
 
 Lefin, Cheshbon ha-Nefesh X, §§96–98, pp 165–169; Landesman/Silverstein English edition, Feldheim 1995
 
-Limits: Silence here is not muteness or deference; speech is the 'speaking soul's' gift. The long symbol-and-script footnote is context, not trait criteria.
+Silence here is not muteness or deference; speech is the 'speaking soul's' gift. The long symbol-and-script footnote is context, not trait criteria.
 
 ## Truth
 
@@ -680,8 +688,10 @@ Lefin, Cheshbon ha-Nefesh XII, 101-103
 
 Lefin, Cheshbon ha-Nefesh XII, 101-103
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Wolf — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 resolved to disguise his appearance in order to secure food more easily. Encased in the skin of a sheep, he pastured with the flock deceiving the shepherd by his costume.
@@ -696,7 +706,7 @@ Lefin condemns unsaid lies and mistaken assumptions one leads people to make, fo
 </details>
 
 <details>
-<summary>Min Sun — Neither direction is established by the described conduct.</summary>
+<summary>Min Sun - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Min carefully concealed all his grievances, and refused to indulge in any complaint; even while suffering severely from cold and hunger, he maintained his affection unabated.
@@ -711,7 +721,7 @@ Concealment may let father assume falsely about carelessness, an induced mistake
 </details>
 
 <details>
-<summary>professors teaching simplified introductory physics — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>professors teaching simplified introductory physics - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 These oversimplifications are falsehoods of a sort, and the professors know this, but it would be too complex for the student to get the whole truth all at once, so placeholder-lies are used in the service of truth.
@@ -724,7 +734,7 @@ Lefin forbids saying anything not certainly completely true and guards against i
 </details>
 
 <details>
-<summary>Saint Francis — Some evidence that the conduct shows this virtue.</summary>
+<summary>Saint Francis - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he promised ever stedfastly to bestow the help and counsel of himself and his brethren on them and on others who should profess poverty in a similar way of life; which thing he diligently performed as long as he lived, and, when nigh unto death, commanded to be evermore performed, and that not negligently
@@ -737,7 +747,7 @@ Kept word avoids misleading the sisters; indirect fit.
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -750,7 +760,7 @@ This is the reverse of Lefin's con-artist who steals honour. He gives up honour 
 </details>
 
 <details>
-<summary>Jesus — Some evidence that the conduct shows this virtue.</summary>
+<summary>Jesus - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -762,4 +772,4 @@ Lefin prizes truth even at the cost of honour or gain. Jesus says nothing uncert
 
 </details>
 
-Limits: Lefin roots the cure in prior humility, righteousness and silence. His social predictions about the exposure of liars are source claims.
+Lefin roots the cure in prior humility, righteousness and silence. His social predictions about the exposure of liars are source claims.

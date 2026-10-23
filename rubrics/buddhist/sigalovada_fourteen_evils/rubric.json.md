@@ -8,7 +8,7 @@ Taking gamblers, cheats, tipplers or the violent as one's companions.
 
 Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 174–176
 
-Limits: The source concerns companionship. Ordinary passing contact with such people is not shown here to be the vice.
+The source concerns companionship. Ordinary passing contact with such people is not shown here to be the vice.
 
 ## Being addicted to intoxicating liquors
 
@@ -18,7 +18,7 @@ Addiction to liquor as a channel for dissipating wealth, with six named dangers.
 
 Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 174–176
 
-Limits: The source targets addiction.
+The source targets addiction.
 
 ## Being infatuated by gambling
 
@@ -28,7 +28,7 @@ Infatuation with gambling, with six named perils.
 
 Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 174–176
 
-Limits: The marriage-prospect peril reflects historical norms and is attributed, not endorsed.
+The marriage-prospect peril reflects historical norms and is attributed, not endorsed.
 
 ## Destruction of life
 
@@ -44,7 +44,7 @@ MN41,Chalmers(1926),pp203–204
 
 DN31 only names the act. The descriptive gloss comes from the separate discourse MN41.
 
-Limits: Counting intended killing only, and the treatment of meat-eating, are not specified by DN31. The source's rebirth claims are attributed, not asserted.
+Counting intended killing only, and the treatment of meat-eating, are not specified by DN31. The source's rebirth claims are attributed, not asserted.
 
 ## Enmity
 
@@ -54,7 +54,7 @@ An evil deed done from enmity or hate. It is not mere felt anger.
 
 Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 174–176
 
-Limits: The term is unexplained beyond this list and verse. Felt anger without an evil deed is not established as this vice.
+The term is unexplained beyond this list and verse. Felt anger without an evil deed is not established as this vice.
 
 ## Fear
 
@@ -64,7 +64,7 @@ An evil deed done from fear. It is not every frightened act.
 
 Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 174–176
 
-Limits: The qualifier is an evil deed done from fear. Fear alone is not this vice.
+The qualifier is an evil deed done from fear. Fear alone is not this vice.
 
 ## Frequenting the streets at unseemly hours
 
@@ -74,7 +74,7 @@ Habitually roaming at unseemly hours. It is not every late errand.
 
 Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues III (1921), pp. 174–176
 
-Limits: 'Unseemly hours' is not defined in the source. The footnote on fathered crimes is translator commentary.
+'Unseemly hours' is not defined in the source. The footnote on fathered crimes is translator commentary.
 
 ## Haunting fairs
 
@@ -86,7 +86,7 @@ Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues II
 
 Gap: the 'perils' listed are only these restless questions. No separate consequences are given.
 
-Limits: Do not treat every social gathering as this vice. The source's own wording stresses compulsive frequency.
+Do not treat every social gathering as this vice. The source's own wording stresses compulsive frequency.
 
 ## Licentiousness
 
@@ -106,7 +106,7 @@ MN41,Chalmers(1926),pp203–204
 
 MN41 frames its examples with 'a man' as the agent. DN31's verse names 'adultery' and does not restrict who commits it. Applying the vice to a woman who joins in such a relation therefore follows from the verse's ungendered term. It is not a separate rule about who can commit the vice.
 
-Limits: These are historical guardianship norms, attributed to the source. They supply no marriage or consent doctrine and no celibacy criterion.
+These are historical guardianship norms, attributed to the source. They supply no marriage or consent doctrine and no celibacy criterion.
 
 ## Lying speech
 
@@ -120,7 +120,7 @@ Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues II
 
 MN41,Chalmers(1926),pp203–204
 
-Limits: The gloss turns on deliberate falsehood. An honest mistake is not shown by this source to be lying.
+The gloss turns on deliberate falsehood. An honest mistake is not shown by this source to be lying.
 
 ## Partiality
 
@@ -132,7 +132,7 @@ Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues II
 
 The qualifier is an evil deed done from the motive. Fondness alone is not this vice.
 
-Limits: DN31 gives the term without further gloss. Do not supply a detailed theory of chanda from memory.
+DN31 gives the term without further gloss. Do not supply a detailed theory of chanda from memory.
 
 ## Stupidity
 
@@ -146,9 +146,13 @@ Dīgha Nikāya 31 §§5–6, trans. Rhys Davids (1921), pp. 174–175
 
 Dīgha Nikāya 33, fours xix, trans. Rhys Davids (1921)
 
+The translator's note on the same four:
+
 > Agatim gacchati, literally, he goes to a not-going, or wrong going, or impasse.
 
 Rhys Davids' footnote to Dīgha Nikāya 33 (1921)
+
+In the Kukkura Jātaka a king, enraged that his carriage straps were gnawed, gives the first order below; the Bodhisatta, born as a dog, later answers him:
 
 > "Kill every dog you see." … "But, your majesty, if you do not know for certain the real culprits, it is not right to order the destruction of every dog that is seen." … "Therefore you are following … the four Evil Courses of partiality, dislike, ignorance and fear. Such courses are wrong, and not kinglike. For kings in trying cases should be as unbiassed as the beam of a balance."
 
@@ -156,7 +160,7 @@ Kukkura Jātaka (No. 22), trans. Chalmers, in Cowell (ed.), The Jātaka I (1895)
 
 The Pali motive is mohāgati, going wrong through delusion. Rhys Davids renders it 'stupidity', 'dulness' (in the verse) and 'illusion' (DN 33); Chalmers' Jātaka has 'ignorance'. The fault is the evil deed that delusion produces, not ignorance as such. The king's error was to condemn without knowing who was guilty. The Bodhisatta shows the contrary course: he reasons from the facts, proposes a test, and so prevents an unjust killing.
 
-Limits: DN 31 names the motive without defining it; this guide leans on the Jātaka's application and on the translators' renderings of the same term. The Jātaka joins all four courses in one judgement, so it does not isolate stupidity from the others. The sources set no standard of care for honest mistakes.
+DN 31 names the motive without defining it; this guide leans on the Jātaka's application and on the translators' renderings of the same term. The Jātaka joins all four courses in one judgement, so it does not isolate stupidity from the others. The sources set no standard of care for honest mistakes.
 
 ## The habit of idleness
 
@@ -166,8 +170,10 @@ A habit of excuses that leaves work undone and wealth dwindling.
 
 DN31§§3–13,tr.TW/CAF Rhys Davids,DialoguesIII(1921),pp174–176
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>NIta — Some evidence that the conduct shows this vice.</summary>
+<summary>NIta - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.
@@ -187,7 +193,7 @@ Forward: The source describes a habit in which what one should do 'remains undon
 </details>
 
 <details>
-<summary>One of the Dukes of Chow — Clear evidence that the conduct resists this vice.</summary>
+<summary>One of the Dukes of Chow - Clear evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.
@@ -200,7 +206,7 @@ Forward: The idle man's excuses include the timing of the day and the state of h
 </details>
 
 <details>
-<summary>Dhananjani — Neither direction is established by the described conduct.</summary>
+<summary>Dhananjani - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He uses the king to fleece the brahmins and householders, and uses them to fleece the king.
@@ -231,7 +237,7 @@ Fleecing is dishonest activity, not excuse-based idleness from ; he actively pro
 </details>
 
 <details>
-<summary>Somamitta — Some evidence that the conduct resists this vice.</summary>
+<summary>Somamitta - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 went  to  Kassapa  the  Great, ... attending  his  lectures,
@@ -257,7 +263,7 @@ Fulfilled duties, left sluggard to seek a teacher and strive; resists idleness h
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Immediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.
@@ -272,7 +278,7 @@ Work is left undone, but because of eager pursuit, not a habit of excuses or idl
 </details>
 
 <details>
-<summary>one of my associates — Some evidence that the conduct resists this vice.</summary>
+<summary>one of my associates - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 I have small means and a large family, and cannot bear up with my load of poverty. ... And, as is known, I have some small skill in the science of accounts. If, through your respected interest, any office can be obtained that may be the means of quieting my mind, I shall not, during the remainder of life, be able to express my sense of its gratitude.
@@ -284,7 +290,7 @@ Forward: The vice leaves work undone, so no new wealth comes in. The associate i
 
 </details>
 
-Limits: The source targets a habit of excuses. Genuine rest or illness is not addressed.
+The source targets a habit of excuses. Genuine rest or illness is not addressed.
 
 ## The taking what is not given
 
@@ -298,4 +304,4 @@ Dīgha Nikāya 31, §§3–13, trans. T. W. / C. A. F. Rhys Davids, Dialogues II
 
 MN41,Chalmers(1926),pp203–204
 
-Limits: The source does not discuss borrowing, debt or disputed ownership. Do not treat those as theft without thievish appropriation.
+The source does not discuss borrowing, debt or disputed ownership. Do not treat those as theft without thievish appropriation.

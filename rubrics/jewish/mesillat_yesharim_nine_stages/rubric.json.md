@@ -10,7 +10,7 @@ Luzzatto, Mesillat Yesharim 10:1–9,trans. Yosef Sebag
 
 Luzzatto says perfect cleanliness comes only after habituation in watchfulness and zeal. Avoiding known sins alone shows watchfulness. Cleanliness is seen in scrutinising one's own desire-driven leniencies.
 
-Limits: Physical washing is outside the trait.
+Physical washing is outside the trait.
 
 ## fear of sin
 
@@ -22,7 +22,7 @@ Luzzatto, Mesillat Yesharim 24:1–14,trans. Yosef Sebag
 
 Luzzatto separates fear of punishment (easy, self-interested) and fear of God's exaltedness during an act from fear of sin, which persists at all times and concerns God's honor.
 
-Limits: Generic accuracy or social anxiety is not this trait unless the scene supplies concern about sin or God's honor. The earlier traits are prerequisites, but a scene need not recite a whole biography.
+Generic accuracy or social anxiety is not this trait unless the scene supplies concern about sin or God's honor. The earlier traits are prerequisites, but a scene need not recite a whole biography.
 
 ## holiness
 
@@ -34,7 +34,7 @@ Luzzatto, Mesillat Yesharim 26:1–17,trans. Yosef Sebag
 
 Luzzatto places holiness after all the earlier traits, from watchfulness to fear of sin. A pure man's bodily acts are necessity only; a holy man's bodily acts continue his clinging.
 
-Limits: A scene cannot certify that the divine gift has been granted. A scene can still show exertion, clinging that continues during bodily acts, or its absence, and can be rated on that. Yaakov's stones are a midrashic sign, not conduct. Luzzatto says the book is incomplete.
+A scene cannot certify that the divine gift has been granted. A scene can still show exertion, clinging that continues during bodily acts, or its absence, and can be rated on that. Yaakov's stones are a midrashic sign, not conduct. Luzzatto says the book is incomplete.
 
 ## humility
 
@@ -48,8 +48,10 @@ Luzzatto, Mesillat Yesharim 22-23, trans. Sebag
 
 Luzzatto, Mesillat Yesharim 22-23, trans. Sebag
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>The scribes and the Pharisees — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>The scribes and the Pharisees - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments, ... And love the uppermost rooms at feasts, and the chief seats in the synagogues, ... And greetings in the markets, and to be called of men, Rabbi, Rabbi.
@@ -62,7 +64,7 @@ Attributing importance to oneself, craving honour and elevation over fellows, co
 </details>
 
 <details>
-<summary>the publican — Some evidence that the conduct shows this virtue.</summary>
+<summary>the publican - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
@@ -75,7 +77,7 @@ Recognising his deficiencies and unworthiness matches Luzzatto's humility in tho
 </details>
 
 <details>
-<summary>Jesus — Neither direction is established by the described conduct.</summary>
+<summary>Jesus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -88,7 +90,7 @@ Declining the glory of the kingdoms is consistent with not seeking importance, b
 </details>
 
 <details>
-<summary>a certain brother — Some evidence that the conduct shows this virtue.</summary>
+<summary>a certain brother - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 out of his humility made answer, "Surely you are sent to some other one and not to me, for I am altogether unworthy to have an angel visitor."
@@ -103,7 +105,7 @@ Attributes no importance to himself, judging himself unworthy of honour, matchin
 </details>
 
 <details>
-<summary>the Horse — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Horse - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 “Hardly,” said the Horse, “can I resist kicking you with my heels.”
@@ -116,7 +118,7 @@ Elevates himself over another, threatening him; opposite of judging oneself unwo
 </details>
 
 <details>
-<summary>Shenyin Jing — Some evidence that the conduct shows this virtue.</summary>
+<summary>Shenyin Jing - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 I will be seeking employment for you ... Shenyin Jing declined ... Among the rustics of the town of Qisi, there is one Sunshu Ao, who is a sage. Your majesty must employ him, for your subject is not his equal
@@ -128,7 +130,7 @@ He declines to be elevated and uses his position to serve the common good. That 
 
 </details>
 
-Limits: Humility does not mean denying real abilities.
+Humility does not mean denying real abilities.
 
 ## piety
 
@@ -142,7 +144,7 @@ Luzzatto, Mesillat Yesharim 18:1–14,trans. Yosef Sebag
 
 Luzzatto, Mesillat Yesharim 20:9–21,trans. Yosef Sebag
 
-Limits: The loving son is Luzzatto's analogy, not a test of filial duty. Afflictions and wailing are 'shells', not piety itself. In Luzzatto's view, an act that looks pious but whose evil consequences were foreseeable and unweighed counts against piety. Piety is a chasid's level, not everyone's baseline.
+The loving son is Luzzatto's analogy, not a test of filial duty. Afflictions and wailing are 'shells', not piety itself. In Luzzatto's view, an act that looks pious but whose evil consequences were foreseeable and unweighed counts against piety. Piety is a chasid's level, not everyone's baseline.
 
 ## purity
 
@@ -154,7 +156,7 @@ Luzzatto, Mesillat Yesharim 16:1–11,trans. Yosef Sebag
 
 Luzzatto grades motives. Deceiving others for money or honor is the worst. Serving for reward is endorsed as a path toward lishma, yet it remains deficient. A mostly lishma deed with a praise-driven addition is not completely pure. A pure man's bodily acts are pure necessity; holiness is a further stage.
 
-Limits: The level rates evidence for purity of motive. It does not rate a person's overall goodness or reward, which Luzzatto says God still grants.
+The level rates evidence for purity of motive. It does not rate a person's overall goodness or reward, which Luzzatto says God still grants.
 
 ## separation
 
@@ -172,8 +174,10 @@ Luzzatto, Mesillat Yesharim 13-14, trans. Sebag
 
 Luzzatto, Mesillat Yesharim 13-14, trans. Sebag
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Rajadatta - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -186,7 +190,7 @@ Indulging non-essential pleasure without any fence; contrary to separation, thou
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -199,7 +203,7 @@ Taking one's proper share is not abstaining from permitted things as a fence. It
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct shows this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -212,7 +216,7 @@ Abstains from permitted pleasures but for character, not fencing from sin; mildl
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Mindyrides - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -225,7 +229,7 @@ He immerses in nonessential pleasures rather than separating; but separation is 
 </details>
 
 <details>
-<summary>Apicius — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -238,7 +242,7 @@ He indulges non-essential pleasures rather than separating from them; separation
 </details>
 
 <details>
-<summary>our minister Shaou — Neither direction is established by the described conduct.</summary>
+<summary>our minister Shaou - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He  would  order  his  measures  and  movements, As  more  valuable  than  gold  or  gem.
@@ -256,7 +260,7 @@ Avoiding excess is not the same as abstaining from permitted things as a fence. 
 
 </details>
 
-Limits: Luzzatto addresses separation to those aspiring to piety, not as a baseline for everyone. He says applying it requires individual judgment.
+Luzzatto addresses separation to those aspiring to piety, not as a baseline for everyone. He says applying it requires individual judgment.
 
 ## watchfulness
 
@@ -272,8 +276,10 @@ Luzzatto, Mesillat Yesharim 10:1–9,trans. Yosef Sebag
 
 The object of this trait is one's own conduct, not watching other people. Luzzatto pairs watchfulness with turning from evil, that is, the negative mitzvot. Detecting sins that desire has rationalised as permitted belongs to cleanliness.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -286,7 +292,7 @@ Theft is a well-known negative prohibition. Committing it out of desire is the c
 </details>
 
 <details>
-<summary>The happy man — Neither direction is established by the described conduct.</summary>
+<summary>The happy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -299,7 +305,7 @@ Watchfulness is aimed at one's own conduct and at avoiding sin. Approving one's 
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Some evidence that the conduct shows this virtue.</summary>
+<summary>the third set of recluses and brahmins - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -312,7 +318,7 @@ Staying on guard and acting with circumspection to avoid falling into the trap c
 </details>
 
 <details>
-<summary>one of the sophists — Neither direction is established by the described conduct.</summary>
+<summary>one of the sophists - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -327,7 +333,7 @@ Watchfulness means examining one's own deeds and guarding against known sins. An
 </details>
 
 <details>
-<summary>the nun Caṇḍakāḷī — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the nun Caṇḍakāḷī - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 In anger she said this:
@@ -374,7 +380,7 @@ Acting on anger without pausing to consider whether the deed is good leans again
 </details>
 
 <details>
-<summary>Xu You — Neither direction is established by the described conduct.</summary>
+<summary>Xu You - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Xu You gave up the world not because he was forced to do so, but because he comprehended the true nature of things.
@@ -386,7 +392,7 @@ A deliberate, uncompelled choice is the opposite of acting by blind habit, which
 
 </details>
 
-Limits: Willful refusal to examine a whole domain counts against watchfulness, as natural blindness does. Watchfulness is the first stage, not a complete code.
+Willful refusal to examine a whole domain counts against watchfulness, as natural blindness does. Watchfulness is the first stage, not a complete code.
 
 ## zeal
 
@@ -400,8 +406,10 @@ Luzzatto, Mesillat Yesharim6:1–7,tr.Yosef Sebag
 
 Luzzatto, Mesillat Yesharim20:9–21,tr.Yosef Sebag
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>NIta — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>NIta - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.
@@ -421,7 +429,7 @@ Forward: Luzzatto treats zeal as eagerly taking up positive duties and treats be
 </details>
 
 <details>
-<summary>One of the Dukes of Chow — Some evidence that the conduct shows this virtue.</summary>
+<summary>One of the Dukes of Chow - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.
@@ -434,7 +442,7 @@ Forward: Zeal is engaging early and overcoming natural heaviness. Immediately dr
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Immediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.
@@ -449,7 +457,7 @@ Speed alone is not zeal under Luzzatto's weighing, and they abandon positive obl
 </details>
 
 <details>
-<summary>Dhananjani — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Dhananjani - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He uses the king to fleece the brahmins and householders, and uses them to fleece the king.
@@ -480,7 +488,7 @@ No zeal for good deeds; worldly excuses displace them, like lazy failure to purs
 </details>
 
 <details>
-<summary>Somamitta — Some evidence that the conduct shows this virtue.</summary>
+<summary>Somamitta - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 went  to  Kassapa  the  Great, ... attending  his  lectures,
@@ -506,7 +514,7 @@ Strengthened himself to pursue practice and completed it (arahantship); zeal-lik
 </details>
 
 <details>
-<summary>one of my associates — Neither direction is established by the described conduct.</summary>
+<summary>one of my associates - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 I have small means and a large family, and cannot bear up with my load of poverty. ... And, as is known, I have some small skill in the science of accounts. If, through your respected interest, any office can be obtained that may be the means of quieting my mind, I shall not, during the remainder of life, be able to express my sense of its gratitude.
@@ -518,4 +526,4 @@ Forward: Inference: supporting one's family could be an analogue of a positive d
 
 </details>
 
-Limits: Zeal includes beginning early and completing. Speed alone is not enough: Luzzatto qualifies rushing by its consequences under piety-weighing.
+Zeal includes beginning early and completing. Speed alone is not enough: Luzzatto qualifies rushing by its consequences under piety-weighing.

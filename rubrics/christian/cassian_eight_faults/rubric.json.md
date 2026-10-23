@@ -20,13 +20,15 @@ Cassian, Institutes X.2
 
 Cassian, Institutes X.5
 
+Abbot Moses, to the young Cassian who ran to visit Abbot Paul to escape an attack of accidie:
+
 > You have not freed yourself from it, but rather have given yourself up to it as its slave and subject.
 
 Cassian, Institutes X.25
 
 Accidie is weariness with one's appointed place and work. It leads either to idle sleep or to restless flight, and often disguises flight as piety: visits, hospitality, care of relatives. The test is whether the good-sounding errand is a way of escaping the work. The cure is to stay and endure it, not to run.
 
-Limits: The cell, reading and fixed hours are monastic; for others the analogue is one's assigned duty, which is an extension. Visiting the sick is good in itself; it counts here only when it is shown to be flight.
+The cell, reading and fixed hours are monastic; for others the analogue is one's assigned duty, which is an extension. Visiting the sick is good in itself; it counts here only when it is shown to be flight.
 
 ## anger
 
@@ -35,6 +37,8 @@ Cassian's fourth principal fault (ira), as Serapion and the Institutes teach it:
 > Of anger there are three kinds: one which rages within ... another which breaks out in word and deed and action ... the third, which is not like those in boiling over and being done with in an hour, but which lasts for days and long periods ... And all these three must be condemned by us with equal horror.
 
 Cassian, Conferences V.11 (Abbot Serapion), tr. Gibson 1894
+
+On the Apostle's 'Let all anger ... be taken away from among you':
 
 > he excepts none whatever as necessary or useful for us. And if need be, he should at once treat an erring brother in such a way that, while he manages to apply a remedy to one afflicted with perhaps a slight fever, he may not by his wrath involve himself in a more dangerous malady of blindness.
 
@@ -54,7 +58,7 @@ Cassian, Institutes VIII.14
 
 Cassian allows no anger at other people, even at a wrongdoer; an erring brother is to be corrected without wrath. Inward rage, an outburst, and anger nursed for days all count. A cold refusal of ordinary civility is anger, not its absence. The only anger he permits is against one's own faults and evil thoughts.
 
-Limits: Stricter than texts that allow anger at wickedness, such as the Parson's Tale's 'good ire'; keep Cassian's line here. He writes for monks and does not discuss rulers, judges or defence.
+Stricter than texts that allow anger at wickedness, such as the Parson's Tale's 'good ire'; keep Cassian's line here. He writes for monks and does not discuss rulers, judges or defence.
 
 ## avarice
 
@@ -82,7 +86,7 @@ Cassian, Conferences V.8
 
 Avarice is the love of money. Monks show it by keeping goods they renounced or taking back what they gave to the poor. Anyone shows it by coveting and procuring what they never had. It lies in desire more than in possession: a poor man can be covetous. It usually starts with plausible excuses about future need.
 
-Limits: Cassian sets no lay standard for property, saving or trade; his cure is renunciation inside the monastery. For someone who has not renounced property, only the third kind applies.
+Cassian sets no lay standard for property, saving or trade; his cure is renunciation inside the monastery. For someone who has not renounced property, only the third kind applies.
 
 ## dejection
 
@@ -110,7 +114,7 @@ Cassian, Institutes IX.13
 
 Dejection is worldly sorrow at spent anger, loss or a thwarted plan, or groundless anxiety and despair. It shows in conduct: prayer and work go sour and one becomes rough with others. Sorrow for sin, or longing for perfection or the life to come, is not this fault; it stays gentle and patient. Despair that refuses amendment is its worst form.
 
-Limits: Cassian makes no exception for mourning; he treats all worldly sorrow as to be resisted. Inner sorrow that leaves no mark on conduct is hard to establish from a story.
+Cassian makes no exception for mourning; he treats all worldly sorrow as to be resisted. Inner sorrow that leaves no mark on conduct is hard to establish from a story.
 
 ## fornication
 
@@ -134,7 +138,7 @@ Cassian, Conferences V.6
 
 The fault is lust in the act, in solitary uncleanness, or consented to in the heart. A bodily stirring that the mind does not take up is not yet the third kind. For those who cannot contain, the cited Apostle points to marriage. The remedy joins bodily restraint, removing the occasion and guarding the thoughts.
 
-Limits: Gibson's translation omits Cassian's own book on this fault (Institutes VI) and Conference XII; this guide rests on Conference V. Cassian addresses celibate monks; he does not discuss married life beyond the Apostle's counsel.
+Gibson's translation omits Cassian's own book on this fault (Institutes VI) and Conference XII; this guide rests on Conference V. Cassian addresses celibate monks; he does not discuss married life beyond the Apostle's counsel.
 
 ## gluttony
 
@@ -152,13 +156,15 @@ Cassian, Institutes V.5
 
 Cassian, Institutes V.7
 
+An Egyptian elder explains why he broke his fast for arriving guests:
+
 > a fast, although it is useful and advisable, is yet a free-will offering. But the exigencies of a command require the fulfilment of a work of charity.
 
 Cassian, Institutes V.24
 
 Gluttony is eating for appetite and pleasure rather than need: breaking a set fast early, gorging, or seeking delicacies. Need differs with health, age and sex, so the weak may rightly eat more. Breaking a fast for charity, such as eating with guests, is not gluttony.
 
-Limits: Cassian writes for monks under a fasting rule; the first kind presupposes such a rule. He also faults excessive fasting (Institutes V.9), but that is not gluttony.
+Cassian writes for monks under a fasting rule; the first kind presupposes such a rule. He also faults excessive fasting (Institutes V.9), but that is not gluttony.
 
 ## pride
 
@@ -168,6 +174,8 @@ Cassian's eighth principal fault (superbia), as the Institutes teach it: elation
 
 Cassian, Institutes XII.2
 
+Of Lucifer's fall:
+
 > he believed that he had acquired the splendour of that wisdom and the beauty of those powers, with which he was graced by the gift of the Creator, by the might of his own nature, and not by the beneficence of His generosity. And on this account he was puffed up as if he stood in no need of divine assistance
 
 Cassian, Institutes XII.4
@@ -175,6 +183,8 @@ Cassian, Institutes XII.4
 > He is utterly lacking in patience, and without charity : impudent in offering insults to others, faint-hearted in bearing them himself: troublesome in the matter of obedience except where his own wishes and likings correspond with his duty: unforgiving in receiving admonition ... and thus the result is that though he is incapable of giving sound advice, yet in everything he prefers his own opinion to that of the elders.
 
 Cassian, Institutes XII.29
+
+Of vainglory and pride:
 
 > into these two we are in danger of falling when we have proved victorious, and above all after some splendid triumph.
 
@@ -186,7 +196,7 @@ Cassian, Institutes XII.9
 
 Pride claims one's goods as one's own achievement. Its spiritual form credits one's virtue to oneself rather than to God's grace. Its carnal form, toward men, shows in insulting others, refusing correction, and insisting on one's own will and opinion. It strikes after success. Its cure is to ascribe progress to grace and to bear slights patiently.
 
-Limits: The spiritual kind is defined in relation to grace, so stories without a religious frame mostly show the carnal kind. Holding a true judgement firmly, without contempt or refusal of correction, is not shown to be pride by this text.
+The spiritual kind is defined in relation to grace, so stories without a religious frame mostly show the carnal kind. Holding a true judgement firmly, without contempt or refusal of correction, is not shown to be pride by this text.
 
 ## vainglory
 
@@ -218,4 +228,4 @@ Cassian, Conferences V.12
 
 Vainglory is doing or showing things to win men's praise, for visible goods like dress and looks or spiritual ones like fasts, prayers and learning. Because it rides on good deeds, the test is the motive of being seen, not the deed. It can hide even in showy humility. Cassian grants it may hold a beginner back from a worse sin, but it stays a fault.
 
-Limits: Many of its signs are monastic (vigils, fasts, desire for holy orders). A good deed that happens to be seen, with no sign of seeking praise, is not vainglory.
+Many of its signs are monastic (vigils, fasts, desire for holy orders). A good deed that happens to be seen, with no sign of seeking praise, is not vainglory.

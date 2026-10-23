@@ -8,7 +8,7 @@ Honest engagement in communal argument, settled by tests of reality.
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 27
 
-Limits: Concerns factual disagreement. Not contentiousness, nor a duty to balance positions evenly.
+Concerns factual disagreement. Not contentiousness, nor a duty to balance positions evenly.
 
 ## curiosity
 
@@ -18,7 +18,7 @@ Yudkowsky's first epistemic virtue: desire to relinquish one's own ignorance.
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 19
 
-Limits: Concerns wanting answers in inquiry. Confessing ignorance has a proper time; ordinary nosiness is not automatically this virtue.
+Concerns wanting answers in inquiry. Confessing ignorance has a proper time; ordinary nosiness is not automatically this virtue.
 
 ## empiricism
 
@@ -28,7 +28,7 @@ Beliefs rooted in observation and paying rent in anticipated experience.
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 29
 
-Limits: Epistemic method only. Not a complete account of meaning or of every rationalist's empiricism.
+Epistemic method only. Not a complete account of meaning or of every rationalist's empiricism.
 
 ## evenness
 
@@ -38,7 +38,7 @@ Equal standards of scrutiny for liked and disliked conclusions; judging, not adv
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 25
 
-Limits: Even scrutiny, not splitting the difference; the argument paragraph rejects balancing evenly between positions.
+Even scrutiny, not splitting the difference; the argument paragraph rejects balancing evenly between positions.
 
 ## humility
 
@@ -48,8 +48,10 @@ Specific actions anticipating one's own errors, not displayed modesty or ranking
 
 Yudkowsky, Twelve Virtues of Rationality (2006)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Kapila — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Kapila - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he was overcome with desire of gain, and would abuse and revile those who would not take him at his word
@@ -62,7 +64,7 @@ Reviling those who doubt his word refuses any anticipation of his own error; exa
 </details>
 
 <details>
-<summary>the publican — Neither direction is established by the described conduct.</summary>
+<summary>the publican - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
@@ -75,7 +77,7 @@ Confessing sinfulness without specific corrective action is what says is not hum
 </details>
 
 <details>
-<summary>The scribes and the Pharisees — Neither direction is established by the described conduct.</summary>
+<summary>The scribes and the Pharisees - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments, ... And love the uppermost rooms at feasts, and the chief seats in the synagogues, ... And greetings in the markets, and to be called of men, Rabbi, Rabbi.
@@ -88,7 +90,7 @@ Status display isn't directly about error-preparation; warns comparison-to-other
 </details>
 
 <details>
-<summary>a certain brother — Neither direction is established by the described conduct.</summary>
+<summary>a certain brother - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 out of his humility made answer, "Surely you are sent to some other one and not to me, for I am altogether unworthy to have an angel visitor."
@@ -103,7 +105,7 @@ Declining as unworthy is a modesty statement, though it functions as hedging aga
 </details>
 
 <details>
-<summary>the Horse — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Horse - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 “Hardly,” said the Horse, “can I resist kicking you with my heels.”
@@ -116,7 +118,7 @@ Threat reflects contempt rather than belief error; rationalist humility barely e
 </details>
 
 <details>
-<summary>Jesus — Neither direction is established by the described conduct.</summary>
+<summary>Jesus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
@@ -128,7 +130,7 @@ A refusal of temptation is not a preparation against one's own errors. Neither d
 
 </details>
 
-Limits: Not self-deprecation, deference or social politeness; ordinary courtesy does not instantiate it.
+Not self-deprecation, deference or social politeness; ordinary courtesy does not instantiate it.
 
 ## lightness
 
@@ -138,7 +140,7 @@ Prompt surrender to evidence; map-drawing that follows what is seen, not caprice
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 23
 
-Limits: Epistemic responsiveness, not physical lightness, cheerfulness, or social compliance.
+Epistemic responsiveness, not physical lightness, cheerfulness, or social compliance.
 
 ## perfectionism
 
@@ -148,7 +150,7 @@ Correcting noticed errors in oneself and seeking exactly right answers.
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 35
 
-Limits: Self-correction of one's errors; not anxiety, cosmetic polish or demanding perfection from others.
+Self-correction of one's errors; not anxiety, cosmetic polish or demanding perfection from others.
 
 ## precision
 
@@ -158,7 +160,7 @@ Narrow, testable claims and belief updates of exactly the right size.
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 37
 
-Limits: Calibrated, narrow claims; not pedantic wording. Source names probability theory without giving the calculation.
+Calibrated, narrow claims; not pedantic wording. Source names probability theory without giving the calculation.
 
 ## relinquishment
 
@@ -168,7 +170,7 @@ Willingness to let truth destroy beliefs, and to fit emotions to facts.
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 21
 
-Limits: Not a demand to abandon beliefs or emotions as such; emotions fitting the facts should be felt fully.
+Not a demand to abandon beliefs or emotions as such; emotions fitting the facts should be felt fully.
 
 ## scholarship
 
@@ -178,7 +180,7 @@ Broad study of many sciences, especially those bearing on rationality, with a pu
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 39
 
-Limits: Source is brief; no explicit failure mode besides studying only rationality fields. Credentials are not required.
+Source is brief; no explicit failure mode besides studying only rationality fields. Credentials are not required.
 
 ## simplicity
 
@@ -188,7 +190,7 @@ Fewer details and steps in belief, design, planning, justification; care on ever
 
 Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 31
 
-Limits: Burden of specification in reasoning and design; not material austerity or plain speech.
+Burden of specification in reasoning and design; not material austerity or plain speech.
 
 ## the void
 
@@ -200,4 +202,4 @@ Eliezer Yudkowsky, Twelve Virtues of Rationality; retained lines 41–55
 
 Musashi's sword passage is quoted as analogy; Yudkowsky, not Musashi, applies it to reasoning.
 
-Limits: Source says naming it may misdescribe it; no mystical attainment or martial skill is required.
+Source says naming it may misdescribe it; no mystical attainment or martial skill is required.

@@ -8,7 +8,7 @@ Golden Legend: the outward deed of adultery, extended to all lechery and sins of
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: Unavoidable movings are not deadly sin, yet they are to be restrained. The source's wording is historically male-framed. Outward deed belongs here; inner consent belongs to the ninth commandment.
+Unavoidable movings are not deadly sin, yet they are to be restrained. The source's wording is historically male-framed. Outward deed belongs here; inner consent belongs to the ninth commandment.
 
 ## coveting a neighbour's goods
 
@@ -18,7 +18,7 @@ Golden Legend: consented will to have others' goods wrongfully, and envy of othe
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: 'Not deadly' is not the same as no breach; the source's wording on venial sin is conditional. Lawful wanting is not condemned.
+'Not deadly' is not the same as no breach; the source's wording on venial sin is conditional. Lawful wanting is not condemned.
 
 ## desiring a neighbour's wife
 
@@ -32,7 +32,7 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: This commandment concerns inner consent; the outward deed belongs to the sixth. The wording is historically male-framed.
+This commandment concerns inner consent; the outward deed belongs to the sixth. The wording is historically male-framed.
 
 ## false witness
 
@@ -42,7 +42,7 @@ Golden Legend: knowing lies, perjury, and malicious speech or detraction that im
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: The commandment extends beyond court testimony. It concerns knowing falsehood and malicious intent, not honest error.
+The commandment extends beyond court testimony. It concerns knowing falsehood and malicious intent, not honest error.
 
 ## honouring father and mother
 
@@ -56,7 +56,7 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: The obedience clause covers teaching of good one is bound to do. Obeying a command to sin is not this honour, and the source gives no ruling on such cases.
+The obedience clause covers teaching of good one is bound to do. Obeying a command to sin is not this honour, and the source gives no ruling on such cases.
 
 ## keeping holy the Sabbath or Sunday
 
@@ -72,7 +72,7 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Rest alone is not the virtue. The exposition joins rest from labour to prayer, thanksgiving and ghostly works.
 
-Limits: Work for 'necessity that holy church admitteth' is excepted. The source does not list which necessities qualify.
+Work for 'necessity that holy church admitteth' is excepted. The source does not list which necessities qualify.
 
 ## killing
 
@@ -86,7 +86,7 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: Lawful execution of justice is excepted, not praised as resistance. The source gives no ruling on suicide. Passing anger is not equated with willful harm.
+Lawful execution of justice is excepted, not praised as resistance. The source gives no ruling on suicide. Passing anger is not equated with willful harm.
 
 ## taking God's name in vain
 
@@ -100,7 +100,7 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: Not every oath is vain. Venial does not mean 'no breach'. Degree concerns gravity, not the strength of the evidence.
+Not every oath is vain. Venial does not mean 'no breach'. Degree concerns gravity, not the strength of the evidence.
 
 ## theft
 
@@ -114,8 +114,10 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>people taking bagels without paying — Clear evidence that the conduct shows this vice.</summary>
+<summary>people taking bagels without paying - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Paul F. found that people on the executive floor of a company steal more bagels; that people with security clearances don't steal any fewer bagels; that telecom companies have robbed him and that law firms aren't worth the trouble.
@@ -128,7 +130,7 @@ They take goods against the seller's will with no restitution shown.
 </details>
 
 <details>
-<summary>Zacchaeus — Some evidence that the conduct resists this vice.</summary>
+<summary>Zacchaeus - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
@@ -141,7 +143,7 @@ The source names restitution as the required response to theft and treats wrongf
 </details>
 
 <details>
-<summary>Sumana — Neither direction is established by the described conduct.</summary>
+<summary>Sumana - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 her husband was overcome, and he resolved upon putting his parents out of the way. ... Still personating the thief, he took his parents into the thick forest, threw them down, and left them there, after which he returned to his wife.
@@ -154,7 +156,7 @@ The story shows deceit and abandonment, but no property is taken or retained.
 </details>
 
 <details>
-<summary>Diotimus — Neither direction is established by the described conduct.</summary>
+<summary>Diotimus - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 sat down and forged more than fifty “licentious letters” intended to slander the reputation of the founder of that rival school. ... Diotimus portrayed Epicurus as some kind of depraved maniac ... in order to bolster his arguments against the philosophy. ... Diotimus chose to respond to slander with slander. He decided to commit a crime worse than what Apollodorus was falsely alleging against Chrysippus.
@@ -177,7 +179,7 @@ frames deceit and beguiling in terms of gaining another's goods. Slander takes n
 </details>
 
 <details>
-<summary>Dauna — Clear evidence that the conduct shows this vice.</summary>
+<summary>Dauna - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 Dauna abstracted one of the canine teeth and concealed it in the folds of his turban.
@@ -190,7 +192,7 @@ Secret taking and deceit against owners' will is forbidden; he hid it and would 
 </details>
 
 <details>
-<summary>the king — Neither direction is established by the described conduct.</summary>
+<summary>the king - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 The king at once wanted the Elephant for his own and paid the carpenters a great price for him. ... The king was proud of his new Elephant and took the best care of him as long as he lived.
@@ -204,7 +206,7 @@ The text shows no taking against the owners' will. He pays, the opposite of ravi
 
 </details>
 
-Limits: The source's 'without reason' leaves room for justified takings, but it does not define them. Private confiscation is not thereby authorised. Ability and knowledge conditions govern the duty of restitution.
+The source's 'without reason' leaves room for justified takings, but it does not define them. Private confiscation is not thereby authorised. Ability and knowledge conditions govern the duty of restitution.
 
 ## worshipping other gods
 
@@ -218,4 +220,4 @@ Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
 Golden Legend, Caxton1483, ed.Ellis1900, vol.I Ten Commandments pp140–143
 
-Limits: Possessions alone are neither the vice nor resistance to it. The fault lies in principal hope, or love that forgets God.
+Possessions alone are neither the vice nor resistance to it. The fault lies in principal hope, or love that forgets God.

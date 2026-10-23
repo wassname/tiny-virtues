@@ -10,10 +10,10 @@ from datasets import load_dataset
 parser = argparse.ArgumentParser()
 parser.add_argument('data_dir', nargs='?', default='hf://datasets/wassname/tiny-virtues/data')
 data = parser.parse_args().data_dir.rstrip('/')
-stories = load_dataset('parquet', data_files=data+'/stories.parquet', split='train')
+stories = load_dataset('parquet', data_files={'test':data+'/stories.parquet'}, split='test')
 story = stories[0]
-print(story['quote'])
+print(story['story'])
 print(json.dumps({name:label['signed'] for name,label in story['virtue_labels'].items()}, indent=2))
 
-rubrics = load_dataset('parquet', data_files=data+'/rubrics.parquet', split='train')
-print(rubrics[0]['virtue'], rubrics[0]['teaching'])
+virtues = load_dataset('parquet', data_files=data+'/virtues.parquet', split='train')
+print(virtues[0]['virtue'], virtues[0]['definition'])

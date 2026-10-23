@@ -8,6 +8,8 @@ Pretending to be righteous: a show of piety, sacrifice or austerity put on for r
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
+Śaṅkara's gloss:
+
 > Ostentation: pretending to be righteous.
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
@@ -24,13 +26,15 @@ Bhagavad Gītā 17.18 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 391
 
 Bhagavad Gītā 16.17 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 379–380
 
+Its contrary in the Gītā's virtues of knowledge (13.7), as Śaṅkara glosses it:
+
 > Modesty : not proclaiming one's own virtues.
 
 Bhagavad Gītā 13.7 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 301
 
 The fault is the pretence, not the religious act: worship and austerity performed for show or to win honour are classed as passionate (rājasa). It overlaps self-conceit and arrogance; Śaṅkara's gloss centres it on pretended righteousness.
 
-Limits: Śaṅkara's gloss is brief. Telling pretence from sincere public worship depends on a stated motive or plain evidence of show; public worship as such is not ostentation.
+Śaṅkara's gloss is brief. Telling pretence from sincere public worship depends on a stated motive or plain evidence of show; public worship as such is not ostentation.
 
 ## anger
 
@@ -39,6 +43,8 @@ Wrath at something unpleasant, especially desire thwarted. The Gītā makes it a
 > 4. Ostentation, arrogance and self-conceit, anger as also insolence, and ignorance, belong to one who is born, O Partha, for a demoniac lot.
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
+
+Śaṅkara's gloss at 16.18:
 
 > Anger: at something unpleasant.
 
@@ -56,13 +62,15 @@ Bhagavad Gītā 3.37 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 100�
 
 Bhagavad Gītā 16.21 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 381
 
+Its contrary in the divine qualities, 'absence of anger' (16.2), Śaṅkara glosses as:
+
 > anger : suppression of anger arising when beaten or reviled.
 
 Bhagavad Gītā 16.2 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 374
 
 Anger here is the passion itself, born when desire is frustrated, not only an outburst. Its danger is what follows: delusion, the loss of the power to tell right from wrong, and insult even to one's teacher. Its contrary is suppressing anger as it arises, even when beaten or reviled.
 
-Limits: The Gītā also commands Arjuna to fight; firm action against wrong is not itself anger. Overlaps absence of anger in the ten marks and the anger guides of other traditions.
+The Gītā also commands Arjuna to fight; firm action against wrong is not itself anger. Overlaps absence of anger in the ten marks and the anger guides of other traditions.
 
 ## arrogance
 
@@ -72,6 +80,8 @@ Pride of learning, wealth, family connection and the like, puffing oneself up ov
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
+Śaṅkara's gloss:
+
 > Arrogance: pride of learning, wealth, high connection, etc.
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
@@ -80,9 +90,13 @@ Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
 Bhagavad Gītā 16.14–15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 378–379
 
+Śaṅkara on giving up arrogance (Gītā 18.53):
+
 > Arrogance : which … follows the State of exultation and leads to the transgression of dharma, as said in the smriti : " When a man exults, he becomes arrogant, and when he becomes arrogant, he transgresses dharma " — (Apastamba-Dharmasutra, 1-13-4).
 
 Bhagavad Gītā 18.53 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 445–446
+
+Medhātithi's gloss of self-control in Manu 6.92 names its contrary:
 
 > (3) ‘Self-control’—absence of haughtiness, renouncing of pride due to superior learning &c.
 
@@ -90,7 +104,7 @@ Medhātithi on Manu 6.92, trans. Ganganath Jha
 
 Arrogance is pride swelling over one's advantages until one acts as if no one were equal. Śaṅkara ties it to learning, wealth and high connection. It overlaps self-conceit and insolence.
 
-Limits: Having or using learning, wealth or rank is not arrogance; the fault is the exultant pride that treats them as making one superior. The sources do not grade degrees of pride.
+Having or using learning, wealth or rank is not arrogance; the fault is the exultant pride that treats them as making one superior. The sources do not grade degrees of pride.
 
 ## ignorance
 
@@ -100,6 +114,8 @@ Misconception of duties and the like: not knowing what ought to be done and what
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
+Śaṅkara's gloss:
+
 > Ignorance : misconception of duties and the like.
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
@@ -108,9 +124,13 @@ Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
 Bhagavad Gītā 16.7 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 376
 
+Ānandagiri's note, extracted by Sastri, on why such people are "enemies of the right path":
+
 > Not caring to know and follow the Sruti and the Smriti.
 
 Ānandagiri note (A) in Sastri, Gītā 16.19 (1901), p. 380
+
+Śaṅkara at 13.11 also calls the faults opposed to the virtues of knowledge 'ignorance':
 
 > What is opposed to this — viz., pride, hypocrisy, cruelty, impatience, insincerity and the like — is ignorance, which should be known and avoided as tending to the perpetuation of samsara.
 
@@ -118,7 +138,7 @@ Bhagavad Gītā 13.11 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 304
 
 Ignorance here is not lack of schooling but not knowing one's duty, together with not caring to learn it. It shows when a person acts on a wrong notion of what ought to be done or avoided, or shrugs off duty as unreal. An honest gap in information, corrected when found, is not this vice.
 
-Limits: The vice is moral misjudgement, not illiteracy or lack of learning; examples avoid treating the unschooled as demoniac. Overlaps the Sigālovāda motive of stupidity and the ten marks' discrimination.
+The vice is moral misjudgement, not illiteracy or lack of learning; examples avoid treating the unschooled as demoniac. Overlaps the Sigālovāda motive of stupidity and the ten marks' discrimination.
 
 ## insolence
 
@@ -128,13 +148,19 @@ Harsh, wounding speech. Śaṅkara's examples are taunts that call the blind 'si
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
+Śaṅkara's gloss:
+
 > Insolence : in speech ; e. g. to speak of the blind as having eyes, of the ugly as handsome, of a man of low birth as one of high birth, and so on.
 
 Bhagavad Gītā 16.4 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 375
 
+Its contrary, 'austerity of speech' (17.15), where 'excitement' means pain to living beings:
+
 > 15. The speech which causes no excitement and is true, as also pleasant and beneficial, … are said to form the austerity of speech. … The speech that is true, that causes no excitement, that is agreeable and good, forms the austerity of speech ; … as for example, " Be tranquil, my son, study (the Vedas) and practise yoga, and this will do thee good."
 
 Bhagavad Gītā 17.15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 389–390
+
+The 1904 textbook on a neighbouring fault between equals:
 
 > Rudeness, Churlishness of bearing, a rough manner, are the faults which are the opposites of courtesy and consideration. … They are signs of a coarse and vulgar nature which — uncertain of its own power and of the respect of others — tries to assert itself by loudness and to force itself on the attention of others, and it is thus always a mark of weakness.
 
@@ -142,7 +168,7 @@ Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), faults betwee
 
 Śaṅkara's examples are mock praise: words that sound kind but wound by naming a defect or low status. The fault is speech meant to hurt; its contrary is speech that causes no pain and is true, pleasant and beneficial.
 
-Limits: Śaṅkara's examples are taunts; extending the vice to open abuse rests on the Gītā's ideal of painless speech. Gentle, sincere correction is not insolence. The remarks on birth reflect the source's caste setting.
+Śaṅkara's examples are taunts; extending the vice to open abuse rests on the Gītā's ideal of painless speech. Gentle, sincere correction is not insolence. The remarks on birth reflect the source's caste setting.
 
 ## self-conceit
 
@@ -160,6 +186,8 @@ Bhagavad Gītā 16.17 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 379
 
 Bhagavad Gītā 16.18 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 380
 
+Śaṅkara on 'absence of pride' among the divine qualities (16.3):
+
 > Pride : consists in supposing oneself worthy of a high honor.
 
 Bhagavad Gītā 16.3 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 374
@@ -168,10 +196,12 @@ Bhagavad Gītā 16.3 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 374
 
 Bhagavad Gītā 16.14–15 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 378–379
 
+Its contrary in 13.7, as Śaṅkara glosses it:
+
 > Humility : absence of self-esteem.
 
 Bhagavad Gītā 13.7 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 301
 
 Self-conceit is an inflated self-estimate: crediting oneself with every virtue, including ones one lacks, and expecting honour accordingly. The righteous do not share that estimate. Its contrary is humility.
 
-Limits: Sastri does not gloss abhimāna at 16.4; this guide relies on Śaṅkara at 16.17–18 and 16.3. Stating a real skill accurately is not self-conceit.
+Sastri does not gloss abhimāna at 16.4; this guide relies on Śaṅkara at 16.17–18 and 16.3. Stating a real skill accurately is not self-conceit.

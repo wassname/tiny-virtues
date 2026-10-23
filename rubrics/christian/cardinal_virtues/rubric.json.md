@@ -6,14 +6,16 @@ Cardinal virtue (also a gift of the Holy Ghost): courage against difficulties of
 
 > **It enables us to face with courage, and generously overcome, all the difficulties with which our salvation is beset, and to bear our cross patiently after our Blessed Lord.**
 
-Gibson, Catechism Made Easy III (1877), 15th instruction; source lines 13225–13465.
+Gibson, Catechism Made Easy III (1877), 15th instruction.
 
 > It is this which will enable us to fulfil our daily duties faithfully, even when they are distasteful and painful to us.
 
-Gibson, Catechism Made Easy III (1877), 15th instruction; source lines 13225–13465.
+Gibson, Catechism Made Easy III (1877), 15th instruction.
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -26,7 +28,7 @@ Mutual self-destruction from bravado serves no duty or salvation; Gibson's forti
 </details>
 
 <details>
-<summary>Kappa — Neither direction is established by the described conduct.</summary>
+<summary>Kappa - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Kappa, hearing the Master discourse in so many figures on the nature and destiny of the body-complex, in fear, and aversion at his own body, besought him in distress for ordination.
@@ -56,7 +58,7 @@ Gibson's fortitude helps one deny appetites for the sake of salvation. Kappa giv
 </details>
 
 <details>
-<summary>the huge and strong fellow — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the huge and strong fellow - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -69,7 +71,7 @@ Raging over a light insult shows inability to bear a small cross patiently; fort
 </details>
 
 <details>
-<summary>Mucius — Some evidence that the conduct shows this virtue.</summary>
+<summary>Mucius - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -82,7 +84,7 @@ He endures torment unshaken, which parallels the martyrs' fortitude. However, th
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who rushes irrationally into danger - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -95,7 +97,7 @@ Irrational rushing is bravado; fortitude aims at salvation and is guided by prud
 </details>
 
 <details>
-<summary>the timid companion — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the timid companion - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 fled away ... the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, “I’ll at him, and I’ll take care he shall learn whom he has attacked.”
@@ -107,7 +109,7 @@ He abandons a duty to his comrade when danger comes, then performs the bravado t
 
 </details>
 
-Limits: Heroic martyrdom is the peak, not the threshold; ordinary daily duties count. Fortitude is aimed at salvation, not bravado.
+Heroic martyrdom is the peak, not the threshold; ordinary daily duties count. Fortitude is aimed at salvation, not bravado.
 
 ## justice
 
@@ -121,8 +123,10 @@ Gibson, Catechism Made Easy III (1877), 15th instruction
 
 Gibson, Catechism Made Easy III (1877), 15th instruction
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the Fox — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Fox - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -135,7 +139,7 @@ Fox betrays his partner with a false assurance, violating truthfulness and duty 
 </details>
 
 <details>
-<summary>a slave — Some evidence that the conduct shows this virtue.</summary>
+<summary>a slave - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -148,7 +152,7 @@ Fidelity to his master under torture fulfils duty of obedience to superiors and 
 </details>
 
 <details>
-<summary>the son — Neither direction is established by the described conduct.</summary>
+<summary>the son - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 If a father has stolen a sheep, the son will give evidence against him.
@@ -163,7 +167,7 @@ Truthful testimony serves honesty, yet obedience/piety to parents also owed; con
 </details>
 
 <details>
-<summary>Tsze-sze — Some evidence that the conduct shows this virtue.</summary>
+<summary>Tsze-sze - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -176,7 +180,7 @@ Staying to guard the ruler fulfils duty to superiors, part of justice per Gibson
 </details>
 
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -189,7 +193,7 @@ Knowingly keeping, on suspicion, an estate that was due to another withholds tha
 </details>
 
 <details>
-<summary>the husbandmen — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the husbandmen - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -221,7 +225,7 @@ They withheld the owner's due fruits, used deliberate murderous violence, and pl
 
 </details>
 
-Limits: Broad overlap with piety, obedience and honesty is the source's own. 'Nothing less than a Saint' describes the perfect habit, not a threshold for scoring one clear just act. Deliberate refusal of whole categories of duty counts as conflict. Do not narrow justice to market honesty.
+Broad overlap with piety, obedience and honesty is the source's own. 'Nothing less than a Saint' describes the perfect habit, not a threshold for scoring one clear just act. Deliberate refusal of whole categories of duty counts as conflict. Do not narrow justice to market honesty.
 
 ## prudence
 
@@ -275,8 +279,10 @@ Gibson, Catechism Made Easy III, p. 232 (III Kings iii)
 
 Gibson, Catechism Made Easy III, p. 232 (III Kings iii)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -289,7 +295,7 @@ This is the reverse of Gibson's prudence: he gave up spiritual good for fleeting
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Neither direction is established by the described conduct.</summary>
+<summary>the third set of recluses and brahmins - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -302,7 +308,7 @@ Not rushing in, acting with circumspection, and staying on guard match Gibson's 
 </details>
 
 <details>
-<summary>The happy man — Neither direction is established by the described conduct.</summary>
+<summary>The happy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -315,7 +321,7 @@ Gibson's prudence means taking the means toward God and preferring spiritual to 
 </details>
 
 <details>
-<summary>one of the sophists — Neither direction is established by the described conduct.</summary>
+<summary>one of the sophists - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -330,7 +336,7 @@ Gibson's prudence is about deliberating and ordering one's ends. Rage over statu
 </details>
 
 <details>
-<summary>the nun Caṇḍakāḷī — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the nun Caṇḍakāḷī - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 In anger she said this:
@@ -377,7 +383,7 @@ Gibson's prudence forbids rashness and requires careful consideration of each st
 </details>
 
 <details>
-<summary>Xu You — Some evidence that the conduct shows this virtue.</summary>
+<summary>Xu You - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Xu You gave up the world not because he was forced to do so, but because he comprehended the true nature of things.
@@ -389,7 +395,7 @@ Freely giving up worldly goods resembles prudence's readiness to sacrifice fleet
 
 </details>
 
-Limits: Infused grace is not observable, so only the described deliberation, counsel and ordering of ends can be weighed, and OCR errors are reproduced as they appear in the source.
+Infused grace is not observable, so only the described deliberation, counsel and ordering of ends can be weighed, and OCR errors are reproduced as they appear in the source.
 
 ## temperance
 
@@ -397,6 +403,6 @@ Cardinal virtue: moderation in all appetites and desires, even in good and devou
 
 > **The last of the Cardinal Virtues is Temperance, by which we mean a moderation in all things, not merely in eating and drinking, but in the gratification of all our appetites and desires.** ... For example, the mother of a family, who is devout and fond of prayer, might without the virtue of Temperance or Moderation fall into a sin of excess by giving her whole time to that exercise, and thus neglecting the care of her family. ... But it is not often that we exceed in what is good; and it is chiefly in regard to those things which indulge our self-love, such as eating, drinking, sleeping, and the different pleasures of life, that we stand in need of the safeguard of Temperance.
 
-Henry Gibson, Catechism Made Easy, vol.III (1877); retained-source lines 13435–13453
+Henry Gibson, Catechism Made Easy, vol.III (1877)
 
-Limits: Broader than the capital-sin Temperance item, which covers food and drink only. Gibson's illustrations are examples, not exhaustive cases.
+Broader than the capital-sin Temperance item, which covers food and drink only. Gibson's illustrations are examples, not exhaustive cases.

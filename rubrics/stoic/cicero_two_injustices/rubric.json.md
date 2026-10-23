@@ -12,7 +12,7 @@ Cicero, On Duties1.23–24, tr.Miller1913 (Academic following Panaetius)
 
 Cicero, On Duties1.23–25, tr.Miller1913 (Academic following Panaetius)
 
-Limits: Ordinary wealth is not this vice. Cicero names no antonym virtue for this list; none is invented here. Harm in response to provocation is a separate qualifier (1.20).
+Ordinary wealth is not this vice. Cicero names no antonym virtue for this list; none is invented here. Harm in response to provocation is a separate qualifier (1.20).
 
 ## not shielding from wrong
 
@@ -28,4 +28,4 @@ Cicero, On Duties1.28, tr.Miller1913 (Academic following Panaetius)
 
 Not inflicting wrong does not, by itself, resist this omission.
 
-Limits: This applies when the agent is able, and to those one ought to protect. Genuine inability is not this vice. The source does not set out degrees of ability.
+This applies when the agent is able, and to those one ought to protect. Genuine inability is not this vice. The source does not set out degrees of ability.

@@ -12,7 +12,7 @@ Pirkei Avot, trans. Joshua Kulp, Mishnah Yomit
 
 Pirkei Avot 2:1–16, Kulp
 
-Limits: The proof-text concerns honoring God. The extension to fellows is Ben Zoma's, and the sources give no further boundary.
+The proof-text concerns honoring God. The extension to fellows is Ben Zoma's, and the sources give no further boundary.
 
 ## mighty
 
@@ -20,10 +20,12 @@ Ben Zoma (4:1): the mighty person is one who subdues his inclination, not one wh
 
 > Who is mighty? **He who subdues his [evil] inclination**, as it is said: “He that is slow to anger is better than the mighty; and he that rules his spirit than he that takes a city” (Proverbs 16:32).
 
-Pirkei Avot 4:1, trans. Kulp; source line 5.
+Pirkei Avot 4:1, trans. Kulp.
+
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
 
 <details>
-<summary>one man who lived in the eastern part of the city and another who lived in the western part — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one man who lived in the eastern part of the city and another who lived in the western part - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 They thereupon soaked each other in sauce, then pulled out their knives and ate one another, stopping only when they had fallen over dead.
@@ -36,7 +38,7 @@ They yield to a contest of pride rather than ruling their spirit; opposite of su
 </details>
 
 <details>
-<summary>Yu — Some evidence that the conduct shows this virtue.</summary>
+<summary>Yu - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Yu, Gun's son, dared not ... harbor resentment against Shun but, on the contrary, served him, being appointed minister of works in charge of clearing the water courses.
@@ -49,7 +51,7 @@ Not harbouring resentment toward his father's executioner is ruling his spirit a
 </details>
 
 <details>
-<summary>Mucius — Neither direction is established by the described conduct.</summary>
+<summary>Mucius - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he grasped the enemy’s fire with his right hand, and of his own accord paid the penalty of his mistake? because he overcame the King with his hand when it was burned, though he could not when it held a sword
@@ -62,7 +64,7 @@ He mastered the impulse to flinch, a self-rule over his body, but no evil inclin
 </details>
 
 <details>
-<summary>the huge and strong fellow — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the huge and strong fellow - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 a huge and strong fellow, who, having got much enraged, was storming with passion and foaming at the mouth
@@ -75,7 +77,7 @@ Ben Zoma's mighty one is slow to anger and rules his spirit; this strong man is 
 </details>
 
 <details>
-<summary>the man who rushes irrationally into danger — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who rushes irrationally into danger - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 rushes irrationally into danger
@@ -88,7 +90,7 @@ Rushing irrationally follows impulse rather than ruling one's spirit.
 </details>
 
 <details>
-<summary>the timid companion — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the timid companion - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 fled away ... the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, “I’ll at him, and I’ll take care he shall learn whom he has attacked.”
@@ -100,7 +102,7 @@ Ben Zoma's might is ruling one's spirit, not battlefield success. He rules neith
 
 </details>
 
-Limits: The source does not list which inclinations are meant beyond anger and the [evil] inclination.
+The source does not list which inclinations are meant beyond anger and the [evil] inclination.
 
 ## rich
 
@@ -114,7 +116,7 @@ Pirkei Avot, trans. Joshua Kulp, Mishnah Yomit
 
 Pirkei Avot 2:1–16, Kulp
 
-Limits: The source does not say whether rejoicing in one's lot rules out working to improve it.
+The source does not say whether rejoicing in one's lot rules out working to improve it.
 
 ## wise
 
@@ -130,4 +132,4 @@ Pirkei Avot 4:1–10, Kulp
 
 In context, 'He used to say' in4:3refers to Ben Azzai, not Ben Zoma. It is supporting context only.
 
-Limits: The supplied sayings leave learning from bad examples or false teaching unresolved; Ben Azzai is related context, not Ben Zoma speech.
+The supplied sayings leave learning from bad examples or false teaching unresolved; Ben Azzai is related context, not Ben Zoma speech.

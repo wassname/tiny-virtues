@@ -10,8 +10,10 @@ Medhatithi on Manu 6.92, trans. Jha (not the verse)
 
 This item concerns anger arising. Refraining from retaliation is Forgiveness, a separate item.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>old man — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>old man - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Once, in a fit of anger, he drove him from his cell.
@@ -24,7 +26,7 @@ Anger explicitly arose and drove action.
 </details>
 
 <details>
-<summary>the old man — Some evidence that the conduct shows this virtue.</summary>
+<summary>the old man - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The old man straightway turned to him the other cheek, that he might smite him upon it also.
@@ -37,7 +39,7 @@ Occasion for anger present; immediate cheek-turning suggests anger did not arise
 </details>
 
 <details>
-<summary>Yen Hwúi — Neither direction is established by the described conduct.</summary>
+<summary>Yen Hwúi - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a man whose angry feelings towards any particular person he did not suffer to visit upon another
@@ -50,7 +52,7 @@ Text affirms angry feelings arose; Medhatithi requires not permitting anger to a
 </details>
 
 <details>
-<summary>Lycurgus the Lacedaemonian — Some evidence that the conduct shows this virtue.</summary>
+<summary>Lycurgus the Lacedaemonian - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 this he refrained from doing, but brought him up and made a good man of him, and presented him in the theatre
@@ -63,7 +65,7 @@ Refraining from vengeance is mainly Forgiveness; text does not show whether ange
 </details>
 
 <details>
-<summary>the Wolf — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the Wolf - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 seized him and ate him up
@@ -76,7 +78,7 @@ Medhatithi's item concerns anger arising on occasion. Wolf's feigned insult and 
 </details>
 
 <details>
-<summary>Kaou Pih — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Kaou Pih - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 On the day Sin-maou, therefore, he took the initiative, and killed duke Ch'aou, raising up his brother We in his room.
@@ -88,7 +90,7 @@ Item concerns anger arising; passage gives fear as motive, revenge per commentat
 
 </details>
 
-Limits: The source does not state how brief or slight anger must be. Ratings for partial anger remain fallible.
+The source does not state how brief or slight anger must be. Ratings for partial anger remain fallible.
 
 ## Abstention from unrighteous appropriation
 
@@ -104,8 +106,10 @@ Jha, notes on Manu 6.92 (Smrticandrika), 1920
 
 Medhātithi gives no explicit explanation; the operative gloss is attributed to Smṛticandrikā.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Marcus Crassus and Quintus Hortensius — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Marcus Crassus and Quintus Hortensius - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Although these men suspected that the will was a forgery, still, as they were conscious of no personal guilt in the matter, they did not spurn the miserable boon procured through the crime of others.
@@ -118,7 +122,7 @@ Under the Smṛticandrikā gloss, taking an estate the testator did not give is 
 </details>
 
 <details>
-<summary>the son — Neither direction is established by the described conduct.</summary>
+<summary>the son - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 If a father has stolen a sheep, the son will give evidence against him.
@@ -133,7 +137,7 @@ Son appropriates nothing; testifying about theft is not itself abstention.
 </details>
 
 <details>
-<summary>the Fox — Neither direction is established by the described conduct.</summary>
+<summary>the Fox - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 approached the Lion and promised to contrive for him the capture of the Ass if the Lion would pledge his word not to harm the Fox. Then, upon assuring the Ass that he would not be injured, the Fox led him to a deep pit and arranged that he should fall into it.
@@ -146,7 +150,7 @@ No property taken; betrayal is wrong but not appropriation of what is not given.
 </details>
 
 <details>
-<summary>Tsze-sze — Neither direction is established by the described conduct.</summary>
+<summary>Tsze-sze - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Tsze-sze said, "If I go away, whom will the ruler have with him to guard [the city]?"
@@ -159,7 +163,7 @@ No appropriation involved; guarding against plunderers is not itself his abstent
 </details>
 
 <details>
-<summary>a slave — Neither direction is established by the described conduct.</summary>
+<summary>a slave - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 has refused to betray his master's secrets-rejecting the bribes of a tyrant, undaunted by any of his threats, unbeaten by the pains of torture-who has done all he could to avert the suspicions of his interrogator and then has given his life to preserve his loyalty
@@ -172,7 +176,7 @@ Rejecting bribes is refusing gain, adjacent to non-appropriation; central act is
 </details>
 
 <details>
-<summary>the husbandmen — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>the husbandmen - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 And the husbandmen took his servants, and beat one, and killed another, and stoned another. ... and they did unto them likewise. ... But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. ... And they caught him, and cast him out of the vineyard, and slew him.
@@ -204,7 +208,7 @@ Seizing an inheritance and fruits that were not given to them is plain appropria
 
 </details>
 
-Limits: 'Well known' leaves the scope of 'unrighteous' unexplained by Medhātithi.
+'Well known' leaves the scope of 'unrighteous' unexplained by Medhātithi.
 
 ## Control of the Sense-organs
 
@@ -220,8 +224,10 @@ Ganganath Jha notes on Manu6.92(1920 attribution)
 
 Under Medhātithi, avoiding banned things alone is insufficient. Smṛticandrikā's narrower reading is attributed separately.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Rajadatta - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -234,7 +240,7 @@ Forward: His senses were drawn to a 'beautiful courtesan' to the point of ruin. 
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct shows this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -247,7 +253,7 @@ Forward: Food, alcohol and warmth are permitted pleasures. He deliberately train
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -260,7 +266,7 @@ Covetousness is not specifically sensory. Taking a lawful share is not shown as 
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Mindyrides - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -273,7 +279,7 @@ Forward: He lies on rose-leaves and is disturbed by trivial sensations. His sens
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -286,7 +292,7 @@ Forward: His palate was so dominant that he preferred death to plainer food. Tha
 </details>
 
 <details>
-<summary>our minister Shaou — Some evidence that the conduct shows this virtue.</summary>
+<summary>our minister Shaou - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He  would  order  his  measures  and  movements, As  more  valuable  than  gold  or  gem.
@@ -304,7 +310,7 @@ Absence of craving thirst or greed shows senses not drawn into excess. Medhatith
 
 </details>
 
-Limits: The examples do not establish what counts as 'drawn' in degree. Physical abstinence alone is not decisive.
+The examples do not establish what counts as 'drawn' in degree. Physical abstinence alone is not decisive.
 
 ## Discrimination
 
@@ -318,8 +324,10 @@ Medhatithi on Manu6.92, tr.Ganganath Jha(1920 attribution)
 
 Ganganath Jha notes on Manu6.92(1920 attribution)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Shên Tao — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Shên Tao - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Consequently, Shên Tao discarded all knowledge and self-interest and became a fatalist. ... Passivity was his guiding principle. "For," said he, "we can only know that we know nothing, and a little knowledge is a dangerous thing. ... "Move when pushed, come when dragged. Be like a whirling gale, like a feather in the wind, like a mill-stone going round. The mill-stone as an existence is perfectly harmless. In motion or at rest it does no more than is required, and cannot therefore incur blame. ... "For a clod cannot be without TAO,"
@@ -344,7 +352,7 @@ He refuses to discriminate between acts and claims that nothing can be known. Th
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Neither direction is established by the described conduct.</summary>
+<summary>the third set of recluses and brahmins - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -357,7 +365,7 @@ Medhātithi defines discrimination as true knowledge reached by refuting doubtfu
 </details>
 
 <details>
-<summary>The happy man — Neither direction is established by the described conduct.</summary>
+<summary>The happy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -370,7 +378,7 @@ A reasoned verdict on his situation is a weak instance of true knowledge about p
 </details>
 
 <details>
-<summary>one of the sophists — Neither direction is established by the described conduct.</summary>
+<summary>one of the sophists - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -385,7 +393,7 @@ Discrimination concerns right knowledge about acts. A passion with no described 
 </details>
 
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -398,7 +406,7 @@ Choosing a wrong act shows failed discrimination about acts. It overlaps with th
 </details>
 
 <details>
-<summary>the nun Caṇḍakāḷī — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the nun Caṇḍakāḷī - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 In anger she said this:
@@ -444,7 +452,7 @@ A decision about acts made in anger, without settling doubts, falls short of dis
 
 </details>
 
-Limits: Medhātithi explicitly rejects merging this item with Knowledge.
+Medhātithi explicitly rejects merging this item with Knowledge.
 
 ## Forgiveness
 
@@ -456,7 +464,7 @@ Medhatithi on Manu6.92, tr.Ganganath Jha(1920 attribution)
 
 Forgiveness concerns not retaliating. Whether anger arises is the separate item. Smṛticandrikā's 'nonperturbation' is a separate gloss.
 
-Limits: Anger arising does not by itself count against this item, per Medhātithi's distinction. Smṛticandrikā's nonperturbation is not his definition.
+Anger arising does not by itself count against this item, per Medhātithi's distinction. Smṛticandrikā's nonperturbation is not his definition.
 
 ## Knowledge
 
@@ -470,9 +478,13 @@ Manusmṛti 6.92, trans. Ganganath Jha
 
 Medhātithi on Manu 6.92, trans. Ganganath Jha
 
+The Smṛticandrikā, quoted in Jha's notes:
+
 > ‘vidyā’ is self-knowledge
 
 Jha's notes on Manu 6.92, quoting the Smṛticandrikā
+
+The 1904 textbook renders the same verse with 'learning' for vidyā:
 
 > " Endurance, patience, self-control, integrity, purity, restraint of the senses, wisdom, learning, truth, absence of anger, are the ten signs of virtue."
 
@@ -486,14 +498,18 @@ Sanatana Dharma, Advanced Text Book (Central Hindu College, 1904), p. 42
 
 Bhagavad Gītā 6.32 with Śaṅkara, trans. A. Mahadeva Sastri (1901), pp. 181–182
 
+Śaṅkara on the virtues the Gītā calls "knowledge" (13.7–11), which begin with humility, patience, uprightness and service of the teacher:
+
 > These attributes — from * humility ' to ' perception of the end of the knowledge of truth ' — are declared to be knowledge, because they are conducive to knowledge.
 
 Bhagavad Gītā 13.11 with Śaṅkara, trans. A. Mahadeva Sastri (1901), p. 304
 
 Knowledge in this list is not information or cleverness. Discrimination knows which acts are right; knowledge knows the Self. In conduct it shows as treating others' pain as one's own from a felt unity, or as the humble study and service the Gītā calls knowledge because they lead to it. For the young, the textbook asks only that they try to feel that unity as a bond of fellowship.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Devadatta — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Devadatta - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 It was through that hatred that he seized hold of a mighty mass of rock, and pushed it over with the hope that it would fall upon the Buddha’s head.
@@ -506,7 +522,7 @@ Intended cruelty, the reverse of seeing others' pain as one's own, is named as i
 </details>
 
 <details>
-<summary>the third set of recluses and brahmins — Neither direction is established by the described conduct.</summary>
+<summary>the third set of recluses and brahmins - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 a third set resolved instead to take up their abode hard by the crop Mara had sown and what the world could bestow, but, making no mad rush in, to partake thereof with circumspection and without losing their heads and without getting off their guard, so as not to be at Mara’s mercy amid the crop he had sown and amid what the world could bestow. This they did. But they came to entertain such speculative views as the following :—The world is everlasting,—the world is not everlasting,—-the world is finite,—the world is infinite, the body is the life (jiva),—the body is one thing and the life another,—a truth-finder exists after death,—a truth-finder does not exist after death,— he both exists and does not exist after death,—he neither exists nor does not exist after death.
@@ -519,7 +535,7 @@ Holding opinions about whether body and life (jiva) are the same is speculation 
 </details>
 
 <details>
-<summary>The happy man — Neither direction is established by the described conduct.</summary>
+<summary>The happy man - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 he is happy who in his present circumstances, whatever they may be, is satisfied and on friendly terms with the conditions of his life. That man is happy, whose reason recommends to him the whole posture of his affairs.
@@ -532,7 +548,7 @@ Medhātithi puts contentment under Steadiness, not Knowledge. Knowledge means kn
 </details>
 
 <details>
-<summary>one of the sophists — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>one of the sophists - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 when the man was wild with rage
@@ -547,7 +563,7 @@ Let us look at your principles also. For is it not plain that you value not at a
 </details>
 
 <details>
-<summary>Achan — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Achan - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 coveted a golden weight from the camp of the Philistines, and stole it
@@ -560,7 +576,7 @@ Knowledge is self-knowledge. Theft falls mainly under the separate mark of absta
 </details>
 
 <details>
-<summary>the nun Caṇḍakāḷī — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the nun Caṇḍakāḷī - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 In anger she said this:
@@ -606,7 +622,7 @@ Impatience and likely pride (inference) are listed as ignorance, the opposite of
 
 </details>
 
-Limits: The verse's knowledge is mainly an inner realisation, and readings differ (Medhātithi: knowledge of the Soul; the 1904 textbook's translation: learning). Reading single acts as evidence of it is this rubric's convention. Do not credit worldly expertise or schooling as this mark, and do not mark the unschooled down for lacking it.
+The verse's knowledge is mainly an inner realisation, and readings differ (Medhātithi: knowledge of the Soul; the 1904 textbook's translation: learning). Reading single acts as evidence of it is this rubric's convention. Do not credit worldly expertise or schooling as this mark, and do not mark the unschooled down for lacking it.
 
 ## Purity
 
@@ -616,7 +632,7 @@ Manu6.92item(5), with Smṛticandrikā's 'cleanliness, both internal and externa
 
 Ganganath Jha notes on Manu6.92(1920 attribution)
 
-Limits: 'Internal' is undefined in the operative note. Equating it with Aparārka's 'mind' is a cross-commentator inference. Medhātithi's 'cleanliness of food etc.' is a separately attributed alternative, not a restriction on this gloss.
+'Internal' is undefined in the operative note. Equating it with Aparārka's 'mind' is a cross-commentator inference. Medhātithi's 'cleanliness of food etc.' is a separately attributed alternative, not a restriction on this gloss.
 
 ## Self-control
 
@@ -626,8 +642,10 @@ Manu6.92item(3), with Smṛticandrikā's 'control of the mind', as Jha quotes it
 
 Jha, notes on Manu 6.92 (Smrticandrika), 1920
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Rajadatta - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -640,7 +658,7 @@ Mind driven by sensual desire to ruin indicates lack of mental control (dama).
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct shows this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -653,7 +671,7 @@ Regular voluntary deprivation trains control of mind; austerities not required b
 </details>
 
 <details>
-<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) — Neither direction is established by the described conduct.</summary>
+<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Of liquids, pure water is necessary to health, and infusions of herbs in it, such as tea, coffee and cocoa, taken in moderation, are harmless and often useful.
@@ -666,7 +684,7 @@ Smrticandrika's dama is control of mind; moderation in drink may imply some cont
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Mindyrides - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -679,7 +697,7 @@ Mind dominated by aversion and softness; irritation at mere sight shows lack of 
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -692,7 +710,7 @@ Mind governed by craving and fear of losing luxuries, ending in suicide, shows f
 </details>
 
 <details>
-<summary>the people — Some evidence that the conduct shows this virtue.</summary>
+<summary>the people - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -704,7 +722,7 @@ Not coveting is a mental state, which suggests a controlled mind. The gloss is t
 
 </details>
 
-Limits: The Smṛticandrikā note is a single phrase. It does not define the degree of control, its objects or its methods. Medhātithi's humility is a separately attributed alternative; austerities are not required.
+The Smṛticandrikā note is a single phrase. It does not define the degree of control, its objects or its methods. Medhātithi's humility is a separately attributed alternative; austerities are not required.
 
 ## Steadiness
 
@@ -720,7 +738,7 @@ Ganganath Jha notes on Manu6.92(1920 attribution)
 
 Main lens: contentment and equanimity at loss. Firmness of purpose is Nārāyaṇa/Nandana's separate gloss, not Medhātithi's.
 
-Limits: Persistence, as the 'firmness of purpose' gloss, is attributed to Nārāyaṇa/Nandana. It does not replace Medhātithi's equanimity at loss.
+Persistence, as the 'firmness of purpose' gloss, is attributed to Nārāyaṇa/Nandana. It does not replace Medhātithi's equanimity at loss.
 
 ## Truthfulness
 
@@ -730,4 +748,4 @@ Manu 6.92, item (9), read only through Smṛticandrikā's gloss as Jha reports i
 
 Ganganath Jha notes on Manu6.92(1920 attribution)
 
-Limits: 'Agreeable' is undefined. The gloss neither licenses falsehood to please nor bans every useful but unwelcome correction. It is silent on omission and on literally true but misleading speech, so those cases stay unresolved rather than scored.
+'Agreeable' is undefined. The gloss neither licenses falsehood to please nor bans every useful but unwelcome correction. It is silent on omission and on literally true but misleading speech, so those cases stay unresolved rather than scored.

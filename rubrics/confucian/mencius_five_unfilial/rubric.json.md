@@ -10,7 +10,7 @@ Mencius 4B30 (離婁下), Legge, The Works of Mencius (1875 revised ed.)
 
 The vice requires disgrace to the parents. Sight, hearing and enjoyment are not themselves the vice.
 
-Limits: No genuine source-supported intermediate scene was found. Legge's conjectures about Chang-tsze are excluded.
+No genuine source-supported intermediate scene was found. Legge's conjectures about Chang-tsze are excluded.
 
 ## Fondness for bravery, fighting and quarrelling
 
@@ -22,7 +22,7 @@ Mencius 4B30 (離婁下), Legge, The Works of Mencius (1875 revised ed.)
 
 The vice requires endangering the parents. Courage itself is not the vice.
 
-Limits: Legge's commentary on K'wang Chang's military career is not narrative evidence. This is the popular list only.
+Legge's commentary on K'wang Chang's military career is not narrative evidence. This is the popular list only.
 
 ## Fondness for goods and money and selfish attachment to wife and children
 
@@ -34,7 +34,7 @@ Mencius 4B30 (離婁下), Legge, The Works of Mencius (1875 revised ed.)
 
 "Selfishly" and neglect are both required. Saving for wife or children is not itself the vice.
 
-Limits: Do not drop the consequence clause. Love of family and saving are not the vice.
+Do not drop the consequence clause. Love of family and saving are not the vice.
 
 ## Gambling, chess-playing and fondness for spirits
 
@@ -46,7 +46,7 @@ Mencius4B30, tr. Legge1875, pp267–268: common list and Chang-tsze
 
 The vice requires neglect of maintenance. Merely not gambling is not resistance.
 
-Limits: Chess or wine alone is not the listed vice. This is the common-parlance list only.
+Chess or wine alone is not the listed vice. This is the common-parlance list only.
 
 ## Laziness in the use of one's four limbs
 
@@ -58,8 +58,10 @@ Mencius4B30, tr. Legge1875, pp267–268: common list and Chang-tsze
 
 The consequence clause is part of the item. Inactivity alone, or illness, is not the vice.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Mrs. She — Clear evidence that the conduct resists this vice.</summary>
+<summary>Mrs. She - Clear evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 She took refuge with a neighbour, spun from dawn until dark, and [with the proceeds of her labor] frequently bought nice vegetables, which she sent to her mother-in-law by the neighbour [as if gifts from the neighbour herself].
@@ -74,7 +76,7 @@ Used her limbs from dawn to dark to maintain her mother-in-law even after expuls
 </details>
 
 <details>
-<summary>NIta — Neither direction is established by the described conduct.</summary>
+<summary>NIta - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long.
@@ -94,7 +96,7 @@ Forward: The item includes a consequence clause: the laziness must result in fai
 </details>
 
 <details>
-<summary>One of the Dukes of Chow — Neither direction is established by the described conduct.</summary>
+<summary>One of the Dukes of Chow - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 put down his rice-bowl three times at one meal to receive officers, and three times in one morning interrupted his toilet to attend to business.
@@ -107,7 +109,7 @@ Forward: He is active, not lazy, but the passage says nothing about his parents 
 </details>
 
 <details>
-<summary>Dhananjani — Neither direction is established by the described conduct.</summary>
+<summary>Dhananjani - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 He uses the king to fleece the brahmins and householders, and uses them to fleece the king.
@@ -138,7 +140,7 @@ He supports his parents, though unjustly; not limb-laziness leaving parents unma
 </details>
 
 <details>
-<summary>Somamitta — Neither direction is established by the described conduct.</summary>
+<summary>Somamitta - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 went  to  Kassapa  the  Great, ... attending  his  lectures,
@@ -164,7 +166,7 @@ No parents or maintenance involved; item not engaged.
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Immediately they put together a few provisions and hurry off, neglecting their parents at home and their master's business abroad, filing in unbroken line through territories of Princes, with a string of carts and carriages a thousand _li_ in length.
@@ -178,4 +180,4 @@ The consequence, neglecting parents, is present, but the cause is eager pursuit,
 
 </details>
 
-Limits: This is a popular list, not the whole of filial doctrine. Illness and rest are not culpable laziness.
+This is a popular list, not the whole of filial doctrine. Illness and rest are not culpable laziness.

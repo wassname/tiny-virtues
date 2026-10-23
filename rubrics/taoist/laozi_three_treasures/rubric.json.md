@@ -4,8 +4,6 @@
 
 Ch. 67's first contrary: giving up gentleness (Balfour: compassion) while being all for boldness.
 
-Labels derive from `taoist|laozi_three_treasures|Gentleness (compassion, 慈)`.
-
 > With that gentleness I can be bold; … Now-a-days they give up gentleness and are all for being bold; …--(of all which the end is) death.
 
 Laozi, Daodejing 67, trans. James Legge(1891)
@@ -16,13 +14,11 @@ Laozi, Daodejing 67, trans. Frederic Balfour(1884)
 
 The fault is boldness cut off from gentleness, not boldness itself.
 
-Limits: This does not condemn boldness or fighting as such, since ch. 67 praises compassionate victory.
+This does not condemn boldness or fighting as such, since ch. 67 praises compassionate victory.
 
 ## Being liberal without economy (lavishness)
 
 Ch. 67's second contrary: giving up economy (frugality) while being all for liberality.
-
-Labels derive from `taoist|laozi_three_treasures|Economy`.
 
 > with that economy I can be liberal; … Now-a-days they give up … economy, and are all for being liberal; …--(of all which the end is) death.
 
@@ -32,8 +28,10 @@ Laozi, Daodejing 67, trans. James Legge(1891)
 
 Laozi, Daodejing 67, trans. Frederic Balfour(1884)
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Clear evidence that the conduct shows this vice.</summary>
+<summary>Rajadatta - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -46,7 +44,7 @@ Forward: He lavished large sums on another person with no economy at all, ending
 </details>
 
 <details>
-<summary>the people — Neither direction is established by the described conduct.</summary>
+<summary>the people - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -59,7 +57,7 @@ The giving in the passage is the marquis's. The people show no liberality, lavis
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct resists this vice.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -72,7 +70,7 @@ Forward: Voluntary renunciation and gratitude are consistent with keeping econom
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct shows this vice.</summary>
+<summary>Mindyrides - Some evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -85,7 +83,7 @@ Forward: A bed of rose-leaves implies luxury and an abandonment of frugality. Ho
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct shows this vice.</summary>
+<summary>Apicius - Clear evidence that the conduct shows this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -98,7 +96,7 @@ Forward: He spent 'any amount needed', which is total abandonment of economy in 
 </details>
 
 <details>
-<summary>our minister Shaou — Some evidence that the conduct resists this vice.</summary>
+<summary>our minister Shaou - Some evidence that the conduct resists this vice.</summary>
 
 Selected act or disposition (quoted from the passage):
 He  would  order  his  measures  and  movements, As  more  valuable  than  gold  or  gem.
@@ -116,7 +114,7 @@ The text shows no lavish liberality. His restraint about the people's strength g
 
 </details>
 
-Limits: Generosity grounded in economy is praised, not faulted. The vice is liberality that has abandoned restraint.
+Generosity grounded in economy is praised, not faulted. The vice is liberality that has abandoned restraint.
 
 ## Economy
 
@@ -132,8 +130,10 @@ Laozi 67, trans. Balfour (1884)
 
 Restraint is valued as the basis of liberality; giving itself is not banned.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>Rajadatta — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Rajadatta - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 he once took 500 carts of merchandise to Rajagaha. Now there he squandered all his money, spending a thousand a day on a beautiful courtesan, so that he was penniless and had not enough to eat, and wandered about in wretchedness.
@@ -146,7 +146,7 @@ A thousand a day until penniless is the abandonment of economy Laozi warns ends 
 </details>
 
 <details>
-<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) — Neither direction is established by the described conduct.</summary>
+<summary>a person taking tea, coffee or cocoa in moderation (explicit generic consumption condition, not an observed drinker) - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 Of liquids, pure water is necessary to health, and infusions of herbs in it, such as tea, coffee and cocoa, taken in moderation, are harmless and often useful.
@@ -159,7 +159,7 @@ Moderation is a mild restraint compatible with economy, but Laozi 67 concerns fr
 </details>
 
 <details>
-<summary>Massimo Pigliucci — Some evidence that the conduct shows this virtue.</summary>
+<summary>Massimo Pigliucci - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 The ones I [Massimo Pigliucci] do regularly are: fasting for at least 24 hours, abstaining from drinking alcohol at least one day a week, taking occasional cold showers (or ending a regular shower on cold), and going out under-dressed when there are low temperatures outside.
@@ -172,7 +172,7 @@ Renouncing conveniences is restraint, loosely frugal; not chiefly economy of res
 </details>
 
 <details>
-<summary>Mindyrides — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>Mindyrides - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 complained that the sight made him weary, and forbade the man to work where he could see him. The same man complained that he had suffered from the rose-leaves upon which he lay being folded double.
@@ -185,7 +185,7 @@ Rose-leaf bedding signals luxury, the reverse of frugality, though no explicit s
 </details>
 
 <details>
-<summary>Apicius — Clear evidence that the conduct conflicts with this virtue.</summary>
+<summary>Apicius - Clear evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 After he spent one hundred million Roman sesterces \(an astronomically huge amount of money\) on his addiction to fine dining, he discovered that he had “only” ten million left. Afraid that he might die in “poverty” and without his extravagant meals, Apicius killed himself instead.
@@ -198,7 +198,7 @@ Spending a hundred million on meals abandons economy entirely; the treasure is s
 </details>
 
 <details>
-<summary>the people — Some evidence that the conduct shows this virtue.</summary>
+<summary>the people - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 the people did not covet more than their proper share.
@@ -210,7 +210,7 @@ Restraint in taking resembles economy, but the frugal measures in the passage ar
 
 </details>
 
-Limits: This is not an absolute ban on generosity. Economy is shown by restraint itself. Ch. 67 presents liberality as what economy enables, not as a precondition for recognising economy. Keeping or refusing to give is not automatically economy: the judgment must point to described restraint. Ch. 67 gives no verdict on withholding from the needy.
+This is not an absolute ban on generosity. Economy is shown by restraint itself. Ch. 67 presents liberality as what economy enables, not as a precondition for recognising economy. Keeping or refusing to give is not automatically economy: the judgment must point to described restraint. Ch. 67 gives no verdict on withholding from the needy.
 
 ## Gentleness (compassion, 慈)
 
@@ -226,8 +226,10 @@ Laozi 67, trans. Balfour (1884)
 
 Both translations make this quality the ground of boldness and firm defence, not of withdrawal from conflict.
 
+Each example gives a verbal approximation of this rubric's existing Opus judgment, with its original reason. Interpret the words by their meaning, not an option number. Use the current question's criteria for your answer. These examples show only this rubric's judgment; the evaluation story is not an example.
+
 <details>
-<summary>the man who was going to beat an ass-driver — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>the man who was going to beat an ass-driver - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 was going to beat an ass-driver, but when he [the ass-driver] cried out he was an Athenian, he [the man] said to the ass, "You are not an Athenian anyway," and beat it with many stripes.
@@ -240,7 +242,7 @@ His violence is anger-driven harshness, the opposite of the gentleness that Laoz
 </details>
 
 <details>
-<summary>King Wen — Neither direction is established by the described conduct.</summary>
+<summary>King Wen - Neither direction is established by the described conduct.</summary>
 
 Selected act or disposition (quoted from the passage):
 A clerk informed King Wen of this and was told to rebury it. ... King Wen said, "He who possesses the world is the host of the world. He who possesses a state is the host of the state. Now, am I not also the dead man's host?" He then commanded the clerk to rebury the skeleton in a shroud and coffin.
@@ -253,7 +255,7 @@ The act is gentle, but it involves no boldness or defence of the kind the chapte
 </details>
 
 <details>
-<summary>king Wan — Some evidence that the conduct shows this virtue.</summary>
+<summary>king Wan - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 He shared it with the people
@@ -270,7 +272,7 @@ His open, non-coercive rule contrasts with the punitive park, a mild showing of 
 </details>
 
 <details>
-<summary>the Lord — Some evidence that the conduct shows this virtue.</summary>
+<summary>the Lord - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 my footsteps out and in were always attended by a mindfulness so vigilant as to awake compassion within me over even a drop of water lest I might harm tiny creatures in crevices
@@ -283,7 +285,7 @@ Gentle care toward smallest beings fits 慈 as compassion, though Laozi 67 ties 
 </details>
 
 <details>
-<summary>The Camel — Some evidence that the conduct conflicts with this virtue.</summary>
+<summary>The Camel - Some evidence that the conduct conflicts with this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner
@@ -298,7 +300,7 @@ Laozi warns against boldness without gentleness; Camel's envious, forward displa
 </details>
 
 <details>
-<summary>Qi Xi — Some evidence that the conduct shows this virtue.</summary>
+<summary>Qi Xi - Some evidence that the conduct shows this virtue.</summary>
 
 Selected act or disposition (quoted from the passage):
 Qi Xi observed, "I was taught that when a petty man obtains a position, one will be unlucky if one does not oppose him and when a gentleman is in trouble, one will be unlucky if one does not help him?' ... Then he went to see Viscount Xuan of Fan and persuaded him as follows: "I was taught that those who are skilled at governing are neither excessive with rewards nor arbitrary with punishments. Rewards that are excessive he fears may be given to immoral persons, and punishments that are arbitrary he fears may be applied to gentlemen. Should one be so unfortunate as to err, it would be better to err by rewarding the immoral than by punishing gentlemen.
@@ -310,13 +312,11 @@ He goes boldly to a person in power out of care, and he argues for leniency over
 
 </details>
 
-Limits: Legge and Balfour render the term differently. This is not pacifism or permanent passivity, because the chapter praises victory and firm defence. The battle setting is not a requirement.
+Legge and Balfour render the term differently. This is not pacifism or permanent passivity, because the chapter praises victory and firm defence. The battle setting is not a requirement.
 
 ## Seeking only to be foremost
 
 Ch. 67's third contrary: giving up the hindmost place and seeking only to be foremost.
-
-Labels derive from `taoist|laozi_three_treasures|Shrinking from taking precedence of others`.
 
 > shrinking from taking precedence of others, I can become a vessel of the highest honour. Now-a-days they give up … the hindmost place, and seek only to be foremost;--(of all which the end is) death.
 
@@ -330,7 +330,7 @@ Laozi, Daodejing 67, trans. Frederic Balfour(1884)
 
 Laozi, Daodejing 66, trans. James Legge(1891)
 
-Limits: This is not a ban on leading. Being foremost is also not praised without condition.
+This is not a ban on leading. Being foremost is also not praised without condition.
 
 ## Shrinking from taking precedence of others
 
@@ -348,4 +348,4 @@ Laozi, Daodejing 67, trans. Frederic Balfour(1884)
 
 Laozi, Daodejing 66, trans. James Legge(1891)
 
-Limits: This is not a universal refusal to lead, since the ch. 66 ruler holds a place above and before others. Chs. 66–67 do not address someone who neglects responsibilities while claiming humility.
+This is not a universal refusal to lead, since the ch. 66 ruler holds a place above and before others. Chs. 66–67 do not address someone who neglects responsibilities while claiming humility.
