@@ -27,6 +27,8 @@ configs:
 
 How do models do on traditional morality? Can they recognise Christian humility when they see it? What about Stoic vs Taoist courage?
 
+[huggingface](https://huggingface.co/datasets/wassname/tiny-virtues) [github](https://github.com/wassname/tiny-virtues/)
+
 This dataset lets you test whether a model can judge the same act the way each tradition would. It could be extended to train models to hold traditional virtues, and to keep consistent moral principles even when their point of view changes. [This is why I made it](https://wassname.com/agenda-character.html).
 
 I went looking for traditional moral dilemmas in about 200 books, from the Stoic, Buddhist, Christian and other traditions, and quoted 5,869 of them from 121 books. Each story is scored against 80 virtues and vices from nine traditions. To label them I had a big model teach a small model, and checked that they could both tell apart subtle differences between virtues, for example Stoic and Taoist courage.
